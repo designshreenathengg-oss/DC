@@ -1,0 +1,2094 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <title>SHREE NATH ENGINEERING - Delivery Challan System</title>
+  <!-- Bootstrap 5 CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <!-- FontAwesome Icons -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
+  
+  <style>
+    :root {
+      --sticker-width: 105mm;
+      --sticker-height: 48mm;
+      --grid-gap: 0mm;
+      --margin-top: 0mm;
+      --margin-left: 0mm;
+      --qr-size: 39mm;
+    }
+
+    body { background-color: #f4f6f9; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; overflow-x: hidden; }
+    .sidebar { min-height: 100vh; background: #1e293b; color: #fff; }
+    .sidebar .nav-link { color: #94a3b8; font-weight: 500; margin-bottom: 0.2rem; }
+    .sidebar .nav-link:hover, .sidebar .nav-link.active { color: #fff; background: #334155; border-radius: 6px; }
+    .card { border: none; border-radius: 10px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); }
+    .status-badge { font-size: 0.8rem; padding: 0.35em 0.65em; border-radius: 50rem; }
+    #reader, #reader-supervisor { width: 100%; border-radius: 8px; overflow: hidden; }
+
+    .mobile-header { display: none; background: #1e293b; color: #fff; padding: 12px 16px; align-items: center; justify-content: space-between; }
+    
+    @media (max-width: 767.98px) {
+      .mobile-header { display: flex; }
+      .sidebar { min-height: auto; padding: 1rem !important; }
+      #sidebar-wrapper { display: none; }
+      #sidebar-wrapper.show-mobile { display: block; }
+      
+      input, select, textarea, button { font-size: 16px !important; }
+      .table-responsive { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+    }
+
+    .excel-template {
+      border: 2px solid #000;
+      padding: 12px;
+      background: #fff;
+      color: #000;
+      font-size: 11px;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      width: 100%;
+      max-width: 210mm;
+      height: 270mm;
+      margin: 0 auto;
+    }
+    .excel-header { 
+      border-bottom: 2px solid #000; 
+      margin-bottom: 8px; 
+      padding-bottom: 6px; 
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .excel-header-logo {
+      width: 80px;
+      height: auto;
+      max-height: 70px;
+      object-fit: contain;
+    }
+    .excel-header-text {
+      flex: 1;
+      text-align: center;
+      padding-right: 10px;
+    }
+    .excel-header h3 { font-weight: bold; margin: 0; font-size: 18px; text-transform: uppercase; }
+    .excel-header p { margin: 1px 0; font-size: 10px; }
+    .title-banner { 
+      border-top: 2px solid #000; 
+      border-bottom: 2px solid #000; 
+      text-align: center; 
+      font-weight: bold; 
+      padding: 4px 0; 
+      margin-bottom: 8px; 
+      background: #f0f0f0; 
+      font-size: 12px; 
+    }
+    .excel-meta-table { width: 100%; border-collapse: collapse; margin-bottom: 8px; table-layout: fixed; }
+    .excel-meta-table td { border: 1px solid #000; padding: 4px 5px; word-wrap: break-word; overflow: hidden; }
+    
+    .table-container {
+      flex: 1 1 auto;
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 8px;
+    }
+    .excel-items-table { 
+      width: 100%; 
+      height: 100%;
+      border-collapse: collapse; 
+      table-layout: fixed; 
+    }
+    .excel-items-table th, .excel-items-table td { 
+      border: 1px solid #000; 
+      padding: 2px 5px; 
+      word-wrap: break-word; 
+      overflow: hidden; 
+    }
+    .excel-items-table th { 
+      background-color: #f2f2f2; 
+      text-align: center; 
+      font-weight: bold; 
+      font-size: 10px; 
+      height: 25px;
+    }
+    .excel-items-table tbody tr {
+      height: calc((100% - 25px) / 15);
+    }
+
+    .excel-footer-section {
+      margin-top: auto;
+      padding-top: 10px;
+    }
+    .excel-sign-row { margin-top: 35px; text-align: center; font-weight: bold; font-size: 11px; }
+
+    .qrcodes-grid {
+      display: grid;
+      grid-template-columns: repeat(2, var(--sticker-width));
+      grid-auto-rows: var(--sticker-height);
+      gap: var(--grid-gap);
+      margin-top: var(--margin-top);
+      margin-left: var(--margin-left);
+      margin-right: auto;
+      width: auto;
+      box-sizing: border-box;
+    }
+    .label-card {
+      width: var(--sticker-width);
+      height: var(--sticker-height);
+      box-sizing: border-box;
+      padding: 3.5mm 4mm;
+      border: 1px dashed #bbb;
+      background: #fff;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      overflow: hidden;
+    }
+    .label-card .label-details {
+      text-align: left;
+      flex: 1;
+      padding-right: 5px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .label-card .label-desc { 
+      font-weight: 800; 
+      font-size: 13px; 
+      line-height: 1.25;
+      max-height: 2.5em;
+      overflow: hidden; 
+      text-overflow: ellipsis; 
+      color: #000;
+      margin-bottom: 3px;
+    }
+    .label-card .label-meta { 
+      font-size: 11.5px; 
+      line-height: 1.35; 
+      color: #111;
+      overflow: hidden; 
+      text-overflow: ellipsis; 
+      white-space: nowrap;
+    }
+    .label-card .qr-container {
+      width: var(--qr-size);
+      height: var(--qr-size);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+    .label-card .qr-container canvas, .label-card .qr-container img {
+      width: var(--qr-size) !important;
+      height: var(--qr-size) !important;
+    }
+
+    @media print {
+      @page {
+        size: A4 portrait;
+        margin: 0;
+      }
+
+      body * {
+        visibility: hidden !important;
+      }
+
+      html, body {
+        width: 210mm !important;
+        height: 297mm !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        background: #fff !important;
+        overflow: hidden !important;
+      }
+
+      body.mode-challan-only #printable-dc-section,
+      body.mode-challan-only #printable-dc-section * {
+        visibility: visible !important;
+      }
+
+      body.mode-challan-only #printable-dc-section {
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 5mm !important;
+        border: none !important;
+      }
+
+      body.mode-challan-only .excel-template {
+        width: 100% !important;
+        max-width: 100% !important;
+        height: 280mm !important;
+        border: 2px solid #000 !important;
+        padding: 5mm !important;
+        margin: 0 auto !important;
+        box-sizing: border-box !important;
+        page-break-after: avoid !important;
+        break-after: avoid !important;
+      }
+
+      body.mode-challan-only .screen-only {
+        display: none !important;
+      }
+
+      body.mode-qrcodes-only #printable-qrcodes-section,
+      body.mode-qrcodes-only #printable-qrcodes-section * {
+        visibility: visible !important;
+      }
+
+      body.mode-qrcodes-only #printable-qrcodes-section {
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 210mm !important;
+        height: 297mm !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border: none !important;
+      }
+
+      body.mode-qrcodes-only .screen-only {
+        display: none !important;
+      }
+
+      body.mode-qrcodes-only .qrcodes-grid {
+        display: grid !important;
+        grid-template-columns: repeat(2, var(--sticker-width)) !important;
+        grid-auto-rows: var(--sticker-height) !important;
+        gap: var(--grid-gap) !important;
+        margin-top: var(--margin-top) !important;
+        margin-left: var(--margin-left) !important;
+        box-sizing: border-box !important;
+      }
+
+      .label-card {
+        box-sizing: border-box !important;
+        width: var(--sticker-width) !important;
+        height: var(--sticker-height) !important;
+        padding: 3mm 4mm !important;
+        border: 0.5pt dashed #999 !important;
+        background: #fff !important;
+        break-inside: avoid !important;
+        page-break-inside: avoid !important;
+      }
+    }
+  </style>
+</head>
+<body class="mode-challan-only">
+
+<div class="mobile-header">
+  <div class="fw-bold"><i class="fa-solid fa-truck-fast me-2"></i>DC Flow</div>
+  <button class="btn btn-outline-light btn-sm" onclick="toggleMobileMenu()"><i class="fa-solid fa-bars"></i> Menu</button>
+</div>
+
+<div class="modal fade" id="loginModal" data-bs-backdrop="static" tabindex="-1">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header bg-dark text-white">
+        <h5 class="modal-title"><i class="fa-solid fa-lock me-2"></i>DC Flow Authorization</h5>
+      </div>
+      <div class="modal-body p-4">
+        <div class="mb-3">
+          <label class="form-label">Select User Role</label>
+          <select id="user-role-select" class="form-select">
+            <option value="admin">Administrator (Full Access)</option>
+            <option value="dispatch">Dispatch Officer</option>
+            <option value="receiver">Site Receiver Officer</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label class="form-label">Security PIN Code</label>
+          <input type="password" id="role-pin" class="form-control" placeholder="Enter PIN (Dispatch: 1111, Receiver: 2222)" />
+        </div>
+        <div id="login-error" class="text-danger small d-none mb-2">Invalid PIN code!</div>
+        <button class="btn btn-primary w-100" onclick="authenticateUser()">Log In</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid print-wrapper">
+  <div class="row">
+    <div class="col-md-3 col-lg-2 sidebar p-3" id="sidebar-wrapper">
+      <h4 class="text-white mb-4 d-none d-md-block"><i class="fa-solid fa-truck-fast me-2"></i>DC Flow</h4>
+      <div class="badge bg-info text-dark mb-3 w-100 py-2" id="user-role-badge">Role: Guest</div>
+      <nav class="nav flex-column">
+        <a class="nav-link active role-sec role-admin" href="#" onclick="showSection('dashboard')"><i class="fa-solid fa-chart-line me-2"></i>Dashboard</a>
+        <a class="nav-link role-sec role-admin" href="#" onclick="showSection('create-challan')"><i class="fa-solid fa-file-circle-plus me-2"></i>New / Edit Challan</a>
+        <a class="nav-link role-sec role-admin" href="#" onclick="showSection('print-challan')"><i class="fa-solid fa-print me-2"></i>Print Delivery Challan</a>
+        <a class="nav-link role-sec role-admin" href="#" onclick="showSection('print-qrcodes')"><i class="fa-solid fa-qrcode me-2"></i>Print QR Codes</a>
+        <a class="nav-link role-sec role-admin role-dispatch" href="#" onclick="showSection('dispatch')"><i class="fa-solid fa-boxes-packing me-2"></i>Dispatch Scan</a>
+        <a class="nav-link role-sec role-admin role-receiver" href="#" onclick="showSection('supervisor')"><i class="fa-solid fa-clipboard-check me-2"></i>Site Supervisor</a>
+        <a class="nav-link role-sec role-admin" href="#" onclick="showSection('reports')"><i class="fa-solid fa-clock-rotate-left me-2"></i>Audit Trail</a>
+        <a class="nav-link role-sec role-admin" href="#" onclick="showSection('settings')"><i class="fa-solid fa-gear me-2"></i>Settings</a>
+      </nav>
+      <button class="btn btn-outline-light btn-sm w-100 mt-4" onclick="logout()"><i class="fa-solid fa-right-from-bracket me-2"></i>Logout</button>
+    </div>
+
+    <div class="col-md-9 col-lg-10 ms-auto p-3 p-md-4">
+      
+      <!-- Top Bar with Real-Time Clock -->
+      <div class="alert alert-light border d-flex flex-wrap justify-content-between align-items-center p-2 mb-3 screen-only gap-2">
+        <span class="small text-muted"><i class="fa-solid fa-rotate me-1"></i>Cloud Sync Status: <strong id="sync-status">Checking...</strong></span>
+        <div class="d-flex align-items-center gap-3">
+          <div class="fw-bold text-dark small bg-white px-3 py-1 border rounded" id="live-clock-badge">
+            <i class="fa-regular fa-clock me-1 text-primary"></i><span id="live-clock">--</span>
+          </div>
+          <button class="btn btn-sm btn-outline-secondary" onclick="fetchCloudData()"><i class="fa-solid fa-arrows-rotate me-1"></i>Refresh Data</button>
+        </div>
+      </div>
+
+      <!-- 1. DASHBOARD -->
+      <div id="section-dashboard" class="content-section">
+        <h3 class="mb-4">Operations Dashboard</h3>
+
+        <div class="card p-3 mb-4">
+          <h5><i class="fa-solid fa-filter me-2"></i>Dashboard Selection & Filters</h5>
+          <div class="row g-3">
+            <div class="col-md-6">
+              <label class="form-label fw-bold">Select Customer</label>
+              <select id="dash-customer-select" class="form-select" onchange="handleDashCustomerSelect()">
+                <option value="">All Customers</option>
+              </select>
+            </div>
+            <div class="col-md-6">
+              <label class="form-label fw-bold">Select Address</label>
+              <select id="dash-address-select" class="form-select" onchange="renderDashboard()">
+                <option value="">All Addresses</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <div class="card p-3 mb-4 border-warning">
+          <h5 class="text-warning-emphasis"><i class="fa-solid fa-magnifying-glass me-2"></i>Search Missing Item</h5>
+          <div class="input-group">
+            <input type="text" id="dash-missing-item-search" class="form-control" placeholder="Type Item Code, QR ID, or Description..." onkeyup="searchMissingItem()" />
+            <button class="btn btn-warning" onclick="searchMissingItem()"><i class="fa-solid fa-search me-1"></i>Find Missing Item</button>
+          </div>
+          <div id="missing-item-results" class="mt-3" style="display: none;">
+            <h6>Search Results:</h6>
+            <div class="table-responsive">
+              <table class="table table-sm table-bordered bg-white" id="missing-items-table">
+                <thead class="table-dark">
+                  <tr>
+                    <th>QR / Item Code</th>
+                    <th>Challan #</th>
+                    <th>Customer</th>
+                    <th>Description</th>
+                    <th>Current Status</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="row g-3 mb-4">
+          <div class="col-md-3">
+            <div class="card p-3 bg-primary text-white">
+              <h6>Total Challans</h6>
+              <h2 id="dash-total-challans">0</h2>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="card p-3 bg-warning text-dark">
+              <h6>In-Transit Units</h6>
+              <h2 id="dash-intransit-units">0</h2>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="card p-3 bg-success text-white">
+              <h6>Delivered Units</h6>
+              <h2 id="dash-delivered-units">0</h2>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="card p-3 bg-danger text-white">
+              <h6>Pending Site Confirms</h6>
+              <h2 id="dash-pending-units">0</h2>
+            </div>
+          </div>
+        </div>
+
+        <div class="card p-3">
+          <h5>All Generated Delivery Challans</h5>
+          <div class="table-responsive">
+            <table class="table table-hover align-middle" id="challan-summary-table">
+              <thead>
+                <tr>
+                  <th>Challan #</th>
+                  <th>Customer</th>
+                  <th>PO Number</th>
+                  <th>Total Units</th>
+                  <th>Status</th>
+                  <th>Actions</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!-- 2. CREATE / EDIT CHALLAN -->
+      <div id="section-create-challan" class="content-section d-none">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+          <h3 id="form-title-text">Create Delivery Challan</h3>
+          <button class="btn btn-outline-secondary btn-sm" onclick="resetDcForm()"><i class="fa-solid fa-plus me-1"></i>New Blank Form</button>
+        </div>
+
+        <div class="card p-4 mb-4">
+          <h5 class="border-bottom pb-2 mb-3"><i class="fa-solid fa-file-invoice me-2"></i>Header Details</h5>
+          <div class="row g-3 mb-3">
+            <div class="col-md-3">
+              <label class="form-label fw-bold">Challan #</label>
+              <input type="text" id="new-dc-no" class="form-control bg-light fw-bold text-primary" readonly />
+            </div>
+            <div class="col-md-3">
+              <label class="form-label">Challan Date</label>
+              <input type="date" id="new-dc-date" class="form-control" />
+            </div>
+            <div class="col-md-3">
+              <label class="form-label">PO Number</label>
+              <input type="text" id="new-po-no" class="form-control" placeholder="PO-10020" />
+            </div>
+            <div class="col-md-3">
+              <label class="form-label">PO Date</label>
+              <input type="date" id="new-po-date" class="form-control" />
+            </div>
+            <div class="col-md-4">
+              <label class="form-label">Customer Name</label>
+              <select id="customer-select" class="form-select" onchange="handleCustomerSelect()">
+                <option value="">Select Customer...</option>
+                <option value="__NEW__">+ Add New Customer</option>
+                <option value="__DELETE__" class="text-danger fw-bold">🗑 Delete Selected Customer</option>
+              </select>
+            </div>
+            <div class="col-md-4" id="new-customer-box" style="display: none;">
+              <label class="form-label">New Customer Name</label>
+              <input type="text" id="new-customer-name" class="form-control" placeholder="Enter Company Name" />
+            </div>
+            <div class="col-md-4">
+              <label class="form-label">Project Name</label>
+              <input type="text" id="new-project-name" class="form-control" placeholder="e.g. Site Expansion" />
+            </div>
+            <div class="col-md-4">
+              <label class="form-label">Vehicle No.</label>
+              <input type="text" id="new-vehicle-no" class="form-control" placeholder="MH-15-AB-1234" />
+            </div>
+            <div class="col-md-12">
+              <label class="form-label">Delivery Address</label>
+              <select id="address-select" class="form-select mb-2" onchange="handleAddressSelect()">
+                <option value="">Select Address...</option>
+              </select>
+              <textarea id="delivery-address-text" class="form-control" rows="2" placeholder="Full Address"></textarea>
+            </div>
+          </div>
+
+          <div class="d-flex justify-content-between align-items-center border-bottom pb-2 mb-3 mt-2">
+            <h5 class="m-0"><i class="fa-solid fa-list me-2"></i>Line Items (Max 15 Entries)</h5>
+            <span class="badge bg-secondary" id="entry-count-badge">Entries: 0 / 15</span>
+          </div>
+
+          <div class="table-responsive mb-3">
+            <table class="table table-bordered align-middle" id="items-table">
+              <thead class="table-light">
+                <tr>
+                  <th style="width: 60px;">Sr#</th>
+                  <th style="width: 140px;">Item Code</th>
+                  <th>Description</th>
+                  <th style="width: 100px;">Qty</th>
+                  <th style="width: 100px;">Unit</th>
+                  <th>Remark</th>
+                  <th style="width: 60px;">Action</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <div class="d-flex gap-2">
+            <button class="btn btn-outline-secondary" id="add-item-btn" onclick="addDcItemRow()"><i class="fa-solid fa-plus me-2"></i>Add Line Item</button>
+            <button class="btn btn-primary" onclick="generateDeliveryChallan()"><i class="fa-solid fa-floppy-disk me-2"></i>Save Delivery Challan</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- 3. PRINT DELIVERY CHALLAN -->
+      <div id="section-print-challan" class="content-section d-none">
+        <h3 class="mb-4 screen-only"><i class="fa-solid fa-print me-2"></i>Print Delivery Challan</h3>
+        
+        <div class="card p-3 mb-4 screen-only">
+          <div class="row g-3 align-items-end">
+            <div class="col-md-6">
+              <label class="form-label fw-bold">Select Delivery Challan</label>
+              <select id="print-dc-select" class="form-select" onchange="loadChallanForPrint()">
+                <option value="">Choose a Delivery Challan...</option>
+              </select>
+            </div>
+            <div class="col-md-6 d-flex gap-2">
+              <button class="btn btn-dark flex-grow-1" onclick="triggerDcPrint('ORIGINAL (FOR CONSIGNEE)')"><i class="fa-solid fa-print me-1"></i>Print Original</button>
+              <button class="btn btn-outline-dark flex-grow-1" onclick="triggerDcPrint('DUPLICATE (FOR TRANSPORTER)')"><i class="fa-solid fa-print me-1"></i>Duplicate</button>
+              <button class="btn btn-outline-dark flex-grow-1" onclick="triggerDcPrint('TRIPLICATE (FOR SUPPLIER)')"><i class="fa-solid fa-print me-1"></i>Triplicate</button>
+            </div>
+          </div>
+        </div>
+
+        <div id="printable-dc-section" class="card p-4">
+          <div class="excel-template">
+            <div>
+              <div class="excel-header">
+                <img src="LOGO.png" alt="Logo" class="excel-header-logo" onerror="this.style.display='none'" />
+                <div class="excel-header-text">
+                  <h3>SHREE NATH ENGINEERING</h3>
+                  <p><strong>OFFICE:</strong> A-17 Shop No. B-S/3, Udyog Swamini Prerana Sankul, MIDC, Ambad, Nashik 422010 | <strong>Phone:</strong> 0253-6625104 / 9225119124</p>
+                  <p><strong>FACTORY:</strong> Survey No. 12/3, Vilholi Shiwar MIDC, Vilholi, Nashik 422010</p>
+                  <p><strong>Deals in:</strong> All Sheet Metal, Air Ducting, Fabrication, SPM, Conveyor, SS & MS, Hot / Cold Water Piping</p>
+                </div>
+              </div>
+              
+              <div class="title-banner">
+                DELIVERY CHALLAN / RETURNABLE <span id="dc-copy-type" class="ms-2 text-uppercase fw-bold">(ORIGINAL)</span>
+              </div>
+
+              <table class="excel-meta-table">
+                <tr>
+                  <td style="width: 55%;"><strong>GST No:</strong> 27AVLPS2072G1ZB</td>
+                  <td style="width: 45%;"><strong>CHALLAN NO:</strong> <span id="dc-view-no" class="fw-bold"></span></td>
+                </tr>
+                <tr>
+                  <td><strong>CUSTOMER NAME:</strong> <span id="dc-view-customer"></span></td>
+                  <td><strong>DATE:</strong> <span id="dc-view-date"></span></td>
+                </tr>
+                <tr>
+                  <td rowspan="2"><strong>ADDRESS:</strong> <span id="dc-view-address"></span></td>
+                  <td><strong>PO NO:</strong> <span id="dc-view-po-no"></span></td>
+                </tr>
+                <tr>
+                  <td><strong>PO DATE:</strong> <span id="dc-view-po-date"></span></td>
+                </tr>
+                <tr>
+                  <td><strong>PROJECT NAME:</strong> <span id="dc-view-project"></span></td>
+                  <td><strong>VEHICLE NO:</strong> <span id="dc-view-vehicle"></span></td>
+                </tr>
+              </table>
+            </div>
+
+            <div class="table-container">
+              <table class="excel-items-table">
+                <thead>
+                  <tr>
+                    <th style="width: 6%;">Sr. No.</th>
+                    <th style="width: 18%;">Item Code</th>
+                    <th style="width: 45%;">DESCRIPTION</th>
+                    <th style="width: 9%;">Qty</th>
+                    <th style="width: 9%;">Unit</th>
+                    <th style="width: 13%;">Remark</th>
+                  </tr>
+                </thead>
+                <tbody id="dc-view-items-body"></tbody>
+              </table>
+            </div>
+
+            <div class="excel-footer-section">
+              <div class="text-end fw-bold mb-4">For SHREE NATH ENGINEERING</div>
+
+              <div class="row excel-sign-row">
+                <div class="col-4">Received By</div>
+                <div class="col-4">Vehicle No.& Sign.</div>
+                <div class="col-4">Authorised Signatory</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 4. PRINT QR CODES -->
+      <div id="section-print-qrcodes" class="content-section d-none">
+        <h3 class="mb-4 screen-only"><i class="fa-solid fa-qrcode me-2"></i>Print QR Code Labels</h3>
+
+        <div class="card p-3 mb-4 screen-only">
+          <div class="row g-3 align-items-end mb-3">
+            <div class="col-md-6">
+              <label class="form-label fw-bold">Select Delivery Challan for QR Code Generation</label>
+              <select id="qrcode-dc-select" class="form-select" onchange="loadQRCodesForPrint()">
+                <option value="">Choose a Delivery Challan...</option>
+              </select>
+            </div>
+            <div class="col-md-3">
+              <button class="btn btn-outline-secondary w-100" type="button" data-bs-toggle="collapse" data-bs-target="#layout-controls">
+                <i class="fa-solid fa-sliders me-2"></i>Edit Layout Option
+              </button>
+            </div>
+            <div class="col-md-3">
+              <button class="btn btn-primary w-100" onclick="triggerQRCodePrint()"><i class="fa-solid fa-print me-2"></i>Print Sheet</button>
+            </div>
+          </div>
+
+          <div class="collapse border-top pt-3 mt-2" id="layout-controls">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+              <h6 class="fw-bold m-0"><i class="fa-solid fa-ruler-combined me-2"></i>Manual Layout & Size Adjustments</h6>
+              <span id="save-cfg-msg" class="text-success small fw-bold d-none"><i class="fa-solid fa-check-circle me-1"></i>Configuration Saved!</span>
+            </div>
+            <div class="row g-3">
+              <div class="col-md-3">
+                <label class="form-label small fw-bold">Sticker Width (mm)</label>
+                <input type="number" id="cfg-width" class="form-control form-control-sm" value="105" oninput="updatePrintLayout()" />
+              </div>
+              <div class="col-md-3">
+                <label class="form-label small fw-bold">Sticker Height (mm)</label>
+                <input type="number" id="cfg-height" class="form-control form-control-sm" value="48" oninput="updatePrintLayout()" />
+              </div>
+              <div class="col-md-3">
+                <label class="form-label small fw-bold">QR Image Size (mm)</label>
+                <input type="number" id="cfg-qr-size" class="form-control form-control-sm" value="39" oninput="updatePrintLayout()" />
+              </div>
+              <div class="col-md-3">
+                <label class="form-label small fw-bold">Grid Gap (mm)</label>
+                <input type="number" id="cfg-gap" class="form-control form-control-sm" value="0" oninput="updatePrintLayout()" />
+              </div>
+              <div class="col-md-3">
+                <label class="form-label small fw-bold">Top Margin Offset (mm)</label>
+                <input type="number" id="cfg-margin-top" class="form-control form-control-sm" value="0" oninput="updatePrintLayout()" />
+              </div>
+              <div class="col-md-3">
+                <label class="form-label small fw-bold">Left Margin Offset (mm)</label>
+                <input type="number" id="cfg-margin-left" class="form-control form-control-sm" value="0" oninput="updatePrintLayout()" />
+              </div>
+              <div class="col-md-3 d-flex align-items-end">
+                <button class="btn btn-sm btn-success w-100 fw-bold" onclick="saveLayoutConfig()"><i class="fa-solid fa-floppy-disk me-1"></i>Save Configuration</button>
+              </div>
+              <div class="col-md-3 d-flex align-items-end">
+                <button class="btn btn-sm btn-outline-danger w-100" onclick="resetLayoutDefaults()"><i class="fa-solid fa-rotate-left me-1"></i>Reset Defaults</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div id="printable-qrcodes-section">
+          <div id="printable-qrcodes" class="qrcodes-grid"></div>
+        </div>
+      </div>
+
+      <!-- 5. DISPATCH SCANNER -->
+      <div id="section-dispatch" class="content-section d-none">
+        <h3 class="mb-4">Dispatch Officer Operations</h3>
+        <div class="row">
+          <div class="col-md-5 mb-3">
+            <div class="card p-3 mb-3">
+              <h5>Dispatch Details</h5>
+              <div class="mb-2">
+                <label class="form-label">Delivery Challan Number (Generated List Only)</label>
+                <select id="dispatch-dc-select" class="form-select" onchange="loadDispatchData()"></select>
+              </div>
+              <div class="mb-3">
+                <label class="form-label">Dispatch Officer Name</label>
+                <input type="text" id="dispatch-officer-name" class="form-control" placeholder="Officer Name" />
+              </div>
+              <button class="btn btn-success w-100 mb-2" onclick="startScanner('dispatch')"><i class="fa-solid fa-camera me-2"></i>Start Camera Scanner</button>
+              <button class="btn btn-secondary w-100 mb-3" onclick="stopScanner()"><i class="fa-solid fa-camera-rotate me-2"></i>Stop Camera</button>
+              <div id="reader"></div>
+            </div>
+
+            <div class="card p-3 mb-3">
+              <h6><i class="fa-solid fa-keyboard me-2"></i>Manual QR Code Entry</h6>
+              <div class="input-group">
+                <input type="text" id="manual-qrcode-input" class="form-control" placeholder="Scan/Type QR Code ID..." />
+                <button class="btn btn-primary" onclick="handleManualDispatchScan()">Scan</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-7">
+            <div class="card p-3 mb-3">
+              <div class="d-flex justify-content-between align-items-center mb-2">
+                <h5>Dispatch Scan Summary</h5>
+                <span class="badge bg-info text-dark" id="dispatch-count">0 / 0 Scanned</span>
+              </div>
+              <div class="table-responsive">
+                <table class="table table-sm align-middle" id="dispatch-items-table">
+                  <thead>
+                    <tr>
+                      <th>QR Code ID</th>
+                      <th>Item Description</th>
+                      <th>Status</th>
+                    </tr>
+                  </thead>
+                  <tbody></tbody>
+                </table>
+              </div>
+            </div>
+
+            <div class="card p-3">
+              <button class="btn btn-primary w-100 btn-lg" id="confirm-dispatch-btn" onclick="confirmDispatch()" disabled>
+                <i class="fa-solid fa-truck-dispatch me-2"></i>Confirm Dispatch
+              </button>
+              <small class="text-danger d-block mt-2 text-center" id="dispatch-lock-msg">All items must be scanned before dispatch confirmation.</small>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 6. SITE SUPERVISOR -->
+      <div id="section-supervisor" class="content-section d-none">
+        <h3 class="mb-4">Site Supervisor Receipt Verification</h3>
+        <div class="row">
+          <div class="col-md-5 mb-3">
+            <div class="card p-3 mb-3">
+              <h5>Verification & Acceptance</h5>
+              <div class="mb-2">
+                <label class="form-label">In-Transit Delivery Challan</label>
+                <select id="supervisor-dc-select" class="form-select" onchange="loadSupervisorData()"></select>
+              </div>
+              <div class="mb-3">
+                <label class="form-label">Receiver Name</label>
+                <input type="text" id="supervisor-name" class="form-control" placeholder="Receiver Name" />
+              </div>
+              <button class="btn btn-success w-100 mb-2" onclick="startScanner('supervisor')"><i class="fa-solid fa-camera me-2"></i>Start Camera Scanner</button>
+              <button class="btn btn-secondary w-100 mb-3" onclick="stopScanner()"><i class="fa-solid fa-camera-rotate me-2"></i>Stop Camera</button>
+              <div id="reader-supervisor"></div>
+            </div>
+
+            <div class="card p-3 mb-3">
+              <h6><i class="fa-solid fa-keyboard me-2"></i>Manual QR Code Entry</h6>
+              <div class="input-group">
+                <input type="text" id="manual-supervisor-qrcode-input" class="form-control" placeholder="Type QR Code ID..." />
+                <button class="btn btn-primary" onclick="handleManualSupervisorScan()">Confirm Item</button>
+              </div>
+            </div>
+
+            <div class="card p-3">
+              <button class="btn btn-primary w-100 btn-lg" id="accept-delivery-btn" onclick="acceptDelivery()" disabled>
+                <i class="fa-solid fa-check-double me-2"></i>Accept Delivery
+              </button>
+              <small class="text-danger d-block mt-2 text-center" id="acceptance-lock-msg">All items must be scanned before acceptance.</small>
+            </div>
+          </div>
+
+          <div class="col-md-7">
+            <div class="card p-3">
+              <div class="d-flex justify-content-between align-items-center mb-2">
+                <h5>Site Verification Items</h5>
+                <span class="badge bg-warning text-dark" id="supervisor-count">Confirmed: 0 / 0</span>
+              </div>
+              <div class="table-responsive">
+                <table class="table table-sm align-middle" id="supervisor-items-table">
+                  <thead>
+                    <tr>
+                      <th>QR Code ID</th>
+                      <th>Item</th>
+                      <th>Site Status</th>
+                      <th>Action</th>
+                    </tr>
+                  </thead>
+                  <tbody></tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 7. AUDIT TRAIL LOGS -->
+      <div id="section-reports" class="content-section d-none">
+        <h3 class="mb-4">Audit Trail Logs & History</h3>
+        <div class="card p-3 mb-4">
+          <h5>Filter Options</h5>
+          <div class="row g-3">
+            <div class="col-md-4">
+              <label class="form-label">Select Delivery Challan</label>
+              <select id="audit-dc-select" class="form-select" onchange="renderAuditTrail()">
+                <option value="">All Delivery Challans</option>
+              </select>
+            </div>
+            <div class="col-md-4">
+              <label class="form-label">Customer Name</label>
+              <select id="audit-customer-select" class="form-select" onchange="renderAuditTrail()">
+                <option value="">All Customers</option>
+              </select>
+            </div>
+            <div class="col-md-4">
+              <label class="form-label">Delivery Address</label>
+              <select id="audit-address-select" class="form-select" onchange="renderAuditTrail()">
+                <option value="">All Addresses</option>
+              </select>
+            </div>
+          </div>
+        </div>
+
+        <div class="card p-3">
+          <div class="d-flex flex-column flex-md-row justify-content-between align-items-center gap-2 mb-3">
+            <input type="text" class="form-control w-100 w-md-50" id="audit-search" placeholder="Search QR code, actor, device info or action..." onkeyup="renderAuditTrail()" />
+            <div class="d-flex gap-2 w-100 w-md-auto">
+              <button class="btn btn-outline-danger flex-grow-1" onclick="deleteAllLogs()"><i class="fa-solid fa-trash-can me-2"></i>Delete All Logs</button>
+              <button class="btn btn-outline-success flex-grow-1" onclick="exportAuditCSV()"><i class="fa-solid fa-file-csv me-2"></i>Export CSV</button>
+            </div>
+          </div>
+          <div class="table-responsive">
+            <table class="table table-striped table-sm" id="audit-table">
+              <thead>
+                <tr>
+                  <th>Timestamp</th>
+                  <th>Challan #</th>
+                  <th>QR Code ID</th>
+                  <th>Action Event</th>
+                  <th>Actor / User</th>
+                  <th>Dispatch Person</th>
+                  <th>Device / OS Details</th>
+                  <th>Details</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+
+      <!-- 8. SETTINGS -->
+      <div id="section-settings" class="content-section d-none">
+        <h3 class="mb-4">System Settings</h3>
+        
+        <!-- Admin Password Security Settings -->
+        <div class="card p-4 mb-4">
+          <h5><i class="fa-solid fa-shield-halved me-2 text-primary"></i>Security - Change Admin PIN Code</h5>
+          <p class="text-muted small">Update your Security Access PIN code for Administrator login access.</p>
+          <div class="row g-3" style="max-width: 500px;">
+            <div class="col-12">
+              <label class="form-label fw-bold small">Current Admin PIN Code</label>
+              <input type="password" id="cfg-curr-pin" class="form-control" placeholder="Enter current PIN" />
+            </div>
+            <div class="col-12">
+              <label class="form-label fw-bold small">New Admin PIN Code</label>
+              <input type="password" id="cfg-new-pin" class="form-control" placeholder="Enter new numeric PIN" />
+            </div>
+            <div class="col-12">
+              <label class="form-label fw-bold small">Confirm New PIN Code</label>
+              <input type="password" id="cfg-confirm-pin" class="form-control" placeholder="Re-enter new PIN" />
+            </div>
+            <div class="col-12">
+              <button class="btn btn-dark w-100" onclick="changeAdminPin()"><i class="fa-solid fa-key me-2"></i>Update Admin PIN</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="card p-4">
+          <h5>Google Apps Script Web App Endpoint</h5>
+          <p class="text-muted">Enter deployed Google Apps Script URL to sync data across mobile devices.</p>
+          <div class="mb-3">
+            <input type="text" id="gas-url" class="form-control" placeholder="https://script.google.com/macros/s/.../exec" />
+          </div>
+          <button class="btn btn-primary" onclick="saveSettings()">Save & Sync Settings</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- JavaScript Libraries -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<script src="https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js"></script>
+
+<script>
+  let db = { challans: {}, qrcodes: {}, audit: [], customers: {} };
+  let html5QrCode = null;
+  let currentScanRole = null;
+  let currentUserRole = null;
+  let editingDcNo = null;
+  let selectedCustomerForDelete = null;
+
+  const MAX_ENTRIES = 15;
+  const MONTH_NAMES = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+  
+  let PINS = { admin: '9999', dispatch: '1111', receiver: '2222' };
+
+  /* FORMAT DATE HELPER: Converts ISO Date/String into dd-MMMM-yyyy format (e.g., 02-October-2026) */
+  function formatDateDisplay(dateStr) {
+    if (!dateStr) return '-';
+    let d = new Date(dateStr);
+    if (isNaN(d.getTime())) return dateStr;
+    const day = String(d.getDate()).padStart(2, '0');
+    const month = MONTH_NAMES[d.getMonth()];
+    const year = d.getFullYear();
+    return `${day}-${month}-${year}`;
+  }
+
+  /* REAL-TIME DASHBOARD CLOCK */
+  function startDashboardClock() {
+    function updateClock() {
+      const now = new Date();
+      const day = String(now.getDate()).padStart(2, '0');
+      const month = MONTH_NAMES[now.getMonth()];
+      const year = now.getFullYear();
+      const hours = String(now.getHours()).padStart(2, '0');
+      const minutes = String(now.getMinutes()).padStart(2, '0');
+      const seconds = String(now.getSeconds()).padStart(2, '0');
+      const clockEl = document.getElementById('live-clock');
+      if (clockEl) {
+        clockEl.innerText = `${day}-${month}-${year} ${hours}:${minutes}:${seconds}`;
+      }
+    }
+    updateClock();
+    setInterval(updateClock, 1000);
+  }
+
+  function loadSavedPins() {
+    const savedPin = localStorage.getItem('DC_FLOW_ADMIN_PIN');
+    if (savedPin) PINS.admin = savedPin;
+  }
+
+  function changeAdminPin() {
+    const currPin = document.getElementById('cfg-curr-pin').value;
+    const newPin = document.getElementById('cfg-new-pin').value.trim();
+    const confirmPin = document.getElementById('cfg-confirm-pin').value.trim();
+
+    if (currPin !== PINS.admin) {
+      alert("Current Admin PIN is incorrect!");
+      return;
+    }
+    if (!newPin || newPin.length < 4) {
+      alert("New PIN must be at least 4 digits/characters long.");
+      return;
+    }
+    if (newPin !== confirmPin) {
+      alert("New PIN and Confirm PIN do not match!");
+      return;
+    }
+
+    PINS.admin = newPin;
+    localStorage.setItem('DC_FLOW_ADMIN_PIN', newPin);
+    
+    document.getElementById('cfg-curr-pin').value = '';
+    document.getElementById('cfg-new-pin').value = '';
+    document.getElementById('cfg-confirm-pin').value = '';
+
+    logAudit('SYSTEM', 'SECURITY', 'ADMIN PIN CHANGED', currentUserRole || 'Admin', 'Admin PIN Code changed successfully.', '-');
+    saveData();
+    alert("Admin PIN Code updated successfully!");
+  }
+
+  function loadSavedLayoutConfig() {
+    const savedConfig = localStorage.getItem('DC_FLOW_LAYOUT_CFG');
+    if (savedConfig) {
+      try {
+        const cfg = JSON.parse(savedConfig);
+        document.getElementById('cfg-width').value = cfg.width || 105;
+        document.getElementById('cfg-height').value = cfg.height || 48;
+        document.getElementById('cfg-qr-size').value = cfg.qrSize || 39;
+        document.getElementById('cfg-gap').value = cfg.gap || 0;
+        document.getElementById('cfg-margin-top').value = cfg.marginTop || 0;
+        document.getElementById('cfg-margin-left').value = cfg.marginLeft || 0;
+      } catch (e) {
+        console.error("Error reading saved layout config", e);
+      }
+    }
+    updatePrintLayout();
+  }
+
+  function saveLayoutConfig() {
+    const cfg = {
+      width: document.getElementById('cfg-width').value || 105,
+      height: document.getElementById('cfg-height').value || 48,
+      qrSize: document.getElementById('cfg-qr-size').value || 39,
+      gap: document.getElementById('cfg-gap').value || 0,
+      marginTop: document.getElementById('cfg-margin-top').value || 0,
+      marginLeft: document.getElementById('cfg-margin-left').value || 0
+    };
+    localStorage.setItem('DC_FLOW_LAYOUT_CFG', JSON.stringify(cfg));
+    updatePrintLayout();
+
+    const msgEl = document.getElementById('save-cfg-msg');
+    if (msgEl) {
+      msgEl.classList.remove('d-none');
+      setTimeout(() => msgEl.classList.add('d-none'), 3000);
+    }
+  }
+
+  function updatePrintLayout() {
+    const width = document.getElementById('cfg-width').value || 105;
+    const height = document.getElementById('cfg-height').value || 48;
+    const qrSize = document.getElementById('cfg-qr-size').value || 39;
+    const gap = document.getElementById('cfg-gap').value || 0;
+    const marginTop = document.getElementById('cfg-margin-top').value || 0;
+    const marginLeft = document.getElementById('cfg-margin-left').value || 0;
+
+    const root = document.documentElement;
+    root.style.setProperty('--sticker-width', width + 'mm');
+    root.style.setProperty('--sticker-height', height + 'mm');
+    root.style.setProperty('--qr-size', qrSize + 'mm');
+    root.style.setProperty('--grid-gap', gap + 'mm');
+    root.style.setProperty('--margin-top', marginTop + 'mm');
+    root.style.setProperty('--margin-left', marginLeft + 'mm');
+
+    loadQRCodesForPrint();
+  }
+
+  function resetLayoutDefaults() {
+    document.getElementById('cfg-width').value = 105;
+    document.getElementById('cfg-height').value = 48;
+    document.getElementById('cfg-qr-size').value = 39;
+    document.getElementById('cfg-gap').value = 0;
+    document.getElementById('cfg-margin-top').value = 0;
+    document.getElementById('cfg-margin-left').value = 0;
+    localStorage.removeItem('DC_FLOW_LAYOUT_CFG');
+    updatePrintLayout();
+  }
+
+  function toggleMobileMenu() {
+    const sidebar = document.getElementById('sidebar-wrapper');
+    sidebar.classList.toggle('show-mobile');
+  }
+
+  function getDeviceDetails() {
+    const ua = navigator.userAgent;
+    let deviceType = "Desktop";
+    if (/iPhone|iPad|iPod/i.test(ua)) deviceType = "iPhone/iOS";
+    else if (/Android/i.test(ua)) deviceType = "Android Mobile";
+    else if (/Mobile|Tablet/i.test(ua)) deviceType = "Mobile Device";
+
+    let platform = navigator.platform || 'Unknown OS';
+    return `${deviceType} (${platform})`;
+  }
+
+  function authenticateUser() {
+    const role = document.getElementById('user-role-select').value;
+    const pin = document.getElementById('role-pin').value;
+    const errorEl = document.getElementById('login-error');
+
+    if (PINS[role] === pin) {
+      currentUserRole = role;
+      errorEl.classList.add('d-none');
+      const loginModal = bootstrap.Modal.getInstance(document.getElementById('loginModal'));
+      loginModal.hide();
+      
+      document.getElementById('user-role-badge').innerText = 'Role: ' + role.toUpperCase();
+      applySecurityPermissions();
+    } else {
+      errorEl.classList.remove('d-none');
+    }
+  }
+
+  function applySecurityPermissions() {
+    document.querySelectorAll('.role-sec').forEach(el => el.classList.add('d-none'));
+    if (currentUserRole === 'admin') {
+      document.querySelectorAll('.role-admin').forEach(el => el.classList.remove('d-none'));
+      showSection('dashboard');
+    } else if (currentUserRole === 'dispatch') {
+      document.querySelectorAll('.role-dispatch').forEach(el => el.classList.remove('d-none'));
+      showSection('dispatch');
+    } else if (currentUserRole === 'receiver') {
+      document.querySelectorAll('.role-receiver').forEach(el => el.classList.remove('d-none'));
+      showSection('supervisor');
+    }
+  }
+
+  function logout() {
+    currentUserRole = null;
+    const modal = new bootstrap.Modal(document.getElementById('loginModal'));
+    modal.show();
+  }
+
+  function getGasUrl() {
+    return localStorage.getItem('DC_FLOW_GAS_URL') || '';
+  }
+
+  function fetchCloudData() {
+    const url = getGasUrl();
+    const statusEl = document.getElementById('sync-status');
+    if (!url) {
+      statusEl.className = 'text-warning';
+      statusEl.innerText = 'Offline Mode';
+      loadLocalDb();
+      return;
+    }
+
+    statusEl.className = 'text-info';
+    statusEl.innerText = 'Syncing...';
+    const script = document.createElement('script');
+    const callbackName = 'gasCallback_' + Date.now();
+
+    window[callbackName] = function(cloudDb) {
+      delete window[callbackName];
+      if (script.parentNode) script.parentNode.removeChild(script);
+
+      if (cloudDb && cloudDb.challans) {
+        db = cloudDb;
+        if(!db.customers) db.customers = {};
+        if(!db.qrcodes) db.qrcodes = db.barcodes || {};
+        localStorage.setItem('DC_FLOW_DB', JSON.stringify(db));
+        statusEl.className = 'text-success';
+        statusEl.innerText = 'Synced with Cloud';
+        initAppView();
+      }
+    };
+
+    script.onerror = function() {
+      delete window[callbackName];
+      if (script.parentNode) script.parentNode.removeChild(script);
+      statusEl.className = 'text-danger';
+      statusEl.innerText = 'Sync Failed (Local Copy Loaded)';
+      loadLocalDb();
+    };
+
+    script.src = `${url}?action=getDb&callback=${callbackName}`;
+    document.body.appendChild(script);
+  }
+
+  function loadLocalDb() {
+    db = JSON.parse(localStorage.getItem('DC_FLOW_DB')) || { challans: {}, qrcodes: {}, audit: [], customers: {} };
+    if(!db.customers) db.customers = {};
+    if(!db.qrcodes) db.qrcodes = db.barcodes || {};
+    initAppView();
+  }
+
+  function saveData() {
+    localStorage.setItem('DC_FLOW_DB', JSON.stringify(db));
+    renderDashboard();
+
+    const url = getGasUrl();
+    if (url) {
+      const statusEl = document.getElementById('sync-status');
+      statusEl.className = 'text-info';
+      statusEl.innerText = 'Saving...';
+
+      const payload = encodeURIComponent(JSON.stringify({ action: 'syncDb', db: db }));
+      fetch(url, {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        body: 'payload=' + payload
+      }).then(() => {
+        statusEl.className = 'text-success';
+        statusEl.innerText = 'Synced with Cloud';
+      }).catch(() => {
+        statusEl.className = 'text-danger';
+        statusEl.innerText = 'Cloud Sync Failed';
+      });
+    }
+  }
+
+  function initAppView() {
+    populateDashFilters();
+    renderDashboard();
+    setupNewChallanForm();
+  }
+
+  function showSection(id) {
+    document.querySelectorAll('.content-section').forEach(el => el.classList.add('d-none'));
+    document.getElementById('section-' + id).classList.remove('d-none');
+    stopScanner();
+
+    document.getElementById('sidebar-wrapper').classList.remove('show-mobile');
+
+    if(id === 'dashboard') {
+      populateDashFilters();
+      renderDashboard();
+    }
+    if(id === 'create-challan' && !editingDcNo) setupNewChallanForm();
+    if(id === 'print-challan') populatePrintChallanSelect();
+    if(id === 'print-qrcodes') populatePrintQRCodeSelect();
+    if(id === 'dispatch') populateDispatchDCSelect();
+    if(id === 'supervisor') populateSupervisorDCSelect();
+    if(id === 'reports') populateAuditFilters();
+  }
+
+  function playScanAlert() {
+    try {
+      const ctx = new (window.AudioContext || window.webkitAudioContext)();
+      const osc = ctx.createOscillator();
+      osc.type = 'sine';
+      osc.frequency.setValueAtTime(900, ctx.currentTime);
+      osc.connect(ctx.destination);
+      osc.start();
+      osc.stop(ctx.currentTime + 0.15);
+    } catch(e){}
+
+    if ("vibrate" in navigator) {
+      navigator.vibrate(200);
+    }
+  }
+
+  function setupNewChallanForm() {
+    editingDcNo = null;
+    selectedCustomerForDelete = null;
+    document.getElementById('form-title-text').innerText = 'Create Delivery Challan';
+    const keys = Object.keys(db.challans);
+    let nextNum = keys.length + 1;
+    const yearShort = new Date().getFullYear().toString().substr(-2);
+    
+    document.getElementById('new-dc-no').value = `SNE-${yearShort}${String(nextNum).padStart(3, '0')}`;
+    document.getElementById('new-dc-date').value = new Date().toISOString().split('T')[0];
+    document.getElementById('new-po-no').value = '';
+    document.getElementById('new-po-date').value = '';
+    document.getElementById('new-project-name').value = '';
+    document.getElementById('new-vehicle-no').value = '';
+    document.getElementById('delivery-address-text').value = '';
+
+    populateCustomerDropdown();
+
+    const tbody = document.querySelector('#items-table tbody');
+    tbody.innerHTML = '';
+    addDcItemRow();
+  }
+
+  function resetDcForm() {
+    setupNewChallanForm();
+  }
+
+  function populateDashFilters() {
+    const custSel = document.getElementById('dash-customer-select');
+    const curCust = custSel.value;
+    custSel.innerHTML = '<option value="">All Customers</option>';
+    Object.keys(db.customers).forEach(cName => {
+      custSel.innerHTML += `<option value="${cName}">${cName}</option>`;
+    });
+    custSel.value = curCust;
+    handleDashCustomerSelect();
+  }
+
+  function handleDashCustomerSelect() {
+    const cust = document.getElementById('dash-customer-select').value;
+    const addrSel = document.getElementById('dash-address-select');
+    addrSel.innerHTML = '<option value="">All Addresses</option>';
+
+    if (cust && db.customers[cust]) {
+      db.customers[cust].addresses.forEach(a => {
+        addrSel.innerHTML += `<option value="${a}">${a}</option>`;
+      });
+    } else {
+      let allAddr = new Set();
+      Object.values(db.customers).forEach(c => (c.addresses || []).forEach(a => allAddr.add(a)));
+      allAddr.forEach(a => {
+        addrSel.innerHTML += `<option value="${a}">${a}</option>`;
+      });
+    }
+    renderDashboard();
+  }
+
+  function searchMissingItem() {
+    const q = document.getElementById('dash-missing-item-search').value.trim().toLowerCase();
+    const resultsContainer = document.getElementById('missing-item-results');
+    const tbody = document.querySelector('#missing-items-table tbody');
+    tbody.innerHTML = '';
+
+    if (!q) {
+      resultsContainer.style.display = 'none';
+      return;
+    }
+
+    resultsContainer.style.display = 'block';
+    let matchCount = 0;
+
+    Object.values(db.qrcodes).forEach(item => {
+      const qrId = (item.qrCode || item.barcode || '').toLowerCase();
+      const code = (item.itemCode || '').toLowerCase();
+      const desc = (item.desc || '').toLowerCase();
+
+      if (qrId.includes(q) || code.includes(q) || desc.includes(q)) {
+        matchCount++;
+        const c = db.challans[item.challanNo] || {};
+        tbody.innerHTML += `
+          <tr>
+            <td><code>${item.qrCode || item.barcode}</code></td>
+            <td><strong>${item.challanNo}</strong></td>
+            <td>${c.customer || '-'}</td>
+            <td>${item.desc}</td>
+            <td><span class="badge bg-${item.status==='DELIVERED'?'success':item.status==='IN TRANSIT'?'warning':'secondary'}">${item.status}</span></td>
+          </tr>
+        `;
+      }
+    });
+
+    if (matchCount === 0) {
+      tbody.innerHTML = `<tr><td colspan="5" class="text-center text-muted">No items matching "${q}" found.</td></tr>`;
+    }
+  }
+
+  function populateCustomerDropdown() {
+    const custSelect = document.getElementById('customer-select');
+    custSelect.innerHTML = `
+      <option value="">Select Customer...</option>
+      <option value="__NEW__">+ Add New Customer</option>
+      <option value="__DELETE__" class="text-danger fw-bold">🗑 Delete Selected Customer</option>
+    `;
+    Object.keys(db.customers).forEach(cName => {
+      custSelect.innerHTML += `<option value="${cName}">${cName}</option>`;
+    });
+  }
+
+  function handleCustomerSelect() {
+    const val = document.getElementById('customer-select').value;
+    const newBox = document.getElementById('new-customer-box');
+    const addrSelect = document.getElementById('address-select');
+
+    if (val === '__DELETE__') {
+      if (!selectedCustomerForDelete) {
+        alert("Please select a valid customer first before choosing Delete!");
+        document.getElementById('customer-select').value = '';
+        return;
+      }
+      if (confirm(`Are you sure you want to permanently delete customer "${selectedCustomerForDelete}" and all their addresses?`)) {
+        delete db.customers[selectedCustomerForDelete];
+        saveData();
+        populateCustomerDropdown();
+        document.getElementById('customer-select').value = '';
+        addrSelect.innerHTML = '<option value="">Select Address...</option>';
+        document.getElementById('delivery-address-text').value = '';
+        alert("Customer deleted successfully.");
+      } else {
+        document.getElementById('customer-select').value = selectedCustomerForDelete;
+      }
+      return;
+    }
+
+    if (val === '__NEW__') {
+      selectedCustomerForDelete = null;
+      newBox.style.display = 'block';
+      addrSelect.innerHTML = '<option value="">Select Address...</option>';
+      document.getElementById('delivery-address-text').value = '';
+    } else {
+      selectedCustomerForDelete = val;
+      newBox.style.display = 'none';
+      addrSelect.innerHTML = `
+        <option value="">Select Address...</option>
+        <option value="__NEW_ADDR__">+ Add New Address</option>
+        <option value="__DELETE_ADDR__" class="text-danger fw-bold">🗑 Delete Selected Address</option>
+      `;
+      if (val && db.customers[val]) {
+        db.customers[val].addresses.forEach(addr => {
+          addrSelect.innerHTML += `<option value="${addr}">${addr}</option>`;
+        });
+      }
+    }
+  }
+
+  function handleAddressSelect() {
+    const custVal = document.getElementById('customer-select').value;
+    const val = document.getElementById('address-select').value;
+
+    if (val === '__DELETE_ADDR__') {
+      const textVal = document.getElementById('delivery-address-text').value.trim();
+      if (!custVal || !db.customers[custVal]) {
+        alert("Please select a valid customer first!");
+        return;
+      }
+      if (!textVal || !db.customers[custVal].addresses.includes(textVal)) {
+        alert("Please select a valid existing address from the dropdown to delete!");
+        return;
+      }
+      if (confirm(`Delete address "${textVal}" for customer "${custVal}"?`)) {
+        db.customers[custVal].addresses = db.customers[custVal].addresses.filter(a => a !== textVal);
+        saveData();
+        handleCustomerSelect();
+        document.getElementById('delivery-address-text').value = '';
+        alert("Address deleted successfully.");
+      }
+      return;
+    }
+
+    if (val !== '__NEW_ADDR__' && val !== '') {
+      document.getElementById('delivery-address-text').value = val;
+    } else {
+      document.getElementById('delivery-address-text').value = '';
+    }
+  }
+
+  function addDcItemRow(itemData = null) {
+    const tbody = document.querySelector('#items-table tbody');
+    const rowCount = tbody.querySelectorAll('tr').length;
+
+    if (rowCount >= MAX_ENTRIES) {
+      alert(`Maximum of ${MAX_ENTRIES} line entries allowed per Delivery Challan!`);
+      return;
+    }
+
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td class="text-center fw-bold row-index">${rowCount + 1}</td>
+      <td><input type="text" class="form-control item-code" value="${itemData ? itemData.code : ''}" placeholder="ITM-01"></td>
+      <td><input type="text" class="form-control item-desc" value="${itemData ? itemData.desc : ''}" placeholder="Description"></td>
+      <td><input type="number" class="form-control item-qty" value="${itemData ? itemData.qty : '1'}" min="1"></td>
+      <td><input type="text" class="form-control item-unit" value="${itemData ? itemData.unit : 'Nos'}" placeholder="Nos"></td>
+      <td><input type="text" class="form-control item-remark" value="${itemData ? itemData.remark : ''}" placeholder="Remark"></td>
+      <td class="text-center"><button class="btn btn-sm btn-outline-danger" onclick="removeDcItemRow(this)"><i class="fa-solid fa-trash"></i></button></td>
+    `;
+    tbody.appendChild(tr);
+    updateEntryCountBadge();
+  }
+
+  function removeDcItemRow(btn) {
+    btn.closest('tr').remove();
+    reindexRows();
+    updateEntryCountBadge();
+  }
+
+  function reindexRows() {
+    const rows = document.querySelectorAll('#items-table tbody tr');
+    rows.forEach((row, idx) => {
+      row.querySelector('.row-index').innerText = idx + 1;
+    });
+  }
+
+  function updateEntryCountBadge() {
+    const count = document.querySelectorAll('#items-table tbody tr').length;
+    const badge = document.getElementById('entry-count-badge');
+    badge.innerText = `Entries: ${count} / ${MAX_ENTRIES}`;
+    if (count >= MAX_ENTRIES) {
+      badge.className = 'badge bg-danger';
+      document.getElementById('add-item-btn').disabled = true;
+    } else {
+      badge.className = 'badge bg-secondary';
+      document.getElementById('add-item-btn').disabled = false;
+    }
+  }
+
+  function generateDeliveryChallan() {
+    const dcNo = document.getElementById('new-dc-no').value;
+    const dcDate = document.getElementById('new-dc-date').value;
+    const poNo = document.getElementById('new-po-no').value.trim();
+    const poDate = document.getElementById('new-po-date').value;
+    const projectName = document.getElementById('new-project-name').value.trim();
+    const vehicle = document.getElementById('new-vehicle-no').value.trim();
+
+    let customer = document.getElementById('customer-select').value;
+    if (customer === '__NEW__') {
+      customer = document.getElementById('new-customer-name').value.trim();
+    }
+    const address = document.getElementById('delivery-address-text').value.trim();
+
+    if (!customer || !address) { alert("Customer Name and Delivery Address are required!"); return; }
+
+    if (!db.customers[customer]) db.customers[customer] = { addresses: [] };
+    if (!db.customers[customer].addresses.includes(address)) {
+      db.customers[customer].addresses.push(address);
+    }
+
+    const rows = document.querySelectorAll('#items-table tbody tr');
+    if (rows.length === 0) { alert("Please add at least one line item!"); return; }
+    if (rows.length > MAX_ENTRIES) { alert(`Maximum allowed entries is ${MAX_ENTRIES}!`); return; }
+
+    let items = [];
+    let qrcodesArr = [];
+    let qrCounter = 1;
+
+    rows.forEach(row => {
+      const code = row.querySelector('.item-code').value.trim() || 'ITM';
+      const desc = row.querySelector('.item-desc').value.trim() || 'Item Particular';
+      const qty = parseInt(row.querySelector('.item-qty').value) || 1;
+      const unit = row.querySelector('.item-unit').value.trim() || 'Nos';
+      const remark = row.querySelector('.item-remark').value.trim() || '-';
+
+      items.push({ code, desc, qty, unit, remark });
+
+      for(let i = 1; i <= qty; i++) {
+        const uniqueQR = `${dcNo}-${code}-${qrCounter++}`;
+        
+        if (!db.qrcodes[uniqueQR]) {
+          db.qrcodes[uniqueQR] = {
+            qrCode: uniqueQR, challanNo: dcNo, itemCode: code, desc, customer, location: address,
+            status: 'QR GENERATED', dispatchScan: null, siteScan: null
+          };
+        } else {
+          db.qrcodes[uniqueQR].customer = customer;
+          db.qrcodes[uniqueQR].location = address;
+        }
+        qrcodesArr.push(uniqueQR);
+      }
+    });
+
+    const isEdit = !!editingDcNo;
+    const initialStatus = isEdit ? db.challans[dcNo].status : 'QR GENERATED';
+
+    db.challans[dcNo] = {
+      challanNo: dcNo, date: dcDate, poNo, poDate, projectName, customer, address, vehicle,
+      items, qrcodes: qrcodesArr, status: initialStatus
+    };
+
+    logAudit(dcNo, 'ALL', isEdit ? 'CHALLAN EDITED' : 'CHALLAN CREATED', currentUserRole || 'Admin', `Challan saved with ${qrcodesArr.length} items.`, '-');
+    saveData();
+
+    alert(`Delivery Challan ${dcNo} successfully saved!`);
+    openPrintChallanTab(dcNo);
+  }
+
+  function populatePrintChallanSelect() {
+    const sel = document.getElementById('print-dc-select');
+    sel.innerHTML = '<option value="">Choose a Delivery Challan...</option>';
+    Object.keys(db.challans).forEach(dc => {
+      sel.innerHTML += `<option value="${dc}">${dc} - ${db.challans[dc].customer}</option>`;
+    });
+  }
+
+  function openPrintChallanTab(dcNo) {
+    showSection('print-challan');
+    document.getElementById('print-dc-select').value = dcNo;
+    loadChallanForPrint();
+  }
+
+  function loadChallanForPrint() {
+    const dcNo = document.getElementById('print-dc-select').value;
+    if (dcNo) {
+      renderDcPreview(dcNo, 'ORIGINAL (FOR CONSIGNEE)');
+    }
+  }
+
+  function renderDcPreview(dcNo, copyType) {
+    const c = db.challans[dcNo];
+    if(!c) return;
+
+    document.getElementById('dc-copy-type').innerText = `(${copyType})`;
+    document.getElementById('dc-view-no').innerText = c.challanNo;
+    document.getElementById('dc-view-date').innerText = formatDateDisplay(c.date);
+    document.getElementById('dc-view-customer').innerText = c.customer;
+    document.getElementById('dc-view-address').innerText = c.address;
+    document.getElementById('dc-view-po-no').innerText = c.poNo || '-';
+    document.getElementById('dc-view-po-date').innerText = c.poDate ? formatDateDisplay(c.poDate) : '-';
+    document.getElementById('dc-view-project').innerText = c.projectName || '-';
+    document.getElementById('dc-view-vehicle').innerText = c.vehicle || '-';
+
+    const itemsBody = document.getElementById('dc-view-items-body');
+    itemsBody.innerHTML = '';
+    
+    c.items.forEach((it, idx) => {
+      itemsBody.innerHTML += `
+        <tr>
+          <td class="text-center">${idx + 1}</td>
+          <td>${it.code}</td>
+          <td>${it.desc}</td>
+          <td class="text-center">${it.qty}</td>
+          <td class="text-center">${it.unit}</td>
+          <td>${it.remark}</td>
+        </tr>
+      `;
+    });
+
+    for(let i = c.items.length + 1; i <= MAX_ENTRIES; i++) {
+      itemsBody.innerHTML += `
+        <tr>
+          <td class="text-center">${i}</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+      `;
+    }
+  }
+
+  function triggerDcPrint(copyType) {
+    const dcNo = document.getElementById('print-dc-select').value;
+    if(!dcNo) { alert("Please select a Delivery Challan to print!"); return; }
+    renderDcPreview(dcNo, copyType);
+    document.body.className = 'mode-challan-only';
+    setTimeout(() => { window.print(); }, 150);
+  }
+
+  function populatePrintQRCodeSelect() {
+    const sel = document.getElementById('qrcode-dc-select');
+    sel.innerHTML = '<option value="">Choose a Delivery Challan...</option>';
+    Object.keys(db.challans).forEach(dc => {
+      const qrs = db.challans[dc].qrcodes || db.challans[dc].barcodes || [];
+      sel.innerHTML += `<option value="${dc}">${dc} - ${db.challans[dc].customer} (${qrs.length} QR Codes)</option>`;
+    });
+  }
+
+  function openPrintQRCodesTab(dcNo) {
+    showSection('print-qrcodes');
+    document.getElementById('qrcode-dc-select').value = dcNo;
+    loadQRCodesForPrint();
+  }
+
+  function loadQRCodesForPrint() {
+    const dcNo = document.getElementById('qrcode-dc-select').value;
+    const printContainer = document.getElementById('printable-qrcodes');
+    printContainer.innerHTML = '';
+
+    if (!dcNo || !db.challans[dcNo]) return;
+
+    const c = db.challans[dcNo];
+    const qrs = c.qrcodes || c.barcodes || [];
+    const qrSizeMm = parseFloat(document.getElementById('cfg-qr-size')?.value) || 39;
+    const pxSize = Math.round(qrSizeMm * 3.78);
+
+    qrs.forEach(qId => {
+      const q = db.qrcodes[qId] || db.barcodes[qId];
+      if (q) {
+        const qrKey = q.qrCode || q.barcode;
+        const custName = q.customer || c.customer || '-';
+        const locationAddr = q.location || c.address || '-';
+
+        const card = document.createElement('div');
+        card.className = 'label-card';
+        card.innerHTML = `
+          <div class="label-details">
+            <div class="label-desc" title="${q.desc}">${q.desc}</div>
+            <div class="label-meta" title="${custName}"><strong>Cust:</strong> ${custName}</div>
+            <div class="label-meta" title="${locationAddr}"><strong>Loc:</strong> ${locationAddr}</div>
+            <div class="label-meta"><strong>DC:</strong> ${dcNo}</div>
+            <div class="label-meta"><strong>Code:</strong> ${q.itemCode}</div>
+            <div class="label-meta"><strong>ID:</strong> ${qrKey}</div>
+          </div>
+          <div class="qr-container" id="qr-${qrKey}"></div>
+        `;
+        printContainer.appendChild(card);
+        
+        new QRCode(document.getElementById(`qr-${qrKey}`), {
+          text: qrKey,
+          width: pxSize,
+          height: pxSize,
+          correctLevel: QRCode.CorrectLevel.M
+        });
+      }
+    });
+  }
+
+  function triggerQRCodePrint() {
+    const dcNo = document.getElementById('qrcode-dc-select').value;
+    if(!dcNo) { alert("Please select a Delivery Challan to print QR codes!"); return; }
+    document.body.className = 'mode-qrcodes-only';
+    setTimeout(() => { window.print(); }, 150);
+  }
+
+  function editChallan(dcNo) {
+    const c = db.challans[dcNo];
+    if (!c) return;
+
+    editingDcNo = dcNo;
+    showSection('create-challan');
+    document.getElementById('form-title-text').innerText = `Edit Delivery Challan (${dcNo})`;
+
+    document.getElementById('new-dc-no').value = c.challanNo;
+    document.getElementById('new-dc-date').value = c.date;
+    document.getElementById('new-po-no').value = c.poNo || '';
+    document.getElementById('new-po-date').value = c.poDate || '';
+    document.getElementById('new-project-name').value = c.projectName || '';
+    document.getElementById('new-vehicle-no').value = c.vehicle || '';
+    
+    populateCustomerDropdown();
+    document.getElementById('customer-select').value = c.customer;
+    handleCustomerSelect();
+    document.getElementById('delivery-address-text').value = c.address;
+
+    const tbody = document.querySelector('#items-table tbody');
+    tbody.innerHTML = '';
+    c.items.forEach(it => addDcItemRow(it));
+  }
+
+  function deleteChallan(dcNo) {
+    if (confirm(`Are you sure you want to delete Delivery Challan "${dcNo}"? This action cannot be undone.`)) {
+      if (db.challans[dcNo]) {
+        const qrs = db.challans[dcNo].qrcodes || db.challans[dcNo].barcodes || [];
+        qrs.forEach(qCode => {
+          delete db.qrcodes[qCode];
+          if (db.barcodes) delete db.barcodes[qCode];
+        });
+        delete db.challans[dcNo];
+        logAudit(dcNo, 'ALL', 'CHALLAN DELETED', currentUserRole || 'Admin', `Delivery Challan ${dcNo} was deleted from user device.`, '-');
+        saveData();
+        renderDashboard();
+        alert(`Delivery Challan ${dcNo} has been deleted.`);
+      }
+    }
+  }
+
+  function populateDispatchDCSelect() {
+    const sel = document.getElementById('dispatch-dc-select');
+    sel.innerHTML = '<option value="">Select Challan...</option>';
+    
+    Object.keys(db.challans).forEach(dc => {
+      const c = db.challans[dc];
+      if (c.status === 'QR GENERATED' || c.status === 'BARCODE GENERATED') {
+        const totalUnits = (c.qrcodes || c.barcodes || []).length;
+        sel.innerHTML += `<option value="${dc}">${dc} - ${c.customer} (${totalUnits} Items)</option>`;
+      }
+    });
+    loadDispatchData();
+  }
+
+  function populateSupervisorDCSelect() {
+    const sel = document.getElementById('supervisor-dc-select');
+    sel.innerHTML = '<option value="">Select Challan...</option>';
+    
+    Object.keys(db.challans).forEach(dc => {
+      const c = db.challans[dc];
+      if (c.status === 'IN TRANSIT') {
+        const totalUnits = (c.qrcodes || c.barcodes || []).length;
+        sel.innerHTML += `<option value="${dc}">${dc} - ${c.customer} (${totalUnits} Items)</option>`;
+      }
+    });
+  }
+
+  function startScanner(role) {
+    currentScanRole = role;
+    const elementId = role === 'dispatch' ? 'reader' : 'reader-supervisor';
+    html5QrCode = new Html5Qrcode(elementId);
+    html5QrCode.start({ facingMode: "environment" }, { fps: 10, qrbox: { width: 250, height: 250 } }, onScanSuccess);
+  }
+
+  function stopScanner() {
+    if (html5QrCode) {
+      html5QrCode.stop().then(() => html5QrCode.clear()).catch(() => {});
+    }
+  }
+
+  function onScanSuccess(decodedText) {
+    playScanAlert();
+    if(currentScanRole === 'dispatch') handleDispatchScan(decodedText);
+    if(currentScanRole === 'supervisor') handleSupervisorScan(decodedText);
+  }
+
+  function handleManualDispatchScan() {
+    const inputEl = document.getElementById('manual-qrcode-input');
+    const qrcodeVal = inputEl.value.trim();
+    if(!qrcodeVal) return;
+    playScanAlert();
+    handleDispatchScan(qrcodeVal);
+    inputEl.value = '';
+  }
+
+  function handleDispatchScan(qrcode) {
+    const dcNo = document.getElementById('dispatch-dc-select').value;
+    const officer = document.getElementById('dispatch-officer-name').value.trim();
+    if(!dcNo || !officer) { alert("Select Challan and enter Dispatch Officer Name!"); return; }
+
+    const item = db.qrcodes[qrcode] || (db.barcodes && db.barcodes[qrcode]);
+    if(!item || item.challanNo !== dcNo) { alert("QR Code does not belong to selected Delivery Challan!"); return; }
+    if(item.status !== 'QR GENERATED' && item.status !== 'BARCODE GENERATED') { alert("Item is already scanned!"); return; }
+
+    item.status = 'DISPATCH SCANNED';
+    item.dispatchScan = { officer, time: new Date().toISOString() };
+
+    logAudit(dcNo, qrcode, 'DISPATCH SCAN', currentUserRole || 'Dispatch', 'Item Scanned for Dispatch', officer);
+    saveData();
+    loadDispatchData();
+  }
+
+  function loadDispatchData() {
+    const dcNo = document.getElementById('dispatch-dc-select').value;
+    const tbody = document.querySelector('#dispatch-items-table tbody');
+    tbody.innerHTML = '';
+
+    const confirmBtn = document.getElementById('confirm-dispatch-btn');
+    const lockMsg = document.getElementById('dispatch-lock-msg');
+
+    if(!dcNo) {
+      document.getElementById('dispatch-count').innerText = `0 / 0 Scanned`;
+      confirmBtn.disabled = true;
+      lockMsg.classList.remove('d-none');
+      return;
+    }
+
+    const challan = db.challans[dcNo];
+    let scanned = 0;
+    const qrs = challan.qrcodes || challan.barcodes || [];
+
+    qrs.forEach(qId => {
+      const q = db.qrcodes[qId] || db.barcodes[qId];
+      if(q) {
+        if(q.status !== 'QR GENERATED' && q.status !== 'BARCODE GENERATED') scanned++;
+        const qrKey = q.qrCode || q.barcode;
+        tbody.innerHTML += `
+          <tr>
+            <td><code>${qrKey}</code></td>
+            <td>${q.desc}</td>
+            <td><span class="badge bg-${(q.status==='QR GENERATED'||q.status==='BARCODE GENERATED')?'secondary':'warning'}">${q.status}</span></td>
+          </tr>
+        `;
+      }
+    });
+
+    document.getElementById('dispatch-count').innerText = `${scanned} / ${qrs.length} Scanned`;
+
+    if (scanned === qrs.length && qrs.length > 0) {
+      confirmBtn.disabled = false;
+      lockMsg.classList.add('d-none');
+    } else {
+      confirmBtn.disabled = true;
+      lockMsg.classList.remove('d-none');
+    }
+  }
+
+  function confirmDispatch() {
+    const dcNo = document.getElementById('dispatch-dc-select').value;
+    const officer = document.getElementById('dispatch-officer-name').value.trim();
+
+    if(!dcNo) { alert("Please select a Delivery Challan!"); return; }
+    if(!officer) { alert("Please enter Dispatch Officer Name before confirming!"); return; }
+
+    const challan = db.challans[dcNo];
+    const qrs = challan.qrcodes || challan.barcodes || [];
+
+    challan.status = 'IN TRANSIT';
+    qrs.forEach(qId => {
+      const q = db.qrcodes[qId] || db.barcodes[qId];
+      if(q) {
+        q.status = 'IN TRANSIT';
+      }
+    });
+
+    logAudit(dcNo, 'ALL', 'DISPATCH CONFIRMED', currentUserRole || 'Dispatch', 'All items verified & dispatched. Status set to IN TRANSIT', officer);
+    saveData();
+    alert(`Dispatch confirmed for Delivery Challan ${dcNo}!`);
+
+    populateDispatchDCSelect();
+    loadDispatchData();
+  }
+
+  function handleManualSupervisorScan() {
+    const inputEl = document.getElementById('manual-supervisor-qrcode-input');
+    const qrcodeVal = inputEl.value.trim();
+    if(!qrcodeVal) return;
+    playScanAlert();
+    handleSupervisorScan(qrcodeVal);
+    inputEl.value = '';
+  }
+
+  function handleSupervisorScan(qrcode) {
+    const dcNo = document.getElementById('supervisor-dc-select').value;
+    const supervisor = document.getElementById('supervisor-name').value.trim();
+    if(!dcNo || !supervisor) { alert("Select Challan and enter Receiver Name!"); return; }
+
+    const item = db.qrcodes[qrcode] || (db.barcodes && db.barcodes[qrcode]);
+    if(!item || item.challanNo !== dcNo) { alert("Invalid QR Code for selected Delivery Challan!"); return; }
+    if(item.status === 'QR GENERATED' || item.status === 'BARCODE GENERATED') { alert("Item was not dispatched yet!"); return; }
+
+    item.status = 'SITE RECEIVED';
+    item.siteScan = { supervisor, time: new Date().toISOString() };
+
+    logAudit(dcNo, qrcode, 'SITE SCAN', supervisor, 'Verified at delivery site', item.dispatchScan ? item.dispatchScan.officer : '-');
+    saveData();
+    loadSupervisorData();
+  }
+
+  function loadSupervisorData() {
+    const dcNo = document.getElementById('supervisor-dc-select').value;
+    if(!dcNo) return;
+    const challan = db.challans[dcNo];
+    const tbody = document.querySelector('#supervisor-items-table tbody');
+    tbody.innerHTML = '';
+    let confirmed = 0;
+    const qrs = challan.qrcodes || challan.barcodes || [];
+
+    qrs.forEach(qId => {
+      const q = db.qrcodes[qId] || db.barcodes[qId];
+      if(q) {
+        if(q.status === 'SITE RECEIVED' || q.status === 'DELIVERED') confirmed++;
+        const qrKey = q.qrCode || q.barcode;
+        tbody.innerHTML += `
+          <tr>
+            <td><code>${qrKey}</code></td>
+            <td>${q.desc}</td>
+            <td><span class="badge bg-${q.status==='DELIVERED'?'success':q.status==='SITE RECEIVED'?'info':'secondary'}">${q.status}</span></td>
+            <td>${q.status==='SITE RECEIVED' ? `<button class="btn btn-xs btn-outline-danger" onclick="removeSiteScan('${qrKey}')">Remove</button>` : ''}</td>
+          </tr>
+        `;
+      }
+    });
+
+    document.getElementById('supervisor-count').innerText = `Confirmed: ${confirmed} / ${qrs.length}`;
+    const btn = document.getElementById('accept-delivery-btn');
+    const msg = document.getElementById('acceptance-lock-msg');
+    
+    if(confirmed === qrs.length && challan.status !== 'DELIVERED') {
+      btn.disabled = false;
+      msg.classList.add('d-none');
+    } else {
+      btn.disabled = true;
+      msg.classList.remove('d-none');
+    }
+  }
+
+  function removeSiteScan(qrcode) {
+    const item = db.qrcodes[qrcode] || (db.barcodes && db.barcodes[qrcode]);
+    item.status = 'IN TRANSIT';
+    item.siteScan = null;
+    logAudit(item.challanNo, qrcode, 'SCAN REMOVED', 'Supervisor', 'Site scan reverted', item.dispatchScan ? item.dispatchScan.officer : '-');
+    saveData();
+    loadSupervisorData();
+  }
+
+  function acceptDelivery() {
+    const dcNo = document.getElementById('supervisor-dc-select').value;
+    const supervisor = document.getElementById('supervisor-name').value.trim();
+    const challan = db.challans[dcNo];
+    const qrs = challan.qrcodes || challan.barcodes || [];
+
+    challan.status = 'DELIVERED';
+    qrs.forEach(qId => {
+      const q = db.qrcodes[qId] || db.barcodes[qId];
+      if(q) q.status = 'DELIVERED';
+    });
+
+    logAudit(dcNo, 'ALL', 'DELIVERY ACCEPTED', supervisor, 'Delivery completed successfully', '-');
+    saveData();
+    alert(`Delivery Challan ${dcNo} fully accepted!`);
+    populateSupervisorDCSelect();
+    loadSupervisorData();
+  }
+
+  function populateAuditFilters() {
+    const dcSel = document.getElementById('audit-dc-select');
+    const custSel = document.getElementById('audit-customer-select');
+    const addrSel = document.getElementById('audit-address-select');
+
+    dcSel.innerHTML = '<option value="">All Delivery Challans</option>';
+    custSel.innerHTML = '<option value="">All Customers</option>';
+    addrSel.innerHTML = '<option value="">All Addresses</option>';
+
+    Object.keys(db.challans).forEach(dc => dcSel.innerHTML += `<option value="${dc}">${dc}</option>`);
+    Object.keys(db.customers).forEach(c => custSel.innerHTML += `<option value="${c}">${c}</option>`);
+
+    let allAddresses = new Set();
+    Object.values(db.challans).forEach(c => { if(c.address) allAddresses.add(c.address); });
+    allAddresses.forEach(a => addrSel.innerHTML += `<option value="${a}">${a}</option>`);
+
+    renderAuditTrail();
+  }
+
+  function renderAuditTrail() {
+    const dcFilter = document.getElementById('audit-dc-select').value;
+    const custFilter = document.getElementById('audit-customer-select').value;
+    const addrFilter = document.getElementById('audit-address-select').value;
+    const searchVal = document.getElementById('audit-search').value.toLowerCase();
+
+    const tbody = document.querySelector('#audit-table tbody');
+    tbody.innerHTML = '';
+
+    db.audit.filter(a => {
+      const c = db.challans[a.challanNo] || {};
+      const matchesDc = !dcFilter || a.challanNo === dcFilter;
+      const matchesCust = !custFilter || c.customer === custFilter;
+      const matchesAddr = !addrFilter || c.address === addrFilter;
+      const matchesSearch = a.challanNo.toLowerCase().includes(searchVal) || 
+                            (a.qrCode || a.barcode || '').toLowerCase().includes(searchVal) ||
+                            a.actor.toLowerCase().includes(searchVal) ||
+                            (a.deviceInfo || '').toLowerCase().includes(searchVal) ||
+                            (a.dispatchPerson || '').toLowerCase().includes(searchVal);
+
+      return matchesDc && matchesCust && matchesAddr && matchesSearch;
+    }).forEach(a => {
+      tbody.innerHTML += `
+        <tr>
+          <td>${formatDateDisplay(a.timestamp)}</td>
+          <td>${a.challanNo}</td>
+          <td><code>${a.qrCode || a.barcode}</code></td>
+          <td><strong>${a.action}</strong></td>
+          <td>${a.actor}</td>
+          <td>${a.dispatchPerson || '-'}</td>
+          <td><span class="badge bg-light text-dark border">${a.deviceInfo || 'Unknown Device'}</span></td>
+          <td>${a.details}</td>
+        </tr>
+      `;
+    });
+  }
+
+  function deleteAllLogs() {
+    const warning = confirm("WARNING: Are you sure you want to delete ALL audit trail logs?\n\nThis deletion action will also be recorded with your mobile device metrics!");
+    if (warning) {
+      logAudit('SYSTEM', 'ALL', 'AUDIT LOGS DELETED', currentUserRole || 'Admin', 'User cleared all past historical logs.', '-');
+      const latestDeletionRecord = db.audit[0]; 
+      db.audit = [latestDeletionRecord];
+      saveData();
+      renderAuditTrail();
+      alert("Audit logs erased. Deletion action has been recorded in log trail.");
+    }
+  }
+
+  function exportAuditCSV() {
+    const ws = XLSX.utils.json_to_sheet(db.audit);
+    const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, "AuditTrail");
+    XLSX.writeFile(wb, `DC_Audit_${new Date().toISOString().slice(0,10)}.xlsx`);
+  }
+
+  function renderDashboard() {
+    const filterCust = document.getElementById('dash-customer-select').value;
+    const filterAddr = document.getElementById('dash-address-select').value;
+
+    const allChallans = Object.values(db.challans);
+    const challans = allChallans.filter(c => {
+      const matchesCust = !filterCust || c.customer === filterCust;
+      const matchesAddr = !filterAddr || c.address === filterAddr;
+      return matchesCust && matchesAddr;
+    });
+
+    let totalInTransit = 0, totalDelivered = 0, totalPending = 0;
+
+    const tbody = document.querySelector('#challan-summary-table tbody');
+    tbody.innerHTML = '';
+
+    challans.forEach(c => {
+      let dispatched = 0, received = 0;
+      const qrs = c.qrcodes || c.barcodes || [];
+      
+      qrs.forEach(q => {
+        const qObj = db.qrcodes[q] || db.barcodes[q];
+        if(qObj && qObj.status !== 'QR GENERATED' && qObj.status !== 'BARCODE GENERATED') dispatched++;
+        if(qObj && qObj.status === 'DELIVERED') received++;
+      });
+
+      if(c.status === 'IN TRANSIT') totalInTransit += (dispatched - received);
+      if(c.status === 'DELIVERED') totalDelivered += received;
+      totalPending += (qrs.length - received);
+
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td><strong>${c.challanNo}</strong></td>
+        <td>${c.customer}</td>
+        <td>${c.poNo || '-'}</td>
+        <td>${qrs.length}</td>
+        <td><span class="badge status-badge bg-${c.status==='DELIVERED'?'success':c.status==='IN TRANSIT'?'warning':'secondary'}">${c.status}</span></td>
+        <td>
+          <button class="btn btn-sm btn-outline-primary me-1 mb-1" onclick="openPrintChallanTab('${c.challanNo}')"><i class="fa-solid fa-print me-1"></i>Print DC</button>
+          <button class="btn btn-sm btn-outline-info me-1 mb-1" onclick="openPrintQRCodesTab('${c.challanNo}')"><i class="fa-solid fa-qrcode me-1"></i>QR Codes</button>
+          <button class="btn btn-sm btn-outline-secondary me-1 mb-1" onclick="editChallan('${c.challanNo}')"><i class="fa-solid fa-pen me-1"></i>Edit</button>
+          <button class="btn btn-sm btn-outline-danger mb-1" onclick="deleteChallan('${c.challanNo}')"><i class="fa-solid fa-trash me-1"></i>Delete</button>
+        </td>
+      `;
+      tbody.appendChild(tr);
+    });
+
+    document.getElementById('dash-total-challans').innerText = challans.length;
+    document.getElementById('dash-intransit-units').innerText = totalInTransit;
+    document.getElementById('dash-delivered-units').innerText = totalDelivered;
+    document.getElementById('dash-pending-units').innerText = totalPending;
+  }
+
+  function logAudit(challanNo, qrCode, action, actor, details, dispatchPerson = '-') {
+    db.audit.unshift({
+      timestamp: new Date().toISOString(),
+      challanNo, qrCode, action, actor, dispatchPerson, 
+      deviceInfo: getDeviceDetails(),
+      details
+    });
+  }
+
+  function saveSettings() {
+    const url = document.getElementById('gas-url').value.trim();
+    localStorage.setItem('DC_FLOW_GAS_URL', url);
+    alert("Settings Saved!");
+    fetchCloudData();
+  }
+
+  window.onload = function() {
+    document.getElementById('gas-url').value = getGasUrl();
+    const loginModal = new bootstrap.Modal(document.getElementById('loginModal'));
+    loginModal.show();
+    loadSavedPins();
+    loadSavedLayoutConfig();
+    startDashboardClock();
+    fetchCloudData();
+  };
+</script>
+</body>
+</html>
