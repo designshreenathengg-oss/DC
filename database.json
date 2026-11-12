@@ -2836,6 +2836,31 @@
         }
       ],
       "qrcodes": []
+    },
+    "SNE-26025": {
+      "challanNo": "SNE-26025",
+      "date": "2026-11-12",
+      "poNo": "",
+      "poDate": "",
+      "projectName": "",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
+      "vehicle": "",
+      "remarkType": "Remark",
+      "items": [
+        {
+          "code": "ITM",
+          "desc": "dsa",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26025-ITM-1"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -11132,9 +11157,28 @@
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
+    },
+    "SNE-26025-ITM-1": {
+      "qrCode": "SNE-26025-ITM-1",
+      "challanNo": "SNE-26025",
+      "itemCode": "ITM",
+      "desc": "dsa",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-12T18:00:28.815Z",
+      "challanNo": "SNE-26025",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 1 items."
+    },
     {
       "timestamp": "2026-11-11T18:30:00.000Z",
       "challanNo": "SNE-26023",
