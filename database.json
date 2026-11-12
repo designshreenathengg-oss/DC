@@ -2850,7 +2850,7 @@
       "items": [
         {
           "code": "ITM",
-          "desc": "dsa",
+          "desc": "Item Particular",
           "qty": 1,
           "unit": "Nos",
           "remarkType": "Remark",
@@ -11162,13 +11162,23 @@
       "qrCode": "SNE-26025-ITM-1",
       "challanNo": "SNE-26025",
       "itemCode": "ITM",
-      "desc": "dsa",
+      "desc": "Item Particular",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-12T18:00:52.008Z",
+      "challanNo": "SNE-26025",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 1 items."
+    },
     {
       "timestamp": "2026-11-12T18:00:28.815Z",
       "challanNo": "SNE-26025",
