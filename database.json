@@ -2846,15 +2846,15 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "address": "CHAKAN MIDC, PUNE",
       "vehicle": "",
-      "remarkType": "Remark",
+      "remarkType": "Amount",
       "items": [
         {
           "code": "ITM",
           "desc": "Item Particular",
           "qty": 1,
           "unit": "Nos",
-          "remarkType": "Remark",
-          "remark": "-"
+          "remarkType": "Amount",
+          "remark": "₹ 10000"
         }
       ],
       "qrcodes": [
@@ -11169,6 +11169,16 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-12T18:20:26.085Z",
+      "challanNo": "SNE-26025",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 1 items."
+    },
     {
       "timestamp": "2026-11-12T18:00:52.008Z",
       "challanNo": "SNE-26025",
