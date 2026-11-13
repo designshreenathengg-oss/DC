@@ -2924,9 +2924,117 @@
           "unit": "Nos",
           "remarkType": "Amount",
           "remark": "₹ 10"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
         }
       ],
       "qrcodes": [
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-1",
         "SNE-26027-ITM-1",
         "SNE-26027-ITM-1",
         "SNE-26027-ITM-1"
@@ -11332,6 +11440,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-13T14:52:28.138Z",
+      "challanNo": "SNE-26027",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 15 items."
+    },
     {
       "timestamp": "2026-11-13T14:51:09.481Z",
       "challanNo": "SNE-26027",
