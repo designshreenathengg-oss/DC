@@ -2876,7 +2876,7 @@
         {
           "code": "ITM",
           "desc": "1100X750X32 MS PLATE",
-          "qty": 4,
+          "qty": 3,
           "unit": "Nos",
           "remarkType": "Amount",
           "remark": "₹ 10000"
@@ -2885,8 +2885,7 @@
       "qrcodes": [
         "SNE-26026-ITM-1",
         "SNE-26026-ITM-2",
-        "SNE-26026-ITM-3",
-        "SNE-26026-ITM-4"
+        "SNE-26026-ITM-3"
       ],
       "status": "QR GENERATED"
     }
@@ -11233,6 +11232,16 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-13T13:47:32.902Z",
+      "challanNo": "SNE-26026",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 3 items."
+    },
     {
       "timestamp": "2026-11-13T13:47:21.944Z",
       "challanNo": "SNE-26026",
