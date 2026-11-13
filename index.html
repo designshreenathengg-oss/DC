@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-  <title>SHREE NATH ENGINEERING - Delivery Challan System</title>
+  <title>SHREE NATH ENGINEERING - Delivery Challan System (Server Backend)</title>
   <!-- Bootstrap 5 CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
   <!-- FontAwesome Icons -->
@@ -18,7 +18,6 @@
     .status-badge { font-size: 0.8rem; padding: 0.35em 0.65em; border-radius: 50rem; }
     #reader, #reader-supervisor { width: 100%; border-radius: 8px; overflow: hidden; }
 
-    /* MOBILE NAVIGATION STYLES FOR IPHONE & COMPACT SCREENS */
     .mobile-header { display: none; background: #1e293b; color: #fff; padding: 12px 16px; align-items: center; justify-content: space-between; }
     
     @media (max-width: 767.98px) {
@@ -26,274 +25,110 @@
       .sidebar { min-height: auto; padding: 1rem !important; }
       #sidebar-wrapper { display: none; }
       #sidebar-wrapper.show-mobile { display: block; }
-      
       input, select, textarea, button { font-size: 16px !important; }
       .table-responsive { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
     }
 
-    /* EXCEL TEMPLATE STYLES */
-    .excel-template {
-      border: 2px solid #000;
-      padding: 12px;
-      background: #fff;
-      color: #000;
-      font-size: 11px;
-      box-sizing: border-box;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      width: 100%;
-      max-width: 210mm;
-      height: 270mm;
-      margin: 0 auto;
+    /* Attractive Industrial Login Modal Styling */
+    .login-modal-backdrop-custom {
+      background: linear-gradient(rgba(15, 23, 42, 0.88), rgba(30, 41, 59, 0.92)), url('https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80') !important;
+      background-size: cover !important;
+      background-position: center !important;
     }
-    .excel-header { 
-      border-bottom: 2px solid #000; 
-      margin-bottom: 8px; 
-      padding-bottom: 6px; 
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
+    .login-modal-content {
+      background: rgba(30, 41, 59, 0.96);
+      backdrop-filter: blur(12px);
+      color: #fff;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      border-radius: 16px;
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.7);
+      overflow: hidden;
     }
-    .excel-header-logo {
-      width: 80px;
-      height: auto;
-      max-height: 70px;
-      object-fit: contain;
-    }
-    .excel-header-text {
-      flex: 1;
+    .login-header-brand {
       text-align: center;
-      padding-right: 10px;
+      padding: 26px 20px 18px 20px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      background: rgba(15, 23, 42, 0.75);
     }
+    .login-logo-img {
+      width: 72px;
+      height: 72px;
+      object-fit: contain;
+      margin-bottom: 10px;
+      filter: drop-shadow(0 2px 6px rgba(0,0,0,0.5));
+    }
+    .login-modal-content .form-label {
+      color: #cbd5e1;
+      font-weight: 500;
+      font-size: 0.9rem;
+    }
+    .login-modal-content .form-control, .login-modal-content .form-select {
+      background-color: rgba(15, 23, 42, 0.85);
+      border: 1px solid #475569;
+      color: #fff;
+      border-radius: 8px;
+      padding: 10px 14px;
+    }
+    .login-modal-content .form-control:focus, .login-modal-content .form-select:focus {
+      background-color: rgba(15, 23, 42, 1);
+      border-color: #3b82f6;
+      color: #fff;
+      box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.25);
+    }
+    .login-modal-content .form-select option {
+      background-color: #1e293b;
+      color: #fff;
+    }
+
+    .excel-template {
+      border: 2px solid #000; padding: 12px; background: #fff; color: #000; font-size: 11px;
+      box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between;
+      width: 100%; max-width: 210mm; height: 270mm; margin: 0 auto;
+    }
+    .excel-header { border-bottom: 2px solid #000; margin-bottom: 8px; padding-bottom: 6px; display: flex; align-items: center; justify-content: space-between; }
+    .excel-header-logo { width: 80px; height: auto; max-height: 70px; object-fit: contain; }
+    .excel-header-text { flex: 1; text-align: center; padding-right: 10px; }
     .excel-header h3 { font-weight: bold; margin: 0; font-size: 18px; text-transform: uppercase; }
     .excel-header p { margin: 1px 0; font-size: 10px; }
-    .title-banner { 
-      border-top: 2px solid #000; 
-      border-bottom: 2px solid #000; 
-      text-align: center; 
-      font-weight: bold; 
-      padding: 4px 0; 
-      margin-bottom: 8px; 
-      background: #f0f0f0; 
-      font-size: 12px; 
-    }
+    .title-banner { border-top: 2px solid #000; border-bottom: 2px solid #000; text-align: center; font-weight: bold; padding: 4px 0; margin-bottom: 8px; background: #f0f0f0; font-size: 12px; }
     .excel-meta-table { width: 100%; border-collapse: collapse; margin-bottom: 8px; table-layout: fixed; }
     .excel-meta-table td { border: 1px solid #000; padding: 4px 5px; word-wrap: break-word; overflow: hidden; }
-    
-    .table-container {
-      flex: 1 1 auto;
-      display: flex;
-      flex-direction: column;
-      margin-bottom: 8px;
-    }
-    .excel-items-table { 
-      width: 100%; 
-      height: 100%;
-      border-collapse: collapse; 
-      table-layout: fixed; 
-    }
-    .excel-items-table th, .excel-items-table td { 
-      border: 1px solid #000; 
-      padding: 2px 5px; 
-      word-wrap: break-word; 
-      overflow: hidden; 
-    }
-    .excel-items-table th { 
-      background-color: #f2f2f2; 
-      text-align: center; 
-      font-weight: bold; 
-      font-size: 10px; 
-      height: 25px;
-    }
-    .excel-items-table tbody tr {
-      height: calc((100% - 25px) / 15);
-    }
+    .table-container { flex: 1 1 auto; display: flex; flex-direction: column; margin-bottom: 8px; }
+    .excel-items-table { width: 100%; height: 100%; border-collapse: collapse; table-layout: fixed; }
+    .excel-items-table th, .excel-items-table td { border: 1px solid #000; padding: 2px 5px; word-wrap: break-word; overflow: hidden; }
+    .excel-items-table th { background-color: #f2f2f2; text-align: center; font-weight: bold; font-size: 10px; height: 25px; }
+    .excel-items-table tbody tr { height: calc((100% - 25px) / 15); }
+    .excel-footer-section { margin-top: auto; padding-top: 6px; }
+    .excel-sign-row { margin-top: 15px; text-align: center; font-weight: bold; font-size: 11px; }
 
-    .excel-footer-section {
-      margin-top: auto;
-      padding-top: 10px;
-    }
-    .excel-sign-row { margin-top: 35px; text-align: center; font-weight: bold; font-size: 11px; }
-
-    /* DYNAMIC QR CODE STICKER GRID DISPLAY (12 stickers per page layout) */
     .qrcodes-grid {
-      display: grid;
-      grid-template-columns: repeat(2, var(--sticker-w, 99mm));
-      grid-auto-rows: var(--sticker-h, 45mm);
-      gap: var(--grid-gap, 2mm);
-      margin: 0 auto;
-      width: 210mm;
-      min-height: 297mm;
-      box-sizing: border-box;
-      padding-top: var(--top-margin, 8mm);
-      padding-left: var(--left-margin, 5mm);
-      page-break-after: always;
-      break-after: page;
-      page-break-inside: avoid;
-      break-inside: avoid;
+      display: grid; grid-template-columns: repeat(2, var(--sticker-w, 99mm)); grid-auto-rows: var(--sticker-h, 45mm);
+      gap: var(--grid-gap, 2mm); margin: 0 auto; width: 210mm; min-height: 297mm; box-sizing: border-box;
+      padding-top: var(--top-margin, 8mm); padding-left: var(--left-margin, 5mm);
+      page-break-after: always; break-after: page; page-break-inside: avoid; break-inside: avoid;
     }
-    .qrcodes-grid:last-child {
-      page-break-after: avoid;
-      break-after: avoid;
-    }
-
     .label-card {
-      width: var(--sticker-w, 99mm);
-      height: var(--sticker-h, 45mm);
-      box-sizing: border-box;
-      padding: 3mm 4mm;
-      border: 1px dashed #bbb;
-      background: #fff;
-      display: flex;
-      flex-direction: row;
-      align-items: center;
-      justify-content: space-between;
-      overflow: hidden;
+      width: var(--sticker-w, 99mm); height: var(--sticker-h, 45mm); box-sizing: border-box; padding: 3mm 4mm;
+      border: 1px dashed #bbb; background: #fff; display: flex; flex-direction: row; align-items: center; justify-content: space-between; overflow: hidden;
     }
-    .label-card .label-details {
-      text-align: left;
-      flex: 1;
-      padding-right: 5px;
-      overflow: hidden;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-    }
-    .label-card .label-desc { 
-      font-weight: 800; 
-      font-size: 12px; 
-      line-height: 1.2;
-      max-height: 2.4em;
-      overflow: hidden; 
-      text-overflow: ellipsis; 
-      color: #000;
-      margin-bottom: 2px;
-    }
-    .label-card .label-meta { 
-      font-size: 10.5px; 
-      line-height: 1.3; 
-      color: #111;
-      overflow: hidden; 
-      text-overflow: ellipsis; 
-      white-space: nowrap;
-    }
-    .label-card .qr-container {
-      width: var(--qr-size, 35mm);
-      height: var(--qr-size, 35mm);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-shrink: 0;
-    }
-    .label-card .qr-container canvas, .label-card .qr-container img {
-      width: var(--qr-size, 35mm) !important;
-      height: var(--qr-size, 35mm) !important;
-    }
+    .label-card .label-details { text-align: left; flex: 1; padding-right: 5px; overflow: hidden; display: flex; flex-direction: column; justify-content: center; }
+    .label-card .label-desc { font-weight: 800; font-size: 12px; line-height: 1.2; max-height: 2.4em; overflow: hidden; text-overflow: ellipsis; color: #000; margin-bottom: 2px; }
+    .label-card .label-meta { font-size: 10.5px; line-height: 1.3; color: #111; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .label-card .qr-container { width: var(--qr-size, 35mm); height: var(--qr-size, 35mm); display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+    .label-card .qr-container canvas, .label-card .qr-container img { width: var(--qr-size, 35mm) !important; height: var(--qr-size, 35mm) !important; }
 
-    /* STRICT PRINT MEDIA STYLES */
     @media print {
-      @page {
-        size: A4 portrait;
-        margin: 0;
-      }
-
-      body * {
-        visibility: hidden !important;
-      }
-
-      html, body {
-        width: 210mm !important;
-        height: 297mm !important;
-        margin: 0 !important;
-        padding: 0 !important;
-        background: #fff !important;
-        overflow: hidden !important;
-      }
-
-      body.mode-challan-only #printable-dc-section,
-      body.mode-challan-only #printable-dc-section * {
-        visibility: visible !important;
-      }
-
-      body.mode-challan-only #printable-dc-section {
-        position: absolute !important;
-        left: 0 !important;
-        top: 0 !important;
-        width: 100% !important;
-        margin: 0 !important;
-        padding: 5mm !important;
-        border: none !important;
-      }
-
-      body.mode-challan-only .excel-template {
-        width: 100% !important;
-        max-width: 100% !important;
-        height: 280mm !important;
-        border: 2px solid #000 !important;
-        padding: 5mm !important;
-        margin: 0 auto !important;
-        box-sizing: border-box !important;
-        page-break-after: avoid !important;
-        break-after: avoid !important;
-      }
-
-      body.mode-challan-only .screen-only {
-        display: none !important;
-      }
-
-      body.mode-qrcodes-only #printable-qrcodes-section,
-      body.mode-qrcodes-only #printable-qrcodes-section * {
-        visibility: visible !important;
-      }
-
-      body.mode-qrcodes-only #printable-qrcodes-section {
-        position: absolute !important;
-        left: 0 !important;
-        top: 0 !important;
-        width: 210mm !important;
-        height: 297mm !important;
-        margin: 0 !important;
-        padding: 0 !important;
-        border: none !important;
-      }
-
-      body.mode-qrcodes-only .screen-only {
-        display: none !important;
-      }
-
-      body.mode-qrcodes-only .qrcodes-grid {
-        display: grid !important;
-        grid-template-columns: repeat(2, var(--sticker-w, 99mm)) !important;
-        grid-auto-rows: var(--sticker-h, 45mm) !important;
-        gap: var(--grid-gap, 2mm) !important;
-        width: 210mm !important;
-        height: 297mm !important;
-        margin: 0 !important;
-        padding-top: var(--top-margin, 8mm) !important;
-        padding-left: var(--left-margin, 5mm) !important;
-        box-sizing: border-box !important;
-        page-break-after: always !important;
-        break-after: page !important;
-        page-break-inside: avoid !important;
-        break-inside: avoid !important;
-      }
-
-      body.mode-qrcodes-only .qrcodes-grid:last-child {
-        page-break-after: avoid !important;
-        break-after: avoid !important;
-      }
-
-      .label-card {
-        box-sizing: border-box !important;
-        width: var(--sticker-w, 99mm) !important;
-        height: var(--sticker-h, 45mm) !important;
-        padding: 3mm 4mm !important;
-        border: 0.5pt dashed #999 !important;
-        background: #fff !important;
-        break-inside: avoid !important;
-        page-break-inside: avoid !important;
-      }
+      @page { size: A4 portrait; margin: 0; }
+      body * { visibility: hidden !important; }
+      html, body { width: 210mm !important; height: 297mm !important; margin: 0 !important; padding: 0 !important; background: #fff !important; overflow: hidden !important; }
+      body.mode-challan-only #printable-dc-section, body.mode-challan-only #printable-dc-section * { visibility: visible !important; }
+      body.mode-challan-only #printable-dc-section { position: absolute !important; left: 0 !important; top: 0 !important; width: 100% !important; margin: 0 !important; padding: 5mm !important; border: none !important; }
+      body.mode-challan-only .excel-template { width: 100% !important; max-width: 100% !important; height: 280mm !important; border: 2px solid #000 !important; padding: 5mm !important; margin: 0 auto !important; box-sizing: border-box !important; }
+      body.mode-challan-only .screen-only { display: none !important; }
+      body.mode-qrcodes-only #printable-qrcodes-section, body.mode-qrcodes-only #printable-qrcodes-section * { visibility: visible !important; }
+      body.mode-qrcodes-only #printable-qrcodes-section { position: absolute !important; left: 0 !important; top: 0 !important; width: 210mm !important; height: 297mm !important; margin: 0 !important; padding: 0 !important; border: none !important; }
+      body.mode-qrcodes-only .screen-only { display: none !important; }
+      body.mode-qrcodes-only .qrcodes-grid { display: grid !important; width: 210mm !important; height: 297mm !important; margin: 0 !important; padding-top: var(--top-margin, 8mm) !important; padding-left: var(--left-margin, 5mm) !important; }
     }
   </style>
 </head>
@@ -301,16 +136,18 @@
 
 <!-- Mobile Header Nav -->
 <div class="mobile-header">
-  <div class="fw-bold"><i class="fa-solid fa-truck-fast me-2"></i>DC Flow</div>
+  <div class="fw-bold"><i class="fa-solid fa-truck-fast me-2"></i>DC Flow (Server)</div>
   <button class="btn btn-outline-light btn-sm" onclick="toggleMobileMenu()"><i class="fa-solid fa-bars"></i> Menu</button>
 </div>
 
-<!-- Security Modal -->
-<div class="modal fade" id="loginModal" data-bs-backdrop="static" tabindex="-1">
+<!-- Enhanced Security Modal -->
+<div class="modal fade login-modal-backdrop-custom" id="loginModal" data-bs-backdrop="static" tabindex="-1">
   <div class="modal-dialog modal-dialog-centered">
-    <div class="modal-content">
-      <div class="modal-header bg-dark text-white">
-        <h5 class="modal-title"><i class="fa-solid fa-lock me-2"></i>DC Flow Authorization</h5>
+    <div class="modal-content login-modal-content">
+      <div class="login-header-brand">
+        <img src="LOGO.png" alt="Company Logo" class="login-logo-img" onerror="this.style.display='none'" />
+        <h4 class="fw-bold mb-1" style="font-size: 1.25rem; letter-spacing: 0.5px;">SHREE NATH ENGINEERING</h4>
+        <p class="text-muted small mb-0"><i class="fa-solid fa-industry me-1 text-primary"></i>SPM, Ducting, Conveyor & Automobile Fabrication</p>
       </div>
       <div class="modal-body p-4">
         <div class="mb-3">
@@ -323,10 +160,12 @@
         </div>
         <div class="mb-3">
           <label class="form-label">Security PIN Code</label>
-          <input type="password" id="role-pin" class="form-control" placeholder="Enter PIN (Admin: 9999, Dispatch: 1111, Receiver: 2222)" />
+          <input type="password" id="role-pin" class="form-control" placeholder="Enter PIN code" onkeydown="if(event.key==='Enter'){authenticateUser();}" />
         </div>
-        <div id="login-error" class="text-danger small d-none mb-2">Invalid PIN code!</div>
-        <button class="btn btn-primary w-100" onclick="authenticateUser()">Log In</button>
+        <div id="login-error" class="text-danger small fw-semibold text-center d-none mb-3"><i class="fa-solid fa-triangle-exclamation me-1"></i> Invalid PIN code! Please try again.</div>
+        <button class="btn btn-primary w-100 py-2 fw-bold shadow-sm" onclick="authenticateUser()">
+          <i class="fa-solid fa-right-to-bracket me-2"></i>Secure Log In
+        </button>
       </div>
     </div>
   </div>
@@ -356,8 +195,8 @@
       
       <!-- Sync Bar -->
       <div class="alert alert-light border d-flex justify-content-between align-items-center p-2 mb-3 screen-only">
-        <span class="small text-muted"><i class="fa-solid fa-rotate me-1"></i>Cloud Sync Status: <strong id="sync-status">Checking...</strong></span>
-        <button class="btn btn-sm btn-outline-secondary" onclick="fetchCloudData()"><i class="fa-solid fa-arrows-rotate me-1"></i>Refresh Data</button>
+        <span class="small text-muted"><i class="fa-solid fa-rotate me-1"></i>Server Sync Status: <strong id="sync-status">Checking...</strong></span>
+        <button class="btn btn-sm btn-outline-secondary" onclick="fetchGithubData()"><i class="fa-solid fa-arrows-rotate me-1"></i>Pull from Server</button>
       </div>
 
       <!-- 1. DASHBOARD -->
@@ -435,16 +274,19 @@
         </div>
 
         <div class="card p-3">
-          <h5>All Generated Delivery Challans</h5>
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <h5>All Generated Delivery Challans</h5>
+            <small class="text-muted"><i class="fa-solid fa-info-circle me-1"></i>Click table headers to sort ascending/descending</small>
+          </div>
           <div class="table-responsive">
             <table class="table table-hover align-middle" id="challan-summary-table">
               <thead>
                 <tr>
-                  <th>Challan #</th>
-                  <th>Customer</th>
-                  <th>PO Number</th>
-                  <th>Total Units</th>
-                  <th>Status</th>
+                  <th style="cursor: pointer;" onclick="sortDashboard('challanNo')">Challan # <i class="fa-solid fa-sort text-muted"></i></th>
+                  <th style="cursor: pointer;" onclick="sortDashboard('customer')">Customer <i class="fa-solid fa-sort text-muted"></i></th>
+                  <th style="cursor: pointer;" onclick="sortDashboard('poNo')">PO Number <i class="fa-solid fa-sort text-muted"></i></th>
+                  <th style="cursor: pointer;" onclick="sortDashboard('totalUnits')">Total Units <i class="fa-solid fa-sort text-muted"></i></th>
+                  <th style="cursor: pointer;" onclick="sortDashboard('status')">Status <i class="fa-solid fa-sort text-muted"></i></th>
                   <th>Actions</th>
                 </tr>
               </thead>
@@ -516,9 +358,16 @@
               <span class="badge bg-secondary mt-1" id="entry-count-badge">Entries: 0 / 15</span>
             </div>
             <div class="d-flex flex-wrap gap-2 align-items-center">
-              <button class="btn btn-sm btn-outline-success" onclick="downloadSampleExcel()"><i class="fa-solid fa-file-excel me-1"></i>Download Sample Excel</button>
+              <div class="input-group input-group-sm" style="width: 220px;">
+                <label class="input-group-text bg-light fw-bold">Global Type:</label>
+                <select id="global-remark-type" class="form-select" onchange="onGlobalRemarkTypeChange()">
+                  <option value="Remark">Remark</option>
+                  <option value="Amount">Amount (₹)</option>
+                </select>
+              </div>
+              <button class="btn btn-sm btn-outline-success" onclick="downloadSampleExcel()"><i class="fa-solid fa-file-excel me-1"></i>Download Sample</button>
               <input type="file" id="excel-file-input" class="d-none" accept=".xlsx, .xls, .csv" onchange="handleExcelUpload(event)" />
-              <button class="btn btn-sm btn-success" onclick="document.getElementById('excel-file-input').click()"><i class="fa-solid fa-upload me-1"></i>Upload Excel Items</button>
+              <button class="btn btn-sm btn-success" onclick="document.getElementById('excel-file-input').click()"><i class="fa-solid fa-upload me-1"></i>Upload Excel</button>
             </div>
           </div>
 
@@ -526,13 +375,13 @@
             <table class="table table-bordered align-middle" id="items-table">
               <thead class="table-light">
                 <tr>
-                  <th style="width: 60px;">Sr#</th>
-                  <th style="width: 140px;">Item Code</th>
+                  <th style="width: 50px;">Sr#</th>
+                  <th style="width: 120px;">Item Code</th>
                   <th>Description</th>
-                  <th style="width: 100px;">Qty</th>
-                  <th style="width: 100px;">Unit</th>
-                  <th>Remark</th>
-                  <th style="width: 60px;">Action</th>
+                  <th style="width: 80px;">Qty</th>
+                  <th style="width: 90px;">Unit</th>
+                  <th style="width: 220px;" id="th-remark-amount">Remark / Amount</th>
+                  <th style="width: 50px;">Action</th>
                 </tr>
               </thead>
               <tbody></tbody>
@@ -617,10 +466,10 @@
                   <tr>
                     <th style="width: 6%;">Sr. No.</th>
                     <th style="width: 18%;">Item Code</th>
-                    <th style="width: 45%;">DESCRIPTION</th>
-                    <th style="width: 9%;">Qty</th>
-                    <th style="width: 9%;">Unit</th>
-                    <th style="width: 13%;">Remark</th>
+                    <th style="width: 42%;">DESCRIPTION</th>
+                    <th style="width: 8%;">Qty</th>
+                    <th style="width: 8%;">Unit</th>
+                    <th style="width: 18%;" id="dc-table-th-remark">Remark / Amount</th>
                   </tr>
                 </thead>
                 <tbody id="dc-view-items-body"></tbody>
@@ -628,12 +477,16 @@
             </div>
 
             <div class="excel-footer-section">
-              <div class="text-end fw-bold mb-4">For SHREE NATH ENGINEERING</div>
-
-              <div class="row excel-sign-row">
-                <div class="col-4">Received By</div>
-                <div class="col-4">Vehicle No.& Sign.</div>
-                <div class="col-4">Authorised Signatory</div>
+              <div class="row excel-sign-row align-items-end">
+                <div class="col-4 text-start">Received By</div>
+                <div class="col-4 text-center">
+                  <div class="mb-1 text-muted small"> <span id="dc-view-vehicle-bottom" class="fw-bold text-dark"></span></div>
+                  <div>Vehicle No. & Sign.</div>
+                </div>
+                <div class="col-4 text-end">
+                  <div class="mb-4 fw-bold">For SHREE NATH ENGINEERING</div>
+                  <div>Authorised Signatory</div>
+                </div>
               </div>
             </div>
           </div>
@@ -874,24 +727,33 @@
         </div>
       </div>
 
-      <!-- 8. SETTINGS & REALTIME SYNC -->
+      <!-- 8. SETTINGS & SERVER SYNC -->
       <div id="section-settings" class="content-section d-none">
-        <h3 class="mb-4">System Settings & Realtime Sync</h3>
-        <div class="card p-4 mb-4">
-          <h5>Google Apps Script Web App Endpoint</h5>
-          <p class="text-muted">Enter deployed Google Apps Script URL to sync data across mobile devices. Available for Admin, Dispatch, and Receiver roles.</p>
+        <h3 class="mb-4">System Settings & Server REST API Sync</h3>
+        
+        <div class="card p-4 mb-4 border-primary">
+          <h5 class="text-primary mb-3"><i class="fa-solid fa-server me-2"></i>Server Repository Backend Settings</h5>
+          <p class="text-muted small">Configure your server repository credentials so that all mobile and desktop devices pull and commit data directly to your `database.json` file on the server.</p>
+          
           <div class="mb-3">
-            <input type="text" id="gas-url" class="form-control" placeholder="https://script.google.com/macros/s/.../exec" />
+            <label class="form-label fw-bold">Server Repository (Owner / Repo)</label>
+            <input type="text" id="gh-repo" class="form-control" placeholder="e.g. your-username/dc-flow-system" />
           </div>
-          <button class="btn btn-primary mb-3" onclick="saveSettings()">Save & Sync Settings</button>
+          <div class="mb-3">
+            <label class="form-label fw-bold">Personal Access Token (PAT)</label>
+            <input type="password" id="gh-token" class="form-control" placeholder="ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" />
+            <small class="text-muted">Needs repository contents write permissions.</small>
+          </div>
+          <button class="btn btn-primary" onclick="saveGithubSettings()"><i class="fa-solid fa-floppy-disk me-1"></i>Save & Test Server Connection</button>
+        </div>
 
-          <hr class="my-4" />
-
-          <h5 class="mb-2"><i class="fa-solid fa-bolt me-2 text-warning"></i>Realtime Auto-Sync Option</h5>
-          <p class="text-muted small">Enabling Realtime Auto-Sync runs fast background checks every 10 seconds to sync your database instantly without blocking scanning or printing tasks.</p>
-          <div class="form-check form-switch mb-3">
-            <input class="form-check-input" type="checkbox" id="realtime-sync-toggle" onchange="toggleRealtimeSync()" />
-            <label class="form-check-label fw-bold" for="realtime-sync-toggle">Enable Realtime Background Auto-Sync</label>
+        <div class="card p-4 border-success">
+          <h5 class="text-success mb-3"><i class="fa-solid fa-database me-2"></i>Local Database Backup & Restore</h5>
+          <p class="text-muted small">Download a secure backup of your entire local application database or restore a backup file.</p>
+          <div class="d-flex gap-3">
+            <button class="btn btn-success" onclick="downloadLocalBackup()"><i class="fa-solid fa-download me-2"></i>Download Database Backup</button>
+            <input type="file" id="restore-file-input" class="d-none" accept=".json" onchange="restoreLocalBackup(event)" />
+            <button class="btn btn-outline-success" onclick="document.getElementById('restore-file-input').click()"><i class="fa-solid fa-upload me-2"></i>Restore Database Backup</button>
           </div>
         </div>
       </div>
@@ -913,14 +775,56 @@
   let currentUserRole = null;
   let editingDcNo = null;
   let selectedCustomerForDelete = null;
-  let realtimeSyncTimer = null;
+  let githubFileSha = null; 
+
+  let dashSortColumn = 'challanNo';
+  let dashSortDirection = 'desc';
 
   const MAX_ENTRIES = 15;
   const PINS = { admin: '9999', dispatch: '1111', receiver: '2222' };
 
+  // Updated Default credentials as requested
+  const DEFAULT_REPO = 'designshreenathengg-oss/DC';
+  const DEFAULT_TOKEN = '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';
+
+  function formatDate(dateStr) {
+    if (!dateStr) return '-';
+    const parts = dateStr.split('-');
+    if (parts.length === 3) {
+      const year = parts[0];
+      const monthIdx = parseInt(parts[1], 10) - 1;
+      const day = parts[2];
+      const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+      if (months[monthIdx]) return `${day}-${months[monthIdx]}-${year}`;
+    }
+    const d = new Date(dateStr);
+    if (!isNaN(d.getTime())) {
+      const day = String(d.getDate()).padStart(2, '0');
+      const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+      return `${day}-${months[d.getMonth()]}-${d.getFullYear()}`;
+    }
+    return dateStr;
+  }
+
+  function formatTime(dateObjOrStr) {
+    const d = dateObjOrStr ? new Date(dateObjOrStr) : new Date();
+    if (isNaN(d.getTime())) return dateObjOrStr || '-';
+    let hours = d.getHours();
+    const minutes = String(d.getMinutes()).padStart(2, '0');
+    const ampm = hours >= 12 ? 'pm' : 'am';
+    hours = hours % 12; hours = hours ? hours : 12;
+    return `${String(hours).padStart(2, '0')}:${minutes} ${ampm}`;
+  }
+
+  function formatDateTime(dateStr) {
+    if (!dateStr) return '-';
+    const d = new Date(dateStr);
+    if (isNaN(d.getTime())) return dateStr;
+    return `${formatDate(d.toISOString().split('T')[0])} ${formatTime(d)}`;
+  }
+
   function toggleMobileMenu() {
-    const sidebar = document.getElementById('sidebar-wrapper');
-    sidebar.classList.toggle('show-mobile');
+    document.getElementById('sidebar-wrapper').classList.toggle('show-mobile');
   }
 
   function getDeviceDetails() {
@@ -928,10 +832,7 @@
     let deviceType = "Desktop";
     if (/iPhone|iPad|iPod/i.test(ua)) deviceType = "iPhone/iOS";
     else if (/Android/i.test(ua)) deviceType = "Android Mobile";
-    else if (/Mobile|Tablet/i.test(ua)) deviceType = "Mobile Device";
-
-    let platform = navigator.platform || 'Unknown OS';
-    return `${deviceType} (${platform})`;
+    return `${deviceType} (${navigator.platform || 'Unknown OS'})`;
   }
 
   function authenticateUser() {
@@ -942,9 +843,7 @@
     if (PINS[role] === pin) {
       currentUserRole = role;
       errorEl.classList.add('d-none');
-      const loginModal = bootstrap.Modal.getInstance(document.getElementById('loginModal'));
-      loginModal.hide();
-      
+      bootstrap.Modal.getInstance(document.getElementById('loginModal')).hide();
       document.getElementById('user-role-badge').innerText = 'Role: ' + role.toUpperCase();
       applySecurityPermissions();
     } else {
@@ -968,59 +867,58 @@
 
   function logout() {
     currentUserRole = null;
-    const modal = new bootstrap.Modal(document.getElementById('loginModal'));
-    modal.show();
+    document.getElementById('role-pin').value = '';
+    new bootstrap.Modal(document.getElementById('loginModal')).show();
   }
 
-  function getGasUrl() {
-    return localStorage.getItem('DC_FLOW_GAS_URL') || '';
+  function getGhConfig() {
+    return {
+      repo: localStorage.getItem('SNE_GH_REPO') || DEFAULT_REPO,
+      token: localStorage.getItem('SNE_GH_TOKEN') || DEFAULT_TOKEN
+    };
   }
 
-  function fetchCloudData(isBackground = false) {
-    const url = getGasUrl();
+  // SERVER FETCH (PULL)
+  async function fetchGithubData(isBackground = false) {
+    const cfg = getGhConfig();
     const statusEl = document.getElementById('sync-status');
-    if (!url) {
-      statusEl.className = 'text-warning';
-      statusEl.innerText = 'Offline Mode';
-      if(!isBackground) loadLocalDb();
-      return;
-    }
 
     if(!isBackground) {
       statusEl.className = 'text-info';
-      statusEl.innerText = 'Syncing...';
+      statusEl.innerText = 'Pulling from Server...';
     }
 
-    const script = document.createElement('script');
-    const callbackName = 'gasCallback_' + Date.now();
+    try {
+      const res = await fetch(`https://api.github.com/repos/${cfg.repo}/contents/database.json`, {
+        headers: {
+          'Accept': 'application/vnd.github+json',
+          'Authorization': `Bearer ${cfg.token}`
+        }
+      });
 
-    window[callbackName] = function(cloudDb) {
-      delete window[callbackName];
-      if (script.parentNode) script.parentNode.removeChild(script);
+      if (!res.ok) throw new Error('Failed to fetch from Server repository');
+      const fileData = await res.json();
+      githubFileSha = fileData.sha; 
 
-      if (cloudDb && cloudDb.challans) {
-        db = cloudDb;
-        if(!db.customers) db.customers = {};
-        if(!db.qrcodes) db.qrcodes = db.barcodes || {};
-        localStorage.setItem('DC_FLOW_DB', JSON.stringify(db));
-        statusEl.className = 'text-success';
-        statusEl.innerText = 'Synced (Realtime)';
-        initAppView();
-      }
-    };
+      const jsonString = decodeURIComponent(escape(atob(fileData.content)));
+      db = JSON.parse(jsonString);
 
-    script.onerror = function() {
-      delete window[callbackName];
-      if (script.parentNode) script.parentNode.removeChild(script);
+      if(!db.customers) db.customers = {};
+      if(!db.qrcodes) db.qrcodes = db.barcodes || {};
+      if(!db.audit) db.audit = [];
+
+      localStorage.setItem('DC_FLOW_DB', JSON.stringify(db));
+      statusEl.className = 'text-success';
+      statusEl.innerText = 'Synced with Server';
+      initAppView();
+    } catch(err) {
+      console.error(err);
       if(!isBackground) {
         statusEl.className = 'text-danger';
-        statusEl.innerText = 'Sync Failed (Local Copy Loaded)';
+        statusEl.innerText = 'Server Sync Failed (Loaded Local Cache)';
         loadLocalDb();
       }
-    };
-
-    script.src = `${url}?action=getDb&callback=${callbackName}`;
-    document.body.appendChild(script);
+    }
   }
 
   function loadLocalDb() {
@@ -1030,49 +928,93 @@
     initAppView();
   }
 
-  function saveData() {
+  // SERVER SAVE (PUSH)
+  async function saveData() {
     localStorage.setItem('DC_FLOW_DB', JSON.stringify(db));
     renderDashboard();
 
-    const url = getGasUrl();
-    if (url) {
-      const statusEl = document.getElementById('sync-status');
-      statusEl.className = 'text-info';
-      statusEl.innerText = 'Saving...';
+    const cfg = getGhConfig();
+    const statusEl = document.getElementById('sync-status');
 
-      const payload = encodeURIComponent(JSON.stringify({ action: 'syncDb', db: db }));
-      fetch(url, {
-        method: 'POST',
-        mode: 'no-cors',
-        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-        body: 'payload=' + payload
-      }).then(() => {
-        statusEl.className = 'text-success';
-        statusEl.innerText = 'Synced with Cloud';
-      }).catch(() => {
-        statusEl.className = 'text-danger';
-        statusEl.innerText = 'Cloud Sync Failed';
+    statusEl.className = 'text-info';
+    statusEl.innerText = 'Pushing to Server...';
+
+    try {
+      const jsonStr = JSON.stringify(db, null, 2);
+      const base64Content = btoa(unescape(encodeURIComponent(jsonStr)));
+
+      const res = await fetch(`https://api.github.com/repos/${cfg.repo}/contents/database.json`, {
+        method: 'PUT',
+        headers: {
+          'Accept': 'application/vnd.github+json',
+          'Authorization': `Bearer ${cfg.token}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          message: `Update database.json from ${currentUserRole || 'system'} (${new Date().toISOString()})`,
+          content: base64Content,
+          sha: githubFileSha
+        })
       });
+
+      if (!res.ok) {
+        const errJson = await res.json();
+        throw new Error(errJson.message || 'Server commit failed');
+      }
+
+      const commitRes = await res.json();
+      githubFileSha = commitRes.content.sha; 
+
+      statusEl.className = 'text-success';
+      statusEl.innerText = 'Synced with Server';
+    } catch(err) {
+      console.error(err);
+      statusEl.className = 'text-danger';
+      statusEl.innerText = 'Server Push Failed (Saved Locally)';
     }
   }
 
-  function toggleRealtimeSync() {
-    const isEnabled = document.getElementById('realtime-sync-toggle').checked;
-    localStorage.setItem('DC_FLOW_REALTIME', isEnabled ? 'true' : 'false');
-    setupRealtimePolling();
+  function saveGithubSettings() {
+    const repo = document.getElementById('gh-repo').value.trim() || DEFAULT_REPO;
+    const token = document.getElementById('gh-token').value.trim() || DEFAULT_TOKEN;
+
+    localStorage.setItem('SNE_GH_REPO', repo);
+    localStorage.setItem('SNE_GH_TOKEN', token);
+
+    alert("Server settings saved! Testing connection...");
+    fetchGithubData();
   }
 
-  function setupRealtimePolling() {
-    if (realtimeSyncTimer) clearInterval(realtimeSyncTimer);
-    const isEnabled = localStorage.getItem('DC_FLOW_REALTIME') === 'true';
-    const toggleEl = document.getElementById('realtime-sync-toggle');
-    if(toggleEl) toggleEl.checked = isEnabled;
+  function downloadLocalBackup() {
+    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(db, null, 2));
+    const dlAnchorElem = document.createElement('a');
+    dlAnchorElem.setAttribute("href", dataStr);
+    dlAnchorElem.setAttribute("download", `DC_Flow_Backup_${new Date().toISOString().split('T')[0]}.json`);
+    document.body.appendChild(dlAnchorElem);
+    dlAnchorElem.click();
+    dlAnchorElem.remove();
+  }
 
-    if (isEnabled) {
-      realtimeSyncTimer = setInterval(() => {
-        fetchCloudData(true);
-      }, 10000);
-    }
+  function restoreLocalBackup(event) {
+    const file = event.target.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = function(e) {
+      try {
+        const parsed = JSON.parse(e.target.result);
+        if (parsed && parsed.challans) {
+          db = parsed;
+          saveData();
+          initAppView();
+          alert("Database successfully restored from backup!");
+        } else {
+          alert("Invalid backup file format!");
+        }
+      } catch(err) {
+        alert("Error reading JSON backup file.");
+      }
+    };
+    reader.readAsText(file);
   }
 
   function initAppView() {
@@ -1085,38 +1027,29 @@
     document.querySelectorAll('.content-section').forEach(el => el.classList.add('d-none'));
     document.getElementById('section-' + id).classList.remove('d-none');
     stopScanner();
-
     document.getElementById('sidebar-wrapper').classList.remove('show-mobile');
 
-    if(id === 'dashboard') {
-      populateDashFilters();
-      renderDashboard();
-    }
+    if(id === 'dashboard') { populateDashFilters(); renderDashboard(); }
     if(id === 'create-challan' && !editingDcNo) setupNewChallanForm();
     if(id === 'print-challan') populatePrintSiteFilter();
-    if(id === 'print-qrcodes') {
-      loadStickerConfig();
-      populatePrintQRCodeSelect();
-    }
+    if(id === 'print-qrcodes') { loadStickerConfig(); populatePrintQRCodeSelect(); }
     if(id === 'dispatch') populateDispatchDCSelect();
     if(id === 'supervisor') populateSupervisorDCSelect();
     if(id === 'reports') populateAuditFilters();
+    if(id === 'settings') {
+      document.getElementById('gh-repo').value = localStorage.getItem('SNE_GH_REPO') || DEFAULT_REPO;
+      document.getElementById('gh-token').value = localStorage.getItem('SNE_GH_TOKEN') || DEFAULT_TOKEN;
+    }
   }
 
   function playScanAlert() {
     try {
       const ctx = new (window.AudioContext || window.webkitAudioContext)();
       const osc = ctx.createOscillator();
-      osc.type = 'sine';
-      osc.frequency.setValueAtTime(900, ctx.currentTime);
-      osc.connect(ctx.destination);
-      osc.start();
-      osc.stop(ctx.currentTime + 0.15);
+      osc.type = 'sine'; osc.frequency.setValueAtTime(900, ctx.currentTime);
+      osc.connect(ctx.destination); osc.start(); osc.stop(ctx.currentTime + 0.15);
     } catch(e){}
-
-    if ("vibrate" in navigator) {
-      navigator.vibrate(200);
-    }
+    if ("vibrate" in navigator) navigator.vibrate(200);
   }
 
   function setupNewChallanForm() {
@@ -1134,16 +1067,23 @@
     document.getElementById('new-project-name').value = '';
     document.getElementById('new-vehicle-no').value = '';
     document.getElementById('delivery-address-text').value = '';
+    document.getElementById('global-remark-type').value = 'Remark';
 
     populateCustomerDropdown();
-
     const tbody = document.querySelector('#items-table tbody');
     tbody.innerHTML = '';
     addDcItemRow();
+    onGlobalRemarkTypeChange();
   }
 
-  function resetDcForm() {
-    setupNewChallanForm();
+  function resetDcForm() { setupNewChallanForm(); }
+
+  function onGlobalRemarkTypeChange() {
+    const val = document.getElementById('global-remark-type').value;
+    document.getElementById('th-remark-amount').innerText = val === 'Amount' ? 'Amount (₹)' : 'Remark';
+    document.querySelectorAll('.item-remark').forEach(input => {
+      input.placeholder = val === 'Amount' ? '0.00' : 'Remark text';
+    });
   }
 
   function populateDashFilters() {
@@ -1163,15 +1103,11 @@
     addrSel.innerHTML = '<option value="">All Addresses</option>';
 
     if (cust && db.customers[cust]) {
-      db.customers[cust].addresses.forEach(a => {
-        addrSel.innerHTML += `<option value="${a}">${a}</option>`;
-      });
+      db.customers[cust].addresses.forEach(a => { addrSel.innerHTML += `<option value="${a}">${a}</option>`; });
     } else {
       let allAddr = new Set();
       Object.values(db.customers).forEach(c => (c.addresses || []).forEach(a => allAddr.add(a)));
-      allAddr.forEach(a => {
-        addrSel.innerHTML += `<option value="${a}">${a}</option>`;
-      });
+      allAddr.forEach(a => { addrSel.innerHTML += `<option value="${a}">${a}</option>`; });
     }
     renderDashboard();
   }
@@ -1182,11 +1118,7 @@
     const tbody = document.querySelector('#missing-items-table tbody');
     tbody.innerHTML = '';
 
-    if (!q) {
-      resultsContainer.style.display = 'none';
-      return;
-    }
-
+    if (!q) { resultsContainer.style.display = 'none'; return; }
     resultsContainer.style.display = 'block';
     let matchCount = 0;
 
@@ -1213,33 +1145,7 @@
         }
       });
     }
-
-    if (db.challans) {
-      Object.values(db.challans).forEach(c => {
-        const cNo = (c.challanNo || '').toLowerCase();
-        const cust = (c.customer || '').toLowerCase();
-        const po = (c.poNo || '').toLowerCase();
-
-        if (cNo.includes(q) || cust.includes(q) || po.includes(q)) {
-          (c.items || []).forEach(it => {
-            matchCount++;
-            tbody.innerHTML += `
-              <tr>
-                <td><code>Challan-Match</code></td>
-                <td><strong>${c.challanNo}</strong></td>
-                <td>${c.customer}</td>
-                <td>${it.desc} (${it.code})</td>
-                <td><span class="badge bg-${c.status==='DELIVERED'?'success':c.status==='IN TRANSIT'?'warning':'secondary'}">${c.status}</span></td>
-              </tr>
-            `;
-          });
-        }
-      });
-    }
-
-    if (matchCount === 0) {
-      tbody.innerHTML = `<tr><td colspan="5" class="text-center text-muted">No items matching "${q}" found in database.</td></tr>`;
-    }
+    if (matchCount === 0) tbody.innerHTML = `<tr><td colspan="5" class="text-center text-muted">No items matching "${q}" found in database.</td></tr>`;
   }
 
   function populateCustomerDropdown() {
@@ -1249,9 +1155,7 @@
       <option value="__NEW__">+ Add New Customer</option>
       <option value="__DELETE__" class="text-danger fw-bold">🗑 Delete Selected Customer</option>
     `;
-    Object.keys(db.customers).forEach(cName => {
-      custSelect.innerHTML += `<option value="${cName}">${cName}</option>`;
-    });
+    Object.keys(db.customers).forEach(cName => { custSelect.innerHTML += `<option value="${cName}">${cName}</option>`; });
   }
 
   function handleCustomerSelect() {
@@ -1260,32 +1164,33 @@
     const addrSelect = document.getElementById('address-select');
 
     if (val === '__DELETE__') {
-      if (!selectedCustomerForDelete) {
-        alert("Please select a valid customer first before choosing Delete!");
-        document.getElementById('customer-select').value = '';
-        return;
+      const custToDel = selectedCustomerForDelete || document.getElementById('customer-select').value;
+      if (!custToDel || custToDel.startsWith('__')) { 
+        alert("Please select a valid customer from the dropdown first before clicking Delete!"); 
+        document.getElementById('customer-select').value = ''; 
+        return; 
       }
-      if (confirm(`Are you sure you want to permanently delete customer "${selectedCustomerForDelete}" and all their addresses?`)) {
-        delete db.customers[selectedCustomerForDelete];
-        saveData();
-        populateCustomerDropdown();
+      if (confirm(`Permanently delete customer "${custToDel}"?`)) {
+        delete db.customers[custToDel];
+        saveData(); 
+        populateCustomerDropdown(); 
         document.getElementById('customer-select').value = '';
         addrSelect.innerHTML = '<option value="">Select Address...</option>';
         document.getElementById('delivery-address-text').value = '';
-        alert("Customer deleted successfully.");
-      } else {
-        document.getElementById('customer-select').value = selectedCustomerForDelete;
+        selectedCustomerForDelete = null;
+      } else { 
+        document.getElementById('customer-select').value = selectedCustomerForDelete || ''; 
       }
       return;
     }
 
     if (val === '__NEW__') {
-      selectedCustomerForDelete = null;
+      selectedCustomerForDelete = null; 
       newBox.style.display = 'block';
       addrSelect.innerHTML = '<option value="">Select Address...</option>';
       document.getElementById('delivery-address-text').value = '';
     } else {
-      selectedCustomerForDelete = val;
+      selectedCustomerForDelete = val; 
       newBox.style.display = 'none';
       addrSelect.innerHTML = `
         <option value="">Select Address...</option>
@@ -1293,9 +1198,7 @@
         <option value="__DELETE_ADDR__" class="text-danger fw-bold">🗑 Delete Selected Address</option>
       `;
       if (val && db.customers[val]) {
-        db.customers[val].addresses.forEach(addr => {
-          addrSelect.innerHTML += `<option value="${addr}">${addr}</option>`;
-        });
+        db.customers[val].addresses.forEach(addr => { addrSelect.innerHTML += `<option value="${addr}">${addr}</option>`; });
       }
     }
   }
@@ -1306,38 +1209,29 @@
 
     if (val === '__DELETE_ADDR__') {
       const textVal = document.getElementById('delivery-address-text').value.trim();
-      if (!custVal || !db.customers[custVal]) {
-        alert("Please select a valid customer first!");
-        return;
-      }
-      if (!textVal || !db.customers[custVal].addresses.includes(textVal)) {
-        alert("Please select a valid existing address from the dropdown to delete!");
-        return;
-      }
-      if (confirm(`Delete address "${textVal}" for customer "${custVal}"?`)) {
-        db.customers[custVal].addresses = db.customers[custVal].addresses.filter(a => a !== textVal);
-        saveData();
-        handleCustomerSelect();
+      if (!custVal || custVal.startsWith('__') || !db.customers[custVal]) { alert("Select a valid customer first!"); return; }
+      if (!textVal) { alert("Select or type the address to delete in the text box below!"); return; }
+      if (confirm(`Delete address "${textVal}"?`)) {
+        db.customers[custVal].addresses = (db.customers[custVal].addresses || []).filter(a => a !== textVal);
+        saveData(); 
+        handleCustomerSelect(); 
         document.getElementById('delivery-address-text').value = '';
-        alert("Address deleted successfully.");
       }
       return;
     }
-
-    if (val !== '__NEW_ADDR__' && val !== '') {
-      document.getElementById('delivery-address-text').value = val;
-    } else {
-      document.getElementById('delivery-address-text').value = '';
-    }
+    if (val !== '__NEW_ADDR__' && val !== '') document.getElementById('delivery-address-text').value = val;
+    else document.getElementById('delivery-address-text').value = '';
   }
 
   function addDcItemRow(itemData = null) {
     const tbody = document.querySelector('#items-table tbody');
     const rowCount = tbody.querySelectorAll('tr').length;
+    if (rowCount >= MAX_ENTRIES) { alert(`Maximum of ${MAX_ENTRIES} line entries allowed!`); return; }
 
-    if (rowCount >= MAX_ENTRIES) {
-      alert(`Maximum of ${MAX_ENTRIES} line entries allowed per Delivery Challan!`);
-      return;
+    const globalType = document.getElementById('global-remark-type').value;
+    let remVal = itemData ? (itemData.remark || itemData.amount || itemData.Remark || '') : '';
+    if (globalType === 'Amount' && remVal.startsWith('₹')) {
+      remVal = remVal.replace('₹', '').trim();
     }
 
     const tr = document.createElement('tr');
@@ -1347,94 +1241,63 @@
       <td><input type="text" class="form-control item-desc" value="${itemData ? (itemData.DESCRIPTION || itemData.desc || '') : ''}" placeholder="Description"></td>
       <td><input type="number" class="form-control item-qty" value="${itemData ? (itemData.Qty || itemData.qty || '1') : '1'}" min="1"></td>
       <td><input type="text" class="form-control item-unit" value="${itemData ? (itemData.Unit || itemData.unit || 'Nos') : 'Nos'}" placeholder="Nos"></td>
-      <td><input type="text" class="form-control item-remark" value="${itemData ? (itemData.Remark || itemData.remark || '') : ''}" placeholder="Remark"></td>
+      <td>
+        <input type="text" class="form-control item-remark" value="${remVal}" placeholder="${globalType === 'Amount' ? '0.00' : 'Remark text'}">
+      </td>
       <td class="text-center"><button class="btn btn-sm btn-outline-danger" onclick="removeDcItemRow(this)"><i class="fa-solid fa-trash"></i></button></td>
     `;
     tbody.appendChild(tr);
     updateEntryCountBadge();
   }
 
-  function removeDcItemRow(btn) {
-    btn.closest('tr').remove();
-    reindexRows();
-    updateEntryCountBadge();
-  }
-
-  function reindexRows() {
-    const rows = document.querySelectorAll('#items-table tbody tr');
-    rows.forEach((row, idx) => {
-      row.querySelector('.row-index').innerText = idx + 1;
-    });
-  }
+  function removeDcItemRow(btn) { btn.closest('tr').remove(); reindexRows(); updateEntryCountBadge(); }
+  function reindexRows() { document.querySelectorAll('#items-table tbody tr').forEach((row, idx) => { row.querySelector('.row-index').innerText = idx + 1; }); }
 
   function updateEntryCountBadge() {
     const count = document.querySelectorAll('#items-table tbody tr').length;
     const badge = document.getElementById('entry-count-badge');
     badge.innerText = `Entries: ${count} / ${MAX_ENTRIES}`;
-    if (count >= MAX_ENTRIES) {
-      badge.className = 'badge bg-danger';
-      document.getElementById('add-item-btn').disabled = true;
-    } else {
-      badge.className = 'badge bg-secondary';
-      document.getElementById('add-item-btn').disabled = false;
-    }
+    badge.className = count >= MAX_ENTRIES ? 'badge bg-danger' : 'badge bg-secondary';
+    document.getElementById('add-item-btn').disabled = count >= MAX_ENTRIES;
   }
 
-  /* EXCEL UPLOAD & SAMPLE DOWNLOAD FOR LINE ITEMS */
   function downloadSampleExcel() {
     const sampleData = [
-      { "Sr. No.": 1, "Item Code": "ITM-01", "DESCRIPTION": "Galvanized Air Duct 500x400mm", "Qty": 5, "Unit": "Nos", "Remark": "Urgent" },
-      { "Sr. No.": 2, "Item Code": "ITM-02", "DESCRIPTION": "Flexible Duct Connector", "Qty": 10, "Unit": "Mtr", "Remark": "-" },
-      { "Sr. No.": 3, "Item Code": "ITM-03", "DESCRIPTION": "SS Control Panel Enclosure", "Qty": 2, "Unit": "Nos", "Remark": "Fragile" }
+      { "Sr. No.": 1, "Item Code": "ITM-01", "DESCRIPTION": "Galvanized Air Duct 500x400mm", "Qty": 5, "Unit": "Nos", "Remark/Amount Value": "Urgent" },
+      { "Sr. No.": 2, "Item Code": "ITM-02", "DESCRIPTION": "Flexible Duct Connector", "Qty": 10, "Unit": "Mtr", "Remark/Amount Value": "1500.00" }
     ];
     const ws = XLSX.utils.json_to_sheet(sampleData);
-    const wb = XLSX.utils.book_new();
-    XLSX.utils.book_append_sheet(wb, ws, "LineItems");
+    const wb = XLSX.utils.book_new(); XLSX.utils.book_append_sheet(wb, ws, "LineItems");
     XLSX.writeFile(wb, "Sample_Challan_Items.xlsx");
   }
 
   function handleExcelUpload(event) {
-    const file = event.target.files[0];
-    if (!file) return;
-
+    const file = event.target.files[0]; if (!file) return;
     const reader = new FileReader();
     reader.onload = function(e) {
       try {
         const data = new Uint8Array(e.target.result);
         const workbook = XLSX.read(data, { type: 'array' });
-        const firstSheetName = workbook.SheetNames[0];
-        const worksheet = workbook.Sheets[firstSheetName];
-        const jsonRows = XLSX.utils.sheet_to_json(worksheet);
-
-        if (jsonRows.length === 0) {
-          alert("Uploaded Excel file is empty!");
-          return;
-        }
-
-        const tbody = document.querySelector('#items-table tbody');
-        tbody.innerHTML = '';
-
+        const jsonRows = XLSX.utils.sheet_to_json(workbook.Sheets[workbook.SheetNames[0]]);
+        if (jsonRows.length === 0) { alert("Empty Excel file!"); return; }
+        
+        const tbody = document.querySelector('#items-table tbody'); tbody.innerHTML = '';
         let addedCount = 0;
         jsonRows.forEach((row, idx) => {
           if (addedCount < MAX_ENTRIES) {
-            const itemData = {
-              code: row['Item Code'] || row['itemCode'] || row['Code'] || `ITM-0${idx+1}`,
-              desc: row['DESCRIPTION'] || row['Description'] || row['desc'] || 'Item Particular',
-              qty: parseInt(row['Qty'] || row['Quantity'] || row['qty'] || 1),
-              unit: row['Unit'] || row['unit'] || 'Nos',
-              remark: row['Remark'] || row['remark'] || '-'
-            };
-            addDcItemRow(itemData);
+            addDcItemRow({
+              code: row['Item Code'] || row['itemCode'] || `ITM-0${idx+1}`,
+              desc: row['DESCRIPTION'] || row['Description'] || 'Item Particular',
+              qty: parseInt(row['Qty'] || 1),
+              unit: row['Unit'] || 'Nos',
+              remark: row['Remark/Amount Value'] || row['Remark'] || '-'
+            });
             addedCount++;
           }
         });
-
         document.getElementById('excel-file-input').value = '';
-        alert(`Successfully imported ${addedCount} line items from Excel!`);
-      } catch (err) {
-        alert("Error parsing Excel file. Please ensure it follows the correct format.");
-        console.error(err);
-      }
+        alert(`Imported ${addedCount} line items!`);
+      } catch (err) { alert("Error parsing Excel file."); console.error(err); }
     };
     reader.readAsArrayBuffer(file);
   }
@@ -1446,73 +1309,63 @@
     const poDate = document.getElementById('new-po-date').value;
     const projectName = document.getElementById('new-project-name').value.trim();
     const vehicle = document.getElementById('new-vehicle-no').value.trim();
+    const remarkType = document.getElementById('global-remark-type').value;
 
     let customer = document.getElementById('customer-select').value;
-    if (customer === '__NEW__') {
-      customer = document.getElementById('new-customer-name').value.trim();
-    }
+    if (customer === '__NEW__') customer = document.getElementById('new-customer-name').value.trim();
     const address = document.getElementById('delivery-address-text').value.trim();
 
-    if (!customer || !address) { alert("Customer Name and Delivery Address are required!"); return; }
+    if (!customer || !address) { alert("Customer Name and Address required!"); return; }
 
     if (!db.customers[customer]) db.customers[customer] = { addresses: [] };
-    if (!db.customers[customer].addresses.includes(address)) {
-      db.customers[customer].addresses.push(address);
-    }
+    if (!db.customers[customer].addresses.includes(address)) db.customers[customer].addresses.push(address);
 
     const rows = document.querySelectorAll('#items-table tbody tr');
-    if (rows.length === 0) { alert("Please add at least one line item!"); return; }
-    if (rows.length > MAX_ENTRIES) { alert(`Maximum allowed entries is ${MAX_ENTRIES}!`); return; }
+    if (rows.length === 0) { alert("Add at least one line item!"); return; }
 
-    let items = [];
-    let qrcodesArr = [];
-    let qrCounter = 1;
-
+    let items = [], qrcodesArr = [];
     rows.forEach(row => {
       const code = row.querySelector('.item-code').value.trim() || 'ITM';
       const desc = row.querySelector('.item-desc').value.trim() || 'Item Particular';
       const qty = parseInt(row.querySelector('.item-qty').value) || 1;
       const unit = row.querySelector('.item-unit').value.trim() || 'Nos';
-      const remark = row.querySelector('.item-remark').value.trim() || '-';
+      let rawRemark = row.querySelector('.item-remark').value.trim() || '-';
+      
+      if (remarkType === 'Amount' && rawRemark !== '-' && !rawRemark.startsWith('₹')) {
+        rawRemark = '₹ ' + rawRemark;
+      }
 
-      items.push({ code, desc, qty, unit, remark });
+      items.push({ code, desc, qty, unit, remarkType, remark: rawRemark });
 
       for(let i = 1; i <= qty; i++) {
-        const uniqueQR = `${dcNo}-${code}-${qrCounter++}`;
-        
+        const uniqueQR = `${dcNo}-${code}-${i}`;
         if (!db.qrcodes[uniqueQR]) {
-          db.qrcodes[uniqueQR] = {
-            qrCode: uniqueQR, challanNo: dcNo, itemCode: code, desc, customer, location: address,
-            status: 'QR GENERATED', dispatchScan: null, siteScan: null
-          };
+          db.qrcodes[uniqueQR] = { qrCode: uniqueQR, challanNo: dcNo, itemCode: code, desc, customer, location: address, status: 'QR GENERATED' };
         } else {
-          db.qrcodes[uniqueQR].customer = customer;
+          db.qrcodes[uniqueQR].customer = customer; 
           db.qrcodes[uniqueQR].location = address;
+          db.qrcodes[uniqueQR].desc = desc;
         }
         qrcodesArr.push(uniqueQR);
       }
     });
 
     const isEdit = !!editingDcNo;
-    const initialStatus = isEdit ? db.challans[dcNo].status : 'QR GENERATED';
-
     db.challans[dcNo] = {
       challanNo: dcNo, date: dcDate, poNo, poDate, projectName, customer, address, vehicle,
-      items, qrcodes: qrcodesArr, status: initialStatus
+      remarkType, items, qrcodes: qrcodesArr, status: isEdit ? db.challans[dcNo].status : 'QR GENERATED'
     };
 
-    logAudit(dcNo, 'ALL', isEdit ? 'CHALLAN EDITED' : 'CHALLAN CREATED', currentUserRole || 'Admin', `Challan saved with ${qrcodesArr.length} items.`, '-');
+    logAudit(dcNo, 'ALL', isEdit ? 'CHALLAN EDITED' : 'CHALLAN CREATED', currentUserRole || 'Admin', `Saved ${qrcodesArr.length} items.`, '-');
     saveData();
-
-    alert(`Delivery Challan ${dcNo} successfully saved!`);
+    alert(`Delivery Challan ${dcNo} successfully saved & synced to Server!`);
     openPrintChallanTab(dcNo);
   }
 
   function populatePrintSiteFilter() {
     const siteSel = document.getElementById('print-site-filter');
     siteSel.innerHTML = '<option value="">All Sites / Addresses</option>';
-    let sites = new Set();
-    Object.values(db.challans).forEach(c => { if(c.address) sites.add(c.address); });
+    let sites = new Set(); Object.values(db.challans).forEach(c => { if(c.address) sites.add(c.address); });
     sites.forEach(s => siteSel.innerHTML += `<option value="${s}">${s}</option>`);
     populatePrintChallanSelect();
   }
@@ -1520,630 +1373,349 @@
   function populatePrintChallanSelect() {
     const siteFilter = document.getElementById('print-site-filter').value;
     const sel = document.getElementById('print-dc-select');
-    sel.innerHTML = '<option value="">Choose a Delivery Challan...</option>';
-    
+    sel.innerHTML = '<option value="">Choose Delivery Challan...</option>';
     Object.values(db.challans).forEach(c => {
-      if (!siteFilter || c.address === siteFilter) {
-        sel.innerHTML += `<option value="${c.challanNo}">${c.challanNo} - ${c.customer} (${c.address})</option>`;
-      }
+      if (!siteFilter || c.address === siteFilter) sel.innerHTML += `<option value="${c.challanNo}">${c.challanNo} - ${c.customer}</option>`;
     });
   }
 
-  function openPrintChallanTab(dcNo) {
-    showSection('print-challan');
-    document.getElementById('print-dc-select').value = dcNo;
-    loadChallanForPrint();
-  }
-
-  function loadChallanForPrint() {
-    const dcNo = document.getElementById('print-dc-select').value;
-    if (dcNo) {
-      renderDcPreview(dcNo, 'ORIGINAL (FOR CONSIGNEE)');
-    }
-  }
+  function openPrintChallanTab(dcNo) { showSection('print-challan'); document.getElementById('print-dc-select').value = dcNo; loadChallanForPrint(); }
+  function loadChallanForPrint() { const dcNo = document.getElementById('print-dc-select').value; if (dcNo) renderDcPreview(dcNo, 'ORIGINAL (FOR CONSIGNEE)'); }
 
   function renderDcPreview(dcNo, copyType) {
-    const c = db.challans[dcNo];
-    if(!c) return;
-
+    const c = db.challans[dcNo]; if(!c) return;
     document.getElementById('dc-copy-type').innerText = `(${copyType})`;
     document.getElementById('dc-view-no').innerText = c.challanNo;
-    document.getElementById('dc-view-date').innerText = c.date;
+    document.getElementById('dc-view-date').innerText = formatDate(c.date);
     document.getElementById('dc-view-customer').innerText = c.customer;
     document.getElementById('dc-view-address').innerText = c.address;
     document.getElementById('dc-view-po-no').innerText = c.poNo || '-';
-    document.getElementById('dc-view-po-date').innerText = c.poDate || '-';
+    document.getElementById('dc-view-po-date').innerText = formatDate(c.poDate) || '-';
     document.getElementById('dc-view-project').innerText = c.projectName || '-';
     document.getElementById('dc-view-vehicle').innerText = c.vehicle || '-';
+    document.getElementById('dc-view-vehicle-bottom').innerText = c.vehicle || '-';
+    document.getElementById('dc-table-th-remark').innerText = c.remarkType === 'Amount' ? 'Amount (₹)' : 'Remark';
 
-    const itemsBody = document.getElementById('dc-view-items-body');
-    itemsBody.innerHTML = '';
-    
+    const itemsBody = document.getElementById('dc-view-items-body'); itemsBody.innerHTML = '';
     c.items.forEach((it, idx) => {
-      itemsBody.innerHTML += `
-        <tr>
-          <td class="text-center">${idx + 1}</td>
-          <td>${it.code}</td>
-          <td>${it.desc}</td>
-          <td class="text-center">${it.qty}</td>
-          <td class="text-center">${it.unit}</td>
-          <td>${it.remark}</td>
-        </tr>
-      `;
+      itemsBody.innerHTML += `<tr><td class="text-center">${idx + 1}</td><td>${it.code}</td><td>${it.desc}</td><td class="text-center">${it.qty}</td><td class="text-center">${it.unit}</td><td>${it.remark || '-'}</td></tr>`;
     });
-
-    for(let i = c.items.length + 1; i <= MAX_ENTRIES; i++) {
-      itemsBody.innerHTML += `
-        <tr>
-          <td class="text-center">${i}</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-          <td>&nbsp;</td>
-        </tr>
-      `;
-    }
+    for(let i = c.items.length + 1; i <= MAX_ENTRIES; i++) itemsBody.innerHTML += `<tr><td class="text-center">${i}</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>`;
   }
 
   function triggerDcPrint(copyType) {
     const dcNo = document.getElementById('print-dc-select').value;
-    if(!dcNo) { alert("Please select a Delivery Challan to print!"); return; }
-    renderDcPreview(dcNo, copyType);
-    document.body.className = 'mode-challan-only';
+    if(!dcNo) { alert("Select Delivery Challan!"); return; }
+    renderDcPreview(dcNo, copyType); document.body.className = 'mode-challan-only';
     setTimeout(() => { window.print(); }, 150);
   }
 
-  /* STICKER CONFIGURATION & LAYOUT HANDLING */
   function applyStickerConfig() {
-    const w = document.getElementById('cfg-sticker-w').value || 99;
-    const h = document.getElementById('cfg-sticker-h').value || 45;
-    const qr = document.getElementById('cfg-qr-size').value || 35;
-    const gap = document.getElementById('cfg-grid-gap').value || 2;
-    const topM = document.getElementById('cfg-top-margin').value || 8;
-    const leftM = document.getElementById('cfg-left-margin').value || 5;
-
     const root = document.documentElement;
-    root.style.setProperty('--sticker-w', w + 'mm');
-    root.style.setProperty('--sticker-h', h + 'mm');
-    root.style.setProperty('--qr-size', qr + 'mm');
-    root.style.setProperty('--grid-gap', gap + 'mm');
-    root.style.setProperty('--top-margin', topM + 'mm');
-    root.style.setProperty('--left-margin', leftM + 'mm');
+    root.style.setProperty('--sticker-w', (document.getElementById('cfg-sticker-w').value || 99) + 'mm');
+    root.style.setProperty('--sticker-h', (document.getElementById('cfg-sticker-h').value || 45) + 'mm');
+    root.style.setProperty('--qr-size', (document.getElementById('cfg-qr-size').value || 35) + 'mm');
+    root.style.setProperty('--grid-gap', (document.getElementById('cfg-grid-gap').value || 2) + 'mm');
+    root.style.setProperty('--top-margin', (document.getElementById('cfg-top-margin').value || 8) + 'mm');
+    root.style.setProperty('--left-margin', (document.getElementById('cfg-left-margin').value || 5) + 'mm');
   }
 
   function saveStickerConfig() {
-    const config = {
-      width: document.getElementById('cfg-sticker-w').value,
-      height: document.getElementById('cfg-sticker-h').value,
-      qrSize: document.getElementById('cfg-qr-size').value,
-      gap: document.getElementById('cfg-grid-gap').value,
-      topMargin: document.getElementById('cfg-top-margin').value,
-      leftMargin: document.getElementById('cfg-left-margin').value
-    };
-    localStorage.setItem('SNE_STICKER_CONFIG', JSON.stringify(config));
-    applyStickerConfig();
-    alert("Sticker layout configuration successfully saved locally!");
+    localStorage.setItem('SNE_STICKER_CONFIG', JSON.stringify({
+      width: document.getElementById('cfg-sticker-w').value, height: document.getElementById('cfg-sticker-h').value,
+      qrSize: document.getElementById('cfg-qr-size').value, gap: document.getElementById('cfg-grid-gap').value,
+      topMargin: document.getElementById('cfg-top-margin').value, leftMargin: document.getElementById('cfg-left-margin').value
+    }));
+    applyStickerConfig(); alert("Sticker layout saved!");
   }
 
   function loadStickerConfig() {
     const saved = JSON.parse(localStorage.getItem('SNE_STICKER_CONFIG'));
     if (saved) {
-      document.getElementById('cfg-sticker-w').value = saved.width;
-      document.getElementById('cfg-sticker-h').value = saved.height;
-      document.getElementById('cfg-qr-size').value = saved.qrSize;
-      document.getElementById('cfg-grid-gap').value = saved.gap;
-      document.getElementById('cfg-top-margin').value = saved.topMargin;
-      document.getElementById('cfg-left-margin').value = saved.leftMargin;
-    } else {
-      document.getElementById('cfg-sticker-w').value = 99;
-      document.getElementById('cfg-sticker-h').value = 45;
-      document.getElementById('cfg-qr-size').value = 35;
-      document.getElementById('cfg-grid-gap').value = 2;
-      document.getElementById('cfg-top-margin').value = 8;
-      document.getElementById('cfg-left-margin').value = 5;
+      document.getElementById('cfg-sticker-w').value = saved.width; document.getElementById('cfg-sticker-h').value = saved.height;
+      document.getElementById('cfg-qr-size').value = saved.qrSize; document.getElementById('cfg-grid-gap').value = saved.gap;
+      document.getElementById('cfg-top-margin').value = saved.topMargin; document.getElementById('cfg-left-margin').value = saved.leftMargin;
     }
     applyStickerConfig();
   }
 
-  function resetStickerConfigDefaults() {
-    document.getElementById('cfg-sticker-w').value = 99;
-    document.getElementById('cfg-sticker-h').value = 45;
-    document.getElementById('cfg-qr-size').value = 35;
-    document.getElementById('cfg-grid-gap').value = 2;
-    document.getElementById('cfg-top-margin').value = 8;
-    document.getElementById('cfg-left-margin').value = 5;
-    localStorage.removeItem('SNE_STICKER_CONFIG');
-    applyStickerConfig();
-    alert("Reset to default configuration parameters.");
-  }
+  function resetStickerConfigDefaults() { localStorage.removeItem('SNE_STICKER_CONFIG'); loadStickerConfig(); alert("Reset defaults."); }
 
   function populatePrintQRCodeSelect() {
-    const sel = document.getElementById('qrcode-dc-select');
-    sel.innerHTML = '<option value="">Choose a Pending Delivery Challan...</option>';
+    const sel = document.getElementById('qrcode-dc-select'); sel.innerHTML = '<option value="">Choose Challan...</option>';
     Object.keys(db.challans).forEach(dc => {
       const c = db.challans[dc];
-      if (c.status !== 'DELIVERED') {
-        const qrs = c.qrcodes || c.barcodes || [];
-        sel.innerHTML += `<option value="${dc}">${dc} - ${c.customer} (${qrs.length} QR Codes)</option>`;
-      }
+      if (c.status !== 'DELIVERED') sel.innerHTML += `<option value="${dc}">${dc} - ${c.customer} (${(c.qrcodes||[]).length} QRs)</option>`;
     });
   }
 
-  function openPrintQRCodesTab(dcNo) {
-    showSection('print-qrcodes');
-    document.getElementById('qrcode-dc-select').value = dcNo;
-    loadQRCodesForPrint();
-  }
+  function openPrintQRCodesTab(dcNo) { showSection('print-qrcodes'); document.getElementById('qrcode-dc-select').value = dcNo; loadQRCodesForPrint(); }
 
   function loadQRCodesForPrint() {
     const dcNo = document.getElementById('qrcode-dc-select').value;
-    const printContainer = document.getElementById('printable-qrcodes');
-    printContainer.innerHTML = '';
-
+    const printContainer = document.getElementById('printable-qrcodes'); printContainer.innerHTML = '';
     if (!dcNo || !db.challans[dcNo]) return;
 
-    const c = db.challans[dcNo];
-    const qrs = c.qrcodes || c.barcodes || [];
+    const c = db.challans[dcNo]; let qrs = c.qrcodes || [];
     const qrSizePx = Math.round((parseInt(document.getElementById('cfg-qr-size').value) || 35) * 3.78);
-
-    const itemsPerPage = 12; // 2 columns x 6 rows = exactly 12 stickers per A4 page layout
     let currentPageGrid = null;
 
     qrs.forEach((qId, index) => {
-      if (index % itemsPerPage === 0) {
-        currentPageGrid = document.createElement('div');
-        currentPageGrid.className = 'qrcodes-grid mb-4';
+      if (index % 12 === 0) {
+        currentPageGrid = document.createElement('div'); currentPageGrid.className = 'qrcodes-grid mb-4';
         printContainer.appendChild(currentPageGrid);
       }
+      if (!db.qrcodes[qId]) db.qrcodes[qId] = { qrCode: qId, challanNo: dcNo, itemCode: 'ITM', desc: 'Item Particular', customer: c.customer, location: c.address, status: 'QR GENERATED' };
+      const q = db.qrcodes[qId];
 
-      const q = db.qrcodes[qId] || db.barcodes[qId];
-      if (q) {
-        const qrKey = q.qrCode || q.barcode;
-        const custName = q.customer || c.customer || '-';
-        const locationAddr = q.location || c.address || '-';
-
-        const card = document.createElement('div');
-        card.className = 'label-card';
-        card.innerHTML = `
-          <div class="label-details">
-            <div class="label-desc" title="${q.desc}">${q.desc}</div>
-            <div class="label-meta" title="${custName}"><strong>Cust:</strong> ${custName}</div>
-            <div class="label-meta" title="${locationAddr}"><strong>Loc:</strong> ${locationAddr}</div>
-            <div class="label-meta"><strong>DC:</strong> ${dcNo}</div>
-            <div class="label-meta"><strong>Code:</strong> ${q.itemCode}</div>
-            <div class="label-meta"><strong>ID:</strong> ${qrKey}</div>
-          </div>
-          <div class="qr-container" id="qr-${qrKey}"></div>
-        `;
-        currentPageGrid.appendChild(card);
-        
-        new QRCode(document.getElementById(`qr-${qrKey}`), {
-          text: qrKey,
-          width: qrSizePx,
-          height: qrSizePx,
-          correctLevel: QRCode.CorrectLevel.M
-        });
-      }
+      const card = document.createElement('div'); card.className = 'label-card';
+      card.innerHTML = `
+        <div class="label-details">
+          <div class="label-desc">${q.desc}</div>
+          <div class="label-meta"><strong>Cust:</strong> ${q.customer || c.customer}</div>
+          <div class="label-meta"><strong>Loc:</strong> ${q.location || c.address}</div>
+          <div class="label-meta"><strong>DC:</strong> ${dcNo} | <strong>ID:</strong> ${q.qrCode}</div>
+        </div>
+        <div class="qr-container" id="qr-${q.qrCode.replace(/[^a-zA-Z0-9]/g, '_')}"></div>
+      `;
+      currentPageGrid.appendChild(card);
+      new QRCode(document.getElementById(`qr-${q.qrCode.replace(/[^a-zA-Z0-9]/g, '_')}`), { text: q.qrCode, width: qrSizePx, height: qrSizePx });
     });
   }
 
   function triggerQRCodePrint() {
-    const dcNo = document.getElementById('qrcode-dc-select').value;
-    if(!dcNo) { alert("Please select a Delivery Challan to print QR codes!"); return; }
-    document.body.className = 'mode-qrcodes-only';
-    setTimeout(() => { window.print(); }, 150);
+    if(!document.getElementById('qrcode-dc-select').value) { alert("Select Challan!"); return; }
+    document.body.className = 'mode-qrcodes-only'; setTimeout(() => { window.print(); }, 150);
   }
 
   function editChallan(dcNo) {
-    const c = db.challans[dcNo];
-    if (!c) return;
-
-    editingDcNo = dcNo;
-    showSection('create-challan');
+    const c = db.challans[dcNo]; if (!c) return;
+    editingDcNo = dcNo; showSection('create-challan');
     document.getElementById('form-title-text').innerText = `Edit Delivery Challan (${dcNo})`;
-
     document.getElementById('new-dc-no').value = c.challanNo;
     document.getElementById('new-dc-date').value = c.date;
     document.getElementById('new-po-no').value = c.poNo || '';
     document.getElementById('new-po-date').value = c.poDate || '';
     document.getElementById('new-project-name').value = c.projectName || '';
     document.getElementById('new-vehicle-no').value = c.vehicle || '';
-    
-    populateCustomerDropdown();
-    document.getElementById('customer-select').value = c.customer;
-    handleCustomerSelect();
-    document.getElementById('delivery-address-text').value = c.address;
-
-    const tbody = document.querySelector('#items-table tbody');
-    tbody.innerHTML = '';
+    document.getElementById('global-remark-type').value = c.remarkType || 'Remark';
+    populateCustomerDropdown(); document.getElementById('customer-select').value = c.customer;
+    handleCustomerSelect(); document.getElementById('delivery-address-text').value = c.address;
+    const tbody = document.querySelector('#items-table tbody'); tbody.innerHTML = '';
     c.items.forEach(it => addDcItemRow(it));
+    onGlobalRemarkTypeChange();
   }
 
   function deleteChallan(dcNo) {
-    if (confirm(`Are you sure you want to delete Delivery Challan "${dcNo}"? This action cannot be undone.`)) {
+    if (confirm(`Delete Delivery Challan "${dcNo}"?`)) {
       if (db.challans[dcNo]) {
-        const qrs = db.challans[dcNo].qrcodes || db.challans[dcNo].barcodes || [];
-        qrs.forEach(qCode => {
-          delete db.qrcodes[qCode];
-          if (db.barcodes) delete db.barcodes[qCode];
-        });
+        (db.challans[dcNo].qrcodes || []).forEach(q => delete db.qrcodes[q]);
         delete db.challans[dcNo];
-        logAudit(dcNo, 'ALL', 'CHALLAN DELETED', currentUserRole || 'Admin', `Delivery Challan ${dcNo} was deleted from user device.`, '-');
-        saveData();
-        renderDashboard();
-        alert(`Delivery Challan ${dcNo} has been deleted.`);
+        logAudit(dcNo, 'ALL', 'CHALLAN DELETED', currentUserRole || 'Admin', `Deleted ${dcNo}`, '-');
+        saveData(); renderDashboard();
       }
     }
   }
 
   function populateDispatchDCSelect() {
-    const sel = document.getElementById('dispatch-dc-select');
-    sel.innerHTML = '<option value="">Select Challan...</option>';
-    
+    const sel = document.getElementById('dispatch-dc-select'); sel.innerHTML = '<option value="">Select Challan...</option>';
     Object.keys(db.challans).forEach(dc => {
-      const c = db.challans[dc];
-      if (c.status === 'QR GENERATED' || c.status === 'BARCODE GENERATED') {
-        const totalUnits = (c.qrcodes || c.barcodes || []).length;
-        sel.innerHTML += `<option value="${dc}">${dc} - ${c.customer} (${totalUnits} Items)</option>`;
-      }
+      if (db.challans[dc].status === 'QR GENERATED') sel.innerHTML += `<option value="${dc}">${dc} - ${db.challans[dc].customer}</option>`;
     });
     loadDispatchData();
   }
 
   function populateSupervisorDCSelect() {
-    const sel = document.getElementById('supervisor-dc-select');
-    sel.innerHTML = '<option value="">Select In-Transit Challan...</option>';
-    
+    const sel = document.getElementById('supervisor-dc-select'); sel.innerHTML = '<option value="">Select In-Transit Challan...</option>';
     Object.keys(db.challans).forEach(dc => {
-      const c = db.challans[dc];
-      if (c.status === 'IN TRANSIT') {
-        const totalUnits = (c.qrcodes || c.barcodes || []).length;
-        sel.innerHTML += `<option value="${dc}">${dc} - ${c.customer} (${totalUnits} Items)</option>`;
-      }
+      if (db.challans[dc].status === 'IN TRANSIT') sel.innerHTML += `<option value="${dc}">${dc} - ${db.challans[dc].customer}</option>`;
     });
   }
 
   function startScanner(role) {
     currentScanRole = role;
-    const elementId = role === 'dispatch' ? 'reader' : 'reader-supervisor';
-    html5QrCode = new Html5Qrcode(elementId);
+    html5QrCode = new Html5Qrcode(role === 'dispatch' ? 'reader' : 'reader-supervisor');
     html5QrCode.start({ facingMode: "environment" }, { fps: 10, qrbox: { width: 250, height: 250 } }, onScanSuccess);
   }
 
-  function stopScanner() {
-    if (html5QrCode) {
-      html5QrCode.stop().then(() => html5QrCode.clear()).catch(() => {});
-    }
-  }
-
-  function onScanSuccess(decodedText) {
-    playScanAlert();
-    if(currentScanRole === 'dispatch') handleDispatchScan(decodedText, true);
-    if(currentScanRole === 'supervisor') handleSupervisorScan(decodedText, true);
-  }
+  function stopScanner() { if (html5QrCode) html5QrCode.stop().then(() => html5QrCode.clear()).catch(() => {}); }
+  function onScanSuccess(decodedText) { playScanAlert(); if(currentScanRole === 'dispatch') handleDispatchScan(decodedText, true); else handleSupervisorScan(decodedText, true); }
 
   function handleManualDispatchScan() {
-    const inputEl = document.getElementById('manual-qrcode-input');
-    const qrcodeVal = inputEl.value.trim();
-    if(!qrcodeVal) return;
-    playScanAlert();
-    handleDispatchScan(qrcodeVal, false);
-    inputEl.value = '';
+    const val = document.getElementById('manual-qrcode-input').value.trim();
+    if(val) { playScanAlert(); handleDispatchScan(val, false); document.getElementById('manual-qrcode-input').value = ''; }
   }
 
   function handleDispatchScan(qrcode, isCamera) {
     const dcNo = document.getElementById('dispatch-dc-select').value;
     const officer = document.getElementById('dispatch-officer-name').value.trim();
-    if(!dcNo || !officer) { 
-      if(!isCamera) alert("Select Challan and enter Dispatch Officer Name!"); 
-      return; 
-    }
+    if(!dcNo || !officer) { if(!isCamera) alert("Select Challan and enter Officer Name!"); return; }
 
-    const item = db.qrcodes[qrcode] || (db.barcodes && db.barcodes[qrcode]);
-    if(!item || item.challanNo !== dcNo) return; 
-    if(item.status !== 'QR GENERATED' && item.status !== 'BARCODE GENERATED') return; 
+    const item = db.qrcodes[qrcode];
+    if(!item || item.challanNo !== dcNo || item.status !== 'QR GENERATED') return;
 
     item.status = 'DISPATCH SCANNED';
     item.dispatchScan = { officer, time: new Date().toISOString() };
-
-    logAudit(dcNo, qrcode, 'DISPATCH SCAN', currentUserRole || 'Dispatch', 'Item Scanned for Dispatch', officer);
-    saveData();
-    loadDispatchData();
+    logAudit(dcNo, qrcode, 'DISPATCH SCAN', currentUserRole || 'Dispatch', 'Scanned', officer);
+    saveData(); loadDispatchData();
   }
 
   function loadDispatchData() {
     const dcNo = document.getElementById('dispatch-dc-select').value;
-    const tbody = document.querySelector('#dispatch-items-table tbody');
-    tbody.innerHTML = '';
-
+    const tbody = document.querySelector('#dispatch-items-table tbody'); tbody.innerHTML = '';
     const confirmBtn = document.getElementById('confirm-dispatch-btn');
-    const lockMsg = document.getElementById('dispatch-lock-msg');
+    if(!dcNo) { document.getElementById('dispatch-count').innerText = `0 / 0 Scanned`; confirmBtn.disabled = true; return; }
 
-    if(!dcNo) {
-      document.getElementById('dispatch-count').innerText = `0 / 0 Scanned`;
-      confirmBtn.disabled = true;
-      lockMsg.classList.remove('d-none');
-      return;
-    }
-
-    const challan = db.challans[dcNo];
-    let scanned = 0;
-    const qrs = challan.qrcodes || challan.barcodes || [];
-
-    qrs.forEach(qId => {
-      const q = db.qrcodes[qId] || db.barcodes[qId];
+    const challan = db.challans[dcNo]; let scanned = 0;
+    (challan.qrcodes || []).forEach(qId => {
+      const q = db.qrcodes[qId];
       if(q) {
-        if(q.status !== 'QR GENERATED' && q.status !== 'BARCODE GENERATED') scanned++;
-        const qrKey = q.qrCode || q.barcode;
-        tbody.innerHTML += `
-          <tr>
-            <td><code>${qrKey}</code></td>
-            <td>${q.desc}</td>
-            <td><span class="badge bg-${(q.status==='QR GENERATED'||q.status==='BARCODE GENERATED')?'secondary':'warning'}">${q.status}</span></td>
-          </tr>
-        `;
+        if(q.status !== 'QR GENERATED') scanned++;
+        tbody.innerHTML += `<tr><td><code>${q.qrCode}</code></td><td>${q.desc}</td><td><span class="badge bg-${q.status==='QR GENERATED'?'secondary':'warning'}">${q.status}</span></td></tr>`;
       }
     });
-
-    document.getElementById('dispatch-count').innerText = `${scanned} / ${qrs.length} Scanned`;
-
-    if (scanned === qrs.length && qrs.length > 0) {
-      confirmBtn.disabled = false;
-      lockMsg.classList.add('d-none');
-    } else {
-      confirmBtn.disabled = true;
-      lockMsg.classList.remove('d-none');
-    }
+    document.getElementById('dispatch-count').innerText = `${scanned} / ${(challan.qrcodes||[]).length} Scanned`;
+    confirmBtn.disabled = scanned !== (challan.qrcodes||[]).length;
+    document.getElementById('dispatch-lock-msg').classList.toggle('d-none', !confirmBtn.disabled);
   }
 
   function confirmDispatch() {
     const dcNo = document.getElementById('dispatch-dc-select').value;
     const officer = document.getElementById('dispatch-officer-name').value.trim();
-
-    if(!dcNo) { alert("Please select a Delivery Challan!"); return; }
-    if(!officer) { alert("Please enter Dispatch Officer Name before confirming!"); return; }
-
     const challan = db.challans[dcNo];
-    const qrs = challan.qrcodes || challan.barcodes || [];
 
     challan.status = 'IN TRANSIT';
-    qrs.forEach(qId => {
-      const q = db.qrcodes[qId] || db.barcodes[qId];
-      if(q) {
-        q.status = 'IN TRANSIT';
-      }
-    });
-
-    logAudit(dcNo, 'ALL', 'DISPATCH CONFIRMED', currentUserRole || 'Dispatch', 'All items verified & dispatched. Status set to IN TRANSIT', officer);
-    saveData();
-    alert(`Dispatch confirmed for Delivery Challan ${dcNo}!`);
-
-    populateDispatchDCSelect();
-    loadDispatchData();
+    (challan.qrcodes || []).forEach(q => { if(db.qrcodes[q]) db.qrcodes[q].status = 'IN TRANSIT'; });
+    logAudit(dcNo, 'ALL', 'DISPATCH CONFIRMED', currentUserRole || 'Dispatch', 'Status set to IN TRANSIT', officer);
+    saveData(); alert(`Dispatch confirmed for ${dcNo}!`); populateDispatchDCSelect(); loadDispatchData();
   }
 
   function handleManualSupervisorScan() {
-    const inputEl = document.getElementById('manual-supervisor-qrcode-input');
-    const qrcodeVal = inputEl.value.trim();
-    if(!qrcodeVal) return;
-    playScanAlert();
-    handleSupervisorScan(qrcodeVal, false);
-    inputEl.value = '';
+    const val = document.getElementById('manual-supervisor-qrcode-input').value.trim();
+    if(val) { playScanAlert(); handleSupervisorScan(val, false); document.getElementById('manual-supervisor-qrcode-input').value = ''; }
   }
 
   function handleSupervisorScan(qrcode, isCamera) {
     const dcNo = document.getElementById('supervisor-dc-select').value;
     const supervisor = document.getElementById('supervisor-name').value.trim();
-    if(!dcNo || !supervisor) { 
-      if(!isCamera) alert("Select Challan and enter Receiver Name!"); 
-      return; 
-    }
+    if(!dcNo || !supervisor) { if(!isCamera) alert("Select Challan and Receiver Name!"); return; }
 
-    const item = db.qrcodes[qrcode] || (db.barcodes && db.barcodes[qrcode]);
-    if(!item || item.challanNo !== dcNo) return;
-    if(item.status === 'QR GENERATED' || item.status === 'BARCODE GENERATED') return;
+    const item = db.qrcodes[qrcode];
+    if(!item || item.challanNo !== dcNo || item.status === 'QR GENERATED') return;
 
     item.status = 'SITE RECEIVED';
     item.siteScan = { supervisor, time: new Date().toISOString() };
-
-    logAudit(dcNo, qrcode, 'SITE SCAN', supervisor, 'Verified at delivery site', item.dispatchScan ? item.dispatchScan.officer : '-');
-    saveData();
-    loadSupervisorData();
+    logAudit(dcNo, qrcode, 'SITE SCAN', supervisor, 'Verified at site', '-');
+    saveData(); loadSupervisorData();
   }
 
   function loadSupervisorData() {
-    const dcNo = document.getElementById('supervisor-dc-select').value;
-    if(!dcNo) return;
-    const challan = db.challans[dcNo];
-    const tbody = document.querySelector('#supervisor-items-table tbody');
-    tbody.innerHTML = '';
+    const dcNo = document.getElementById('supervisor-dc-select').value; if(!dcNo) return;
+    const challan = db.challans[dcNo]; const tbody = document.querySelector('#supervisor-items-table tbody'); tbody.innerHTML = '';
     let confirmed = 0;
-    const qrs = challan.qrcodes || challan.barcodes || [];
-
-    qrs.forEach(qId => {
-      const q = db.qrcodes[qId] || db.barcodes[qId];
+    (challan.qrcodes || []).forEach(qId => {
+      const q = db.qrcodes[qId];
       if(q) {
         if(q.status === 'SITE RECEIVED' || q.status === 'DELIVERED') confirmed++;
-        const qrKey = q.qrCode || q.barcode;
-        tbody.innerHTML += `
-          <tr>
-            <td><code>${qrKey}</code></td>
-            <td>${q.desc}</td>
-            <td><span class="badge bg-${q.status==='DELIVERED'?'success':q.status==='SITE RECEIVED'?'info':'secondary'}">${q.status}</span></td>
-            <td>${q.status==='SITE RECEIVED' ? `<button class="btn btn-xs btn-outline-danger" onclick="removeSiteScan('${qrKey}')">Remove</button>` : ''}</td>
-          </tr>
-        `;
+        tbody.innerHTML += `<tr><td><code>${q.qrCode}</code></td><td>${q.desc}</td><td><span class="badge bg-${q.status==='DELIVERED'?'success':'info'}">${q.status}</span></td><td>${q.status==='SITE RECEIVED'?`<button class="btn btn-xs btn-outline-danger" onclick="removeSiteScan('${q.qrCode}')">Remove</button>`:''}</td></tr>`;
       }
     });
-
-    document.getElementById('supervisor-count').innerText = `Confirmed: ${confirmed} / ${qrs.length}`;
+    document.getElementById('supervisor-count').innerText = `Confirmed: ${confirmed} / ${(challan.qrcodes||[]).length}`;
     const btn = document.getElementById('accept-delivery-btn');
-    const msg = document.getElementById('acceptance-lock-msg');
-    
-    if(confirmed === qrs.length && challan.status !== 'DELIVERED') {
-      btn.disabled = false;
-      msg.classList.add('d-none');
-    } else {
-      btn.disabled = true;
-      msg.classList.remove('d-none');
-    }
+    btn.disabled = confirmed !== (challan.qrcodes||[]).length || challan.status === 'DELIVERED';
+    document.getElementById('acceptance-lock-msg').classList.toggle('d-none', !btn.disabled);
   }
 
   function removeSiteScan(qrcode) {
-    const item = db.qrcodes[qrcode] || (db.barcodes && db.barcodes[qrcode]);
-    item.status = 'IN TRANSIT';
-    item.siteScan = null;
-    logAudit(item.challanNo, qrcode, 'SCAN REMOVED', 'Supervisor', 'Site scan reverted', item.dispatchScan ? item.dispatchScan.officer : '-');
-    saveData();
-    loadSupervisorData();
+    db.qrcodes[qrcode].status = 'IN TRANSIT'; db.qrcodes[qrcode].siteScan = null;
+    logAudit(db.qrcodes[qrcode].challanNo, qrcode, 'SCAN REMOVED', 'Supervisor', 'Reverted', '-');
+    saveData(); loadSupervisorData();
   }
 
   function acceptDelivery() {
     const dcNo = document.getElementById('supervisor-dc-select').value;
-    const supervisor = document.getElementById('supervisor-name').value.trim();
     const challan = db.challans[dcNo];
-    const qrs = challan.qrcodes || challan.barcodes || [];
-
     challan.status = 'DELIVERED';
-    qrs.forEach(qId => {
-      const q = db.qrcodes[qId] || db.barcodes[qId];
-      if(q) q.status = 'DELIVERED';
-    });
-
-    logAudit(dcNo, 'ALL', 'DELIVERY ACCEPTED', supervisor, 'Delivery completed successfully', '-');
-    saveData();
-    alert(`Delivery Challan ${dcNo} fully accepted!`);
-    populateSupervisorDCSelect();
-    loadSupervisorData();
+    (challan.qrcodes || []).forEach(q => { if(db.qrcodes[q]) db.qrcodes[q].status = 'DELIVERED'; });
+    logAudit(dcNo, 'ALL', 'DELIVERY ACCEPTED', document.getElementById('supervisor-name').value.trim(), 'Completed', '-');
+    saveData(); alert(`Delivery Challan ${dcNo} accepted!`); populateSupervisorDCSelect(); loadSupervisorData();
   }
 
   function populateAuditFilters() {
-    const dcSel = document.getElementById('audit-dc-select');
-    const custSel = document.getElementById('audit-customer-select');
-    const addrSel = document.getElementById('audit-address-select');
-
-    dcSel.innerHTML = '<option value="">All Delivery Challans</option>';
-    custSel.innerHTML = '<option value="">All Customers</option>';
-    addrSel.innerHTML = '<option value="">All Addresses</option>';
-
+    const dcSel = document.getElementById('audit-dc-select'), custSel = document.getElementById('audit-customer-select'), addrSel = document.getElementById('audit-address-select');
+    dcSel.innerHTML = '<option value="">All Challans</option>'; custSel.innerHTML = '<option value="">All Customers</option>'; addrSel.innerHTML = '<option value="">All Addresses</option>';
     Object.keys(db.challans).forEach(dc => dcSel.innerHTML += `<option value="${dc}">${dc}</option>`);
     Object.keys(db.customers).forEach(c => custSel.innerHTML += `<option value="${c}">${c}</option>`);
-
-    let allAddresses = new Set();
-    Object.values(db.challans).forEach(c => { if(c.address) allAddresses.add(c.address); });
-    allAddresses.forEach(a => addrSel.innerHTML += `<option value="${a}">${a}</option>`);
-
+    Object.values(db.challans).forEach(c => { if(c.address) addrSel.innerHTML += `<option value="${c.address}">${c.address}</option>`; });
     renderAuditTrail();
   }
 
   function renderAuditTrail() {
-    const dcFilter = document.getElementById('audit-dc-select').value;
-    const custFilter = document.getElementById('audit-customer-select').value;
-    const addrFilter = document.getElementById('audit-address-select').value;
-    const searchVal = document.getElementById('audit-search').value.toLowerCase();
-
-    const tbody = document.querySelector('#audit-table tbody');
-    tbody.innerHTML = '';
-
+    const dcFilter = document.getElementById('audit-dc-select').value, custFilter = document.getElementById('audit-customer-select').value, search = document.getElementById('audit-search').value.toLowerCase();
+    const tbody = document.querySelector('#audit-table tbody'); tbody.innerHTML = '';
     db.audit.filter(a => {
       const c = db.challans[a.challanNo] || {};
-      const matchesDc = !dcFilter || a.challanNo === dcFilter;
-      const matchesCust = !custFilter || c.customer === custFilter;
-      const matchesAddr = !addrFilter || c.address === addrFilter;
-      
-      const matchesSearch = !searchVal || 
-                            a.challanNo.toLowerCase().includes(searchVal) || 
-                            (a.qrCode || a.barcode || '').toLowerCase().includes(searchVal) ||
-                            a.action.toLowerCase().includes(searchVal) ||
-                            a.actor.toLowerCase().includes(searchVal) ||
-                            (a.dispatchPerson || '').toLowerCase().includes(searchVal) ||
-                            (a.deviceInfo || '').toLowerCase().includes(searchVal) ||
-                            (a.details || '').toLowerCase().includes(searchVal) ||
-                            (c.customer || '').toLowerCase().includes(searchVal) ||
-                            (c.address || '').toLowerCase().includes(searchVal);
-
-      return matchesDc && matchesCust && matchesAddr && matchesSearch;
+      return (!dcFilter || a.challanNo === dcFilter) && (!custFilter || c.customer === custFilter) && (!search || JSON.stringify(a).toLowerCase().includes(search));
     }).forEach(a => {
-      tbody.innerHTML += `
-        <tr>
-          <td>${a.timestamp}</td>
-          <td>${a.challanNo}</td>
-          <td><code>${a.qrCode || a.barcode}</code></td>
-          <td><strong>${a.action}</strong></td>
-          <td>${a.actor}</td>
-          <td>${a.dispatchPerson || '-'}</td>
-          <td><span class="badge bg-light text-dark border">${a.deviceInfo || 'Unknown Device'}</span></td>
-          <td>${a.details}</td>
-        </tr>
-      `;
+      tbody.innerHTML += `<tr><td>${formatDateTime(a.timestamp)}</td><td>${a.challanNo}</td><td><code>${a.qrCode}</code></td><td><strong>${a.action}</strong></td><td>${a.actor}</td><td>${a.dispatchPerson || '-'}</td><td><span class="badge bg-light text-dark border">${a.deviceInfo}</span></td><td>${a.details}</td></tr>`;
     });
   }
 
   function deleteAllLogs() {
-    const warning = confirm("WARNING: Are you sure you want to delete ALL audit trail logs?\n\nThis deletion action will also be recorded with your mobile device metrics!");
-    if (warning) {
-      logAudit('SYSTEM', 'ALL', 'AUDIT LOGS DELETED', currentUserRole || 'Admin', 'User cleared all past historical logs.', '-');
-      const latestDeletionRecord = db.audit[0]; 
-      db.audit = [latestDeletionRecord];
-      saveData();
-      renderAuditTrail();
-      alert("Audit logs erased. Deletion action has been recorded in log trail.");
+    if (confirm("Delete all audit logs?")) {
+      logAudit('SYSTEM', 'ALL', 'LOGS DELETED', currentUserRole || 'Admin', 'Cleared logs', '-');
+      db.audit = [db.audit[0]]; saveData(); renderAuditTrail();
     }
   }
 
   function exportAuditCSV() {
-    const ws = XLSX.utils.json_to_sheet(db.audit);
-    const wb = XLSX.utils.book_new();
-    XLSX.utils.book_append_sheet(wb, ws, "AuditTrail");
-    XLSX.writeFile(wb, `DC_Audit_${new Date().toISOString().slice(0,10)}.xlsx`);
+    const ws = XLSX.utils.json_to_sheet(db.audit); const wb = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(wb, ws, "AuditTrail"); XLSX.writeFile(wb, `DC_Audit.xlsx`);
+  }
+
+  function sortDashboard(col) {
+    if (dashSortColumn === col) dashSortDirection = dashSortDirection === 'asc' ? 'desc' : 'asc';
+    else { dashSortColumn = col; dashSortDirection = 'asc'; }
+    renderDashboard();
   }
 
   function renderDashboard() {
     const filterCust = document.getElementById('dash-customer-select').value;
     const filterAddr = document.getElementById('dash-address-select').value;
 
-    const allChallans = Object.values(db.challans);
-    const challans = allChallans.filter(c => {
-      const matchesCust = !filterCust || c.customer === filterCust;
-      const matchesAddr = !filterAddr || c.address === filterAddr;
-      return matchesCust && matchesAddr;
+    let challans = Object.values(db.challans).filter(c => (!filterCust || c.customer === filterCust) && (!filterAddr || c.address === filterAddr));
+    challans.sort((a, b) => {
+      let v1 = dashSortColumn === 'totalUnits' ? (a.qrcodes||[]).length : (a[dashSortColumn] || '').toString().toLowerCase();
+      let v2 = dashSortColumn === 'totalUnits' ? (b.qrcodes||[]).length : (b[dashSortColumn] || '').toString().toLowerCase();
+      return (v1 < v2 ? -1 : v1 > v2 ? 1 : 0) * (dashSortDirection === 'asc' ? 1 : -1);
     });
 
     let totalInTransit = 0, totalDelivered = 0, totalPending = 0;
-
-    const tbody = document.querySelector('#challan-summary-table tbody');
-    tbody.innerHTML = '';
+    const tbody = document.querySelector('#challan-summary-table tbody'); tbody.innerHTML = '';
 
     challans.forEach(c => {
       let dispatched = 0, received = 0;
-      const qrs = c.qrcodes || c.barcodes || [];
-      
-      qrs.forEach(q => {
-        const qObj = db.qrcodes[q] || db.barcodes[q];
-        if(qObj && qObj.status !== 'QR GENERATED' && qObj.status !== 'BARCODE GENERATED') dispatched++;
-        if(qObj && qObj.status === 'DELIVERED') received++;
+      (c.qrcodes || []).forEach(q => {
+        const obj = db.qrcodes[q];
+        if(obj && obj.status !== 'QR GENERATED') dispatched++;
+        if(obj && obj.status === 'DELIVERED') received++;
       });
-
       if(c.status === 'IN TRANSIT') totalInTransit += (dispatched - received);
       if(c.status === 'DELIVERED') totalDelivered += received;
-      totalPending += (qrs.length - received);
+      totalPending += ((c.qrcodes||[]).length - received);
 
-      const tr = document.createElement('tr');
-      tr.innerHTML = `
-        <td><strong>${c.challanNo}</strong></td>
-        <td>${c.customer}</td>
-        <td>${c.poNo || '-'}</td>
-        <td>${qrs.length}</td>
-        <td><span class="badge status-badge bg-${c.status==='DELIVERED'?'success':c.status==='IN TRANSIT'?'warning':'secondary'}">${c.status}</span></td>
-        <td>
-          <button class="btn btn-sm btn-outline-primary me-1 mb-1" onclick="openPrintChallanTab('${c.challanNo}')"><i class="fa-solid fa-print me-1"></i>Print DC</button>
-          <button class="btn btn-sm btn-outline-info me-1 mb-1" onclick="openPrintQRCodesTab('${c.challanNo}')"><i class="fa-solid fa-qrcode me-1"></i>QR Codes</button>
-          <button class="btn btn-sm btn-outline-secondary me-1 mb-1" onclick="editChallan('${c.challanNo}')"><i class="fa-solid fa-pen me-1"></i>Edit</button>
-          <button class="btn btn-sm btn-outline-danger mb-1" onclick="deleteChallan('${c.challanNo}')"><i class="fa-solid fa-trash me-1"></i>Delete</button>
-        </td>
+      tbody.innerHTML += `
+        <tr>
+          <td><strong>${c.challanNo}</strong></td><td>${c.customer}</td><td>${c.poNo || '-'}</td><td>${(c.qrcodes||[]).length}</td>
+          <td><span class="badge status-badge bg-${c.status==='DELIVERED'?'success':c.status==='IN TRANSIT'?'warning':'secondary'}">${c.status}</span></td>
+          <td>
+            <button class="btn btn-sm btn-outline-primary me-1 mb-1" onclick="openPrintChallanTab('${c.challanNo}')"><i class="fa-solid fa-print me-1"></i>Print DC</button>
+            <button class="btn btn-sm btn-outline-info me-1 mb-1" onclick="openPrintQRCodesTab('${c.challanNo}')"><i class="fa-solid fa-qrcode me-1"></i>QR</button>
+            <button class="btn btn-sm btn-outline-secondary me-1 mb-1" onclick="editChallan('${c.challanNo}')"><i class="fa-solid fa-pen"></i></button>
+            <button class="btn btn-sm btn-outline-danger mb-1" onclick="deleteChallan('${c.challanNo}')"><i class="fa-solid fa-trash"></i></button>
+          </td>
+        </tr>
       `;
-      tbody.appendChild(tr);
     });
 
     document.getElementById('dash-total-challans').innerText = challans.length;
@@ -2153,28 +1725,18 @@
   }
 
   function logAudit(challanNo, qrCode, action, actor, details, dispatchPerson = '-') {
-    db.audit.unshift({
-      timestamp: new Date().toLocaleString(),
-      challanNo, qrCode, action, actor, dispatchPerson, 
-      deviceInfo: getDeviceDetails(),
-      details
-    });
+    db.audit.unshift({ timestamp: new Date().toISOString(), challanNo, qrCode, action, actor, dispatchPerson, deviceInfo: getDeviceDetails(), details });
   }
 
-  function saveSettings() {
-    const url = document.getElementById('gas-url').value.trim();
-    localStorage.setItem('DC_FLOW_GAS_URL', url);
-    alert("Settings & Sync Endpoint Saved!");
-    fetchCloudData();
-  }
+  // Auto-focus PIN field when login modal appears for rapid keyboard entry
+  document.getElementById('loginModal').addEventListener('shown.bs.modal', function () {
+    document.getElementById('role-pin').focus();
+  });
 
   window.onload = function() {
-    document.getElementById('gas-url').value = getGasUrl();
-    setupRealtimePolling();
     loadStickerConfig();
-    const loginModal = new bootstrap.Modal(document.getElementById('loginModal'));
-    loginModal.show();
-    fetchCloudData();
+    new bootstrap.Modal(document.getElementById('loginModal')).show();
+    fetchGithubData();
   };
 </script>
 </body>
