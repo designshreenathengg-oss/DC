@@ -11254,7 +11254,11 @@
       "desc": "1100X750X32 MS PLATE",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "ROHIT",
+        "time": "2026-11-13T13:51:57.002Z"
+      }
     },
     "SNE-26026-ITM-4": {
       "qrCode": "SNE-26026-ITM-4",
@@ -11267,6 +11271,16 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-13T13:51:57.002Z",
+      "challanNo": "SNE-26026",
+      "qrCode": "SNE-26026-ITM-3",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "ROHIT",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-13T13:51:54.388Z",
       "challanNo": "SNE-26026",
