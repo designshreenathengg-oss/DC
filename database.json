@@ -3333,7 +3333,7 @@
       "address": "CHAKAN MIDC, PUNE",
       "vehicle": "",
       "remarkType": "Remark",
-      "showTotal": false,
+      "showTotal": true,
       "items": [
         {
           "code": "ITM-02",
@@ -12090,6 +12090,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-13T14:57:33.493Z",
+      "challanNo": "SNE-26029",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 70 items."
+    },
     {
       "timestamp": "2026-11-13T14:56:42.429Z",
       "challanNo": "SNE-26029",
