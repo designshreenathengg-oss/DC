@@ -9,7 +9,7 @@
       "poDate": "",
       "projectName": "36 JPH PHASE 2",
       "vehicle": "MH15DD4881",
-      "status": "QR GENERATED",
+      "status": "IN TRANSIT",
       "items": [
         {
           "code": "A1",
@@ -2898,7 +2898,7 @@
       "desc": "G.I. PANEL 2500X1250X10 1.5THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-13T13:49:58.283Z"
@@ -2912,7 +2912,7 @@
       "desc": "G.I. PANEL 2500X1250X10 1.5THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-13T13:50:03.849Z"
@@ -2926,7 +2926,7 @@
       "desc": "G.I. PANEL 2500X1250X10 1.5THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-13T13:50:07.369Z"
@@ -2940,7 +2940,7 @@
       "desc": "G.I. PANEL 2000X100X10 1.5THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-13T13:50:25.946Z"
@@ -2954,7 +2954,7 @@
       "desc": "G.I. PANEL 2000X100X10 1.5THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-13T13:50:29.040Z"
@@ -2968,7 +2968,7 @@
       "desc": "G.I. PANEL 2000X100X10 1.5THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-13T13:50:32.497Z"
@@ -2982,7 +2982,7 @@
       "desc": "G.I. PANEL 2000X100X10 1.5THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-13T13:50:35.085Z"
@@ -2996,7 +2996,7 @@
       "desc": "G.I. PANEL 2000X100X10 1.5THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-13T13:50:37.951Z"
@@ -3010,7 +3010,7 @@
       "desc": "G.I. PANEL 100X50X10 1.5THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-13T13:50:46.249Z"
@@ -11279,6 +11279,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-13T14:48:56.640Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "ALL",
+      "action": "DISPATCH CONFIRMED",
+      "actor": "admin",
+      "dispatchPerson": "Dispatch Officer",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Status set to IN TRANSIT"
+    },
     {
       "timestamp": "2026-11-13T14:24:05.000Z",
       "challanNo": "SNE-26025",
