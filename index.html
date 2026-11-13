@@ -342,6 +342,12 @@
               <label class="form-label">Vehicle No.</label>
               <input type="text" id="new-vehicle-no" class="form-control" placeholder="MH-15-AB-1234" />
             </div>
+            <div class="col-md-8 d-flex align-items-center">
+              <div class="form-check mt-4">
+                <input class="form-check-input" type="checkbox" id="new-show-total" />
+                <label class="form-check-label fw-bold text-primary" for="new-show-total">Show Total / Summary Row in DC Print</label>
+              </div>
+            </div>
             <div class="col-md-12">
               <label class="form-label">Delivery Address</label>
               <select id="address-select" class="form-select mb-2" onchange="handleAddressSelect()">
@@ -354,7 +360,7 @@
           <!-- Excel Upload & Line Items Header -->
           <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-center border-bottom pb-2 mb-3 mt-3 gap-2">
             <div>
-              <h5 class="m-0"><i class="fa-solid fa-list me-2"></i>Line Items (Max 15 Entries)</h5>
+              <h5 class="m-0"><i class="fa-solid fa-list me-2"></i>Line Items (Max 15 Entries per Challan)</h5>
               <span class="badge bg-secondary mt-1" id="entry-count-badge">Entries: 0 / 15</span>
             </div>
             <div class="d-flex flex-wrap gap-2 align-items-center">
@@ -367,7 +373,7 @@
               </div>
               <button class="btn btn-sm btn-outline-success" onclick="downloadSampleExcel()"><i class="fa-solid fa-file-excel me-1"></i>Download Sample</button>
               <input type="file" id="excel-file-input" class="d-none" accept=".xlsx, .xls, .csv" onchange="handleExcelUpload(event)" />
-              <button class="btn btn-sm btn-success" onclick="document.getElementById('excel-file-input').click()"><i class="fa-solid fa-upload me-1"></i>Upload Excel</button>
+              <button class="btn btn-sm btn-success" onclick="document.getElementById('excel-file-input').click()"><i class="fa-solid fa-upload me-1"></i>Upload Excel (Auto-Splits >15 Entries)</button>
             </div>
           </div>
 
@@ -407,7 +413,7 @@
               </select>
             </div>
             <div class="col-md-4">
-              <label class="form-label fw-bold">Select Delivery Challan</label>
+              <label class="form-label fw-bold">Select QR-Generated Challan</label>
               <select id="print-dc-select" class="form-select" onchange="loadChallanForPrint()">
                 <option value="">Choose a Delivery Challan...</option>
               </select>
@@ -717,6 +723,7 @@
                   <th>Action Event</th>
                   <th>Actor / User</th>
                   <th>Dispatch Person</th>
+                  <th>Site Receiver</th>
                   <th>Device / OS Details</th>
                   <th>Details</th>
                 </tr>
@@ -783,9 +790,8 @@
   const MAX_ENTRIES = 15;
   const PINS = { admin: '9999', dispatch: '1111', receiver: '2222' };
 
-  // Updated Default credentials as requested
   const DEFAULT_REPO = 'designshreenathengg-oss/DC';
-  const DEFAULT_TOKEN = 'github_**************';
+  const DEFAULT_TOKEN = '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';
 
   function formatDate(dateStr) {
     if (!dateStr) return '-';
@@ -928,7 +934,7 @@
     initAppView();
   }
 
-  // SERVER SAVE (PUSH)
+  // SERVER SAVE (PUSH) WITH AUTO-SHA RETRY
   async function saveData() {
     localStorage.setItem('DC_FLOW_DB', JSON.stringify(db));
     renderDashboard();
@@ -940,38 +946,57 @@
     statusEl.innerText = 'Pushing to Server...';
 
     try {
-      const jsonStr = JSON.stringify(db, null, 2);
-      const base64Content = btoa(unescape(encodeURIComponent(jsonStr)));
-
-      const res = await fetch(`https://api.github.com/repos/${cfg.repo}/contents/database.json`, {
-        method: 'PUT',
-        headers: {
-          'Accept': 'application/vnd.github+json',
-          'Authorization': `Bearer ${cfg.token}`,
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify({
-          message: `Update database.json from ${currentUserRole || 'system'} (${new Date().toISOString()})`,
-          content: base64Content,
-          sha: githubFileSha
-        })
-      });
-
-      if (!res.ok) {
-        const errJson = await res.json();
-        throw new Error(errJson.message || 'Server commit failed');
-      }
-
-      const commitRes = await res.json();
-      githubFileSha = commitRes.content.sha; 
-
-      statusEl.className = 'text-success';
-      statusEl.innerText = 'Synced with Server';
+      await commitToGithub(cfg);
     } catch(err) {
-      console.error(err);
-      statusEl.className = 'text-danger';
-      statusEl.innerText = 'Server Push Failed (Saved Locally)';
+      console.warn("Push failed with current SHA, fetching latest SHA and retrying...", err);
+      try {
+        const resGet = await fetch(`https://api.github.com/repos/${cfg.repo}/contents/database.json`, {
+          headers: { 'Accept': 'application/vnd.github+json', 'Authorization': `Bearer ${cfg.token}` }
+        });
+        if (resGet.ok) {
+          const fileData = await resGet.json();
+          githubFileSha = fileData.sha;
+          await commitToGithub(cfg); 
+        } else {
+          throw err;
+        }
+      } catch(retryErr) {
+        console.error(retryErr);
+        statusEl.className = 'text-danger';
+        statusEl.innerText = 'Server Push Failed (Saved Locally)';
+      }
     }
+  }
+
+  async function commitToGithub(cfg) {
+    const jsonStr = JSON.stringify(db, null, 2);
+    const base64Content = btoa(unescape(encodeURIComponent(jsonStr)));
+    const statusEl = document.getElementById('sync-status');
+
+    const res = await fetch(`https://api.github.com/repos/${cfg.repo}/contents/database.json`, {
+      method: 'PUT',
+      headers: {
+        'Accept': 'application/vnd.github+json',
+        'Authorization': `Bearer ${cfg.token}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        message: `Update database.json from ${currentUserRole || 'system'} (${new Date().toISOString()})`,
+        content: base64Content,
+        sha: githubFileSha
+      })
+    });
+
+    if (!res.ok) {
+      const errJson = await res.json();
+      throw new Error(errJson.message || 'Server commit failed');
+    }
+
+    const commitRes = await res.json();
+    githubFileSha = commitRes.content.sha; 
+
+    statusEl.className = 'text-success';
+    statusEl.innerText = 'Synced with Server';
   }
 
   function saveGithubSettings() {
@@ -1068,6 +1093,7 @@
     document.getElementById('new-vehicle-no').value = '';
     document.getElementById('delivery-address-text').value = '';
     document.getElementById('global-remark-type').value = 'Remark';
+    document.getElementById('new-show-total').checked = false;
 
     populateCustomerDropdown();
     const tbody = document.querySelector('#items-table tbody');
@@ -1226,7 +1252,7 @@
   function addDcItemRow(itemData = null) {
     const tbody = document.querySelector('#items-table tbody');
     const rowCount = tbody.querySelectorAll('tr').length;
-    if (rowCount >= MAX_ENTRIES) { alert(`Maximum of ${MAX_ENTRIES} line entries allowed!`); return; }
+    if (rowCount >= MAX_ENTRIES) { alert(`Maximum of ${MAX_ENTRIES} line entries allowed per challan!`); return; }
 
     const globalType = document.getElementById('global-remark-type').value;
     let remVal = itemData ? (itemData.remark || itemData.amount || itemData.Remark || '') : '';
@@ -1271,6 +1297,7 @@
     XLSX.writeFile(wb, "Sample_Challan_Items.xlsx");
   }
 
+  // BULK EXCEL UPLOAD WITH AUTO-CHALLAN CHUNKING (>15 ENTRIES)
   function handleExcelUpload(event) {
     const file = event.target.files[0]; if (!file) return;
     const reader = new FileReader();
@@ -1281,22 +1308,84 @@
         const jsonRows = XLSX.utils.sheet_to_json(workbook.Sheets[workbook.SheetNames[0]]);
         if (jsonRows.length === 0) { alert("Empty Excel file!"); return; }
         
-        const tbody = document.querySelector('#items-table tbody'); tbody.innerHTML = '';
-        let addedCount = 0;
+        let allParsedItems = [];
         jsonRows.forEach((row, idx) => {
-          if (addedCount < MAX_ENTRIES) {
-            addDcItemRow({
-              code: row['Item Code'] || row['itemCode'] || `ITM-0${idx+1}`,
-              desc: row['DESCRIPTION'] || row['Description'] || 'Item Particular',
-              qty: parseInt(row['Qty'] || 1),
-              unit: row['Unit'] || 'Nos',
-              remark: row['Remark/Amount Value'] || row['Remark'] || '-'
-            });
-            addedCount++;
-          }
+          allParsedItems.push({
+            code: row['Item Code'] || row['itemCode'] || `ITM-0${idx+1}`,
+            desc: row['DESCRIPTION'] || row['Description'] || 'Item Particular',
+            qty: parseInt(row['Qty'] || 1),
+            unit: row['Unit'] || 'Nos',
+            remark: row['Remark/Amount Value'] || row['Remark'] || '-'
+          });
         });
-        document.getElementById('excel-file-input').value = '';
-        alert(`Imported ${addedCount} line items!`);
+
+        if (allParsedItems.length <= MAX_ENTRIES) {
+          const tbody = document.querySelector('#items-table tbody'); tbody.innerHTML = '';
+          allParsedItems.forEach((it) => {
+            addDcItemRow(it);
+          });
+          document.getElementById('excel-file-input').value = '';
+          alert(`Successfully imported ${allParsedItems.length} line items into form!`);
+        } else {
+          // Auto-split into multiple challans of max 15 entries each
+          const dcDate = document.getElementById('new-dc-date').value;
+          const poNo = document.getElementById('new-po-no').value.trim();
+          const poDate = document.getElementById('new-po-date').value;
+          const projectName = document.getElementById('new-project-name').value.trim();
+          const vehicle = document.getElementById('new-vehicle-no').value.trim();
+          const remarkType = document.getElementById('global-remark-type').value;
+          const showTotal = document.getElementById('new-show-total').checked;
+
+          let customer = document.getElementById('customer-select').value;
+          if (customer === '__NEW__') customer = document.getElementById('new-customer-name').value.trim();
+          const address = document.getElementById('delivery-address-text').value.trim();
+
+          if (!customer || !address) { alert("Please select or enter Customer Name and Address before uploading a bulk Excel file!"); return; }
+
+          if (!db.customers[customer]) db.customers[customer] = { addresses: [] };
+          if (!db.customers[customer].addresses.includes(address)) db.customers[customer].addresses.push(address);
+
+          let chunks = [];
+          for (let i = 0; i < allParsedItems.length; i += MAX_ENTRIES) {
+            chunks.push(allParsedItems.slice(i, i + MAX_ENTRIES));
+          }
+
+          let createdChallans = [];
+          chunks.forEach((chunk, chunkIdx) => {
+            const keys = Object.keys(db.challans);
+            let nextNum = keys.length + 1;
+            const yearShort = new Date().getFullYear().toString().substr(-2);
+            const dcNo = `SNE-${yearShort}${String(nextNum).padStart(3, '0')}`;
+
+            let items = [], qrcodesArr = [];
+            chunk.forEach(it => {
+              items.push({ code: it.code, desc: it.desc, qty: it.qty, unit: it.unit, remarkType, remark: it.remark });
+              for(let i = 1; i <= it.qty; i++) {
+                const uniqueQR = `${dcNo}-${it.code}-${i}`;
+                if (!db.qrcodes[uniqueQR]) {
+                  db.qrcodes[uniqueQR] = { qrCode: uniqueQR, challanNo: dcNo, itemCode: it.code, desc: it.desc, customer, location: address, status: 'QR GENERATED' };
+                } else {
+                  db.qrcodes[uniqueQR].customer = customer; 
+                  db.qrcodes[uniqueQR].location = address;
+                  db.qrcodes[uniqueQR].desc = it.desc;
+                }
+                qrcodesArr.push(uniqueQR);
+              }
+            });
+
+            db.challans[dcNo] = {
+              challanNo: dcNo, date: dcDate, poNo, poDate, projectName, customer, address, vehicle,
+              remarkType, showTotal, items, qrcodes: qrcodesArr, status: 'QR GENERATED'
+            };
+            createdChallans.push(dcNo);
+            logAudit(dcNo, 'ALL', 'CHALLAN CREATED VIA BULK EXCEL', currentUserRole || 'Admin', `Auto-generated chunk ${chunkIdx+1} with ${qrcodesArr.length} items.`, '-', '-');
+          });
+
+          saveData();
+          document.getElementById('excel-file-input').value = '';
+          alert(`Excel contained ${allParsedItems.length} items. Successfully auto-generated ${createdChallans.length} Delivery Challans: ${createdChallans.join(', ')}!`);
+          showSection('dashboard');
+        }
       } catch (err) { alert("Error parsing Excel file."); console.error(err); }
     };
     reader.readAsArrayBuffer(file);
@@ -1310,6 +1399,7 @@
     const projectName = document.getElementById('new-project-name').value.trim();
     const vehicle = document.getElementById('new-vehicle-no').value.trim();
     const remarkType = document.getElementById('global-remark-type').value;
+    const showTotal = document.getElementById('new-show-total').checked;
 
     let customer = document.getElementById('customer-select').value;
     if (customer === '__NEW__') customer = document.getElementById('new-customer-name').value.trim();
@@ -1353,10 +1443,10 @@
     const isEdit = !!editingDcNo;
     db.challans[dcNo] = {
       challanNo: dcNo, date: dcDate, poNo, poDate, projectName, customer, address, vehicle,
-      remarkType, items, qrcodes: qrcodesArr, status: isEdit ? db.challans[dcNo].status : 'QR GENERATED'
+      remarkType, showTotal, items, qrcodes: qrcodesArr, status: isEdit ? db.challans[dcNo].status : 'QR GENERATED'
     };
 
-    logAudit(dcNo, 'ALL', isEdit ? 'CHALLAN EDITED' : 'CHALLAN CREATED', currentUserRole || 'Admin', `Saved ${qrcodesArr.length} items.`, '-');
+    logAudit(dcNo, 'ALL', isEdit ? 'CHALLAN EDITED' : 'CHALLAN CREATED', currentUserRole || 'Admin', `Saved ${qrcodesArr.length} items.`, '-', '-');
     saveData();
     alert(`Delivery Challan ${dcNo} successfully saved & synced to Server!`);
     openPrintChallanTab(dcNo);
@@ -1365,17 +1455,23 @@
   function populatePrintSiteFilter() {
     const siteSel = document.getElementById('print-site-filter');
     siteSel.innerHTML = '<option value="">All Sites / Addresses</option>';
-    let sites = new Set(); Object.values(db.challans).forEach(c => { if(c.address) sites.add(c.address); });
+    let sites = new Set(); 
+    Object.values(db.challans).forEach(c => { 
+      if(c.status === 'QR GENERATED' && c.address) sites.add(c.address); 
+    });
     sites.forEach(s => siteSel.innerHTML += `<option value="${s}">${s}</option>`);
     populatePrintChallanSelect();
   }
 
+  // ONLY SHOW QR GENERATED CHALLANS IN PRINT CHALLAN DROPDOWN
   function populatePrintChallanSelect() {
     const siteFilter = document.getElementById('print-site-filter').value;
     const sel = document.getElementById('print-dc-select');
-    sel.innerHTML = '<option value="">Choose Delivery Challan...</option>';
+    sel.innerHTML = '<option value="">Choose QR-Generated Challan...</option>';
     Object.values(db.challans).forEach(c => {
-      if (!siteFilter || c.address === siteFilter) sel.innerHTML += `<option value="${c.challanNo}">${c.challanNo} - ${c.customer}</option>`;
+      if (c.status === 'QR GENERATED' && (!siteFilter || c.address === siteFilter)) {
+        sel.innerHTML += `<option value="${c.challanNo}">${c.challanNo} - ${c.customer}</option>`;
+      }
     });
   }
 
@@ -1397,10 +1493,39 @@
     document.getElementById('dc-table-th-remark').innerText = c.remarkType === 'Amount' ? 'Amount (₹)' : 'Remark';
 
     const itemsBody = document.getElementById('dc-view-items-body'); itemsBody.innerHTML = '';
+    
+    let totalQty = 0;
+    let totalAmountSum = 0;
+    c.items.forEach(it => {
+      totalQty += (parseInt(it.qty) || 0);
+      if (c.remarkType === 'Amount') {
+        let amtNum = parseFloat((it.remark || '').replace('₹', '').trim()) || 0;
+        totalAmountSum += amtNum;
+      }
+    });
+
     c.items.forEach((it, idx) => {
       itemsBody.innerHTML += `<tr><td class="text-center">${idx + 1}</td><td>${it.code}</td><td>${it.desc}</td><td class="text-center">${it.qty}</td><td class="text-center">${it.unit}</td><td>${it.remark || '-'}</td></tr>`;
     });
-    for(let i = c.items.length + 1; i <= MAX_ENTRIES; i++) itemsBody.innerHTML += `<tr><td class="text-center">${i}</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>`;
+
+    let renderedRows = c.items.length;
+    let maxDisplayRows = c.showTotal ? MAX_ENTRIES - 1 : MAX_ENTRIES;
+
+    for(let i = renderedRows + 1; i <= maxDisplayRows; i++) {
+      itemsBody.innerHTML += `<tr><td class="text-center">${i}</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>`;
+    }
+
+    if (c.showTotal) {
+      let remarkSummary = c.remarkType === 'Amount' ? `₹ ${totalAmountSum.toFixed(2)}` : `Entries: ${c.items.length}`;
+      itemsBody.innerHTML += `
+        <tr class="fw-bold bg-light">
+          <td colspan="3" class="text-end">TOTAL:</td>
+          <td class="text-center">${totalQty}</td>
+          <td class="text-center">-</td>
+          <td>${remarkSummary}</td>
+        </tr>
+      `;
+    }
   }
 
   function triggerDcPrint(copyType) {
@@ -1499,6 +1624,7 @@
     document.getElementById('new-project-name').value = c.projectName || '';
     document.getElementById('new-vehicle-no').value = c.vehicle || '';
     document.getElementById('global-remark-type').value = c.remarkType || 'Remark';
+    document.getElementById('new-show-total').checked = !!c.showTotal;
     populateCustomerDropdown(); document.getElementById('customer-select').value = c.customer;
     handleCustomerSelect(); document.getElementById('delivery-address-text').value = c.address;
     const tbody = document.querySelector('#items-table tbody'); tbody.innerHTML = '';
@@ -1511,24 +1637,30 @@
       if (db.challans[dcNo]) {
         (db.challans[dcNo].qrcodes || []).forEach(q => delete db.qrcodes[q]);
         delete db.challans[dcNo];
-        logAudit(dcNo, 'ALL', 'CHALLAN DELETED', currentUserRole || 'Admin', `Deleted ${dcNo}`, '-');
+        logAudit(dcNo, 'ALL', 'CHALLAN DELETED', currentUserRole || 'Admin', `Deleted ${dcNo}`, '-', '-');
         saveData(); renderDashboard();
       }
     }
   }
 
   function populateDispatchDCSelect() {
-    const sel = document.getElementById('dispatch-dc-select'); sel.innerHTML = '<option value="">Select Challan...</option>';
+    const sel = document.getElementById('dispatch-dc-select'); 
+    sel.innerHTML = '<option value="">Select Challan...</option>';
     Object.keys(db.challans).forEach(dc => {
-      if (db.challans[dc].status === 'QR GENERATED') sel.innerHTML += `<option value="${dc}">${dc} - ${db.challans[dc].customer}</option>`;
+      if (db.challans[dc].status === 'QR GENERATED') {
+        sel.innerHTML += `<option value="${dc}">${dc} - ${db.challans[dc].customer}</option>`;
+      }
     });
     loadDispatchData();
   }
 
   function populateSupervisorDCSelect() {
-    const sel = document.getElementById('supervisor-dc-select'); sel.innerHTML = '<option value="">Select In-Transit Challan...</option>';
+    const sel = document.getElementById('supervisor-dc-select'); 
+    sel.innerHTML = '<option value="">Select In-Transit Challan...</option>';
     Object.keys(db.challans).forEach(dc => {
-      if (db.challans[dc].status === 'IN TRANSIT') sel.innerHTML += `<option value="${dc}">${dc} - ${db.challans[dc].customer}</option>`;
+      if (db.challans[dc].status === 'IN TRANSIT') {
+        sel.innerHTML += `<option value="${dc}">${dc} - ${db.challans[dc].customer}</option>`;
+      }
     });
   }
 
@@ -1556,7 +1688,7 @@
 
     item.status = 'DISPATCH SCANNED';
     item.dispatchScan = { officer, time: new Date().toISOString() };
-    logAudit(dcNo, qrcode, 'DISPATCH SCAN', currentUserRole || 'Dispatch', 'Scanned', officer);
+    logAudit(dcNo, qrcode, 'DISPATCH SCAN', currentUserRole || 'Dispatch', 'Scanned', officer, '-');
     saveData(); loadDispatchData();
   }
 
@@ -1581,13 +1713,16 @@
 
   function confirmDispatch() {
     const dcNo = document.getElementById('dispatch-dc-select').value;
-    const officer = document.getElementById('dispatch-officer-name').value.trim();
+    const officer = document.getElementById('dispatch-officer-name').value.trim() || 'Dispatch Officer';
     const challan = db.challans[dcNo];
 
     challan.status = 'IN TRANSIT';
     (challan.qrcodes || []).forEach(q => { if(db.qrcodes[q]) db.qrcodes[q].status = 'IN TRANSIT'; });
-    logAudit(dcNo, 'ALL', 'DISPATCH CONFIRMED', currentUserRole || 'Dispatch', 'Status set to IN TRANSIT', officer);
-    saveData(); alert(`Dispatch confirmed for ${dcNo}!`); populateDispatchDCSelect(); loadDispatchData();
+    logAudit(dcNo, 'ALL', 'DISPATCH CONFIRMED', currentUserRole || 'Dispatch', 'Status set to IN TRANSIT', officer, '-');
+    saveData(); 
+    alert(`Dispatch confirmed for ${dcNo} by ${officer}!`); 
+    populateDispatchDCSelect(); 
+    loadDispatchData();
   }
 
   function handleManualSupervisorScan() {
@@ -1605,7 +1740,7 @@
 
     item.status = 'SITE RECEIVED';
     item.siteScan = { supervisor, time: new Date().toISOString() };
-    logAudit(dcNo, qrcode, 'SITE SCAN', supervisor, 'Verified at site', '-');
+    logAudit(dcNo, qrcode, 'SITE SCAN', supervisor, 'Verified at site', '-', supervisor);
     saveData(); loadSupervisorData();
   }
 
@@ -1628,17 +1763,22 @@
 
   function removeSiteScan(qrcode) {
     db.qrcodes[qrcode].status = 'IN TRANSIT'; db.qrcodes[qrcode].siteScan = null;
-    logAudit(db.qrcodes[qrcode].challanNo, qrcode, 'SCAN REMOVED', 'Supervisor', 'Reverted', '-');
+    logAudit(db.qrcodes[qrcode].challanNo, qrcode, 'SCAN REMOVED', 'Supervisor', 'Reverted', '-', '-');
     saveData(); loadSupervisorData();
   }
 
   function acceptDelivery() {
     const dcNo = document.getElementById('supervisor-dc-select').value;
+    const supervisor = document.getElementById('supervisor-name').value.trim() || 'Site Supervisor';
     const challan = db.challans[dcNo];
+    
     challan.status = 'DELIVERED';
     (challan.qrcodes || []).forEach(q => { if(db.qrcodes[q]) db.qrcodes[q].status = 'DELIVERED'; });
-    logAudit(dcNo, 'ALL', 'DELIVERY ACCEPTED', document.getElementById('supervisor-name').value.trim(), 'Completed', '-');
-    saveData(); alert(`Delivery Challan ${dcNo} accepted!`); populateSupervisorDCSelect(); loadSupervisorData();
+    logAudit(dcNo, 'ALL', 'DELIVERY ACCEPTED', supervisor, 'Completed & Received on site', '-', supervisor);
+    saveData(); 
+    alert(`Delivery Challan ${dcNo} accepted by ${supervisor}!`); 
+    populateSupervisorDCSelect(); 
+    loadSupervisorData();
   }
 
   function populateAuditFilters() {
@@ -1650,20 +1790,52 @@
     renderAuditTrail();
   }
 
+  // AUDIT TRAIL SEARCH WITH CLICKABLE CHALLAN LINK TO VIEW FULL DC
   function renderAuditTrail() {
-    const dcFilter = document.getElementById('audit-dc-select').value, custFilter = document.getElementById('audit-customer-select').value, search = document.getElementById('audit-search').value.toLowerCase();
-    const tbody = document.querySelector('#audit-table tbody'); tbody.innerHTML = '';
+    const dcFilter = document.getElementById('audit-dc-select').value;
+    const custFilter = document.getElementById('audit-customer-select').value;
+    const search = document.getElementById('audit-search').value.toLowerCase();
+    const tbody = document.querySelector('#audit-table tbody'); 
+    tbody.innerHTML = '';
+
     db.audit.filter(a => {
       const c = db.challans[a.challanNo] || {};
       return (!dcFilter || a.challanNo === dcFilter) && (!custFilter || c.customer === custFilter) && (!search || JSON.stringify(a).toLowerCase().includes(search));
     }).forEach(a => {
-      tbody.innerHTML += `<tr><td>${formatDateTime(a.timestamp)}</td><td>${a.challanNo}</td><td><code>${a.qrCode}</code></td><td><strong>${a.action}</strong></td><td>${a.actor}</td><td>${a.dispatchPerson || '-'}</td><td><span class="badge bg-light text-dark border">${a.deviceInfo}</span></td><td>${a.details}</td></tr>`;
+      const dcLink = db.challans[a.challanNo] ? `<a href="#" onclick="openPrintChallanTab('${a.challanNo}'); return false;" class="text-primary fw-bold text-decoration-underline" title="Click to view full DC">${a.challanNo}</a>` : a.challanNo;
+      tbody.innerHTML += `
+        <tr>
+          <td>${formatDateTime(a.timestamp)}</td>
+          <td>${dcLink}</td>
+          <td><code>${a.qrCode}</code></td>
+          <td><strong>${a.action}</strong></td>
+          <td>${a.actor}</td>
+          <td><span class="text-primary fw-semibold">${a.dispatchPerson || '-'}</span></td>
+          <td><span class="text-success fw-semibold">${a.siteReceiver || '-'}</span></td>
+          <td><span class="badge bg-light text-dark border">${a.deviceInfo}</span></td>
+          <td>${a.details}</td>
+        </tr>
+      `;
+    });
+  }
+
+  function logAudit(challanNo, qrCode, action, actor, details, dispatchPerson = '-', siteReceiver = '-') {
+    db.audit.unshift({ 
+      timestamp: new Date().toISOString(), 
+      challanNo, 
+      qrCode, 
+      action, 
+      actor, 
+      dispatchPerson: dispatchPerson !== '-' ? dispatchPerson : (db.challans[challanNo]?.dispatchOfficer || '-'), 
+      siteReceiver: siteReceiver !== '-' ? siteReceiver : (action.includes('ACCEPTED') || action.includes('SITE') ? actor : '-'),
+      deviceInfo: getDeviceDetails(), 
+      details 
     });
   }
 
   function deleteAllLogs() {
     if (confirm("Delete all audit logs?")) {
-      logAudit('SYSTEM', 'ALL', 'LOGS DELETED', currentUserRole || 'Admin', 'Cleared logs', '-');
+      logAudit('SYSTEM', 'ALL', 'LOGS DELETED', currentUserRole || 'Admin', 'Cleared logs', '-', '-');
       db.audit = [db.audit[0]]; saveData(); renderAuditTrail();
     }
   }
@@ -1724,11 +1896,6 @@
     document.getElementById('dash-pending-units').innerText = totalPending;
   }
 
-  function logAudit(challanNo, qrCode, action, actor, details, dispatchPerson = '-') {
-    db.audit.unshift({ timestamp: new Date().toISOString(), challanNo, qrCode, action, actor, dispatchPerson, deviceInfo: getDeviceDetails(), details });
-  }
-
-  // Auto-focus PIN field when login modal appears for rapid keyboard entry
   document.getElementById('loginModal').addEventListener('shown.bs.modal', function () {
     document.getElementById('role-pin').focus();
   });
