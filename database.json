@@ -2926,8 +2926,11 @@
       "desc": "G.I. PANEL 2500X1250X10 1.5THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED",
-      "dispatchScan": null,
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "ROHIT",
+        "time": "2026-11-13T13:50:07.369Z"
+      },
       "siteScan": null
     },
     "SNE-26001-A2-4": {
@@ -11238,6 +11241,16 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-13T13:50:07.369Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-A1-3",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "ROHIT",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-13T13:50:03.849Z",
       "challanNo": "SNE-26001",
