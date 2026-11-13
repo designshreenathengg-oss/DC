@@ -2888,6 +2888,50 @@
         "SNE-26026-ITM-3"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26027": {
+      "challanNo": "SNE-26027",
+      "date": "2026-11-13",
+      "poNo": "",
+      "poDate": "",
+      "projectName": "",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
+      "vehicle": "",
+      "remarkType": "Amount",
+      "showTotal": true,
+      "items": [
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 100"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 20000"
+        },
+        {
+          "code": "ITM",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 10"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-1"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -11276,9 +11320,29 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26027-ITM-1": {
+      "qrCode": "SNE-26027-ITM-1",
+      "challanNo": "SNE-26027",
+      "itemCode": "ITM",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-13T14:51:09.481Z",
+      "challanNo": "SNE-26027",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 3 items."
+    },
     {
       "timestamp": "2026-11-13T14:48:56.640Z",
       "challanNo": "SNE-26001",
