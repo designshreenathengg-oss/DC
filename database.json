@@ -11234,6 +11234,16 @@
   },
   "audit": [
     {
+      "timestamp": "2026-11-13T13:47:21.944Z",
+      "challanNo": "SNE-26026",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 4 items."
+    },
+    {
       "timestamp": "2026-11-13T10:33:48.913Z",
       "challanNo": "SNE-26026",
       "qrCode": "ALL",
