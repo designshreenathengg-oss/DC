@@ -11219,10 +11219,14 @@
       "desc": "Item Particular",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
+      "status": "SITE RECEIVED",
       "dispatchScan": {
         "officer": "PIYUSH",
         "time": "2026-11-13T13:52:56.122Z"
+      },
+      "siteScan": {
+        "supervisor": "VISHAL",
+        "time": "2026-11-13T14:24:01.785Z"
       }
     },
     "SNE-26026-ITM-1": {
@@ -11275,6 +11279,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-13T14:24:01.785Z",
+      "challanNo": "SNE-26025",
+      "qrCode": "SNE-26025-ITM-1",
+      "action": "SITE SCAN",
+      "actor": "VISHAL",
+      "dispatchPerson": "-",
+      "siteReceiver": "VISHAL",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Verified at site"
+    },
     {
       "timestamp": "2026-11-13T14:23:10.181Z",
       "challanNo": "SNE-26025",
