@@ -2905,31 +2905,6 @@
         "SNE-26026-ITM-20"
       ],
       "status": "QR GENERATED"
-    },
-    "SNE-26027": {
-      "challanNo": "SNE-26027",
-      "date": "2026-11-13",
-      "poNo": "",
-      "poDate": "",
-      "projectName": "",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "CHAKAN MIDC, PUNE",
-      "vehicle": "",
-      "remarkType": "Remark",
-      "items": [
-        {
-          "code": "dasd",
-          "desc": "dasd",
-          "qty": 1,
-          "unit": "Nos",
-          "remarkType": "Remark",
-          "remark": "-"
-        }
-      ],
-      "qrcodes": [
-        "SNE-26027-dasd-1"
-      ],
-      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -11415,18 +11390,19 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
-    },
-    "SNE-26027-dasd-1": {
-      "qrCode": "SNE-26027-dasd-1",
-      "challanNo": "SNE-26027",
-      "itemCode": "dasd",
-      "desc": "dasd",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-13T09:54:52.152Z",
+      "challanNo": "SNE-26027",
+      "qrCode": "ALL",
+      "action": "CHALLAN DELETED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Deleted SNE-26027"
+    },
     {
       "timestamp": "2026-11-13T09:54:41.776Z",
       "challanNo": "SNE-26027",
