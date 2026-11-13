@@ -2861,50 +2861,6 @@
         "SNE-26025-ITM-1"
       ],
       "status": "QR GENERATED"
-    },
-    "SNE-26026": {
-      "challanNo": "SNE-26026",
-      "date": "2026-11-13",
-      "poNo": "",
-      "poDate": "",
-      "projectName": "36 JPH PHASE 2",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "CHAKAN MIDC, PUNE",
-      "vehicle": "MH15DD4881",
-      "remarkType": "Amount",
-      "items": [
-        {
-          "code": "ITM",
-          "desc": "hardware",
-          "qty": 20,
-          "unit": "Nos",
-          "remarkType": "Amount",
-          "remark": "₹ 200"
-        }
-      ],
-      "qrcodes": [
-        "SNE-26026-ITM-1",
-        "SNE-26026-ITM-2",
-        "SNE-26026-ITM-3",
-        "SNE-26026-ITM-4",
-        "SNE-26026-ITM-5",
-        "SNE-26026-ITM-6",
-        "SNE-26026-ITM-7",
-        "SNE-26026-ITM-8",
-        "SNE-26026-ITM-9",
-        "SNE-26026-ITM-10",
-        "SNE-26026-ITM-11",
-        "SNE-26026-ITM-12",
-        "SNE-26026-ITM-13",
-        "SNE-26026-ITM-14",
-        "SNE-26026-ITM-15",
-        "SNE-26026-ITM-16",
-        "SNE-26026-ITM-17",
-        "SNE-26026-ITM-18",
-        "SNE-26026-ITM-19",
-        "SNE-26026-ITM-20"
-      ],
-      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -11210,189 +11166,19 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-1": {
-      "qrCode": "SNE-26026-ITM-1",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-2": {
-      "qrCode": "SNE-26026-ITM-2",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-3": {
-      "qrCode": "SNE-26026-ITM-3",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-4": {
-      "qrCode": "SNE-26026-ITM-4",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-5": {
-      "qrCode": "SNE-26026-ITM-5",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-6": {
-      "qrCode": "SNE-26026-ITM-6",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-7": {
-      "qrCode": "SNE-26026-ITM-7",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-8": {
-      "qrCode": "SNE-26026-ITM-8",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-9": {
-      "qrCode": "SNE-26026-ITM-9",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-10": {
-      "qrCode": "SNE-26026-ITM-10",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-11": {
-      "qrCode": "SNE-26026-ITM-11",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-12": {
-      "qrCode": "SNE-26026-ITM-12",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-13": {
-      "qrCode": "SNE-26026-ITM-13",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-14": {
-      "qrCode": "SNE-26026-ITM-14",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-15": {
-      "qrCode": "SNE-26026-ITM-15",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-16": {
-      "qrCode": "SNE-26026-ITM-16",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-17": {
-      "qrCode": "SNE-26026-ITM-17",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-18": {
-      "qrCode": "SNE-26026-ITM-18",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-19": {
-      "qrCode": "SNE-26026-ITM-19",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26026-ITM-20": {
-      "qrCode": "SNE-26026-ITM-20",
-      "challanNo": "SNE-26026",
-      "itemCode": "ITM",
-      "desc": "hardware",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-13T09:55:03.835Z",
+      "challanNo": "SNE-26026",
+      "qrCode": "ALL",
+      "action": "CHALLAN DELETED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Deleted SNE-26026"
+    },
     {
       "timestamp": "2026-11-13T09:54:52.152Z",
       "challanNo": "SNE-26027",
