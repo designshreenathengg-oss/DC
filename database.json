@@ -2860,7 +2860,7 @@
       "qrcodes": [
         "SNE-26025-ITM-1"
       ],
-      "status": "IN TRANSIT"
+      "status": "DELIVERED"
     },
     "SNE-26026": {
       "challanNo": "SNE-26026",
@@ -11219,7 +11219,7 @@
       "desc": "Item Particular",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "SITE RECEIVED",
+      "status": "DELIVERED",
       "dispatchScan": {
         "officer": "PIYUSH",
         "time": "2026-11-13T13:52:56.122Z"
@@ -11279,6 +11279,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-13T14:24:05.000Z",
+      "challanNo": "SNE-26025",
+      "qrCode": "ALL",
+      "action": "DELIVERY ACCEPTED",
+      "actor": "VISHAL",
+      "dispatchPerson": "-",
+      "siteReceiver": "VISHAL",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Completed & Received on site"
+    },
     {
       "timestamp": "2026-11-13T14:24:01.785Z",
       "challanNo": "SNE-26025",
