@@ -941,24 +941,35 @@
     },
     "SNE-26007": {
       "challanNo": "SNE-26007",
-      "date": "2026-10-22T18:30:00.000Z",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "date": "",
       "poNo": "",
       "poDate": "",
       "projectName": "L block",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
       "vehicle": "",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
           "code": "P1",
           "desc": "Pencil",
           "qty": 7,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "Trail"
         }
       ],
-      "qrcodes": []
+      "qrcodes": [
+        "SNE-26007-P1-1",
+        "SNE-26007-P1-2",
+        "SNE-26007-P1-3",
+        "SNE-26007-P1-4",
+        "SNE-26007-P1-5",
+        "SNE-26007-P1-6",
+        "SNE-26007-P1-7"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26008": {
       "challanNo": "SNE-26008",
@@ -16077,9 +16088,83 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26007-P1-1": {
+      "qrCode": "SNE-26007-P1-1",
+      "challanNo": "SNE-26007",
+      "itemCode": "P1",
+      "desc": "Pencil",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26007-P1-2": {
+      "qrCode": "SNE-26007-P1-2",
+      "challanNo": "SNE-26007",
+      "itemCode": "P1",
+      "desc": "Pencil",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26007-P1-3": {
+      "qrCode": "SNE-26007-P1-3",
+      "challanNo": "SNE-26007",
+      "itemCode": "P1",
+      "desc": "Pencil",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26007-P1-4": {
+      "qrCode": "SNE-26007-P1-4",
+      "challanNo": "SNE-26007",
+      "itemCode": "P1",
+      "desc": "Pencil",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26007-P1-5": {
+      "qrCode": "SNE-26007-P1-5",
+      "challanNo": "SNE-26007",
+      "itemCode": "P1",
+      "desc": "Pencil",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26007-P1-6": {
+      "qrCode": "SNE-26007-P1-6",
+      "challanNo": "SNE-26007",
+      "itemCode": "P1",
+      "desc": "Pencil",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26007-P1-7": {
+      "qrCode": "SNE-26007-P1-7",
+      "challanNo": "SNE-26007",
+      "itemCode": "P1",
+      "desc": "Pencil",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:28:01.919Z",
+      "challanNo": "SNE-26007",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 7 items."
+    },
     {
       "timestamp": "2026-11-15T13:27:50.364Z",
       "challanNo": "SNE-26006",
