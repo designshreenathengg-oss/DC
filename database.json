@@ -173,7 +173,7 @@
       "address": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "vehicle": "MH15KS0702",
       "remarkType": "Remark",
-      "showTotal": false,
+      "showTotal": true,
       "items": [
         {
           "code": "A1",
@@ -1431,6 +1431,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T16:21:59.411Z",
+      "challanNo": "SNE-26003",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 83 items."
+    },
     {
       "timestamp": "2026-11-15T16:20:39.908Z",
       "challanNo": "SNE-26003",
