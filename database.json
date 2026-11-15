@@ -11957,20 +11957,22 @@
     },
     "SNE-26021": {
       "challanNo": "SNE-26021",
-      "date": "2026-11-03T18:30:00.000Z",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "MAHENDRA & MAHENDRA LTD, PLOT NO. F1,F7 HINGANA ROAG,NAGPUR- 440016",
+      "date": "",
       "poNo": "",
-      "poDate": "2026-11-03T18:30:00.000Z",
+      "poDate": "",
       "projectName": "NAGPUR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "HINGANA ROAD, MIDC NAGPUR",
       "vehicle": "MH18BG4375",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
           "code": "AA",
           "desc": "FLASH OF ENCLOSURE, FOP 1",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -11978,6 +11980,7 @@
           "desc": "FLASH OF ENCLOSURE FOP 2",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -11985,6 +11988,7 @@
           "desc": "FLASH OF ENCLOSURE FOP 3",
           "qty": 2,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -11992,6 +11996,7 @@
           "desc": "FLASH OF ENCLOSURE FOP 4",
           "qty": 2,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -11999,6 +12004,7 @@
           "desc": "FLASH OF ENCLOSURE FOP 5",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12006,6 +12012,7 @@
           "desc": "FLASH OF ENCLOSURE FOP 6",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12013,6 +12020,7 @@
           "desc": "FLASH OF ENCLOSURE FOP 7",
           "qty": 2,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12020,6 +12028,7 @@
           "desc": "FLASH OF ENCLOSURE FOP 8",
           "qty": 2,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12027,6 +12036,7 @@
           "desc": "FLASH OF ENCLOSURE FOP 9",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12034,6 +12044,7 @@
           "desc": "FLASH OF ENCLOSURE FOP 10",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12041,6 +12052,7 @@
           "desc": "FLASH OF ENCLOSURE, FO 1",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12048,6 +12060,7 @@
           "desc": "FLASH OF ENCLOSURE FO 2",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12055,6 +12068,7 @@
           "desc": "FLASH OF ENCLOSURE FO 3",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12062,6 +12076,7 @@
           "desc": "FLASH OF ENCLOSURE FO 4",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12069,10 +12084,57 @@
           "desc": "FLASH OF ENCLOSURE FO 5",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         }
       ],
-      "qrcodes": []
+      "qrcodes": [
+        "SNE-26021-AA-1",
+        "SNE-26021-ITM-1",
+        "SNE-26021-ITM-R3-1",
+        "SNE-26021-ITM-2",
+        "SNE-26021-ITM-R4-1",
+        "SNE-26021-ITM-R4-2",
+        "SNE-26021-ITM-R5-1",
+        "SNE-26021-ITM-R6-1",
+        "SNE-26021-ITM-R7-1",
+        "SNE-26021-ITM-R7-2",
+        "SNE-26021-ITM-R8-1",
+        "SNE-26021-ITM-R8-2",
+        "SNE-26021-ITM-R9-1",
+        "SNE-26021-ITM-R10-1",
+        "SNE-26021-ITM-R11-1",
+        "SNE-26021-ITM-R11-2",
+        "SNE-26021-ITM-3",
+        "SNE-26021-ITM-4",
+        "SNE-26021-ITM-5",
+        "SNE-26021-ITM-6",
+        "SNE-26021-ITM-R12-1",
+        "SNE-26021-ITM-R12-2",
+        "SNE-26021-ITM-R12-3",
+        "SNE-26021-ITM-R12-4",
+        "SNE-26021-ITM-R12-5",
+        "SNE-26021-ITM-R12-6",
+        "SNE-26021-ITM-R13-1",
+        "SNE-26021-ITM-R13-2",
+        "SNE-26021-ITM-R13-3",
+        "SNE-26021-ITM-R13-4",
+        "SNE-26021-ITM-R13-5",
+        "SNE-26021-ITM-R13-6",
+        "SNE-26021-ITM-R14-1",
+        "SNE-26021-ITM-R14-2",
+        "SNE-26021-ITM-R14-3",
+        "SNE-26021-ITM-R14-4",
+        "SNE-26021-ITM-R14-5",
+        "SNE-26021-ITM-R14-6",
+        "SNE-26021-ITM-R15-1",
+        "SNE-26021-ITM-R15-2",
+        "SNE-26021-ITM-R15-3",
+        "SNE-26021-ITM-R15-4",
+        "SNE-26021-ITM-R15-5",
+        "SNE-26021-ITM-R15-6"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26022": {
       "challanNo": "SNE-26022",
@@ -112444,9 +112506,416 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "HINGANA ROAD, MIDC NAGPUR",
       "status": "QR GENERATED"
+    },
+    "SNE-26021-AA-1": {
+      "qrCode": "SNE-26021-AA-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "AA",
+      "desc": "FLASH OF ENCLOSURE, FOP 1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-1": {
+      "qrCode": "SNE-26021-ITM-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FOP 2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R3-1": {
+      "qrCode": "SNE-26021-ITM-R3-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FOP 3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-2": {
+      "qrCode": "SNE-26021-ITM-2",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FOP 3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R4-1": {
+      "qrCode": "SNE-26021-ITM-R4-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FOP 4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R4-2": {
+      "qrCode": "SNE-26021-ITM-R4-2",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FOP 4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R5-1": {
+      "qrCode": "SNE-26021-ITM-R5-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FOP 5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R6-1": {
+      "qrCode": "SNE-26021-ITM-R6-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FOP 6",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R7-1": {
+      "qrCode": "SNE-26021-ITM-R7-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FOP 7",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R7-2": {
+      "qrCode": "SNE-26021-ITM-R7-2",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FOP 7",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R8-1": {
+      "qrCode": "SNE-26021-ITM-R8-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FOP 8",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R8-2": {
+      "qrCode": "SNE-26021-ITM-R8-2",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FOP 8",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R9-1": {
+      "qrCode": "SNE-26021-ITM-R9-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FOP 9",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R10-1": {
+      "qrCode": "SNE-26021-ITM-R10-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FOP 10",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R11-1": {
+      "qrCode": "SNE-26021-ITM-R11-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE, FO 1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R11-2": {
+      "qrCode": "SNE-26021-ITM-R11-2",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE, FO 1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-3": {
+      "qrCode": "SNE-26021-ITM-3",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE, FO 1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-4": {
+      "qrCode": "SNE-26021-ITM-4",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE, FO 1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-5": {
+      "qrCode": "SNE-26021-ITM-5",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE, FO 1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-6": {
+      "qrCode": "SNE-26021-ITM-6",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE, FO 1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R12-1": {
+      "qrCode": "SNE-26021-ITM-R12-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R12-2": {
+      "qrCode": "SNE-26021-ITM-R12-2",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R12-3": {
+      "qrCode": "SNE-26021-ITM-R12-3",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R12-4": {
+      "qrCode": "SNE-26021-ITM-R12-4",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R12-5": {
+      "qrCode": "SNE-26021-ITM-R12-5",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R12-6": {
+      "qrCode": "SNE-26021-ITM-R12-6",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R13-1": {
+      "qrCode": "SNE-26021-ITM-R13-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R13-2": {
+      "qrCode": "SNE-26021-ITM-R13-2",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R13-3": {
+      "qrCode": "SNE-26021-ITM-R13-3",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R13-4": {
+      "qrCode": "SNE-26021-ITM-R13-4",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R13-5": {
+      "qrCode": "SNE-26021-ITM-R13-5",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R13-6": {
+      "qrCode": "SNE-26021-ITM-R13-6",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R14-1": {
+      "qrCode": "SNE-26021-ITM-R14-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R14-2": {
+      "qrCode": "SNE-26021-ITM-R14-2",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R14-3": {
+      "qrCode": "SNE-26021-ITM-R14-3",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R14-4": {
+      "qrCode": "SNE-26021-ITM-R14-4",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R14-5": {
+      "qrCode": "SNE-26021-ITM-R14-5",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R14-6": {
+      "qrCode": "SNE-26021-ITM-R14-6",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R15-1": {
+      "qrCode": "SNE-26021-ITM-R15-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R15-2": {
+      "qrCode": "SNE-26021-ITM-R15-2",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R15-3": {
+      "qrCode": "SNE-26021-ITM-R15-3",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R15-4": {
+      "qrCode": "SNE-26021-ITM-R15-4",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R15-5": {
+      "qrCode": "SNE-26021-ITM-R15-5",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-R15-6": {
+      "qrCode": "SNE-26021-ITM-R15-6",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM",
+      "desc": "FLASH OF ENCLOSURE FO 5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:31:38.013Z",
+      "challanNo": "SNE-26021",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 44 items."
+    },
     {
       "timestamp": "2026-11-15T13:31:27.088Z",
       "challanNo": "SNE-26020",
