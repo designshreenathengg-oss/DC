@@ -1159,20 +1159,22 @@
     },
     "SNE-26009": {
       "challanNo": "SNE-26009",
-      "date": "2026-10-24T18:30:00.000Z",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "CHAKAN MIDC, PUNE",
+      "date": "",
       "poNo": "",
       "poDate": "",
       "projectName": "36 JPH PHASE 2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
       "vehicle": "",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
           "code": "ITM-01",
           "desc": "Pressure Sensor for pneumatic pipe",
           "qty": 1,
           "unit": "no.",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1180,6 +1182,7 @@
           "desc": "Tank Monkey Ladder",
           "qty": 6,
           "unit": "nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1187,6 +1190,7 @@
           "desc": "DRY SCRUBER 3.2 MTR LADDER",
           "qty": 4,
           "unit": "nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1194,6 +1198,7 @@
           "desc": "workdeck ladder",
           "qty": 1,
           "unit": "no.",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1201,6 +1206,7 @@
           "desc": "PRIMER OVEN COLUMN",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1208,6 +1214,7 @@
           "desc": "1) 4000 MM LG",
           "qty": 8,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1215,10 +1222,38 @@
           "desc": "2) 4710 MM LG",
           "qty": 4,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         }
       ],
-      "qrcodes": []
+      "qrcodes": [
+        "SNE-26009-ITM-01-1",
+        "SNE-26009-ITM-02-1",
+        "SNE-26009-ITM-02-2",
+        "SNE-26009-ITM-02-3",
+        "SNE-26009-ITM-02-4",
+        "SNE-26009-ITM-02-5",
+        "SNE-26009-ITM-02-6",
+        "SNE-26009-ITM-03-1",
+        "SNE-26009-ITM-03-2",
+        "SNE-26009-ITM-03-3",
+        "SNE-26009-ITM-03-4",
+        "SNE-26009-ITM-04-1",
+        "SNE-26009-ITM-05-1",
+        "SNE-26009-ITM-06-1",
+        "SNE-26009-ITM-06-2",
+        "SNE-26009-ITM-06-3",
+        "SNE-26009-ITM-06-4",
+        "SNE-26009-ITM-06-5",
+        "SNE-26009-ITM-06-6",
+        "SNE-26009-ITM-06-7",
+        "SNE-26009-ITM-06-8",
+        "SNE-26009-ITM-07-1",
+        "SNE-26009-ITM-07-2",
+        "SNE-26009-ITM-07-3",
+        "SNE-26009-ITM-07-4"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26010": {
       "challanNo": "SNE-26010",
@@ -16659,9 +16694,245 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-01-1": {
+      "qrCode": "SNE-26009-ITM-01-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-01",
+      "desc": "Pressure Sensor for pneumatic pipe",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-02-1": {
+      "qrCode": "SNE-26009-ITM-02-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-02",
+      "desc": "Tank Monkey Ladder",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-02-2": {
+      "qrCode": "SNE-26009-ITM-02-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-02",
+      "desc": "Tank Monkey Ladder",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-02-3": {
+      "qrCode": "SNE-26009-ITM-02-3",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-02",
+      "desc": "Tank Monkey Ladder",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-02-4": {
+      "qrCode": "SNE-26009-ITM-02-4",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-02",
+      "desc": "Tank Monkey Ladder",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-02-5": {
+      "qrCode": "SNE-26009-ITM-02-5",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-02",
+      "desc": "Tank Monkey Ladder",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-02-6": {
+      "qrCode": "SNE-26009-ITM-02-6",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-02",
+      "desc": "Tank Monkey Ladder",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-03-1": {
+      "qrCode": "SNE-26009-ITM-03-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-03",
+      "desc": "DRY SCRUBER 3.2 MTR LADDER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-03-2": {
+      "qrCode": "SNE-26009-ITM-03-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-03",
+      "desc": "DRY SCRUBER 3.2 MTR LADDER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-03-3": {
+      "qrCode": "SNE-26009-ITM-03-3",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-03",
+      "desc": "DRY SCRUBER 3.2 MTR LADDER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-03-4": {
+      "qrCode": "SNE-26009-ITM-03-4",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-03",
+      "desc": "DRY SCRUBER 3.2 MTR LADDER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-04-1": {
+      "qrCode": "SNE-26009-ITM-04-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-04",
+      "desc": "workdeck ladder",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-05-1": {
+      "qrCode": "SNE-26009-ITM-05-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-05",
+      "desc": "PRIMER OVEN COLUMN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-06-1": {
+      "qrCode": "SNE-26009-ITM-06-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-06",
+      "desc": "1) 4000 MM LG",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-06-2": {
+      "qrCode": "SNE-26009-ITM-06-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-06",
+      "desc": "1) 4000 MM LG",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-06-3": {
+      "qrCode": "SNE-26009-ITM-06-3",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-06",
+      "desc": "1) 4000 MM LG",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-06-4": {
+      "qrCode": "SNE-26009-ITM-06-4",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-06",
+      "desc": "1) 4000 MM LG",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-06-5": {
+      "qrCode": "SNE-26009-ITM-06-5",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-06",
+      "desc": "1) 4000 MM LG",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-06-6": {
+      "qrCode": "SNE-26009-ITM-06-6",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-06",
+      "desc": "1) 4000 MM LG",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-06-7": {
+      "qrCode": "SNE-26009-ITM-06-7",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-06",
+      "desc": "1) 4000 MM LG",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-06-8": {
+      "qrCode": "SNE-26009-ITM-06-8",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-06",
+      "desc": "1) 4000 MM LG",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-07-1": {
+      "qrCode": "SNE-26009-ITM-07-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-07",
+      "desc": "2) 4710 MM LG",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-07-2": {
+      "qrCode": "SNE-26009-ITM-07-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-07",
+      "desc": "2) 4710 MM LG",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-07-3": {
+      "qrCode": "SNE-26009-ITM-07-3",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-07",
+      "desc": "2) 4710 MM LG",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-ITM-07-4": {
+      "qrCode": "SNE-26009-ITM-07-4",
+      "challanNo": "SNE-26009",
+      "itemCode": "ITM-07",
+      "desc": "2) 4710 MM LG",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:28:27.074Z",
+      "challanNo": "SNE-26009",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 25 items."
+    },
     {
       "timestamp": "2026-11-15T13:28:14.891Z",
       "challanNo": "SNE-26008",
