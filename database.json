@@ -12138,20 +12138,22 @@
     },
     "SNE-26022": {
       "challanNo": "SNE-26022",
-      "date": "2026-11-11T18:30:00.000Z",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "date": "",
       "poNo": "",
       "poDate": "",
       "projectName": "",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
       "vehicle": "MH15GV0326",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
           "code": "ITM",
           "desc": "HIGH TEMPERATURE GREASE",
           "qty": 1,
           "unit": "KG",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12159,6 +12161,7 @@
           "desc": "PLATE 1100X750X32 MM THIK",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12166,6 +12169,7 @@
           "desc": "PLATE 200X750X6 MM THIK",
           "qty": 9,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12173,6 +12177,7 @@
           "desc": "PLATE 200X750X8 MM THIK",
           "qty": 9,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -12180,19 +12185,45 @@
           "desc": "M24X100 LG NBDW",
           "qty": 25,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         }
       ],
       "qrcodes": [
         "SNE-26022-ITM-1",
+        "SNE-26022-ITM-R2-1",
         "SNE-26022-ITM-2",
         "SNE-26022-ITM-3",
         "SNE-26022-ITM-4",
         "SNE-26022-ITM-5",
         "SNE-26022-ITM-6",
+        "SNE-26022-ITM-R3-1",
+        "SNE-26022-ITM-R3-2",
+        "SNE-26022-ITM-R3-3",
+        "SNE-26022-ITM-R3-4",
+        "SNE-26022-ITM-R3-5",
+        "SNE-26022-ITM-R3-6",
         "SNE-26022-ITM-7",
         "SNE-26022-ITM-8",
         "SNE-26022-ITM-9",
+        "SNE-26022-ITM-R4-1",
+        "SNE-26022-ITM-R4-2",
+        "SNE-26022-ITM-R4-3",
+        "SNE-26022-ITM-R4-4",
+        "SNE-26022-ITM-R4-5",
+        "SNE-26022-ITM-R4-6",
+        "SNE-26022-ITM-R4-7",
+        "SNE-26022-ITM-R4-8",
+        "SNE-26022-ITM-R4-9",
+        "SNE-26022-ITM-R5-1",
+        "SNE-26022-ITM-R5-2",
+        "SNE-26022-ITM-R5-3",
+        "SNE-26022-ITM-R5-4",
+        "SNE-26022-ITM-R5-5",
+        "SNE-26022-ITM-R5-6",
+        "SNE-26022-ITM-R5-7",
+        "SNE-26022-ITM-R5-8",
+        "SNE-26022-ITM-R5-9",
         "SNE-26022-ITM-10",
         "SNE-26022-ITM-11",
         "SNE-26022-ITM-12",
@@ -12208,33 +12239,9 @@
         "SNE-26022-ITM-22",
         "SNE-26022-ITM-23",
         "SNE-26022-ITM-24",
-        "SNE-26022-ITM-25",
-        "SNE-26022-ITM-26",
-        "SNE-26022-ITM-27",
-        "SNE-26022-ITM-28",
-        "SNE-26022-ITM-29",
-        "SNE-26022-ITM-30",
-        "SNE-26022-ITM-31",
-        "SNE-26022-ITM-32",
-        "SNE-26022-ITM-33",
-        "SNE-26022-ITM-34",
-        "SNE-26022-ITM-35",
-        "SNE-26022-ITM-36",
-        "SNE-26022-ITM-37",
-        "SNE-26022-ITM-38",
-        "SNE-26022-ITM-39",
-        "SNE-26022-ITM-40",
-        "SNE-26022-ITM-41",
-        "SNE-26022-ITM-42",
-        "SNE-26022-ITM-43",
-        "SNE-26022-ITM-44",
-        "SNE-26022-ITM-45",
-        "SNE-26022-ITM-46",
-        "SNE-26022-ITM-47",
-        "SNE-26022-ITM-48",
-        "SNE-26022-ITM-49",
-        "SNE-26022-ITM-50"
-      ]
+        "SNE-26022-ITM-25"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26023": {
       "challanNo": "SNE-26023",
@@ -14989,7 +14996,7 @@
       "itemCode": "ITM",
       "desc": "HIGH TEMPERATURE GREASE",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15000,7 +15007,7 @@
       "itemCode": "ITM",
       "desc": "PLATE 1100X750X32 MM THIK",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15011,7 +15018,7 @@
       "itemCode": "ITM",
       "desc": "PLATE 1100X750X32 MM THIK",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15022,7 +15029,7 @@
       "itemCode": "ITM",
       "desc": "PLATE 1100X750X32 MM THIK",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15033,7 +15040,7 @@
       "itemCode": "ITM",
       "desc": "PLATE 1100X750X32 MM THIK",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15044,7 +15051,7 @@
       "itemCode": "ITM",
       "desc": "PLATE 1100X750X32 MM THIK",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15053,9 +15060,9 @@
       "qrCode": "SNE-26022-ITM-7",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 1100X750X32 MM THIK",
+      "desc": "PLATE 200X750X6 MM THIK",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15066,7 +15073,7 @@
       "itemCode": "ITM",
       "desc": "PLATE 200X750X6 MM THIK",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15077,7 +15084,7 @@
       "itemCode": "ITM",
       "desc": "PLATE 200X750X6 MM THIK",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15086,9 +15093,9 @@
       "qrCode": "SNE-26022-ITM-10",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X6 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15097,9 +15104,9 @@
       "qrCode": "SNE-26022-ITM-11",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X6 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15108,9 +15115,9 @@
       "qrCode": "SNE-26022-ITM-12",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X6 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15119,9 +15126,9 @@
       "qrCode": "SNE-26022-ITM-13",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X6 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15130,9 +15137,9 @@
       "qrCode": "SNE-26022-ITM-14",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X6 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15141,9 +15148,9 @@
       "qrCode": "SNE-26022-ITM-15",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X6 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15152,9 +15159,9 @@
       "qrCode": "SNE-26022-ITM-16",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X6 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15163,9 +15170,9 @@
       "qrCode": "SNE-26022-ITM-17",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X8 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15174,9 +15181,9 @@
       "qrCode": "SNE-26022-ITM-18",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X8 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15185,9 +15192,9 @@
       "qrCode": "SNE-26022-ITM-19",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X8 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15196,9 +15203,9 @@
       "qrCode": "SNE-26022-ITM-20",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X8 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15207,9 +15214,9 @@
       "qrCode": "SNE-26022-ITM-21",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X8 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15218,9 +15225,9 @@
       "qrCode": "SNE-26022-ITM-22",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X8 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15229,9 +15236,9 @@
       "qrCode": "SNE-26022-ITM-23",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X8 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15240,9 +15247,9 @@
       "qrCode": "SNE-26022-ITM-24",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X8 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -15251,9 +15258,9 @@
       "qrCode": "SNE-26022-ITM-25",
       "challanNo": "SNE-26022",
       "itemCode": "ITM",
-      "desc": "PLATE 200X750X8 MM THIK",
+      "desc": "M24X100 LG NBDW",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA AND MAHENDRA CHAKAN MIDC,PUNE.",
+      "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED",
       "dispatchScan": null,
       "siteScan": null
@@ -113177,9 +113184,245 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R2-1": {
+      "qrCode": "SNE-26022-ITM-R2-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 1100X750X32 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R3-1": {
+      "qrCode": "SNE-26022-ITM-R3-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X6 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R3-2": {
+      "qrCode": "SNE-26022-ITM-R3-2",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X6 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R3-3": {
+      "qrCode": "SNE-26022-ITM-R3-3",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X6 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R3-4": {
+      "qrCode": "SNE-26022-ITM-R3-4",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X6 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R3-5": {
+      "qrCode": "SNE-26022-ITM-R3-5",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X6 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R3-6": {
+      "qrCode": "SNE-26022-ITM-R3-6",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X6 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R4-1": {
+      "qrCode": "SNE-26022-ITM-R4-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X8 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R4-2": {
+      "qrCode": "SNE-26022-ITM-R4-2",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X8 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R4-3": {
+      "qrCode": "SNE-26022-ITM-R4-3",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X8 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R4-4": {
+      "qrCode": "SNE-26022-ITM-R4-4",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X8 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R4-5": {
+      "qrCode": "SNE-26022-ITM-R4-5",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X8 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R4-6": {
+      "qrCode": "SNE-26022-ITM-R4-6",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X8 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R4-7": {
+      "qrCode": "SNE-26022-ITM-R4-7",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X8 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R4-8": {
+      "qrCode": "SNE-26022-ITM-R4-8",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X8 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R4-9": {
+      "qrCode": "SNE-26022-ITM-R4-9",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "PLATE 200X750X8 MM THIK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R5-1": {
+      "qrCode": "SNE-26022-ITM-R5-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "M24X100 LG NBDW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R5-2": {
+      "qrCode": "SNE-26022-ITM-R5-2",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "M24X100 LG NBDW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R5-3": {
+      "qrCode": "SNE-26022-ITM-R5-3",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "M24X100 LG NBDW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R5-4": {
+      "qrCode": "SNE-26022-ITM-R5-4",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "M24X100 LG NBDW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R5-5": {
+      "qrCode": "SNE-26022-ITM-R5-5",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "M24X100 LG NBDW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R5-6": {
+      "qrCode": "SNE-26022-ITM-R5-6",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "M24X100 LG NBDW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R5-7": {
+      "qrCode": "SNE-26022-ITM-R5-7",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "M24X100 LG NBDW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R5-8": {
+      "qrCode": "SNE-26022-ITM-R5-8",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "M24X100 LG NBDW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-R5-9": {
+      "qrCode": "SNE-26022-ITM-R5-9",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM",
+      "desc": "M24X100 LG NBDW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:32:42.021Z",
+      "challanNo": "SNE-26022",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 50 items."
+    },
     {
       "timestamp": "2026-11-15T13:32:04.110Z",
       "challanNo": "SNE-26025",
