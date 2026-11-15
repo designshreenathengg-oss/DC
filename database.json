@@ -3764,8 +3764,11 @@
       "desc": "160X2900X3MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
-      "status": "QR GENERATED",
-      "dispatchScan": null,
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Factory",
+        "time": "2026-11-15T13:22:42.660Z"
+      },
       "siteScan": null
     },
     "SNE-26002-AB1-2": {
@@ -12811,6 +12814,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:22:42.660Z",
+      "challanNo": "SNE-26002",
+      "qrCode": "SNE-26002-AB1-1",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Factory",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-15T11:24:59.050Z",
       "challanNo": "SNE-26030",
