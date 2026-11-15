@@ -906,20 +906,22 @@
     },
     "SNE-26006": {
       "challanNo": "SNE-26006",
-      "date": "2026-10-21T18:30:00.000Z",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
+      "date": "",
       "poNo": "",
-      "poDate": "2026-10-21T18:30:00.000Z",
+      "poDate": "",
       "projectName": "OVEN DRG.",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
       "vehicle": "MH15JC3257",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
           "code": "AJ3",
           "desc": "820X565X0.8MM",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -927,10 +929,15 @@
           "desc": "865X465X0.8MM",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         }
       ],
-      "qrcodes": []
+      "qrcodes": [
+        "SNE-26006-AJ3-1",
+        "SNE-26006-AJ4-1"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26007": {
       "challanNo": "SNE-26007",
@@ -16052,9 +16059,38 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26006-AJ3-1": {
+      "qrCode": "SNE-26006-AJ3-1",
+      "challanNo": "SNE-26006",
+      "itemCode": "AJ3",
+      "desc": "820X565X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26006-AJ4-1": {
+      "qrCode": "SNE-26006-AJ4-1",
+      "challanNo": "SNE-26006",
+      "itemCode": "AJ4",
+      "desc": "865X465X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:27:50.364Z",
+      "challanNo": "SNE-26006",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 2 items."
+    },
     {
       "timestamp": "2026-11-15T13:27:41.108Z",
       "challanNo": "SNE-26005",
