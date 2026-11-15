@@ -3968,20 +3968,22 @@
     },
     "SNE-26015": {
       "challanNo": "SNE-26015",
-      "date": "2026-10-27T18:30:00.000Z",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "MAHENDRA & MAHENDRA LTD, PLOT NO. F1,F7 HINGANA ROAG,NAGPUR- 440016",
+      "date": "",
       "poNo": "",
-      "poDate": "2026-10-27T18:30:00.000Z",
+      "poDate": "",
       "projectName": "NAGPUR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "HINGANA ROAD, MIDC NAGPUR",
       "vehicle": "",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
           "code": "AA",
           "desc": "TBD1",
           "qty": 16,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "TOP COAT BOOTH DUCT PANEL"
         },
         {
@@ -3989,6 +3991,7 @@
           "desc": "TBD6",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "PANEL"
         },
         {
@@ -3996,6 +3999,7 @@
           "desc": "PBD7",
           "qty": 3,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "PANEL"
         },
         {
@@ -4003,6 +4007,7 @@
           "desc": "TBD10 LH",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "PANEL"
         },
         {
@@ -4010,6 +4015,7 @@
           "desc": "TBD10 RH",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "PANEL"
         },
         {
@@ -4017,6 +4023,7 @@
           "desc": "TBD9 LH",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "PANEL"
         },
         {
@@ -4024,6 +4031,7 @@
           "desc": "TBD9 RH",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "PANEL"
         },
         {
@@ -4031,6 +4039,7 @@
           "desc": "TBD8 LH",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "PANEL"
         },
         {
@@ -4038,6 +4047,7 @@
           "desc": "TBD11 LH",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "PANEL"
         },
         {
@@ -4045,6 +4055,7 @@
           "desc": "TBD11 RH",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "PANEL"
         },
         {
@@ -4052,6 +4063,7 @@
           "desc": "TBD8 RH",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "PANEL"
         },
         {
@@ -4059,6 +4071,7 @@
           "desc": "TBD5 LH",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "PANEL"
         },
         {
@@ -4066,6 +4079,7 @@
           "desc": "TBD5 RH",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "PANEL"
         },
         {
@@ -4073,6 +4087,7 @@
           "desc": "TBD5 LH",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "PANEL"
         },
         {
@@ -4080,10 +4095,182 @@
           "desc": "GLASS HOLDING BOLT",
           "qty": 123,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         }
       ],
-      "qrcodes": []
+      "qrcodes": [
+        "SNE-26015-AA-1",
+        "SNE-26015-AA-2",
+        "SNE-26015-AA-3",
+        "SNE-26015-AA-4",
+        "SNE-26015-AA-5",
+        "SNE-26015-AA-6",
+        "SNE-26015-AA-7",
+        "SNE-26015-AA-8",
+        "SNE-26015-AA-9",
+        "SNE-26015-AA-10",
+        "SNE-26015-AA-11",
+        "SNE-26015-AA-12",
+        "SNE-26015-AA-13",
+        "SNE-26015-AA-14",
+        "SNE-26015-AA-15",
+        "SNE-26015-AA-16",
+        "SNE-26015-AB-1",
+        "SNE-26015-AB-2",
+        "SNE-26015-AB-3",
+        "SNE-26015-AB-4",
+        "SNE-26015-AB-5",
+        "SNE-26015-AB-6",
+        "SNE-26015-AC-1",
+        "SNE-26015-AC-2",
+        "SNE-26015-AC-3",
+        "SNE-26015-AD-1",
+        "SNE-26015-AE-1",
+        "SNE-26015-AF-1",
+        "SNE-26015-AG-1",
+        "SNE-26015-AH-1",
+        "SNE-26015-AI-1",
+        "SNE-26015-AJ-1",
+        "SNE-26015-AK-1",
+        "SNE-26015-AL-1",
+        "SNE-26015-AM-1",
+        "SNE-26015-AM-2",
+        "SNE-26015-AM-3",
+        "SNE-26015-AM-4",
+        "SNE-26015-AM-5",
+        "SNE-26015-AM-6",
+        "SNE-26015-AN-1",
+        "SNE-26015-AN-2",
+        "SNE-26015-AN-3",
+        "SNE-26015-AN-4",
+        "SNE-26015-AN-5",
+        "SNE-26015-AN-6",
+        "SNE-26015-AO-1",
+        "SNE-26015-AO-2",
+        "SNE-26015-AO-3",
+        "SNE-26015-AO-4",
+        "SNE-26015-AO-5",
+        "SNE-26015-AO-6",
+        "SNE-26015-AO-7",
+        "SNE-26015-AO-8",
+        "SNE-26015-AO-9",
+        "SNE-26015-AO-10",
+        "SNE-26015-AO-11",
+        "SNE-26015-AO-12",
+        "SNE-26015-AO-13",
+        "SNE-26015-AO-14",
+        "SNE-26015-AO-15",
+        "SNE-26015-AO-16",
+        "SNE-26015-AO-17",
+        "SNE-26015-AO-18",
+        "SNE-26015-AO-19",
+        "SNE-26015-AO-20",
+        "SNE-26015-AO-21",
+        "SNE-26015-AO-22",
+        "SNE-26015-AO-23",
+        "SNE-26015-AO-24",
+        "SNE-26015-AO-25",
+        "SNE-26015-AO-26",
+        "SNE-26015-AO-27",
+        "SNE-26015-AO-28",
+        "SNE-26015-AO-29",
+        "SNE-26015-AO-30",
+        "SNE-26015-AO-31",
+        "SNE-26015-AO-32",
+        "SNE-26015-AO-33",
+        "SNE-26015-AO-34",
+        "SNE-26015-AO-35",
+        "SNE-26015-AO-36",
+        "SNE-26015-AO-37",
+        "SNE-26015-AO-38",
+        "SNE-26015-AO-39",
+        "SNE-26015-AO-40",
+        "SNE-26015-AO-41",
+        "SNE-26015-AO-42",
+        "SNE-26015-AO-43",
+        "SNE-26015-AO-44",
+        "SNE-26015-AO-45",
+        "SNE-26015-AO-46",
+        "SNE-26015-AO-47",
+        "SNE-26015-AO-48",
+        "SNE-26015-AO-49",
+        "SNE-26015-AO-50",
+        "SNE-26015-AO-51",
+        "SNE-26015-AO-52",
+        "SNE-26015-AO-53",
+        "SNE-26015-AO-54",
+        "SNE-26015-AO-55",
+        "SNE-26015-AO-56",
+        "SNE-26015-AO-57",
+        "SNE-26015-AO-58",
+        "SNE-26015-AO-59",
+        "SNE-26015-AO-60",
+        "SNE-26015-AO-61",
+        "SNE-26015-AO-62",
+        "SNE-26015-AO-63",
+        "SNE-26015-AO-64",
+        "SNE-26015-AO-65",
+        "SNE-26015-AO-66",
+        "SNE-26015-AO-67",
+        "SNE-26015-AO-68",
+        "SNE-26015-AO-69",
+        "SNE-26015-AO-70",
+        "SNE-26015-AO-71",
+        "SNE-26015-AO-72",
+        "SNE-26015-AO-73",
+        "SNE-26015-AO-74",
+        "SNE-26015-AO-75",
+        "SNE-26015-AO-76",
+        "SNE-26015-AO-77",
+        "SNE-26015-AO-78",
+        "SNE-26015-AO-79",
+        "SNE-26015-AO-80",
+        "SNE-26015-AO-81",
+        "SNE-26015-AO-82",
+        "SNE-26015-AO-83",
+        "SNE-26015-AO-84",
+        "SNE-26015-AO-85",
+        "SNE-26015-AO-86",
+        "SNE-26015-AO-87",
+        "SNE-26015-AO-88",
+        "SNE-26015-AO-89",
+        "SNE-26015-AO-90",
+        "SNE-26015-AO-91",
+        "SNE-26015-AO-92",
+        "SNE-26015-AO-93",
+        "SNE-26015-AO-94",
+        "SNE-26015-AO-95",
+        "SNE-26015-AO-96",
+        "SNE-26015-AO-97",
+        "SNE-26015-AO-98",
+        "SNE-26015-AO-99",
+        "SNE-26015-AO-100",
+        "SNE-26015-AO-101",
+        "SNE-26015-AO-102",
+        "SNE-26015-AO-103",
+        "SNE-26015-AO-104",
+        "SNE-26015-AO-105",
+        "SNE-26015-AO-106",
+        "SNE-26015-AO-107",
+        "SNE-26015-AO-108",
+        "SNE-26015-AO-109",
+        "SNE-26015-AO-110",
+        "SNE-26015-AO-111",
+        "SNE-26015-AO-112",
+        "SNE-26015-AO-113",
+        "SNE-26015-AO-114",
+        "SNE-26015-AO-115",
+        "SNE-26015-AO-116",
+        "SNE-26015-AO-117",
+        "SNE-26015-AO-118",
+        "SNE-26015-AO-119",
+        "SNE-26015-AO-120",
+        "SNE-26015-AO-121",
+        "SNE-26015-AO-122",
+        "SNE-26015-AO-123"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26016": {
       "challanNo": "SNE-26016",
@@ -39244,9 +39431,1541 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-1": {
+      "qrCode": "SNE-26015-AA-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-2": {
+      "qrCode": "SNE-26015-AA-2",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-3": {
+      "qrCode": "SNE-26015-AA-3",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-4": {
+      "qrCode": "SNE-26015-AA-4",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-5": {
+      "qrCode": "SNE-26015-AA-5",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-6": {
+      "qrCode": "SNE-26015-AA-6",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-7": {
+      "qrCode": "SNE-26015-AA-7",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-8": {
+      "qrCode": "SNE-26015-AA-8",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-9": {
+      "qrCode": "SNE-26015-AA-9",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-10": {
+      "qrCode": "SNE-26015-AA-10",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-11": {
+      "qrCode": "SNE-26015-AA-11",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-12": {
+      "qrCode": "SNE-26015-AA-12",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-13": {
+      "qrCode": "SNE-26015-AA-13",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-14": {
+      "qrCode": "SNE-26015-AA-14",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-15": {
+      "qrCode": "SNE-26015-AA-15",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AA-16": {
+      "qrCode": "SNE-26015-AA-16",
+      "challanNo": "SNE-26015",
+      "itemCode": "AA",
+      "desc": "TBD1",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AB-1": {
+      "qrCode": "SNE-26015-AB-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AB",
+      "desc": "TBD6",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AB-2": {
+      "qrCode": "SNE-26015-AB-2",
+      "challanNo": "SNE-26015",
+      "itemCode": "AB",
+      "desc": "TBD6",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AB-3": {
+      "qrCode": "SNE-26015-AB-3",
+      "challanNo": "SNE-26015",
+      "itemCode": "AB",
+      "desc": "TBD6",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AB-4": {
+      "qrCode": "SNE-26015-AB-4",
+      "challanNo": "SNE-26015",
+      "itemCode": "AB",
+      "desc": "TBD6",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AB-5": {
+      "qrCode": "SNE-26015-AB-5",
+      "challanNo": "SNE-26015",
+      "itemCode": "AB",
+      "desc": "TBD6",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AB-6": {
+      "qrCode": "SNE-26015-AB-6",
+      "challanNo": "SNE-26015",
+      "itemCode": "AB",
+      "desc": "TBD6",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AC-1": {
+      "qrCode": "SNE-26015-AC-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AC",
+      "desc": "PBD7",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AC-2": {
+      "qrCode": "SNE-26015-AC-2",
+      "challanNo": "SNE-26015",
+      "itemCode": "AC",
+      "desc": "PBD7",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AC-3": {
+      "qrCode": "SNE-26015-AC-3",
+      "challanNo": "SNE-26015",
+      "itemCode": "AC",
+      "desc": "PBD7",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AD-1": {
+      "qrCode": "SNE-26015-AD-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AD",
+      "desc": "TBD10 LH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AE-1": {
+      "qrCode": "SNE-26015-AE-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AE",
+      "desc": "TBD10 RH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AF-1": {
+      "qrCode": "SNE-26015-AF-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AF",
+      "desc": "TBD9 LH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AG-1": {
+      "qrCode": "SNE-26015-AG-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AG",
+      "desc": "TBD9 RH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AH-1": {
+      "qrCode": "SNE-26015-AH-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AH",
+      "desc": "TBD8 LH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AI-1": {
+      "qrCode": "SNE-26015-AI-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AI",
+      "desc": "TBD11 LH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AJ-1": {
+      "qrCode": "SNE-26015-AJ-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AJ",
+      "desc": "TBD11 RH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AK-1": {
+      "qrCode": "SNE-26015-AK-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AK",
+      "desc": "TBD8 RH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AL-1": {
+      "qrCode": "SNE-26015-AL-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AL",
+      "desc": "TBD5 LH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AM-1": {
+      "qrCode": "SNE-26015-AM-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AM",
+      "desc": "TBD5 RH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AM-2": {
+      "qrCode": "SNE-26015-AM-2",
+      "challanNo": "SNE-26015",
+      "itemCode": "AM",
+      "desc": "TBD5 RH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AM-3": {
+      "qrCode": "SNE-26015-AM-3",
+      "challanNo": "SNE-26015",
+      "itemCode": "AM",
+      "desc": "TBD5 RH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AM-4": {
+      "qrCode": "SNE-26015-AM-4",
+      "challanNo": "SNE-26015",
+      "itemCode": "AM",
+      "desc": "TBD5 RH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AM-5": {
+      "qrCode": "SNE-26015-AM-5",
+      "challanNo": "SNE-26015",
+      "itemCode": "AM",
+      "desc": "TBD5 RH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AM-6": {
+      "qrCode": "SNE-26015-AM-6",
+      "challanNo": "SNE-26015",
+      "itemCode": "AM",
+      "desc": "TBD5 RH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AN-1": {
+      "qrCode": "SNE-26015-AN-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AN",
+      "desc": "TBD5 LH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AN-2": {
+      "qrCode": "SNE-26015-AN-2",
+      "challanNo": "SNE-26015",
+      "itemCode": "AN",
+      "desc": "TBD5 LH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AN-3": {
+      "qrCode": "SNE-26015-AN-3",
+      "challanNo": "SNE-26015",
+      "itemCode": "AN",
+      "desc": "TBD5 LH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AN-4": {
+      "qrCode": "SNE-26015-AN-4",
+      "challanNo": "SNE-26015",
+      "itemCode": "AN",
+      "desc": "TBD5 LH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AN-5": {
+      "qrCode": "SNE-26015-AN-5",
+      "challanNo": "SNE-26015",
+      "itemCode": "AN",
+      "desc": "TBD5 LH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AN-6": {
+      "qrCode": "SNE-26015-AN-6",
+      "challanNo": "SNE-26015",
+      "itemCode": "AN",
+      "desc": "TBD5 LH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-1": {
+      "qrCode": "SNE-26015-AO-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-2": {
+      "qrCode": "SNE-26015-AO-2",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-3": {
+      "qrCode": "SNE-26015-AO-3",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-4": {
+      "qrCode": "SNE-26015-AO-4",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-5": {
+      "qrCode": "SNE-26015-AO-5",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-6": {
+      "qrCode": "SNE-26015-AO-6",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-7": {
+      "qrCode": "SNE-26015-AO-7",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-8": {
+      "qrCode": "SNE-26015-AO-8",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-9": {
+      "qrCode": "SNE-26015-AO-9",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-10": {
+      "qrCode": "SNE-26015-AO-10",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-11": {
+      "qrCode": "SNE-26015-AO-11",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-12": {
+      "qrCode": "SNE-26015-AO-12",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-13": {
+      "qrCode": "SNE-26015-AO-13",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-14": {
+      "qrCode": "SNE-26015-AO-14",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-15": {
+      "qrCode": "SNE-26015-AO-15",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-16": {
+      "qrCode": "SNE-26015-AO-16",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-17": {
+      "qrCode": "SNE-26015-AO-17",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-18": {
+      "qrCode": "SNE-26015-AO-18",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-19": {
+      "qrCode": "SNE-26015-AO-19",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-20": {
+      "qrCode": "SNE-26015-AO-20",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-21": {
+      "qrCode": "SNE-26015-AO-21",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-22": {
+      "qrCode": "SNE-26015-AO-22",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-23": {
+      "qrCode": "SNE-26015-AO-23",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-24": {
+      "qrCode": "SNE-26015-AO-24",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-25": {
+      "qrCode": "SNE-26015-AO-25",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-26": {
+      "qrCode": "SNE-26015-AO-26",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-27": {
+      "qrCode": "SNE-26015-AO-27",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-28": {
+      "qrCode": "SNE-26015-AO-28",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-29": {
+      "qrCode": "SNE-26015-AO-29",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-30": {
+      "qrCode": "SNE-26015-AO-30",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-31": {
+      "qrCode": "SNE-26015-AO-31",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-32": {
+      "qrCode": "SNE-26015-AO-32",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-33": {
+      "qrCode": "SNE-26015-AO-33",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-34": {
+      "qrCode": "SNE-26015-AO-34",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-35": {
+      "qrCode": "SNE-26015-AO-35",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-36": {
+      "qrCode": "SNE-26015-AO-36",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-37": {
+      "qrCode": "SNE-26015-AO-37",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-38": {
+      "qrCode": "SNE-26015-AO-38",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-39": {
+      "qrCode": "SNE-26015-AO-39",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-40": {
+      "qrCode": "SNE-26015-AO-40",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-41": {
+      "qrCode": "SNE-26015-AO-41",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-42": {
+      "qrCode": "SNE-26015-AO-42",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-43": {
+      "qrCode": "SNE-26015-AO-43",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-44": {
+      "qrCode": "SNE-26015-AO-44",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-45": {
+      "qrCode": "SNE-26015-AO-45",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-46": {
+      "qrCode": "SNE-26015-AO-46",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-47": {
+      "qrCode": "SNE-26015-AO-47",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-48": {
+      "qrCode": "SNE-26015-AO-48",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-49": {
+      "qrCode": "SNE-26015-AO-49",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-50": {
+      "qrCode": "SNE-26015-AO-50",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-51": {
+      "qrCode": "SNE-26015-AO-51",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-52": {
+      "qrCode": "SNE-26015-AO-52",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-53": {
+      "qrCode": "SNE-26015-AO-53",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-54": {
+      "qrCode": "SNE-26015-AO-54",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-55": {
+      "qrCode": "SNE-26015-AO-55",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-56": {
+      "qrCode": "SNE-26015-AO-56",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-57": {
+      "qrCode": "SNE-26015-AO-57",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-58": {
+      "qrCode": "SNE-26015-AO-58",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-59": {
+      "qrCode": "SNE-26015-AO-59",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-60": {
+      "qrCode": "SNE-26015-AO-60",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-61": {
+      "qrCode": "SNE-26015-AO-61",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-62": {
+      "qrCode": "SNE-26015-AO-62",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-63": {
+      "qrCode": "SNE-26015-AO-63",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-64": {
+      "qrCode": "SNE-26015-AO-64",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-65": {
+      "qrCode": "SNE-26015-AO-65",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-66": {
+      "qrCode": "SNE-26015-AO-66",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-67": {
+      "qrCode": "SNE-26015-AO-67",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-68": {
+      "qrCode": "SNE-26015-AO-68",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-69": {
+      "qrCode": "SNE-26015-AO-69",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-70": {
+      "qrCode": "SNE-26015-AO-70",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-71": {
+      "qrCode": "SNE-26015-AO-71",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-72": {
+      "qrCode": "SNE-26015-AO-72",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-73": {
+      "qrCode": "SNE-26015-AO-73",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-74": {
+      "qrCode": "SNE-26015-AO-74",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-75": {
+      "qrCode": "SNE-26015-AO-75",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-76": {
+      "qrCode": "SNE-26015-AO-76",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-77": {
+      "qrCode": "SNE-26015-AO-77",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-78": {
+      "qrCode": "SNE-26015-AO-78",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-79": {
+      "qrCode": "SNE-26015-AO-79",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-80": {
+      "qrCode": "SNE-26015-AO-80",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-81": {
+      "qrCode": "SNE-26015-AO-81",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-82": {
+      "qrCode": "SNE-26015-AO-82",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-83": {
+      "qrCode": "SNE-26015-AO-83",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-84": {
+      "qrCode": "SNE-26015-AO-84",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-85": {
+      "qrCode": "SNE-26015-AO-85",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-86": {
+      "qrCode": "SNE-26015-AO-86",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-87": {
+      "qrCode": "SNE-26015-AO-87",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-88": {
+      "qrCode": "SNE-26015-AO-88",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-89": {
+      "qrCode": "SNE-26015-AO-89",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-90": {
+      "qrCode": "SNE-26015-AO-90",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-91": {
+      "qrCode": "SNE-26015-AO-91",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-92": {
+      "qrCode": "SNE-26015-AO-92",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-93": {
+      "qrCode": "SNE-26015-AO-93",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-94": {
+      "qrCode": "SNE-26015-AO-94",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-95": {
+      "qrCode": "SNE-26015-AO-95",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-96": {
+      "qrCode": "SNE-26015-AO-96",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-97": {
+      "qrCode": "SNE-26015-AO-97",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-98": {
+      "qrCode": "SNE-26015-AO-98",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-99": {
+      "qrCode": "SNE-26015-AO-99",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-100": {
+      "qrCode": "SNE-26015-AO-100",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-101": {
+      "qrCode": "SNE-26015-AO-101",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-102": {
+      "qrCode": "SNE-26015-AO-102",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-103": {
+      "qrCode": "SNE-26015-AO-103",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-104": {
+      "qrCode": "SNE-26015-AO-104",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-105": {
+      "qrCode": "SNE-26015-AO-105",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-106": {
+      "qrCode": "SNE-26015-AO-106",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-107": {
+      "qrCode": "SNE-26015-AO-107",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-108": {
+      "qrCode": "SNE-26015-AO-108",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-109": {
+      "qrCode": "SNE-26015-AO-109",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-110": {
+      "qrCode": "SNE-26015-AO-110",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-111": {
+      "qrCode": "SNE-26015-AO-111",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-112": {
+      "qrCode": "SNE-26015-AO-112",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-113": {
+      "qrCode": "SNE-26015-AO-113",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-114": {
+      "qrCode": "SNE-26015-AO-114",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-115": {
+      "qrCode": "SNE-26015-AO-115",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-116": {
+      "qrCode": "SNE-26015-AO-116",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-117": {
+      "qrCode": "SNE-26015-AO-117",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-118": {
+      "qrCode": "SNE-26015-AO-118",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-119": {
+      "qrCode": "SNE-26015-AO-119",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-120": {
+      "qrCode": "SNE-26015-AO-120",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-121": {
+      "qrCode": "SNE-26015-AO-121",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-122": {
+      "qrCode": "SNE-26015-AO-122",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-AO-123": {
+      "qrCode": "SNE-26015-AO-123",
+      "challanNo": "SNE-26015",
+      "itemCode": "AO",
+      "desc": "GLASS HOLDING BOLT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:30:17.693Z",
+      "challanNo": "SNE-26015",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 169 items."
+    },
     {
       "timestamp": "2026-11-15T13:30:06.894Z",
       "challanNo": "SNE-26014",
