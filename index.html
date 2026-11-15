@@ -101,34 +101,157 @@
     .excel-footer-section { margin-top: auto; padding-top: 6px; }
     .excel-sign-row { margin-top: 15px; text-align: center; font-weight: bold; font-size: 11px; }
 
+    /* QR Code Sticker Grid & Card Styling */
     .qrcodes-grid {
-      display: grid; grid-template-columns: repeat(2, var(--sticker-w, 99mm)); grid-auto-rows: var(--sticker-h, 45mm);
-      gap: var(--grid-gap, 2mm); margin: 0 auto; width: 210mm; min-height: 297mm; box-sizing: border-box;
-      padding-top: var(--top-margin, 8mm); padding-left: var(--left-margin, 5mm);
-      page-break-after: always; break-after: page; page-break-inside: avoid; break-inside: avoid;
+      display: grid;
+      grid-template-columns: repeat(2, var(--sticker-w, 99mm));
+      grid-auto-rows: var(--sticker-h, 45mm);
+      gap: var(--grid-gap, 2mm);
+      margin: 0 auto;
+      width: 210mm;
+      height: 297mm;
+      box-sizing: border-box;
+      padding-top: var(--top-margin, 8mm);
+      padding-left: var(--left-margin, 5mm);
+      page-break-after: always;
+      break-after: page;
+      page-break-inside: avoid;
+      break-inside: avoid;
+    }
+    .qrcodes-grid:last-child {
+      page-break-after: auto;
+      break-after: auto;
     }
     .label-card {
-      width: var(--sticker-w, 99mm); height: var(--sticker-h, 45mm); box-sizing: border-box; padding: 3mm 4mm;
-      border: 1px dashed #bbb; background: #fff; display: flex; flex-direction: row; align-items: center; justify-content: space-between; overflow: hidden;
+      width: var(--sticker-w, 99mm);
+      height: var(--sticker-h, 45mm);
+      box-sizing: border-box;
+      padding: 3mm 4mm;
+      border: 1px dashed #bbb;
+      background: #fff;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      overflow: hidden;
+      page-break-inside: avoid;
+      break-inside: avoid;
     }
-    .label-card .label-details { text-align: left; flex: 1; padding-right: 5px; overflow: hidden; display: flex; flex-direction: column; justify-content: center; }
-    .label-card .label-desc { font-weight: 800; font-size: 12px; line-height: 1.2; max-height: 2.4em; overflow: hidden; text-overflow: ellipsis; color: #000; margin-bottom: 2px; }
-    .label-card .label-meta { font-size: 10.5px; line-height: 1.3; color: #111; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-    .label-card .qr-container { width: var(--qr-size, 35mm); height: var(--qr-size, 35mm); display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
-    .label-card .qr-container canvas, .label-card .qr-container img { width: var(--qr-size, 35mm) !important; height: var(--qr-size, 35mm) !important; }
+    .label-card .label-details {
+      text-align: left;
+      flex: 1;
+      padding-right: 5px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    .label-card .label-desc {
+      font-weight: 800;
+      font-size: 12px;
+      line-height: 1.2;
+      max-height: 2.4em;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      color: #000;
+      margin-bottom: 2px;
+    }
+    .label-card .label-meta {
+      font-size: 10.5px;
+      line-height: 1.3;
+      color: #111;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .label-card .qr-container {
+      width: var(--qr-size, 35mm);
+      height: var(--qr-size, 35mm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      overflow: hidden;
+    }
+    /* Prevent qrcodejs from displaying both canvas and fallback img simultaneously */
+    .label-card .qr-container canvas {
+      display: none !important;
+    }
+    .label-card .qr-container img {
+      display: block !important;
+      width: var(--qr-size, 35mm) !important;
+      height: var(--qr-size, 35mm) !important;
+      object-fit: contain;
+    }
 
     @media print {
       @page { size: A4 portrait; margin: 0; }
       body * { visibility: hidden !important; }
-      html, body { width: 210mm !important; height: 297mm !important; margin: 0 !important; padding: 0 !important; background: #fff !important; overflow: hidden !important; }
-      body.mode-challan-only #printable-dc-section, body.mode-challan-only #printable-dc-section * { visibility: visible !important; }
-      body.mode-challan-only #printable-dc-section { position: absolute !important; left: 0 !important; top: 0 !important; width: 100% !important; margin: 0 !important; padding: 5mm !important; border: none !important; }
-      body.mode-challan-only .excel-template { width: 100% !important; max-width: 100% !important; height: 280mm !important; border: 2px solid #000 !important; padding: 5mm !important; margin: 0 auto !important; box-sizing: border-box !important; }
+      html, body {
+        width: 210mm !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        background: #fff !important;
+      }
+
+      /* Delivery Challan Single-Page Print Mode */
+      body.mode-challan-only {
+        height: 297mm !important;
+        overflow: hidden !important;
+      }
+      body.mode-challan-only #printable-dc-section,
+      body.mode-challan-only #printable-dc-section * {
+        visibility: visible !important;
+      }
+      body.mode-challan-only #printable-dc-section {
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 5mm !important;
+        border: none !important;
+        box-shadow: none !important;
+      }
+      body.mode-challan-only .excel-template {
+        width: 100% !important;
+        max-width: 100% !important;
+        height: 280mm !important;
+        border: 2px solid #000 !important;
+        padding: 5mm !important;
+        margin: 0 auto !important;
+        box-sizing: border-box !important;
+      }
       body.mode-challan-only .screen-only { display: none !important; }
-      body.mode-qrcodes-only #printable-qrcodes-section, body.mode-qrcodes-only #printable-qrcodes-section * { visibility: visible !important; }
-      body.mode-qrcodes-only #printable-qrcodes-section { position: absolute !important; left: 0 !important; top: 0 !important; width: 210mm !important; height: 297mm !important; margin: 0 !important; padding: 0 !important; border: none !important; }
+
+      /* QR Code Multi-Page Print Mode */
+      body.mode-qrcodes-only {
+        height: auto !important;
+        overflow: visible !important;
+      }
+      body.mode-qrcodes-only #printable-qrcodes-section,
+      body.mode-qrcodes-only #printable-qrcodes-section * {
+        visibility: visible !important;
+      }
+      body.mode-qrcodes-only #printable-qrcodes-section {
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 210mm !important;
+        height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        border: none !important;
+      }
       body.mode-qrcodes-only .screen-only { display: none !important; }
-      body.mode-qrcodes-only .qrcodes-grid { display: grid !important; width: 210mm !important; height: 297mm !important; margin: 0 !important; padding-top: var(--top-margin, 8mm) !important; padding-left: var(--left-margin, 5mm) !important; }
+      body.mode-qrcodes-only .qrcodes-grid {
+        display: grid !important;
+        width: 210mm !important;
+        height: 297mm !important;
+        margin: 0 !important;
+        padding-top: var(--top-margin, 8mm) !important;
+        padding-left: var(--left-margin, 5mm) !important;
+      }
     }
   </style>
 </head>
@@ -1358,10 +1481,12 @@
             const dcNo = `SNE-${yearShort}${String(nextNum).padStart(3, '0')}`;
 
             let items = [], qrcodesArr = [];
-            chunk.forEach(it => {
+            chunk.forEach((it, rowIdx) => {
               items.push({ code: it.code, desc: it.desc, qty: it.qty, unit: it.unit, remarkType, remark: it.remark });
               for(let i = 1; i <= it.qty; i++) {
-                const uniqueQR = `${dcNo}-${it.code}-${i}`;
+                // Ensure unique QR ID even if item codes repeat across rows
+                const baseQR = `${dcNo}-${it.code}-${i}`;
+                const uniqueQR = qrcodesArr.includes(baseQR) ? `${dcNo}-${it.code}-R${rowIdx + 1}-${i}` : baseQR;
                 if (!db.qrcodes[uniqueQR]) {
                   db.qrcodes[uniqueQR] = { qrCode: uniqueQR, challanNo: dcNo, itemCode: it.code, desc: it.desc, customer, location: address, status: 'QR GENERATED' };
                 } else {
@@ -1414,7 +1539,7 @@
     if (rows.length === 0) { alert("Add at least one line item!"); return; }
 
     let items = [], qrcodesArr = [];
-    rows.forEach(row => {
+    rows.forEach((row, rowIdx) => {
       const code = row.querySelector('.item-code').value.trim() || 'ITM';
       const desc = row.querySelector('.item-desc').value.trim() || 'Item Particular';
       const qty = parseInt(row.querySelector('.item-qty').value) || 1;
@@ -1428,7 +1553,9 @@
       items.push({ code, desc, qty, unit, remarkType, remark: rawRemark });
 
       for(let i = 1; i <= qty; i++) {
-        const uniqueQR = `${dcNo}-${code}-${i}`;
+        // Ensure unique QR ID even if item codes repeat across rows
+        const baseQR = `${dcNo}-${code}-${i}`;
+        const uniqueQR = qrcodesArr.includes(baseQR) ? `${dcNo}-${code}-R${rowIdx + 1}-${i}` : baseQR;
         if (!db.qrcodes[uniqueQR]) {
           db.qrcodes[uniqueQR] = { qrCode: uniqueQR, challanNo: dcNo, itemCode: code, desc, customer, location: address, status: 'QR GENERATED' };
         } else {
@@ -1543,6 +1670,10 @@
     root.style.setProperty('--grid-gap', (document.getElementById('cfg-grid-gap').value || 2) + 'mm');
     root.style.setProperty('--top-margin', (document.getElementById('cfg-top-margin').value || 8) + 'mm');
     root.style.setProperty('--left-margin', (document.getElementById('cfg-left-margin').value || 5) + 'mm');
+    // Re-render QR codes immediately when QR size changes
+    if (document.getElementById('qrcode-dc-select').value) {
+      loadQRCodesForPrint();
+    }
   }
 
   function saveStickerConfig() {
@@ -1578,22 +1709,39 @@
 
   function loadQRCodesForPrint() {
     const dcNo = document.getElementById('qrcode-dc-select').value;
-    const printContainer = document.getElementById('printable-qrcodes'); printContainer.innerHTML = '';
+    const printContainer = document.getElementById('printable-qrcodes');
+    printContainer.innerHTML = '';
     if (!dcNo || !db.challans[dcNo]) return;
 
-    const c = db.challans[dcNo]; let qrs = c.qrcodes || [];
+    const c = db.challans[dcNo];
+    let qrs = c.qrcodes || [];
     const qrSizePx = Math.round((parseInt(document.getElementById('cfg-qr-size').value) || 35) * 3.78);
+    
+    // Dynamically calculate how many rows fit on a single 297mm A4 page based on sticker height
+    const stickerH = parseFloat(document.getElementById('cfg-sticker-h').value) || 45;
+    const gridGap = parseFloat(document.getElementById('cfg-grid-gap').value) || 2;
+    const topMargin = parseFloat(document.getElementById('cfg-top-margin').value) || 8;
+    const rowsPerPage = Math.max(1, Math.floor((297 - topMargin) / (stickerH + gridGap)));
+    const stickersPerPage = rowsPerPage * 2; // 2 columns per page
+
     let currentPageGrid = null;
 
     qrs.forEach((qId, index) => {
-      if (index % 12 === 0) {
-        currentPageGrid = document.createElement('div'); currentPageGrid.className = 'qrcodes-grid mb-4';
+      if (index % stickersPerPage === 0) {
+        currentPageGrid = document.createElement('div');
+        currentPageGrid.className = 'qrcodes-grid mb-4';
         printContainer.appendChild(currentPageGrid);
       }
-      if (!db.qrcodes[qId]) db.qrcodes[qId] = { qrCode: qId, challanNo: dcNo, itemCode: 'ITM', desc: 'Item Particular', customer: c.customer, location: c.address, status: 'QR GENERATED' };
+      if (!db.qrcodes[qId]) {
+        db.qrcodes[qId] = { qrCode: qId, challanNo: dcNo, itemCode: 'ITM', desc: 'Item Particular', customer: c.customer, location: c.address, status: 'QR GENERATED' };
+      }
       const q = db.qrcodes[qId];
 
-      const card = document.createElement('div'); card.className = 'label-card';
+      const card = document.createElement('div');
+      card.className = 'label-card';
+      
+      // Use index-based unique ID so duplicate QR IDs never collide onto the first sticker
+      const uniqueDomId = `qr-sticker-${index}`;
       card.innerHTML = `
         <div class="label-details">
           <div class="label-desc">${q.desc}</div>
@@ -1601,16 +1749,27 @@
           <div class="label-meta"><strong>Loc:</strong> ${q.location || c.address}</div>
           <div class="label-meta"><strong>DC:</strong> ${dcNo} | <strong>ID:</strong> ${q.qrCode}</div>
         </div>
-        <div class="qr-container" id="qr-${q.qrCode.replace(/[^a-zA-Z0-9]/g, '_')}"></div>
+        <div class="qr-container" id="${uniqueDomId}"></div>
       `;
       currentPageGrid.appendChild(card);
-      new QRCode(document.getElementById(`qr-${q.qrCode.replace(/[^a-zA-Z0-9]/g, '_')}`), { text: q.qrCode, width: qrSizePx, height: qrSizePx });
+
+      const qrTarget = document.getElementById(uniqueDomId);
+      if (qrTarget) {
+        qrTarget.innerHTML = '';
+        new QRCode(qrTarget, {
+          text: q.qrCode,
+          width: qrSizePx,
+          height: qrSizePx,
+          correctLevel: QRCode.CorrectLevel.M
+        });
+      }
     });
   }
 
   function triggerQRCodePrint() {
     if(!document.getElementById('qrcode-dc-select').value) { alert("Select Challan!"); return; }
-    document.body.className = 'mode-qrcodes-only'; setTimeout(() => { window.print(); }, 150);
+    document.body.className = 'mode-qrcodes-only';
+    setTimeout(() => { window.print(); }, 250);
   }
 
   function editChallan(dcNo) {
