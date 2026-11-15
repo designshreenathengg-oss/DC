@@ -1,7 +1,367 @@
 {
-  "challans": {},
-  "qrcodes": {},
+  "challans": {
+    "SNE-26001": {
+      "challanNo": "SNE-26001",
+      "date": "2026-11-15",
+      "poNo": "",
+      "poDate": "",
+      "projectName": "36 JPH PHASE 2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
+      "vehicle": "",
+      "remarkType": "Amount",
+      "showTotal": true,
+      "items": [
+        {
+          "code": "FD1",
+          "desc": "G.I.2170X655X50",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 4000"
+        },
+        {
+          "code": "FD2",
+          "desc": "G.I.2170X560X50",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 5000"
+        },
+        {
+          "code": "P1-1",
+          "desc": "G.I.1590X1112X50",
+          "qty": 4,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 7500"
+        },
+        {
+          "code": "P1-2",
+          "desc": "G.I.1590X1042X50",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 2000"
+        },
+        {
+          "code": "P2-1",
+          "desc": "G.I.1740X1112X50",
+          "qty": 4,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 8000"
+        },
+        {
+          "code": "P2-2",
+          "desc": "G.I.1740X1042X50",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 2000"
+        },
+        {
+          "code": "ITM",
+          "desc": "BOX PIPE 145X82X4THK 6000L",
+          "qty": 4,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 25000"
+        },
+        {
+          "code": "ITM",
+          "desc": "BOX PIPE 145X82X4THK 2210L",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 10000"
+        },
+        {
+          "code": "ITM",
+          "desc": "BOX PIPE 145X82X4THK 4360L",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 15000"
+        },
+        {
+          "code": "ITM",
+          "desc": "BOX PIPE 200X100X3THK 6000L",
+          "qty": 3,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 30000"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26001-FD1-1",
+        "SNE-26001-FD1-2",
+        "SNE-26001-FD2-1",
+        "SNE-26001-FD2-2",
+        "SNE-26001-P1-1-1",
+        "SNE-26001-P1-1-2",
+        "SNE-26001-P1-1-3",
+        "SNE-26001-P1-1-4",
+        "SNE-26001-P1-2-1",
+        "SNE-26001-P2-1-1",
+        "SNE-26001-P2-1-2",
+        "SNE-26001-P2-1-3",
+        "SNE-26001-P2-1-4",
+        "SNE-26001-P2-2-1",
+        "SNE-26001-ITM-1",
+        "SNE-26001-ITM-2",
+        "SNE-26001-ITM-3",
+        "SNE-26001-ITM-4",
+        "SNE-26001-ITM-R8-1",
+        "SNE-26001-ITM-R8-2",
+        "SNE-26001-ITM-R9-1",
+        "SNE-26001-ITM-R9-2",
+        "SNE-26001-ITM-R10-1",
+        "SNE-26001-ITM-R10-2",
+        "SNE-26001-ITM-R10-3"
+      ],
+      "status": "QR GENERATED"
+    }
+  },
+  "qrcodes": {
+    "SNE-26001-FD1-1": {
+      "qrCode": "SNE-26001-FD1-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "FD1",
+      "desc": "G.I.2170X655X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-FD1-2": {
+      "qrCode": "SNE-26001-FD1-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "FD1",
+      "desc": "G.I.2170X655X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-FD2-1": {
+      "qrCode": "SNE-26001-FD2-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "FD2",
+      "desc": "G.I.2170X560X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-FD2-2": {
+      "qrCode": "SNE-26001-FD2-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "FD2",
+      "desc": "G.I.2170X560X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P1-1-1": {
+      "qrCode": "SNE-26001-P1-1-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "P1-1",
+      "desc": "G.I.1590X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P1-1-2": {
+      "qrCode": "SNE-26001-P1-1-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "P1-1",
+      "desc": "G.I.1590X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P1-1-3": {
+      "qrCode": "SNE-26001-P1-1-3",
+      "challanNo": "SNE-26001",
+      "itemCode": "P1-1",
+      "desc": "G.I.1590X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P1-1-4": {
+      "qrCode": "SNE-26001-P1-1-4",
+      "challanNo": "SNE-26001",
+      "itemCode": "P1-1",
+      "desc": "G.I.1590X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P1-2-1": {
+      "qrCode": "SNE-26001-P1-2-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "P1-2",
+      "desc": "G.I.1590X1042X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P2-1-1": {
+      "qrCode": "SNE-26001-P2-1-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "P2-1",
+      "desc": "G.I.1740X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P2-1-2": {
+      "qrCode": "SNE-26001-P2-1-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "P2-1",
+      "desc": "G.I.1740X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P2-1-3": {
+      "qrCode": "SNE-26001-P2-1-3",
+      "challanNo": "SNE-26001",
+      "itemCode": "P2-1",
+      "desc": "G.I.1740X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P2-1-4": {
+      "qrCode": "SNE-26001-P2-1-4",
+      "challanNo": "SNE-26001",
+      "itemCode": "P2-1",
+      "desc": "G.I.1740X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P2-2-1": {
+      "qrCode": "SNE-26001-P2-2-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "P2-2",
+      "desc": "G.I.1740X1042X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-1": {
+      "qrCode": "SNE-26001-ITM-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-2": {
+      "qrCode": "SNE-26001-ITM-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-3": {
+      "qrCode": "SNE-26001-ITM-3",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-4": {
+      "qrCode": "SNE-26001-ITM-4",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R8-1": {
+      "qrCode": "SNE-26001-ITM-R8-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 2210L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R8-2": {
+      "qrCode": "SNE-26001-ITM-R8-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 2210L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R9-1": {
+      "qrCode": "SNE-26001-ITM-R9-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 4360L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R9-2": {
+      "qrCode": "SNE-26001-ITM-R9-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 4360L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R10-1": {
+      "qrCode": "SNE-26001-ITM-R10-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 200X100X3THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R10-2": {
+      "qrCode": "SNE-26001-ITM-R10-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 200X100X3THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R10-3": {
+      "qrCode": "SNE-26001-ITM-R10-3",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 200X100X3THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    }
+  },
   "audit": [
+    {
+      "timestamp": "2026-11-15T14:03:03.971Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 25 items."
+    },
     {
       "timestamp": "2026-06-01T00:00:00.000Z",
       "challanNo": "SYSTEM",
@@ -14,5 +374,11 @@
       "details": "Fresh database file initialized."
     }
   ],
-  "customers": {}
+  "customers": {
+    "MAHINDRA AND MAHINDRA": {
+      "addresses": [
+        "CHAKAN MIDC, PUNE"
+      ]
+    }
+  }
 }
