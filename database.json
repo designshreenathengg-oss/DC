@@ -168,9 +168,9 @@
       "date": "2026-11-15",
       "poNo": "",
       "poDate": "2026-11-15",
-      "projectName": "NAGPUR",
+      "projectName": "ASU MATERIAL",
       "customer": "MAHINDRA AND MAHINDRA",
-      "address": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "address": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "vehicle": "MH15KS0702",
       "remarkType": "Remark",
       "showTotal": false,
@@ -289,7 +289,7 @@
         },
         {
           "code": "A15",
-          "desc": "2\" PIPE 500MM",
+          "desc": "2\" PIPE 500L",
           "qty": 1,
           "unit": "Nos",
           "remarkType": "Remark",
@@ -688,7 +688,7 @@
       "itemCode": "A1",
       "desc": "ASU TANK",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A1-2": {
@@ -697,7 +697,7 @@
       "itemCode": "A1",
       "desc": "ASU TANK",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A2-1": {
@@ -706,7 +706,7 @@
       "itemCode": "A2",
       "desc": "ASU STRUCTURE SUPPORT",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A2-2": {
@@ -715,7 +715,7 @@
       "itemCode": "A2",
       "desc": "ASU STRUCTURE SUPPORT",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A2-3": {
@@ -724,7 +724,7 @@
       "itemCode": "A2",
       "desc": "ASU STRUCTURE SUPPORT",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A3-1": {
@@ -733,7 +733,7 @@
       "itemCode": "A3",
       "desc": "CONVEYOR I BEAM BEND",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A3-2": {
@@ -742,7 +742,7 @@
       "itemCode": "A3",
       "desc": "CONVEYOR I BEAM BEND",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A3-3": {
@@ -751,7 +751,7 @@
       "itemCode": "A3",
       "desc": "CONVEYOR I BEAM BEND",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A3-4": {
@@ -760,7 +760,7 @@
       "itemCode": "A3",
       "desc": "CONVEYOR I BEAM BEND",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A4-1": {
@@ -769,7 +769,7 @@
       "itemCode": "A4",
       "desc": "TAPER SUPPORT HEIGHT 1270 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A4-2": {
@@ -778,7 +778,7 @@
       "itemCode": "A4",
       "desc": "TAPER SUPPORT HEIGHT 1270 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A4-3": {
@@ -787,7 +787,7 @@
       "itemCode": "A4",
       "desc": "TAPER SUPPORT HEIGHT 1270 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A4-4": {
@@ -796,7 +796,7 @@
       "itemCode": "A4",
       "desc": "TAPER SUPPORT HEIGHT 1270 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A5-1": {
@@ -805,7 +805,7 @@
       "itemCode": "A5",
       "desc": "TAPER SUPPORT HEIGHT 1245 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A5-2": {
@@ -814,7 +814,7 @@
       "itemCode": "A5",
       "desc": "TAPER SUPPORT HEIGHT 1245 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A6-1": {
@@ -823,7 +823,7 @@
       "itemCode": "A6",
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A6-2": {
@@ -832,7 +832,7 @@
       "itemCode": "A6",
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A6-3": {
@@ -841,7 +841,7 @@
       "itemCode": "A6",
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A6-4": {
@@ -850,7 +850,7 @@
       "itemCode": "A6",
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A6-5": {
@@ -859,7 +859,7 @@
       "itemCode": "A6",
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A6-6": {
@@ -868,7 +868,7 @@
       "itemCode": "A6",
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A6-7": {
@@ -877,7 +877,7 @@
       "itemCode": "A6",
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A6-8": {
@@ -886,7 +886,7 @@
       "itemCode": "A6",
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A6-9": {
@@ -895,7 +895,7 @@
       "itemCode": "A6",
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A6-10": {
@@ -904,7 +904,7 @@
       "itemCode": "A6",
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A6-11": {
@@ -913,7 +913,7 @@
       "itemCode": "A6",
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A6-12": {
@@ -922,7 +922,7 @@
       "itemCode": "A6",
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A7-1": {
@@ -931,7 +931,7 @@
       "itemCode": "A7",
       "desc": "ASU TANK MESH",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A7-2": {
@@ -940,7 +940,7 @@
       "itemCode": "A7",
       "desc": "ASU TANK MESH",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A7-3": {
@@ -949,7 +949,7 @@
       "itemCode": "A7",
       "desc": "ASU TANK MESH",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A7-4": {
@@ -958,7 +958,7 @@
       "itemCode": "A7",
       "desc": "ASU TANK MESH",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A7-5": {
@@ -967,7 +967,7 @@
       "itemCode": "A7",
       "desc": "ASU TANK MESH",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A7-6": {
@@ -976,7 +976,7 @@
       "itemCode": "A7",
       "desc": "ASU TANK MESH",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A7-7": {
@@ -985,7 +985,7 @@
       "itemCode": "A7",
       "desc": "ASU TANK MESH",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A7-8": {
@@ -994,7 +994,7 @@
       "itemCode": "A7",
       "desc": "ASU TANK MESH",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A8-1": {
@@ -1003,7 +1003,7 @@
       "itemCode": "A8",
       "desc": "DUCT SAFETY MESH SS",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A8-2": {
@@ -1012,7 +1012,7 @@
       "itemCode": "A8",
       "desc": "DUCT SAFETY MESH SS",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A8-3": {
@@ -1021,7 +1021,7 @@
       "itemCode": "A8",
       "desc": "DUCT SAFETY MESH SS",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A8-4": {
@@ -1030,7 +1030,7 @@
       "itemCode": "A8",
       "desc": "DUCT SAFETY MESH SS",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A8-5": {
@@ -1039,7 +1039,7 @@
       "itemCode": "A8",
       "desc": "DUCT SAFETY MESH SS",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A8-6": {
@@ -1048,7 +1048,7 @@
       "itemCode": "A8",
       "desc": "DUCT SAFETY MESH SS",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A9-1": {
@@ -1057,7 +1057,7 @@
       "itemCode": "A9",
       "desc": "ASU DUCT FRAME",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A9-2": {
@@ -1066,7 +1066,7 @@
       "itemCode": "A9",
       "desc": "ASU DUCT FRAME",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A9-3": {
@@ -1075,7 +1075,7 @@
       "itemCode": "A9",
       "desc": "ASU DUCT FRAME",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A9-4": {
@@ -1084,7 +1084,7 @@
       "itemCode": "A9",
       "desc": "ASU DUCT FRAME",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A9-5": {
@@ -1093,7 +1093,7 @@
       "itemCode": "A9",
       "desc": "ASU DUCT FRAME",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A9-6": {
@@ -1102,7 +1102,7 @@
       "itemCode": "A9",
       "desc": "ASU DUCT FRAME",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A10-1": {
@@ -1111,7 +1111,7 @@
       "itemCode": "A10",
       "desc": "40X40 BOX PIPE",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A10-2": {
@@ -1120,7 +1120,7 @@
       "itemCode": "A10",
       "desc": "40X40 BOX PIPE",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A10-3": {
@@ -1129,7 +1129,7 @@
       "itemCode": "A10",
       "desc": "40X40 BOX PIPE",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A10-4": {
@@ -1138,7 +1138,7 @@
       "itemCode": "A10",
       "desc": "40X40 BOX PIPE",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A10-5": {
@@ -1147,7 +1147,7 @@
       "itemCode": "A10",
       "desc": "40X40 BOX PIPE",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A10-6": {
@@ -1156,7 +1156,7 @@
       "itemCode": "A10",
       "desc": "40X40 BOX PIPE",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A10-7": {
@@ -1165,7 +1165,7 @@
       "itemCode": "A10",
       "desc": "40X40 BOX PIPE",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A11-1": {
@@ -1174,7 +1174,7 @@
       "itemCode": "A11",
       "desc": "TANK STIFFENER",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A11-2": {
@@ -1183,7 +1183,7 @@
       "itemCode": "A11",
       "desc": "TANK STIFFENER",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A11-3": {
@@ -1192,7 +1192,7 @@
       "itemCode": "A11",
       "desc": "TANK STIFFENER",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A11-4": {
@@ -1201,7 +1201,7 @@
       "itemCode": "A11",
       "desc": "TANK STIFFENER",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A11-5": {
@@ -1210,7 +1210,7 @@
       "itemCode": "A11",
       "desc": "TANK STIFFENER",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A12-1": {
@@ -1219,7 +1219,7 @@
       "itemCode": "A12",
       "desc": "ASU DUCT COVER 805X500",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-1": {
@@ -1228,7 +1228,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-2": {
@@ -1237,7 +1237,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-3": {
@@ -1246,7 +1246,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-4": {
@@ -1255,7 +1255,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-5": {
@@ -1264,7 +1264,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-6": {
@@ -1273,7 +1273,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-7": {
@@ -1282,7 +1282,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-8": {
@@ -1291,7 +1291,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-9": {
@@ -1300,7 +1300,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-10": {
@@ -1309,7 +1309,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-11": {
@@ -1318,7 +1318,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-12": {
@@ -1327,7 +1327,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-13": {
@@ -1336,7 +1336,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-14": {
@@ -1345,7 +1345,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-15": {
@@ -1354,7 +1354,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A13-16": {
@@ -1363,7 +1363,7 @@
       "itemCode": "A13",
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A14-1": {
@@ -1372,7 +1372,7 @@
       "itemCode": "A14",
       "desc": "WIRE 4CX2.5 SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A14-2": {
@@ -1381,7 +1381,7 @@
       "itemCode": "A14",
       "desc": "WIRE 4CX2.5 SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A14-3": {
@@ -1390,7 +1390,7 @@
       "itemCode": "A14",
       "desc": "WIRE 4CX2.5 SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A14-4": {
@@ -1399,7 +1399,7 @@
       "itemCode": "A14",
       "desc": "WIRE 4CX2.5 SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A14-5": {
@@ -1408,7 +1408,7 @@
       "itemCode": "A14",
       "desc": "WIRE 4CX2.5 SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A14-6": {
@@ -1417,20 +1417,31 @@
       "itemCode": "A14",
       "desc": "WIRE 4CX2.5 SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     },
     "SNE-26003-A15-1": {
       "qrCode": "SNE-26003-A15-1",
       "challanNo": "SNE-26003",
       "itemCode": "A15",
-      "desc": "2\" PIPE 500MM",
+      "desc": "2\" PIPE 500L",
       "customer": "MAHINDRA AND MAHINDRA",
-      "location": "MAHENDRA & MAHINDRA LTD, PLOT NO.F1,F7 HINGANA ROAD,NAGPUR-440016",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T16:20:39.908Z",
+      "challanNo": "SNE-26003",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 83 items."
+    },
     {
       "timestamp": "2026-11-15T16:04:06.239Z",
       "challanNo": "SNE-26003",
@@ -1490,7 +1501,8 @@
   "customers": {
     "MAHINDRA AND MAHINDRA": {
       "addresses": [
-        "CHAKAN MIDC, PUNE"
+        "CHAKAN MIDC, PUNE",
+        "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR"
       ]
     }
   }
