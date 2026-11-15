@@ -1881,19 +1881,21 @@
     "SNE-26013": {
       "challanNo": "SNE-26013",
       "date": "",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "MAHENDRA & MAHENDRA LTD, PLOT NO. F1,F7 HINGANA ROAG,NAGPUR- 440016",
       "poNo": "",
       "poDate": "",
       "projectName": "NAGPUR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "HINGANA ROAD, MIDC NAGPUR",
       "vehicle": "MH15JW3865",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
           "code": "AB1",
           "desc": "HEPA FILTER BOX DOOR",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1901,6 +1903,7 @@
           "desc": "PLENUM DOOR",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1908,6 +1911,7 @@
           "desc": "RELLING 2600X1000",
           "qty": 8,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1915,6 +1919,7 @@
           "desc": "M.S GREATING",
           "qty": 12,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1922,6 +1927,7 @@
           "desc": "HEPA FILTER SUCTION DUCT 2690X1100",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1929,6 +1935,7 @@
           "desc": "HEPA FILTER SUCTION DUCT 1600X1300",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1936,6 +1943,7 @@
           "desc": "S.S DOOR WITH FRAME",
           "qty": 7,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1943,6 +1951,7 @@
           "desc": "M.S ANGLE 75X75X6MTR",
           "qty": 3,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1950,6 +1959,7 @@
           "desc": "M.S ANGLE 75X75X5090MM",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1957,6 +1967,7 @@
           "desc": "TUBELIGHT",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1964,6 +1975,7 @@
           "desc": "DUCTING SUPPORT",
           "qty": 28,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1971,6 +1983,7 @@
           "desc": "DOOR BOTTOM STEPS",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1978,6 +1991,7 @@
           "desc": "ELECTRICAL CONTROL PANEL",
           "qty": 18,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1985,6 +1999,7 @@
           "desc": "ELECTRICAL CONTROL PANEL PLATS",
           "qty": 12,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1992,10 +2007,159 @@
           "desc": "TAPPER SUPPORT FOR BOOTH",
           "qty": 36,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         }
       ],
-      "qrcodes": []
+      "qrcodes": [
+        "SNE-26013-AB1-1",
+        "SNE-26013-AB1-2",
+        "SNE-26013-AB1-3",
+        "SNE-26013-AB1-4",
+        "SNE-26013-AB1-5",
+        "SNE-26013-AB1-6",
+        "SNE-26013-AB2-1",
+        "SNE-26013-AB2-2",
+        "SNE-26013-AB2-3",
+        "SNE-26013-AB2-4",
+        "SNE-26013-AB2-5",
+        "SNE-26013-AB2-6",
+        "SNE-26013-AB3-1",
+        "SNE-26013-AB3-2",
+        "SNE-26013-AB3-3",
+        "SNE-26013-AB3-4",
+        "SNE-26013-AB3-5",
+        "SNE-26013-AB3-6",
+        "SNE-26013-AB3-7",
+        "SNE-26013-AB3-8",
+        "SNE-26013-AB4-1",
+        "SNE-26013-AB4-2",
+        "SNE-26013-AB4-3",
+        "SNE-26013-AB4-4",
+        "SNE-26013-AB4-5",
+        "SNE-26013-AB4-6",
+        "SNE-26013-AB4-7",
+        "SNE-26013-AB4-8",
+        "SNE-26013-AB4-9",
+        "SNE-26013-AB4-10",
+        "SNE-26013-AB4-11",
+        "SNE-26013-AB4-12",
+        "SNE-26013-AB5-1",
+        "SNE-26013-AB6-1",
+        "SNE-26013-AB7-1",
+        "SNE-26013-AB7-2",
+        "SNE-26013-AB7-3",
+        "SNE-26013-AB7-4",
+        "SNE-26013-AB7-5",
+        "SNE-26013-AB7-6",
+        "SNE-26013-AB7-7",
+        "SNE-26013-AB8-1",
+        "SNE-26013-AB8-2",
+        "SNE-26013-AB8-3",
+        "SNE-26013-AB9-1",
+        "SNE-26013-AB10-1",
+        "SNE-26013-AB11-1",
+        "SNE-26013-AB11-2",
+        "SNE-26013-AB11-3",
+        "SNE-26013-AB11-4",
+        "SNE-26013-AB11-5",
+        "SNE-26013-AB11-6",
+        "SNE-26013-AB11-7",
+        "SNE-26013-AB11-8",
+        "SNE-26013-AB11-9",
+        "SNE-26013-AB11-10",
+        "SNE-26013-AB11-11",
+        "SNE-26013-AB11-12",
+        "SNE-26013-AB11-13",
+        "SNE-26013-AB11-14",
+        "SNE-26013-AB11-15",
+        "SNE-26013-AB11-16",
+        "SNE-26013-AB11-17",
+        "SNE-26013-AB11-18",
+        "SNE-26013-AB11-19",
+        "SNE-26013-AB11-20",
+        "SNE-26013-AB11-21",
+        "SNE-26013-AB11-22",
+        "SNE-26013-AB11-23",
+        "SNE-26013-AB11-24",
+        "SNE-26013-AB11-25",
+        "SNE-26013-AB11-26",
+        "SNE-26013-AB11-27",
+        "SNE-26013-AB11-28",
+        "SNE-26013-AB12-1",
+        "SNE-26013-AB12-2",
+        "SNE-26013-AB12-3",
+        "SNE-26013-AB12-4",
+        "SNE-26013-AB12-5",
+        "SNE-26013-AB12-6",
+        "SNE-26013-AB13-1",
+        "SNE-26013-AB13-2",
+        "SNE-26013-AB13-3",
+        "SNE-26013-AB13-4",
+        "SNE-26013-AB13-5",
+        "SNE-26013-AB13-6",
+        "SNE-26013-AB13-7",
+        "SNE-26013-AB13-8",
+        "SNE-26013-AB13-9",
+        "SNE-26013-AB13-10",
+        "SNE-26013-AB13-11",
+        "SNE-26013-AB13-12",
+        "SNE-26013-AB13-13",
+        "SNE-26013-AB13-14",
+        "SNE-26013-AB13-15",
+        "SNE-26013-AB13-16",
+        "SNE-26013-AB13-17",
+        "SNE-26013-AB13-18",
+        "SNE-26013-AB14-1",
+        "SNE-26013-AB14-2",
+        "SNE-26013-AB14-3",
+        "SNE-26013-AB14-4",
+        "SNE-26013-AB14-5",
+        "SNE-26013-AB14-6",
+        "SNE-26013-AB14-7",
+        "SNE-26013-AB14-8",
+        "SNE-26013-AB14-9",
+        "SNE-26013-AB14-10",
+        "SNE-26013-AB14-11",
+        "SNE-26013-AB14-12",
+        "SNE-26013-AB15-1",
+        "SNE-26013-AB15-2",
+        "SNE-26013-AB15-3",
+        "SNE-26013-AB15-4",
+        "SNE-26013-AB15-5",
+        "SNE-26013-AB15-6",
+        "SNE-26013-AB15-7",
+        "SNE-26013-AB15-8",
+        "SNE-26013-AB15-9",
+        "SNE-26013-AB15-10",
+        "SNE-26013-AB15-11",
+        "SNE-26013-AB15-12",
+        "SNE-26013-AB15-13",
+        "SNE-26013-AB15-14",
+        "SNE-26013-AB15-15",
+        "SNE-26013-AB15-16",
+        "SNE-26013-AB15-17",
+        "SNE-26013-AB15-18",
+        "SNE-26013-AB15-19",
+        "SNE-26013-AB15-20",
+        "SNE-26013-AB15-21",
+        "SNE-26013-AB15-22",
+        "SNE-26013-AB15-23",
+        "SNE-26013-AB15-24",
+        "SNE-26013-AB15-25",
+        "SNE-26013-AB15-26",
+        "SNE-26013-AB15-27",
+        "SNE-26013-AB15-28",
+        "SNE-26013-AB15-29",
+        "SNE-26013-AB15-30",
+        "SNE-26013-AB15-31",
+        "SNE-26013-AB15-32",
+        "SNE-26013-AB15-33",
+        "SNE-26013-AB15-34",
+        "SNE-26013-AB15-35",
+        "SNE-26013-AB15-36"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26014": {
       "challanNo": "SNE-26014",
@@ -20752,9 +20916,1334 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26013-AB1-1": {
+      "qrCode": "SNE-26013-AB1-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB1",
+      "desc": "HEPA FILTER BOX DOOR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB1-2": {
+      "qrCode": "SNE-26013-AB1-2",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB1",
+      "desc": "HEPA FILTER BOX DOOR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB1-3": {
+      "qrCode": "SNE-26013-AB1-3",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB1",
+      "desc": "HEPA FILTER BOX DOOR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB1-4": {
+      "qrCode": "SNE-26013-AB1-4",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB1",
+      "desc": "HEPA FILTER BOX DOOR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB1-5": {
+      "qrCode": "SNE-26013-AB1-5",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB1",
+      "desc": "HEPA FILTER BOX DOOR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB1-6": {
+      "qrCode": "SNE-26013-AB1-6",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB1",
+      "desc": "HEPA FILTER BOX DOOR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB2-1": {
+      "qrCode": "SNE-26013-AB2-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB2",
+      "desc": "PLENUM DOOR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB2-2": {
+      "qrCode": "SNE-26013-AB2-2",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB2",
+      "desc": "PLENUM DOOR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB2-3": {
+      "qrCode": "SNE-26013-AB2-3",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB2",
+      "desc": "PLENUM DOOR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB2-4": {
+      "qrCode": "SNE-26013-AB2-4",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB2",
+      "desc": "PLENUM DOOR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB2-5": {
+      "qrCode": "SNE-26013-AB2-5",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB2",
+      "desc": "PLENUM DOOR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB2-6": {
+      "qrCode": "SNE-26013-AB2-6",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB2",
+      "desc": "PLENUM DOOR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB3-1": {
+      "qrCode": "SNE-26013-AB3-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB3",
+      "desc": "RELLING 2600X1000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB3-2": {
+      "qrCode": "SNE-26013-AB3-2",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB3",
+      "desc": "RELLING 2600X1000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB3-3": {
+      "qrCode": "SNE-26013-AB3-3",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB3",
+      "desc": "RELLING 2600X1000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB3-4": {
+      "qrCode": "SNE-26013-AB3-4",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB3",
+      "desc": "RELLING 2600X1000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB3-5": {
+      "qrCode": "SNE-26013-AB3-5",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB3",
+      "desc": "RELLING 2600X1000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB3-6": {
+      "qrCode": "SNE-26013-AB3-6",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB3",
+      "desc": "RELLING 2600X1000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB3-7": {
+      "qrCode": "SNE-26013-AB3-7",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB3",
+      "desc": "RELLING 2600X1000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB3-8": {
+      "qrCode": "SNE-26013-AB3-8",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB3",
+      "desc": "RELLING 2600X1000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB4-1": {
+      "qrCode": "SNE-26013-AB4-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB4",
+      "desc": "M.S GREATING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB4-2": {
+      "qrCode": "SNE-26013-AB4-2",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB4",
+      "desc": "M.S GREATING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB4-3": {
+      "qrCode": "SNE-26013-AB4-3",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB4",
+      "desc": "M.S GREATING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB4-4": {
+      "qrCode": "SNE-26013-AB4-4",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB4",
+      "desc": "M.S GREATING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB4-5": {
+      "qrCode": "SNE-26013-AB4-5",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB4",
+      "desc": "M.S GREATING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB4-6": {
+      "qrCode": "SNE-26013-AB4-6",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB4",
+      "desc": "M.S GREATING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB4-7": {
+      "qrCode": "SNE-26013-AB4-7",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB4",
+      "desc": "M.S GREATING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB4-8": {
+      "qrCode": "SNE-26013-AB4-8",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB4",
+      "desc": "M.S GREATING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB4-9": {
+      "qrCode": "SNE-26013-AB4-9",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB4",
+      "desc": "M.S GREATING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB4-10": {
+      "qrCode": "SNE-26013-AB4-10",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB4",
+      "desc": "M.S GREATING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB4-11": {
+      "qrCode": "SNE-26013-AB4-11",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB4",
+      "desc": "M.S GREATING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB4-12": {
+      "qrCode": "SNE-26013-AB4-12",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB4",
+      "desc": "M.S GREATING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB5-1": {
+      "qrCode": "SNE-26013-AB5-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB5",
+      "desc": "HEPA FILTER SUCTION DUCT 2690X1100",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB6-1": {
+      "qrCode": "SNE-26013-AB6-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB6",
+      "desc": "HEPA FILTER SUCTION DUCT 1600X1300",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB7-1": {
+      "qrCode": "SNE-26013-AB7-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB7",
+      "desc": "S.S DOOR WITH FRAME",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB7-2": {
+      "qrCode": "SNE-26013-AB7-2",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB7",
+      "desc": "S.S DOOR WITH FRAME",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB7-3": {
+      "qrCode": "SNE-26013-AB7-3",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB7",
+      "desc": "S.S DOOR WITH FRAME",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB7-4": {
+      "qrCode": "SNE-26013-AB7-4",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB7",
+      "desc": "S.S DOOR WITH FRAME",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB7-5": {
+      "qrCode": "SNE-26013-AB7-5",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB7",
+      "desc": "S.S DOOR WITH FRAME",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB7-6": {
+      "qrCode": "SNE-26013-AB7-6",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB7",
+      "desc": "S.S DOOR WITH FRAME",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB7-7": {
+      "qrCode": "SNE-26013-AB7-7",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB7",
+      "desc": "S.S DOOR WITH FRAME",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB8-1": {
+      "qrCode": "SNE-26013-AB8-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB8",
+      "desc": "M.S ANGLE 75X75X6MTR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB8-2": {
+      "qrCode": "SNE-26013-AB8-2",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB8",
+      "desc": "M.S ANGLE 75X75X6MTR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB8-3": {
+      "qrCode": "SNE-26013-AB8-3",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB8",
+      "desc": "M.S ANGLE 75X75X6MTR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB9-1": {
+      "qrCode": "SNE-26013-AB9-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB9",
+      "desc": "M.S ANGLE 75X75X5090MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB10-1": {
+      "qrCode": "SNE-26013-AB10-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB10",
+      "desc": "TUBELIGHT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-1": {
+      "qrCode": "SNE-26013-AB11-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-2": {
+      "qrCode": "SNE-26013-AB11-2",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-3": {
+      "qrCode": "SNE-26013-AB11-3",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-4": {
+      "qrCode": "SNE-26013-AB11-4",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-5": {
+      "qrCode": "SNE-26013-AB11-5",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-6": {
+      "qrCode": "SNE-26013-AB11-6",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-7": {
+      "qrCode": "SNE-26013-AB11-7",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-8": {
+      "qrCode": "SNE-26013-AB11-8",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-9": {
+      "qrCode": "SNE-26013-AB11-9",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-10": {
+      "qrCode": "SNE-26013-AB11-10",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-11": {
+      "qrCode": "SNE-26013-AB11-11",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-12": {
+      "qrCode": "SNE-26013-AB11-12",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-13": {
+      "qrCode": "SNE-26013-AB11-13",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-14": {
+      "qrCode": "SNE-26013-AB11-14",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-15": {
+      "qrCode": "SNE-26013-AB11-15",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-16": {
+      "qrCode": "SNE-26013-AB11-16",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-17": {
+      "qrCode": "SNE-26013-AB11-17",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-18": {
+      "qrCode": "SNE-26013-AB11-18",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-19": {
+      "qrCode": "SNE-26013-AB11-19",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-20": {
+      "qrCode": "SNE-26013-AB11-20",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-21": {
+      "qrCode": "SNE-26013-AB11-21",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-22": {
+      "qrCode": "SNE-26013-AB11-22",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-23": {
+      "qrCode": "SNE-26013-AB11-23",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-24": {
+      "qrCode": "SNE-26013-AB11-24",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-25": {
+      "qrCode": "SNE-26013-AB11-25",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-26": {
+      "qrCode": "SNE-26013-AB11-26",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-27": {
+      "qrCode": "SNE-26013-AB11-27",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB11-28": {
+      "qrCode": "SNE-26013-AB11-28",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB11",
+      "desc": "DUCTING SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB12-1": {
+      "qrCode": "SNE-26013-AB12-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB12",
+      "desc": "DOOR BOTTOM STEPS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB12-2": {
+      "qrCode": "SNE-26013-AB12-2",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB12",
+      "desc": "DOOR BOTTOM STEPS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB12-3": {
+      "qrCode": "SNE-26013-AB12-3",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB12",
+      "desc": "DOOR BOTTOM STEPS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB12-4": {
+      "qrCode": "SNE-26013-AB12-4",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB12",
+      "desc": "DOOR BOTTOM STEPS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB12-5": {
+      "qrCode": "SNE-26013-AB12-5",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB12",
+      "desc": "DOOR BOTTOM STEPS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB12-6": {
+      "qrCode": "SNE-26013-AB12-6",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB12",
+      "desc": "DOOR BOTTOM STEPS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-1": {
+      "qrCode": "SNE-26013-AB13-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-2": {
+      "qrCode": "SNE-26013-AB13-2",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-3": {
+      "qrCode": "SNE-26013-AB13-3",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-4": {
+      "qrCode": "SNE-26013-AB13-4",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-5": {
+      "qrCode": "SNE-26013-AB13-5",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-6": {
+      "qrCode": "SNE-26013-AB13-6",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-7": {
+      "qrCode": "SNE-26013-AB13-7",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-8": {
+      "qrCode": "SNE-26013-AB13-8",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-9": {
+      "qrCode": "SNE-26013-AB13-9",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-10": {
+      "qrCode": "SNE-26013-AB13-10",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-11": {
+      "qrCode": "SNE-26013-AB13-11",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-12": {
+      "qrCode": "SNE-26013-AB13-12",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-13": {
+      "qrCode": "SNE-26013-AB13-13",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-14": {
+      "qrCode": "SNE-26013-AB13-14",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-15": {
+      "qrCode": "SNE-26013-AB13-15",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-16": {
+      "qrCode": "SNE-26013-AB13-16",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-17": {
+      "qrCode": "SNE-26013-AB13-17",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB13-18": {
+      "qrCode": "SNE-26013-AB13-18",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB13",
+      "desc": "ELECTRICAL CONTROL PANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB14-1": {
+      "qrCode": "SNE-26013-AB14-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB14",
+      "desc": "ELECTRICAL CONTROL PANEL PLATS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB14-2": {
+      "qrCode": "SNE-26013-AB14-2",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB14",
+      "desc": "ELECTRICAL CONTROL PANEL PLATS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB14-3": {
+      "qrCode": "SNE-26013-AB14-3",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB14",
+      "desc": "ELECTRICAL CONTROL PANEL PLATS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB14-4": {
+      "qrCode": "SNE-26013-AB14-4",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB14",
+      "desc": "ELECTRICAL CONTROL PANEL PLATS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB14-5": {
+      "qrCode": "SNE-26013-AB14-5",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB14",
+      "desc": "ELECTRICAL CONTROL PANEL PLATS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB14-6": {
+      "qrCode": "SNE-26013-AB14-6",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB14",
+      "desc": "ELECTRICAL CONTROL PANEL PLATS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB14-7": {
+      "qrCode": "SNE-26013-AB14-7",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB14",
+      "desc": "ELECTRICAL CONTROL PANEL PLATS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB14-8": {
+      "qrCode": "SNE-26013-AB14-8",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB14",
+      "desc": "ELECTRICAL CONTROL PANEL PLATS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB14-9": {
+      "qrCode": "SNE-26013-AB14-9",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB14",
+      "desc": "ELECTRICAL CONTROL PANEL PLATS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB14-10": {
+      "qrCode": "SNE-26013-AB14-10",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB14",
+      "desc": "ELECTRICAL CONTROL PANEL PLATS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB14-11": {
+      "qrCode": "SNE-26013-AB14-11",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB14",
+      "desc": "ELECTRICAL CONTROL PANEL PLATS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB14-12": {
+      "qrCode": "SNE-26013-AB14-12",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB14",
+      "desc": "ELECTRICAL CONTROL PANEL PLATS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-1": {
+      "qrCode": "SNE-26013-AB15-1",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-2": {
+      "qrCode": "SNE-26013-AB15-2",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-3": {
+      "qrCode": "SNE-26013-AB15-3",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-4": {
+      "qrCode": "SNE-26013-AB15-4",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-5": {
+      "qrCode": "SNE-26013-AB15-5",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-6": {
+      "qrCode": "SNE-26013-AB15-6",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-7": {
+      "qrCode": "SNE-26013-AB15-7",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-8": {
+      "qrCode": "SNE-26013-AB15-8",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-9": {
+      "qrCode": "SNE-26013-AB15-9",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-10": {
+      "qrCode": "SNE-26013-AB15-10",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-11": {
+      "qrCode": "SNE-26013-AB15-11",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-12": {
+      "qrCode": "SNE-26013-AB15-12",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-13": {
+      "qrCode": "SNE-26013-AB15-13",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-14": {
+      "qrCode": "SNE-26013-AB15-14",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-15": {
+      "qrCode": "SNE-26013-AB15-15",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-16": {
+      "qrCode": "SNE-26013-AB15-16",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-17": {
+      "qrCode": "SNE-26013-AB15-17",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-18": {
+      "qrCode": "SNE-26013-AB15-18",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-19": {
+      "qrCode": "SNE-26013-AB15-19",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-20": {
+      "qrCode": "SNE-26013-AB15-20",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-21": {
+      "qrCode": "SNE-26013-AB15-21",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-22": {
+      "qrCode": "SNE-26013-AB15-22",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-23": {
+      "qrCode": "SNE-26013-AB15-23",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-24": {
+      "qrCode": "SNE-26013-AB15-24",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-25": {
+      "qrCode": "SNE-26013-AB15-25",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-26": {
+      "qrCode": "SNE-26013-AB15-26",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-27": {
+      "qrCode": "SNE-26013-AB15-27",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-28": {
+      "qrCode": "SNE-26013-AB15-28",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-29": {
+      "qrCode": "SNE-26013-AB15-29",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-30": {
+      "qrCode": "SNE-26013-AB15-30",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-31": {
+      "qrCode": "SNE-26013-AB15-31",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-32": {
+      "qrCode": "SNE-26013-AB15-32",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-33": {
+      "qrCode": "SNE-26013-AB15-33",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-34": {
+      "qrCode": "SNE-26013-AB15-34",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-35": {
+      "qrCode": "SNE-26013-AB15-35",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26013-AB15-36": {
+      "qrCode": "SNE-26013-AB15-36",
+      "challanNo": "SNE-26013",
+      "itemCode": "AB15",
+      "desc": "TAPPER SUPPORT FOR BOOTH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:29:45.730Z",
+      "challanNo": "SNE-26013",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 146 items."
+    },
     {
       "timestamp": "2026-11-15T13:29:13.835Z",
       "challanNo": "SNE-26012",
@@ -22034,7 +23523,8 @@
   "customers": {
     "MAHINDRA AND MAHINDRA": {
       "addresses": [
-        "CHAKAN MIDC, PUNE"
+        "CHAKAN MIDC, PUNE",
+        "HINGANA ROAD, MIDC NAGPUR"
       ]
     }
   }
