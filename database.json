@@ -12971,94 +12971,134 @@
     },
     "SNE-26024": {
       "challanNo": "SNE-26024",
-      "date": "2026-11-11T18:30:00.000Z",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
+      "date": "",
       "poNo": "",
-      "poDate": "2026-11-11T18:30:00.000Z",
+      "poDate": "",
       "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
       "vehicle": "MH15GV0326",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
-          "code": 1,
+          "code": "1",
           "desc": "12/13  SPANNER SET",
           "qty": 4,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
-          "code": 2,
+          "code": "2",
           "desc": "SPIRIT LEVEL LONG",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
-          "code": 3,
+          "code": "3",
           "desc": "SPIRIT LEVEL SMALL",
           "qty": 2,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
-          "code": 4,
+          "code": "4",
           "desc": "RATCHET SET BIG TAPARIA",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
-          "code": 5,
+          "code": "5",
           "desc": "ALL RING SPANNER SET TAPARIA",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
-          "code": 6,
+          "code": "6",
           "desc": "ALL DOUBLE ENDED SPANNER SET TAPARIA",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
-          "code": 7,
+          "code": "7",
           "desc": "TAPARIA SCREWDRIVER 928",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
-          "code": 8,
+          "code": "8",
           "desc": "PLAZMA  TORCH",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
-          "code": 9,
+          "code": "9",
           "desc": "FIRE BLANKET GRAPHITE",
           "qty": 10,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
-          "code": 10,
+          "code": "10",
           "desc": "FIRE EXTINGUISHER",
           "qty": 3,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
-          "code": 11,
+          "code": "11",
           "desc": "PLAZMA NOZZLE AND TIP",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         }
       ],
-      "qrcodes": []
+      "qrcodes": [
+        "SNE-26024-1-1",
+        "SNE-26024-1-2",
+        "SNE-26024-1-3",
+        "SNE-26024-1-4",
+        "SNE-26024-2-1",
+        "SNE-26024-3-1",
+        "SNE-26024-3-2",
+        "SNE-26024-4-1",
+        "SNE-26024-5-1",
+        "SNE-26024-6-1",
+        "SNE-26024-7-1",
+        "SNE-26024-8-1",
+        "SNE-26024-9-1",
+        "SNE-26024-9-2",
+        "SNE-26024-9-3",
+        "SNE-26024-9-4",
+        "SNE-26024-9-5",
+        "SNE-26024-9-6",
+        "SNE-26024-9-7",
+        "SNE-26024-9-8",
+        "SNE-26024-9-9",
+        "SNE-26024-9-10",
+        "SNE-26024-10-1",
+        "SNE-26024-10-2",
+        "SNE-26024-10-3",
+        "SNE-26024-11-1"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26025": {
       "challanNo": "SNE-26025",
@@ -112902,9 +112942,254 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "HINGANA ROAD, MIDC NAGPUR",
       "status": "QR GENERATED"
+    },
+    "SNE-26024-1-1": {
+      "qrCode": "SNE-26024-1-1",
+      "challanNo": "SNE-26024",
+      "itemCode": "1",
+      "desc": "12/13  SPANNER SET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-1-2": {
+      "qrCode": "SNE-26024-1-2",
+      "challanNo": "SNE-26024",
+      "itemCode": "1",
+      "desc": "12/13  SPANNER SET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-1-3": {
+      "qrCode": "SNE-26024-1-3",
+      "challanNo": "SNE-26024",
+      "itemCode": "1",
+      "desc": "12/13  SPANNER SET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-1-4": {
+      "qrCode": "SNE-26024-1-4",
+      "challanNo": "SNE-26024",
+      "itemCode": "1",
+      "desc": "12/13  SPANNER SET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-2-1": {
+      "qrCode": "SNE-26024-2-1",
+      "challanNo": "SNE-26024",
+      "itemCode": "2",
+      "desc": "SPIRIT LEVEL LONG",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-3-1": {
+      "qrCode": "SNE-26024-3-1",
+      "challanNo": "SNE-26024",
+      "itemCode": "3",
+      "desc": "SPIRIT LEVEL SMALL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-3-2": {
+      "qrCode": "SNE-26024-3-2",
+      "challanNo": "SNE-26024",
+      "itemCode": "3",
+      "desc": "SPIRIT LEVEL SMALL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-4-1": {
+      "qrCode": "SNE-26024-4-1",
+      "challanNo": "SNE-26024",
+      "itemCode": "4",
+      "desc": "RATCHET SET BIG TAPARIA",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-5-1": {
+      "qrCode": "SNE-26024-5-1",
+      "challanNo": "SNE-26024",
+      "itemCode": "5",
+      "desc": "ALL RING SPANNER SET TAPARIA",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-6-1": {
+      "qrCode": "SNE-26024-6-1",
+      "challanNo": "SNE-26024",
+      "itemCode": "6",
+      "desc": "ALL DOUBLE ENDED SPANNER SET TAPARIA",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-7-1": {
+      "qrCode": "SNE-26024-7-1",
+      "challanNo": "SNE-26024",
+      "itemCode": "7",
+      "desc": "TAPARIA SCREWDRIVER 928",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-8-1": {
+      "qrCode": "SNE-26024-8-1",
+      "challanNo": "SNE-26024",
+      "itemCode": "8",
+      "desc": "PLAZMA  TORCH",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-9-1": {
+      "qrCode": "SNE-26024-9-1",
+      "challanNo": "SNE-26024",
+      "itemCode": "9",
+      "desc": "FIRE BLANKET GRAPHITE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-9-2": {
+      "qrCode": "SNE-26024-9-2",
+      "challanNo": "SNE-26024",
+      "itemCode": "9",
+      "desc": "FIRE BLANKET GRAPHITE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-9-3": {
+      "qrCode": "SNE-26024-9-3",
+      "challanNo": "SNE-26024",
+      "itemCode": "9",
+      "desc": "FIRE BLANKET GRAPHITE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-9-4": {
+      "qrCode": "SNE-26024-9-4",
+      "challanNo": "SNE-26024",
+      "itemCode": "9",
+      "desc": "FIRE BLANKET GRAPHITE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-9-5": {
+      "qrCode": "SNE-26024-9-5",
+      "challanNo": "SNE-26024",
+      "itemCode": "9",
+      "desc": "FIRE BLANKET GRAPHITE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-9-6": {
+      "qrCode": "SNE-26024-9-6",
+      "challanNo": "SNE-26024",
+      "itemCode": "9",
+      "desc": "FIRE BLANKET GRAPHITE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-9-7": {
+      "qrCode": "SNE-26024-9-7",
+      "challanNo": "SNE-26024",
+      "itemCode": "9",
+      "desc": "FIRE BLANKET GRAPHITE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-9-8": {
+      "qrCode": "SNE-26024-9-8",
+      "challanNo": "SNE-26024",
+      "itemCode": "9",
+      "desc": "FIRE BLANKET GRAPHITE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-9-9": {
+      "qrCode": "SNE-26024-9-9",
+      "challanNo": "SNE-26024",
+      "itemCode": "9",
+      "desc": "FIRE BLANKET GRAPHITE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-9-10": {
+      "qrCode": "SNE-26024-9-10",
+      "challanNo": "SNE-26024",
+      "itemCode": "9",
+      "desc": "FIRE BLANKET GRAPHITE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-10-1": {
+      "qrCode": "SNE-26024-10-1",
+      "challanNo": "SNE-26024",
+      "itemCode": "10",
+      "desc": "FIRE EXTINGUISHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-10-2": {
+      "qrCode": "SNE-26024-10-2",
+      "challanNo": "SNE-26024",
+      "itemCode": "10",
+      "desc": "FIRE EXTINGUISHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-10-3": {
+      "qrCode": "SNE-26024-10-3",
+      "challanNo": "SNE-26024",
+      "itemCode": "10",
+      "desc": "FIRE EXTINGUISHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26024-11-1": {
+      "qrCode": "SNE-26024-11-1",
+      "challanNo": "SNE-26024",
+      "itemCode": "11",
+      "desc": "PLAZMA NOZZLE AND TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:31:47.486Z",
+      "challanNo": "SNE-26024",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 26 items."
+    },
     {
       "timestamp": "2026-11-15T13:31:38.013Z",
       "challanNo": "SNE-26021",
