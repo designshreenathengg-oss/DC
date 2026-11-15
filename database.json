@@ -562,20 +562,22 @@
     },
     "SNE-26004": {
       "challanNo": "SNE-26004",
-      "date": "2026-10-21T18:30:00.000Z",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
+      "date": "",
       "poNo": "",
-      "poDate": "2026-10-21T18:30:00.000Z",
+      "poDate": "",
       "projectName": "1) OVEN DRWAING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
       "vehicle": "MH15JC3257",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
           "code": "AE2",
           "desc": "470X155OX0.8MM",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "G.I SHEET"
         },
         {
@@ -583,6 +585,7 @@
           "desc": "275X468X0.8MM",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "G.I SHEET"
         },
         {
@@ -590,6 +593,7 @@
           "desc": "620X490X0.8MM",
           "qty": 12,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "G.I SHEET"
         },
         {
@@ -597,6 +601,7 @@
           "desc": "635X325X0.8MM",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -604,6 +609,7 @@
           "desc": "325X650X0.8MM",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -611,6 +617,7 @@
           "desc": "400X400X0.8MM",
           "qty": 2,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -618,6 +625,7 @@
           "desc": "920X870X0.8MM",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -625,6 +633,7 @@
           "desc": "274X870X0.8MM",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -632,6 +641,7 @@
           "desc": "460X320X0.8MM",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -639,6 +649,7 @@
           "desc": "300X320X0.8MM",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -646,6 +657,7 @@
           "desc": "927X545X0.8MM",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -653,6 +665,7 @@
           "desc": "1100X775X0.8MM",
           "qty": 2,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -660,6 +673,7 @@
           "desc": "1430X845X0.8MM",
           "qty": 2,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -667,10 +681,51 @@
           "desc": "Item Particular",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         }
       ],
-      "qrcodes": []
+      "qrcodes": [
+        "SNE-26004-AE2-1",
+        "SNE-26004-AE3-1",
+        "SNE-26004-AF1-1",
+        "SNE-26004-AF1-2",
+        "SNE-26004-AF1-3",
+        "SNE-26004-AF1-4",
+        "SNE-26004-AF1-5",
+        "SNE-26004-AF1-6",
+        "SNE-26004-AF1-7",
+        "SNE-26004-AF1-8",
+        "SNE-26004-AF1-9",
+        "SNE-26004-AF1-10",
+        "SNE-26004-AF1-11",
+        "SNE-26004-AF1-12",
+        "SNE-26004-AF2-1",
+        "SNE-26004-AF2-2",
+        "SNE-26004-AF2-3",
+        "SNE-26004-AF2-4",
+        "SNE-26004-AF2-5",
+        "SNE-26004-AF2-6",
+        "SNE-26004-AF3-1",
+        "SNE-26004-AF3-2",
+        "SNE-26004-AF3-3",
+        "SNE-26004-AF3-4",
+        "SNE-26004-AF3-5",
+        "SNE-26004-AF3-6",
+        "SNE-26004-AG1-1",
+        "SNE-26004-AG1-2",
+        "SNE-26004-AG2-1",
+        "SNE-26004-AG3-1",
+        "SNE-26004-AH1-1",
+        "SNE-26004-AH2-1",
+        "SNE-26004-AH3-1",
+        "SNE-26004-AI1-1",
+        "SNE-26004-AI1-2",
+        "SNE-26004-AI2-1",
+        "SNE-26004-AI2-2",
+        "SNE-26004-ITM-1"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26005": {
       "challanNo": "SNE-26005",
@@ -15237,9 +15292,362 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26004-AE2-1": {
+      "qrCode": "SNE-26004-AE2-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "AE2",
+      "desc": "470X155OX0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AE3-1": {
+      "qrCode": "SNE-26004-AE3-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "AE3",
+      "desc": "275X468X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF1-1": {
+      "qrCode": "SNE-26004-AF1-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF1",
+      "desc": "620X490X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF1-2": {
+      "qrCode": "SNE-26004-AF1-2",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF1",
+      "desc": "620X490X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF1-3": {
+      "qrCode": "SNE-26004-AF1-3",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF1",
+      "desc": "620X490X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF1-4": {
+      "qrCode": "SNE-26004-AF1-4",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF1",
+      "desc": "620X490X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF1-5": {
+      "qrCode": "SNE-26004-AF1-5",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF1",
+      "desc": "620X490X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF1-6": {
+      "qrCode": "SNE-26004-AF1-6",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF1",
+      "desc": "620X490X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF1-7": {
+      "qrCode": "SNE-26004-AF1-7",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF1",
+      "desc": "620X490X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF1-8": {
+      "qrCode": "SNE-26004-AF1-8",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF1",
+      "desc": "620X490X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF1-9": {
+      "qrCode": "SNE-26004-AF1-9",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF1",
+      "desc": "620X490X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF1-10": {
+      "qrCode": "SNE-26004-AF1-10",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF1",
+      "desc": "620X490X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF1-11": {
+      "qrCode": "SNE-26004-AF1-11",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF1",
+      "desc": "620X490X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF1-12": {
+      "qrCode": "SNE-26004-AF1-12",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF1",
+      "desc": "620X490X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF2-1": {
+      "qrCode": "SNE-26004-AF2-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF2",
+      "desc": "635X325X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF2-2": {
+      "qrCode": "SNE-26004-AF2-2",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF2",
+      "desc": "635X325X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF2-3": {
+      "qrCode": "SNE-26004-AF2-3",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF2",
+      "desc": "635X325X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF2-4": {
+      "qrCode": "SNE-26004-AF2-4",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF2",
+      "desc": "635X325X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF2-5": {
+      "qrCode": "SNE-26004-AF2-5",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF2",
+      "desc": "635X325X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF2-6": {
+      "qrCode": "SNE-26004-AF2-6",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF2",
+      "desc": "635X325X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF3-1": {
+      "qrCode": "SNE-26004-AF3-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF3",
+      "desc": "325X650X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF3-2": {
+      "qrCode": "SNE-26004-AF3-2",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF3",
+      "desc": "325X650X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF3-3": {
+      "qrCode": "SNE-26004-AF3-3",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF3",
+      "desc": "325X650X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF3-4": {
+      "qrCode": "SNE-26004-AF3-4",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF3",
+      "desc": "325X650X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF3-5": {
+      "qrCode": "SNE-26004-AF3-5",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF3",
+      "desc": "325X650X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AF3-6": {
+      "qrCode": "SNE-26004-AF3-6",
+      "challanNo": "SNE-26004",
+      "itemCode": "AF3",
+      "desc": "325X650X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AG1-1": {
+      "qrCode": "SNE-26004-AG1-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "AG1",
+      "desc": "400X400X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AG1-2": {
+      "qrCode": "SNE-26004-AG1-2",
+      "challanNo": "SNE-26004",
+      "itemCode": "AG1",
+      "desc": "400X400X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AG2-1": {
+      "qrCode": "SNE-26004-AG2-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "AG2",
+      "desc": "920X870X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AG3-1": {
+      "qrCode": "SNE-26004-AG3-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "AG3",
+      "desc": "274X870X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AH1-1": {
+      "qrCode": "SNE-26004-AH1-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "AH1",
+      "desc": "460X320X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AH2-1": {
+      "qrCode": "SNE-26004-AH2-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "AH2",
+      "desc": "300X320X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AH3-1": {
+      "qrCode": "SNE-26004-AH3-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "AH3",
+      "desc": "927X545X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AI1-1": {
+      "qrCode": "SNE-26004-AI1-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "AI1",
+      "desc": "1100X775X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AI1-2": {
+      "qrCode": "SNE-26004-AI1-2",
+      "challanNo": "SNE-26004",
+      "itemCode": "AI1",
+      "desc": "1100X775X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AI2-1": {
+      "qrCode": "SNE-26004-AI2-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "AI2",
+      "desc": "1430X845X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-AI2-2": {
+      "qrCode": "SNE-26004-AI2-2",
+      "challanNo": "SNE-26004",
+      "itemCode": "AI2",
+      "desc": "1430X845X0.8MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-ITM-1": {
+      "qrCode": "SNE-26004-ITM-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "ITM",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:27:28.147Z",
+      "challanNo": "SNE-26004",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 38 items."
+    },
     {
       "timestamp": "2026-11-15T13:27:12.591Z",
       "challanNo": "SNE-26003",
