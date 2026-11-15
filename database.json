@@ -1682,20 +1682,22 @@
     },
     "SNE-26011": {
       "challanNo": "SNE-26011",
-      "date": "2026-10-25T18:30:00.000Z",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
+      "date": "",
       "poNo": "",
-      "poDate": "2026-10-25T18:30:00.000Z",
+      "poDate": "",
       "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
       "vehicle": "MH43U9970",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
           "code": "AA",
           "desc": "BY PASS VALVE 1.5",
           "qty": 1,
           "unit": "PIECES",
+          "remarkType": "Remark",
           "remark": "FOR SHOWER BOOTH"
         },
         {
@@ -1703,6 +1705,7 @@
           "desc": "WELDING HAND GLOVES",
           "qty": 5,
           "unit": "SET",
+          "remarkType": "Remark",
           "remark": "HARDWARE"
         },
         {
@@ -1710,6 +1713,7 @@
           "desc": "PLASMA MACHINE",
           "qty": 1,
           "unit": "SET",
+          "remarkType": "Remark",
           "remark": "SNE - PM - 05"
         },
         {
@@ -1717,6 +1721,7 @@
           "desc": "PLASMA NOZZLE",
           "qty": 9,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "HARDWARE"
         },
         {
@@ -1724,10 +1729,32 @@
           "desc": "FX SHAFT",
           "qty": 3,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "WITH SILVER COATING"
         }
       ],
-      "qrcodes": []
+      "qrcodes": [
+        "SNE-26011-AA-1",
+        "SNE-26011-AB-1",
+        "SNE-26011-AB-2",
+        "SNE-26011-AB-3",
+        "SNE-26011-AB-4",
+        "SNE-26011-AB-5",
+        "SNE-26011-AC-1",
+        "SNE-26011-AD-1",
+        "SNE-26011-AD-2",
+        "SNE-26011-AD-3",
+        "SNE-26011-AD-4",
+        "SNE-26011-AD-5",
+        "SNE-26011-AD-6",
+        "SNE-26011-AD-7",
+        "SNE-26011-AD-8",
+        "SNE-26011-AD-9",
+        "SNE-26011-AE-1",
+        "SNE-26011-AE-2",
+        "SNE-26011-AE-3"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26012": {
       "challanNo": "SNE-26012",
@@ -20291,9 +20318,191 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26011-AA-1": {
+      "qrCode": "SNE-26011-AA-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "AA",
+      "desc": "BY PASS VALVE 1.5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AB-1": {
+      "qrCode": "SNE-26011-AB-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "AB",
+      "desc": "WELDING HAND GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AB-2": {
+      "qrCode": "SNE-26011-AB-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "AB",
+      "desc": "WELDING HAND GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AB-3": {
+      "qrCode": "SNE-26011-AB-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "AB",
+      "desc": "WELDING HAND GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AB-4": {
+      "qrCode": "SNE-26011-AB-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "AB",
+      "desc": "WELDING HAND GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AB-5": {
+      "qrCode": "SNE-26011-AB-5",
+      "challanNo": "SNE-26011",
+      "itemCode": "AB",
+      "desc": "WELDING HAND GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AC-1": {
+      "qrCode": "SNE-26011-AC-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "AC",
+      "desc": "PLASMA MACHINE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AD-1": {
+      "qrCode": "SNE-26011-AD-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "AD",
+      "desc": "PLASMA NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AD-2": {
+      "qrCode": "SNE-26011-AD-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "AD",
+      "desc": "PLASMA NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AD-3": {
+      "qrCode": "SNE-26011-AD-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "AD",
+      "desc": "PLASMA NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AD-4": {
+      "qrCode": "SNE-26011-AD-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "AD",
+      "desc": "PLASMA NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AD-5": {
+      "qrCode": "SNE-26011-AD-5",
+      "challanNo": "SNE-26011",
+      "itemCode": "AD",
+      "desc": "PLASMA NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AD-6": {
+      "qrCode": "SNE-26011-AD-6",
+      "challanNo": "SNE-26011",
+      "itemCode": "AD",
+      "desc": "PLASMA NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AD-7": {
+      "qrCode": "SNE-26011-AD-7",
+      "challanNo": "SNE-26011",
+      "itemCode": "AD",
+      "desc": "PLASMA NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AD-8": {
+      "qrCode": "SNE-26011-AD-8",
+      "challanNo": "SNE-26011",
+      "itemCode": "AD",
+      "desc": "PLASMA NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AD-9": {
+      "qrCode": "SNE-26011-AD-9",
+      "challanNo": "SNE-26011",
+      "itemCode": "AD",
+      "desc": "PLASMA NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AE-1": {
+      "qrCode": "SNE-26011-AE-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "AE",
+      "desc": "FX SHAFT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AE-2": {
+      "qrCode": "SNE-26011-AE-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "AE",
+      "desc": "FX SHAFT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-AE-3": {
+      "qrCode": "SNE-26011-AE-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "AE",
+      "desc": "FX SHAFT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:29:02.253Z",
+      "challanNo": "SNE-26011",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 19 items."
+    },
     {
       "timestamp": "2026-11-15T13:28:50.517Z",
       "challanNo": "SNE-26010",
