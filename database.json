@@ -973,20 +973,22 @@
     },
     "SNE-26008": {
       "challanNo": "SNE-26008",
-      "date": "2026-10-24T18:30:00.000Z",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "CHAKAN MIDC, PUNE",
+      "date": "",
       "poNo": "",
       "poDate": "",
       "projectName": "36 JPH PHASE 2 and PTB",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
       "vehicle": "",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
           "code": "ITM-01",
           "desc": "FD Silhoutte with box pipe",
           "qty": 2,
           "unit": "set",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -994,6 +996,7 @@
           "desc": "FD plates - ROBOT Plates 1850x1500x20thk",
           "qty": 2,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1001,6 +1004,7 @@
           "desc": "fd c channel box",
           "qty": 4,
           "unit": "set",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1008,6 +1012,7 @@
           "desc": "pneumatic stopper cover",
           "qty": 10,
           "unit": "set",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1015,6 +1020,7 @@
           "desc": "Glass window frame",
           "qty": 6,
           "unit": "set",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1022,6 +1028,7 @@
           "desc": "D Line PRB Cover",
           "qty": 1,
           "unit": "set",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1029,6 +1036,7 @@
           "desc": "PTB door frame",
           "qty": 1,
           "unit": "set",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1036,6 +1044,7 @@
           "desc": "WATERFALL G OVA C - box Pipe ( 3900 LG)",
           "qty": 4,
           "unit": "nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1043,6 +1052,7 @@
           "desc": "Platform - 1000 X 3000",
           "qty": 4,
           "unit": "nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1050,6 +1060,7 @@
           "desc": "Railing With Plates ( 2500 mm)",
           "qty": 8,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1057,6 +1068,7 @@
           "desc": "Shower tester ladder",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1064,6 +1076,7 @@
           "desc": "Wire mesh Filter",
           "qty": 2,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1071,6 +1084,7 @@
           "desc": "GI angle 50 x 50 mm x72mtr",
           "qty": 1,
           "unit": "set",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1078,6 +1092,7 @@
           "desc": "Booth Shower booth Canopy as per design",
           "qty": 2,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -1085,10 +1100,62 @@
           "desc": "Nozzle 15 LPM 4 nos and 7.5 LPM 4 nos",
           "qty": 1,
           "unit": "set",
+          "remarkType": "Remark",
           "remark": "-"
         }
       ],
-      "qrcodes": []
+      "qrcodes": [
+        "SNE-26008-ITM-01-1",
+        "SNE-26008-ITM-01-2",
+        "SNE-26008-ITM-02-1",
+        "SNE-26008-ITM-02-2",
+        "SNE-26008-ITM-03-1",
+        "SNE-26008-ITM-03-2",
+        "SNE-26008-ITM-03-3",
+        "SNE-26008-ITM-03-4",
+        "SNE-26008-ITM-04-1",
+        "SNE-26008-ITM-04-2",
+        "SNE-26008-ITM-04-3",
+        "SNE-26008-ITM-04-4",
+        "SNE-26008-ITM-04-5",
+        "SNE-26008-ITM-04-6",
+        "SNE-26008-ITM-04-7",
+        "SNE-26008-ITM-04-8",
+        "SNE-26008-ITM-04-9",
+        "SNE-26008-ITM-04-10",
+        "SNE-26008-ITM-05-1",
+        "SNE-26008-ITM-05-2",
+        "SNE-26008-ITM-05-3",
+        "SNE-26008-ITM-05-4",
+        "SNE-26008-ITM-05-5",
+        "SNE-26008-ITM-05-6",
+        "SNE-26008-ITM-06-1",
+        "SNE-26008-ITM-07-1",
+        "SNE-26008-ITM-08-1",
+        "SNE-26008-ITM-08-2",
+        "SNE-26008-ITM-08-3",
+        "SNE-26008-ITM-08-4",
+        "SNE-26008-ITM-09-1",
+        "SNE-26008-ITM-09-2",
+        "SNE-26008-ITM-09-3",
+        "SNE-26008-ITM-09-4",
+        "SNE-26008-ITM-10-1",
+        "SNE-26008-ITM-10-2",
+        "SNE-26008-ITM-10-3",
+        "SNE-26008-ITM-10-4",
+        "SNE-26008-ITM-10-5",
+        "SNE-26008-ITM-10-6",
+        "SNE-26008-ITM-10-7",
+        "SNE-26008-ITM-10-8",
+        "SNE-26008-ITM-11-1",
+        "SNE-26008-ITM-12-1",
+        "SNE-26008-ITM-12-2",
+        "SNE-26008-ITM-13-1",
+        "SNE-26008-ITM-14-1",
+        "SNE-26008-ITM-14-2",
+        "SNE-26008-ITM-15-1"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26009": {
       "challanNo": "SNE-26009",
@@ -16151,9 +16218,461 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-01-1": {
+      "qrCode": "SNE-26008-ITM-01-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-01",
+      "desc": "FD Silhoutte with box pipe",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-01-2": {
+      "qrCode": "SNE-26008-ITM-01-2",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-01",
+      "desc": "FD Silhoutte with box pipe",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-02-1": {
+      "qrCode": "SNE-26008-ITM-02-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-02",
+      "desc": "FD plates - ROBOT Plates 1850x1500x20thk",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-02-2": {
+      "qrCode": "SNE-26008-ITM-02-2",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-02",
+      "desc": "FD plates - ROBOT Plates 1850x1500x20thk",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-03-1": {
+      "qrCode": "SNE-26008-ITM-03-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-03",
+      "desc": "fd c channel box",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-03-2": {
+      "qrCode": "SNE-26008-ITM-03-2",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-03",
+      "desc": "fd c channel box",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-03-3": {
+      "qrCode": "SNE-26008-ITM-03-3",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-03",
+      "desc": "fd c channel box",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-03-4": {
+      "qrCode": "SNE-26008-ITM-03-4",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-03",
+      "desc": "fd c channel box",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-04-1": {
+      "qrCode": "SNE-26008-ITM-04-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-04",
+      "desc": "pneumatic stopper cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-04-2": {
+      "qrCode": "SNE-26008-ITM-04-2",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-04",
+      "desc": "pneumatic stopper cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-04-3": {
+      "qrCode": "SNE-26008-ITM-04-3",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-04",
+      "desc": "pneumatic stopper cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-04-4": {
+      "qrCode": "SNE-26008-ITM-04-4",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-04",
+      "desc": "pneumatic stopper cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-04-5": {
+      "qrCode": "SNE-26008-ITM-04-5",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-04",
+      "desc": "pneumatic stopper cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-04-6": {
+      "qrCode": "SNE-26008-ITM-04-6",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-04",
+      "desc": "pneumatic stopper cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-04-7": {
+      "qrCode": "SNE-26008-ITM-04-7",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-04",
+      "desc": "pneumatic stopper cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-04-8": {
+      "qrCode": "SNE-26008-ITM-04-8",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-04",
+      "desc": "pneumatic stopper cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-04-9": {
+      "qrCode": "SNE-26008-ITM-04-9",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-04",
+      "desc": "pneumatic stopper cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-04-10": {
+      "qrCode": "SNE-26008-ITM-04-10",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-04",
+      "desc": "pneumatic stopper cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-05-1": {
+      "qrCode": "SNE-26008-ITM-05-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-05",
+      "desc": "Glass window frame",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-05-2": {
+      "qrCode": "SNE-26008-ITM-05-2",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-05",
+      "desc": "Glass window frame",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-05-3": {
+      "qrCode": "SNE-26008-ITM-05-3",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-05",
+      "desc": "Glass window frame",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-05-4": {
+      "qrCode": "SNE-26008-ITM-05-4",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-05",
+      "desc": "Glass window frame",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-05-5": {
+      "qrCode": "SNE-26008-ITM-05-5",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-05",
+      "desc": "Glass window frame",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-05-6": {
+      "qrCode": "SNE-26008-ITM-05-6",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-05",
+      "desc": "Glass window frame",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-06-1": {
+      "qrCode": "SNE-26008-ITM-06-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-06",
+      "desc": "D Line PRB Cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-07-1": {
+      "qrCode": "SNE-26008-ITM-07-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-07",
+      "desc": "PTB door frame",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-08-1": {
+      "qrCode": "SNE-26008-ITM-08-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-08",
+      "desc": "WATERFALL G OVA C - box Pipe ( 3900 LG)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-08-2": {
+      "qrCode": "SNE-26008-ITM-08-2",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-08",
+      "desc": "WATERFALL G OVA C - box Pipe ( 3900 LG)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-08-3": {
+      "qrCode": "SNE-26008-ITM-08-3",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-08",
+      "desc": "WATERFALL G OVA C - box Pipe ( 3900 LG)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-08-4": {
+      "qrCode": "SNE-26008-ITM-08-4",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-08",
+      "desc": "WATERFALL G OVA C - box Pipe ( 3900 LG)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-09-1": {
+      "qrCode": "SNE-26008-ITM-09-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-09",
+      "desc": "Platform - 1000 X 3000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-09-2": {
+      "qrCode": "SNE-26008-ITM-09-2",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-09",
+      "desc": "Platform - 1000 X 3000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-09-3": {
+      "qrCode": "SNE-26008-ITM-09-3",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-09",
+      "desc": "Platform - 1000 X 3000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-09-4": {
+      "qrCode": "SNE-26008-ITM-09-4",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-09",
+      "desc": "Platform - 1000 X 3000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-10-1": {
+      "qrCode": "SNE-26008-ITM-10-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-10",
+      "desc": "Railing With Plates ( 2500 mm)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-10-2": {
+      "qrCode": "SNE-26008-ITM-10-2",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-10",
+      "desc": "Railing With Plates ( 2500 mm)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-10-3": {
+      "qrCode": "SNE-26008-ITM-10-3",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-10",
+      "desc": "Railing With Plates ( 2500 mm)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-10-4": {
+      "qrCode": "SNE-26008-ITM-10-4",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-10",
+      "desc": "Railing With Plates ( 2500 mm)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-10-5": {
+      "qrCode": "SNE-26008-ITM-10-5",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-10",
+      "desc": "Railing With Plates ( 2500 mm)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-10-6": {
+      "qrCode": "SNE-26008-ITM-10-6",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-10",
+      "desc": "Railing With Plates ( 2500 mm)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-10-7": {
+      "qrCode": "SNE-26008-ITM-10-7",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-10",
+      "desc": "Railing With Plates ( 2500 mm)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-10-8": {
+      "qrCode": "SNE-26008-ITM-10-8",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-10",
+      "desc": "Railing With Plates ( 2500 mm)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-11-1": {
+      "qrCode": "SNE-26008-ITM-11-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-11",
+      "desc": "Shower tester ladder",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-12-1": {
+      "qrCode": "SNE-26008-ITM-12-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-12",
+      "desc": "Wire mesh Filter",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-12-2": {
+      "qrCode": "SNE-26008-ITM-12-2",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-12",
+      "desc": "Wire mesh Filter",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-13-1": {
+      "qrCode": "SNE-26008-ITM-13-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-13",
+      "desc": "GI angle 50 x 50 mm x72mtr",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-14-1": {
+      "qrCode": "SNE-26008-ITM-14-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-14",
+      "desc": "Booth Shower booth Canopy as per design",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-14-2": {
+      "qrCode": "SNE-26008-ITM-14-2",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-14",
+      "desc": "Booth Shower booth Canopy as per design",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26008-ITM-15-1": {
+      "qrCode": "SNE-26008-ITM-15-1",
+      "challanNo": "SNE-26008",
+      "itemCode": "ITM-15",
+      "desc": "Nozzle 15 LPM 4 nos and 7.5 LPM 4 nos",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:28:14.891Z",
+      "challanNo": "SNE-26008",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 49 items."
+    },
     {
       "timestamp": "2026-11-15T13:28:01.919Z",
       "challanNo": "SNE-26007",
