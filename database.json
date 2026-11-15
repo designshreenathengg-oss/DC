@@ -3778,8 +3778,11 @@
       "desc": "160X2900X3MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
-      "status": "QR GENERATED",
-      "dispatchScan": null,
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Factory",
+        "time": "2026-11-15T13:22:45.330Z"
+      },
       "siteScan": null
     },
     "SNE-26002-AB1-3": {
@@ -3789,8 +3792,11 @@
       "desc": "160X2900X3MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
-      "status": "QR GENERATED",
-      "dispatchScan": null,
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Factory",
+        "time": "2026-11-15T13:22:44.516Z"
+      },
       "siteScan": null
     },
     "SNE-26002-AB1-4": {
@@ -3800,8 +3806,11 @@
       "desc": "160X2900X3MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
-      "status": "QR GENERATED",
-      "dispatchScan": null,
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Factory",
+        "time": "2026-11-15T13:22:45.909Z"
+      },
       "siteScan": null
     },
     "SNE-26002-AB2-5": {
@@ -3822,8 +3831,11 @@
       "desc": "160X1000X3MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
-      "status": "QR GENERATED",
-      "dispatchScan": null,
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Factory",
+        "time": "2026-11-15T13:22:45.621Z"
+      },
       "siteScan": null
     },
     "SNE-26002-AB2-7": {
@@ -3833,8 +3845,11 @@
       "desc": "160X1000X3MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
-      "status": "QR GENERATED",
-      "dispatchScan": null,
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Factory",
+        "time": "2026-11-15T13:22:47.360Z"
+      },
       "siteScan": null
     },
     "SNE-26002-AB2-8": {
@@ -3855,8 +3870,11 @@
       "desc": "120X2900X3MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
-      "status": "QR GENERATED",
-      "dispatchScan": null,
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Factory",
+        "time": "2026-11-15T13:22:48.501Z"
+      },
       "siteScan": null
     },
     "SNE-26002-AB3-10": {
@@ -3877,8 +3895,11 @@
       "desc": "120X2900X3MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
-      "status": "QR GENERATED",
-      "dispatchScan": null,
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Factory",
+        "time": "2026-11-15T13:22:47.845Z"
+      },
       "siteScan": null
     },
     "SNE-26002-AB3-12": {
@@ -12814,6 +12835,83 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:22:48.501Z",
+      "challanNo": "SNE-26002",
+      "qrCode": "SNE-26002-AB3-9",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Factory",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-15T13:22:47.845Z",
+      "challanNo": "SNE-26002",
+      "qrCode": "SNE-26002-AB3-11",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Factory",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-15T13:22:47.360Z",
+      "challanNo": "SNE-26002",
+      "qrCode": "SNE-26002-AB2-7",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Factory",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-15T13:22:45.909Z",
+      "challanNo": "SNE-26002",
+      "qrCode": "SNE-26002-AB1-4",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Factory",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-15T13:22:45.621Z",
+      "challanNo": "SNE-26002",
+      "qrCode": "SNE-26002-AB2-6",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Factory",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-15T13:22:45.330Z",
+      "challanNo": "SNE-26002",
+      "qrCode": "SNE-26002-AB1-2",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Factory",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-15T13:22:44.516Z",
+      "challanNo": "SNE-26002",
+      "qrCode": "SNE-26002-AB1-3",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Factory",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-15T13:22:42.660Z",
       "challanNo": "SNE-26002",
