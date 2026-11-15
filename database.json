@@ -1257,20 +1257,22 @@
     },
     "SNE-26010": {
       "challanNo": "SNE-26010",
-      "date": "2026-10-25T18:30:00.000Z",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
+      "date": "",
       "poNo": "",
-      "poDate": "2026-10-25T18:30:00.000Z",
+      "poDate": "",
       "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
       "vehicle": "MH43U9970",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
           "code": "AB",
           "desc": "BARICATION TAPE",
           "qty": 5,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "HARDWARE"
         },
         {
@@ -1278,6 +1280,7 @@
           "desc": "CHEMICAL FASTNER BOTTLE",
           "qty": 5,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "HARDWARE"
         },
         {
@@ -1285,6 +1288,7 @@
           "desc": "GASKET 30X5",
           "qty": 15,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "HARDWARE"
         },
         {
@@ -1292,6 +1296,7 @@
           "desc": "WHITE GOOGLE",
           "qty": 20,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "HARDWARE"
         },
         {
@@ -1299,6 +1304,7 @@
           "desc": "SINGLE PHASE PINTOP",
           "qty": 8,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "HARDWARE"
         },
         {
@@ -1306,6 +1312,7 @@
           "desc": "PRIMER PAINT",
           "qty": 5,
           "unit": "LTR",
+          "remarkType": "Remark",
           "remark": "HARDWARE"
         },
         {
@@ -1313,13 +1320,15 @@
           "desc": "SOLUTAION FOR UPVC PIPE JOINT",
           "qty": 200,
           "unit": "GRAM",
+          "remarkType": "Remark",
           "remark": "HARDWARE"
         },
         {
           "code": "MN",
-          "desc": "2\" U CLAMP",
+          "desc": "2",
           "qty": 8,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "HARDWARE"
         },
         {
@@ -1327,10 +1336,349 @@
           "desc": "COTTON GLOVES",
           "qty": 70,
           "unit": "PAIRS",
+          "remarkType": "Remark",
           "remark": "HARDWARE"
         }
       ],
-      "qrcodes": []
+      "qrcodes": [
+        "SNE-26010-AB-1",
+        "SNE-26010-AB-2",
+        "SNE-26010-AB-3",
+        "SNE-26010-AB-4",
+        "SNE-26010-AB-5",
+        "SNE-26010-BC-1",
+        "SNE-26010-BC-2",
+        "SNE-26010-BC-3",
+        "SNE-26010-BC-4",
+        "SNE-26010-BC-5",
+        "SNE-26010-CD-1",
+        "SNE-26010-CD-2",
+        "SNE-26010-CD-3",
+        "SNE-26010-CD-4",
+        "SNE-26010-CD-5",
+        "SNE-26010-CD-6",
+        "SNE-26010-CD-7",
+        "SNE-26010-CD-8",
+        "SNE-26010-CD-9",
+        "SNE-26010-CD-10",
+        "SNE-26010-CD-11",
+        "SNE-26010-CD-12",
+        "SNE-26010-CD-13",
+        "SNE-26010-CD-14",
+        "SNE-26010-CD-15",
+        "SNE-26010-EF-1",
+        "SNE-26010-EF-2",
+        "SNE-26010-EF-3",
+        "SNE-26010-EF-4",
+        "SNE-26010-EF-5",
+        "SNE-26010-EF-6",
+        "SNE-26010-EF-7",
+        "SNE-26010-EF-8",
+        "SNE-26010-EF-9",
+        "SNE-26010-EF-10",
+        "SNE-26010-EF-11",
+        "SNE-26010-EF-12",
+        "SNE-26010-EF-13",
+        "SNE-26010-EF-14",
+        "SNE-26010-EF-15",
+        "SNE-26010-EF-16",
+        "SNE-26010-EF-17",
+        "SNE-26010-EF-18",
+        "SNE-26010-EF-19",
+        "SNE-26010-EF-20",
+        "SNE-26010-GH-1",
+        "SNE-26010-GH-2",
+        "SNE-26010-GH-3",
+        "SNE-26010-GH-4",
+        "SNE-26010-GH-5",
+        "SNE-26010-GH-6",
+        "SNE-26010-GH-7",
+        "SNE-26010-GH-8",
+        "SNE-26010-IJ-1",
+        "SNE-26010-IJ-2",
+        "SNE-26010-IJ-3",
+        "SNE-26010-IJ-4",
+        "SNE-26010-IJ-5",
+        "SNE-26010-KL-1",
+        "SNE-26010-KL-2",
+        "SNE-26010-KL-3",
+        "SNE-26010-KL-4",
+        "SNE-26010-KL-5",
+        "SNE-26010-KL-6",
+        "SNE-26010-KL-7",
+        "SNE-26010-KL-8",
+        "SNE-26010-KL-9",
+        "SNE-26010-KL-10",
+        "SNE-26010-KL-11",
+        "SNE-26010-KL-12",
+        "SNE-26010-KL-13",
+        "SNE-26010-KL-14",
+        "SNE-26010-KL-15",
+        "SNE-26010-KL-16",
+        "SNE-26010-KL-17",
+        "SNE-26010-KL-18",
+        "SNE-26010-KL-19",
+        "SNE-26010-KL-20",
+        "SNE-26010-KL-21",
+        "SNE-26010-KL-22",
+        "SNE-26010-KL-23",
+        "SNE-26010-KL-24",
+        "SNE-26010-KL-25",
+        "SNE-26010-KL-26",
+        "SNE-26010-KL-27",
+        "SNE-26010-KL-28",
+        "SNE-26010-KL-29",
+        "SNE-26010-KL-30",
+        "SNE-26010-KL-31",
+        "SNE-26010-KL-32",
+        "SNE-26010-KL-33",
+        "SNE-26010-KL-34",
+        "SNE-26010-KL-35",
+        "SNE-26010-KL-36",
+        "SNE-26010-KL-37",
+        "SNE-26010-KL-38",
+        "SNE-26010-KL-39",
+        "SNE-26010-KL-40",
+        "SNE-26010-KL-41",
+        "SNE-26010-KL-42",
+        "SNE-26010-KL-43",
+        "SNE-26010-KL-44",
+        "SNE-26010-KL-45",
+        "SNE-26010-KL-46",
+        "SNE-26010-KL-47",
+        "SNE-26010-KL-48",
+        "SNE-26010-KL-49",
+        "SNE-26010-KL-50",
+        "SNE-26010-KL-51",
+        "SNE-26010-KL-52",
+        "SNE-26010-KL-53",
+        "SNE-26010-KL-54",
+        "SNE-26010-KL-55",
+        "SNE-26010-KL-56",
+        "SNE-26010-KL-57",
+        "SNE-26010-KL-58",
+        "SNE-26010-KL-59",
+        "SNE-26010-KL-60",
+        "SNE-26010-KL-61",
+        "SNE-26010-KL-62",
+        "SNE-26010-KL-63",
+        "SNE-26010-KL-64",
+        "SNE-26010-KL-65",
+        "SNE-26010-KL-66",
+        "SNE-26010-KL-67",
+        "SNE-26010-KL-68",
+        "SNE-26010-KL-69",
+        "SNE-26010-KL-70",
+        "SNE-26010-KL-71",
+        "SNE-26010-KL-72",
+        "SNE-26010-KL-73",
+        "SNE-26010-KL-74",
+        "SNE-26010-KL-75",
+        "SNE-26010-KL-76",
+        "SNE-26010-KL-77",
+        "SNE-26010-KL-78",
+        "SNE-26010-KL-79",
+        "SNE-26010-KL-80",
+        "SNE-26010-KL-81",
+        "SNE-26010-KL-82",
+        "SNE-26010-KL-83",
+        "SNE-26010-KL-84",
+        "SNE-26010-KL-85",
+        "SNE-26010-KL-86",
+        "SNE-26010-KL-87",
+        "SNE-26010-KL-88",
+        "SNE-26010-KL-89",
+        "SNE-26010-KL-90",
+        "SNE-26010-KL-91",
+        "SNE-26010-KL-92",
+        "SNE-26010-KL-93",
+        "SNE-26010-KL-94",
+        "SNE-26010-KL-95",
+        "SNE-26010-KL-96",
+        "SNE-26010-KL-97",
+        "SNE-26010-KL-98",
+        "SNE-26010-KL-99",
+        "SNE-26010-KL-100",
+        "SNE-26010-KL-101",
+        "SNE-26010-KL-102",
+        "SNE-26010-KL-103",
+        "SNE-26010-KL-104",
+        "SNE-26010-KL-105",
+        "SNE-26010-KL-106",
+        "SNE-26010-KL-107",
+        "SNE-26010-KL-108",
+        "SNE-26010-KL-109",
+        "SNE-26010-KL-110",
+        "SNE-26010-KL-111",
+        "SNE-26010-KL-112",
+        "SNE-26010-KL-113",
+        "SNE-26010-KL-114",
+        "SNE-26010-KL-115",
+        "SNE-26010-KL-116",
+        "SNE-26010-KL-117",
+        "SNE-26010-KL-118",
+        "SNE-26010-KL-119",
+        "SNE-26010-KL-120",
+        "SNE-26010-KL-121",
+        "SNE-26010-KL-122",
+        "SNE-26010-KL-123",
+        "SNE-26010-KL-124",
+        "SNE-26010-KL-125",
+        "SNE-26010-KL-126",
+        "SNE-26010-KL-127",
+        "SNE-26010-KL-128",
+        "SNE-26010-KL-129",
+        "SNE-26010-KL-130",
+        "SNE-26010-KL-131",
+        "SNE-26010-KL-132",
+        "SNE-26010-KL-133",
+        "SNE-26010-KL-134",
+        "SNE-26010-KL-135",
+        "SNE-26010-KL-136",
+        "SNE-26010-KL-137",
+        "SNE-26010-KL-138",
+        "SNE-26010-KL-139",
+        "SNE-26010-KL-140",
+        "SNE-26010-KL-141",
+        "SNE-26010-KL-142",
+        "SNE-26010-KL-143",
+        "SNE-26010-KL-144",
+        "SNE-26010-KL-145",
+        "SNE-26010-KL-146",
+        "SNE-26010-KL-147",
+        "SNE-26010-KL-148",
+        "SNE-26010-KL-149",
+        "SNE-26010-KL-150",
+        "SNE-26010-KL-151",
+        "SNE-26010-KL-152",
+        "SNE-26010-KL-153",
+        "SNE-26010-KL-154",
+        "SNE-26010-KL-155",
+        "SNE-26010-KL-156",
+        "SNE-26010-KL-157",
+        "SNE-26010-KL-158",
+        "SNE-26010-KL-159",
+        "SNE-26010-KL-160",
+        "SNE-26010-KL-161",
+        "SNE-26010-KL-162",
+        "SNE-26010-KL-163",
+        "SNE-26010-KL-164",
+        "SNE-26010-KL-165",
+        "SNE-26010-KL-166",
+        "SNE-26010-KL-167",
+        "SNE-26010-KL-168",
+        "SNE-26010-KL-169",
+        "SNE-26010-KL-170",
+        "SNE-26010-KL-171",
+        "SNE-26010-KL-172",
+        "SNE-26010-KL-173",
+        "SNE-26010-KL-174",
+        "SNE-26010-KL-175",
+        "SNE-26010-KL-176",
+        "SNE-26010-KL-177",
+        "SNE-26010-KL-178",
+        "SNE-26010-KL-179",
+        "SNE-26010-KL-180",
+        "SNE-26010-KL-181",
+        "SNE-26010-KL-182",
+        "SNE-26010-KL-183",
+        "SNE-26010-KL-184",
+        "SNE-26010-KL-185",
+        "SNE-26010-KL-186",
+        "SNE-26010-KL-187",
+        "SNE-26010-KL-188",
+        "SNE-26010-KL-189",
+        "SNE-26010-KL-190",
+        "SNE-26010-KL-191",
+        "SNE-26010-KL-192",
+        "SNE-26010-KL-193",
+        "SNE-26010-KL-194",
+        "SNE-26010-KL-195",
+        "SNE-26010-KL-196",
+        "SNE-26010-KL-197",
+        "SNE-26010-KL-198",
+        "SNE-26010-KL-199",
+        "SNE-26010-KL-200",
+        "SNE-26010-MN-1",
+        "SNE-26010-MN-2",
+        "SNE-26010-MN-3",
+        "SNE-26010-MN-4",
+        "SNE-26010-MN-5",
+        "SNE-26010-MN-6",
+        "SNE-26010-MN-7",
+        "SNE-26010-MN-8",
+        "SNE-26010-OP-1",
+        "SNE-26010-OP-2",
+        "SNE-26010-OP-3",
+        "SNE-26010-OP-4",
+        "SNE-26010-OP-5",
+        "SNE-26010-OP-6",
+        "SNE-26010-OP-7",
+        "SNE-26010-OP-8",
+        "SNE-26010-OP-9",
+        "SNE-26010-OP-10",
+        "SNE-26010-OP-11",
+        "SNE-26010-OP-12",
+        "SNE-26010-OP-13",
+        "SNE-26010-OP-14",
+        "SNE-26010-OP-15",
+        "SNE-26010-OP-16",
+        "SNE-26010-OP-17",
+        "SNE-26010-OP-18",
+        "SNE-26010-OP-19",
+        "SNE-26010-OP-20",
+        "SNE-26010-OP-21",
+        "SNE-26010-OP-22",
+        "SNE-26010-OP-23",
+        "SNE-26010-OP-24",
+        "SNE-26010-OP-25",
+        "SNE-26010-OP-26",
+        "SNE-26010-OP-27",
+        "SNE-26010-OP-28",
+        "SNE-26010-OP-29",
+        "SNE-26010-OP-30",
+        "SNE-26010-OP-31",
+        "SNE-26010-OP-32",
+        "SNE-26010-OP-33",
+        "SNE-26010-OP-34",
+        "SNE-26010-OP-35",
+        "SNE-26010-OP-36",
+        "SNE-26010-OP-37",
+        "SNE-26010-OP-38",
+        "SNE-26010-OP-39",
+        "SNE-26010-OP-40",
+        "SNE-26010-OP-41",
+        "SNE-26010-OP-42",
+        "SNE-26010-OP-43",
+        "SNE-26010-OP-44",
+        "SNE-26010-OP-45",
+        "SNE-26010-OP-46",
+        "SNE-26010-OP-47",
+        "SNE-26010-OP-48",
+        "SNE-26010-OP-49",
+        "SNE-26010-OP-50",
+        "SNE-26010-OP-51",
+        "SNE-26010-OP-52",
+        "SNE-26010-OP-53",
+        "SNE-26010-OP-54",
+        "SNE-26010-OP-55",
+        "SNE-26010-OP-56",
+        "SNE-26010-OP-57",
+        "SNE-26010-OP-58",
+        "SNE-26010-OP-59",
+        "SNE-26010-OP-60",
+        "SNE-26010-OP-61",
+        "SNE-26010-OP-62",
+        "SNE-26010-OP-63",
+        "SNE-26010-OP-64",
+        "SNE-26010-OP-65",
+        "SNE-26010-OP-66",
+        "SNE-26010-OP-67",
+        "SNE-26010-OP-68",
+        "SNE-26010-OP-69",
+        "SNE-26010-OP-70"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26011": {
       "challanNo": "SNE-26011",
@@ -16919,9 +17267,3044 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26010-AB-1": {
+      "qrCode": "SNE-26010-AB-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "AB",
+      "desc": "BARICATION TAPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-AB-2": {
+      "qrCode": "SNE-26010-AB-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "AB",
+      "desc": "BARICATION TAPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-AB-3": {
+      "qrCode": "SNE-26010-AB-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "AB",
+      "desc": "BARICATION TAPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-AB-4": {
+      "qrCode": "SNE-26010-AB-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "AB",
+      "desc": "BARICATION TAPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-AB-5": {
+      "qrCode": "SNE-26010-AB-5",
+      "challanNo": "SNE-26010",
+      "itemCode": "AB",
+      "desc": "BARICATION TAPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-BC-1": {
+      "qrCode": "SNE-26010-BC-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "BC",
+      "desc": "CHEMICAL FASTNER BOTTLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-BC-2": {
+      "qrCode": "SNE-26010-BC-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "BC",
+      "desc": "CHEMICAL FASTNER BOTTLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-BC-3": {
+      "qrCode": "SNE-26010-BC-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "BC",
+      "desc": "CHEMICAL FASTNER BOTTLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-BC-4": {
+      "qrCode": "SNE-26010-BC-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "BC",
+      "desc": "CHEMICAL FASTNER BOTTLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-BC-5": {
+      "qrCode": "SNE-26010-BC-5",
+      "challanNo": "SNE-26010",
+      "itemCode": "BC",
+      "desc": "CHEMICAL FASTNER BOTTLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-1": {
+      "qrCode": "SNE-26010-CD-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-2": {
+      "qrCode": "SNE-26010-CD-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-3": {
+      "qrCode": "SNE-26010-CD-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-4": {
+      "qrCode": "SNE-26010-CD-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-5": {
+      "qrCode": "SNE-26010-CD-5",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-6": {
+      "qrCode": "SNE-26010-CD-6",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-7": {
+      "qrCode": "SNE-26010-CD-7",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-8": {
+      "qrCode": "SNE-26010-CD-8",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-9": {
+      "qrCode": "SNE-26010-CD-9",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-10": {
+      "qrCode": "SNE-26010-CD-10",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-11": {
+      "qrCode": "SNE-26010-CD-11",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-12": {
+      "qrCode": "SNE-26010-CD-12",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-13": {
+      "qrCode": "SNE-26010-CD-13",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-14": {
+      "qrCode": "SNE-26010-CD-14",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-CD-15": {
+      "qrCode": "SNE-26010-CD-15",
+      "challanNo": "SNE-26010",
+      "itemCode": "CD",
+      "desc": "GASKET 30X5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-1": {
+      "qrCode": "SNE-26010-EF-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-2": {
+      "qrCode": "SNE-26010-EF-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-3": {
+      "qrCode": "SNE-26010-EF-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-4": {
+      "qrCode": "SNE-26010-EF-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-5": {
+      "qrCode": "SNE-26010-EF-5",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-6": {
+      "qrCode": "SNE-26010-EF-6",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-7": {
+      "qrCode": "SNE-26010-EF-7",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-8": {
+      "qrCode": "SNE-26010-EF-8",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-9": {
+      "qrCode": "SNE-26010-EF-9",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-10": {
+      "qrCode": "SNE-26010-EF-10",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-11": {
+      "qrCode": "SNE-26010-EF-11",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-12": {
+      "qrCode": "SNE-26010-EF-12",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-13": {
+      "qrCode": "SNE-26010-EF-13",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-14": {
+      "qrCode": "SNE-26010-EF-14",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-15": {
+      "qrCode": "SNE-26010-EF-15",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-16": {
+      "qrCode": "SNE-26010-EF-16",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-17": {
+      "qrCode": "SNE-26010-EF-17",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-18": {
+      "qrCode": "SNE-26010-EF-18",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-19": {
+      "qrCode": "SNE-26010-EF-19",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-EF-20": {
+      "qrCode": "SNE-26010-EF-20",
+      "challanNo": "SNE-26010",
+      "itemCode": "EF",
+      "desc": "WHITE GOOGLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-GH-1": {
+      "qrCode": "SNE-26010-GH-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "GH",
+      "desc": "SINGLE PHASE PINTOP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-GH-2": {
+      "qrCode": "SNE-26010-GH-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "GH",
+      "desc": "SINGLE PHASE PINTOP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-GH-3": {
+      "qrCode": "SNE-26010-GH-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "GH",
+      "desc": "SINGLE PHASE PINTOP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-GH-4": {
+      "qrCode": "SNE-26010-GH-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "GH",
+      "desc": "SINGLE PHASE PINTOP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-GH-5": {
+      "qrCode": "SNE-26010-GH-5",
+      "challanNo": "SNE-26010",
+      "itemCode": "GH",
+      "desc": "SINGLE PHASE PINTOP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-GH-6": {
+      "qrCode": "SNE-26010-GH-6",
+      "challanNo": "SNE-26010",
+      "itemCode": "GH",
+      "desc": "SINGLE PHASE PINTOP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-GH-7": {
+      "qrCode": "SNE-26010-GH-7",
+      "challanNo": "SNE-26010",
+      "itemCode": "GH",
+      "desc": "SINGLE PHASE PINTOP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-GH-8": {
+      "qrCode": "SNE-26010-GH-8",
+      "challanNo": "SNE-26010",
+      "itemCode": "GH",
+      "desc": "SINGLE PHASE PINTOP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-IJ-1": {
+      "qrCode": "SNE-26010-IJ-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "IJ",
+      "desc": "PRIMER PAINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-IJ-2": {
+      "qrCode": "SNE-26010-IJ-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "IJ",
+      "desc": "PRIMER PAINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-IJ-3": {
+      "qrCode": "SNE-26010-IJ-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "IJ",
+      "desc": "PRIMER PAINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-IJ-4": {
+      "qrCode": "SNE-26010-IJ-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "IJ",
+      "desc": "PRIMER PAINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-IJ-5": {
+      "qrCode": "SNE-26010-IJ-5",
+      "challanNo": "SNE-26010",
+      "itemCode": "IJ",
+      "desc": "PRIMER PAINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-1": {
+      "qrCode": "SNE-26010-KL-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-2": {
+      "qrCode": "SNE-26010-KL-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-3": {
+      "qrCode": "SNE-26010-KL-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-4": {
+      "qrCode": "SNE-26010-KL-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-5": {
+      "qrCode": "SNE-26010-KL-5",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-6": {
+      "qrCode": "SNE-26010-KL-6",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-7": {
+      "qrCode": "SNE-26010-KL-7",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-8": {
+      "qrCode": "SNE-26010-KL-8",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-9": {
+      "qrCode": "SNE-26010-KL-9",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-10": {
+      "qrCode": "SNE-26010-KL-10",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-11": {
+      "qrCode": "SNE-26010-KL-11",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-12": {
+      "qrCode": "SNE-26010-KL-12",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-13": {
+      "qrCode": "SNE-26010-KL-13",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-14": {
+      "qrCode": "SNE-26010-KL-14",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-15": {
+      "qrCode": "SNE-26010-KL-15",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-16": {
+      "qrCode": "SNE-26010-KL-16",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-17": {
+      "qrCode": "SNE-26010-KL-17",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-18": {
+      "qrCode": "SNE-26010-KL-18",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-19": {
+      "qrCode": "SNE-26010-KL-19",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-20": {
+      "qrCode": "SNE-26010-KL-20",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-21": {
+      "qrCode": "SNE-26010-KL-21",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-22": {
+      "qrCode": "SNE-26010-KL-22",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-23": {
+      "qrCode": "SNE-26010-KL-23",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-24": {
+      "qrCode": "SNE-26010-KL-24",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-25": {
+      "qrCode": "SNE-26010-KL-25",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-26": {
+      "qrCode": "SNE-26010-KL-26",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-27": {
+      "qrCode": "SNE-26010-KL-27",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-28": {
+      "qrCode": "SNE-26010-KL-28",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-29": {
+      "qrCode": "SNE-26010-KL-29",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-30": {
+      "qrCode": "SNE-26010-KL-30",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-31": {
+      "qrCode": "SNE-26010-KL-31",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-32": {
+      "qrCode": "SNE-26010-KL-32",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-33": {
+      "qrCode": "SNE-26010-KL-33",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-34": {
+      "qrCode": "SNE-26010-KL-34",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-35": {
+      "qrCode": "SNE-26010-KL-35",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-36": {
+      "qrCode": "SNE-26010-KL-36",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-37": {
+      "qrCode": "SNE-26010-KL-37",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-38": {
+      "qrCode": "SNE-26010-KL-38",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-39": {
+      "qrCode": "SNE-26010-KL-39",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-40": {
+      "qrCode": "SNE-26010-KL-40",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-41": {
+      "qrCode": "SNE-26010-KL-41",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-42": {
+      "qrCode": "SNE-26010-KL-42",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-43": {
+      "qrCode": "SNE-26010-KL-43",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-44": {
+      "qrCode": "SNE-26010-KL-44",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-45": {
+      "qrCode": "SNE-26010-KL-45",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-46": {
+      "qrCode": "SNE-26010-KL-46",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-47": {
+      "qrCode": "SNE-26010-KL-47",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-48": {
+      "qrCode": "SNE-26010-KL-48",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-49": {
+      "qrCode": "SNE-26010-KL-49",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-50": {
+      "qrCode": "SNE-26010-KL-50",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-51": {
+      "qrCode": "SNE-26010-KL-51",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-52": {
+      "qrCode": "SNE-26010-KL-52",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-53": {
+      "qrCode": "SNE-26010-KL-53",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-54": {
+      "qrCode": "SNE-26010-KL-54",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-55": {
+      "qrCode": "SNE-26010-KL-55",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-56": {
+      "qrCode": "SNE-26010-KL-56",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-57": {
+      "qrCode": "SNE-26010-KL-57",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-58": {
+      "qrCode": "SNE-26010-KL-58",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-59": {
+      "qrCode": "SNE-26010-KL-59",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-60": {
+      "qrCode": "SNE-26010-KL-60",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-61": {
+      "qrCode": "SNE-26010-KL-61",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-62": {
+      "qrCode": "SNE-26010-KL-62",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-63": {
+      "qrCode": "SNE-26010-KL-63",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-64": {
+      "qrCode": "SNE-26010-KL-64",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-65": {
+      "qrCode": "SNE-26010-KL-65",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-66": {
+      "qrCode": "SNE-26010-KL-66",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-67": {
+      "qrCode": "SNE-26010-KL-67",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-68": {
+      "qrCode": "SNE-26010-KL-68",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-69": {
+      "qrCode": "SNE-26010-KL-69",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-70": {
+      "qrCode": "SNE-26010-KL-70",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-71": {
+      "qrCode": "SNE-26010-KL-71",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-72": {
+      "qrCode": "SNE-26010-KL-72",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-73": {
+      "qrCode": "SNE-26010-KL-73",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-74": {
+      "qrCode": "SNE-26010-KL-74",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-75": {
+      "qrCode": "SNE-26010-KL-75",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-76": {
+      "qrCode": "SNE-26010-KL-76",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-77": {
+      "qrCode": "SNE-26010-KL-77",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-78": {
+      "qrCode": "SNE-26010-KL-78",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-79": {
+      "qrCode": "SNE-26010-KL-79",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-80": {
+      "qrCode": "SNE-26010-KL-80",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-81": {
+      "qrCode": "SNE-26010-KL-81",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-82": {
+      "qrCode": "SNE-26010-KL-82",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-83": {
+      "qrCode": "SNE-26010-KL-83",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-84": {
+      "qrCode": "SNE-26010-KL-84",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-85": {
+      "qrCode": "SNE-26010-KL-85",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-86": {
+      "qrCode": "SNE-26010-KL-86",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-87": {
+      "qrCode": "SNE-26010-KL-87",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-88": {
+      "qrCode": "SNE-26010-KL-88",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-89": {
+      "qrCode": "SNE-26010-KL-89",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-90": {
+      "qrCode": "SNE-26010-KL-90",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-91": {
+      "qrCode": "SNE-26010-KL-91",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-92": {
+      "qrCode": "SNE-26010-KL-92",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-93": {
+      "qrCode": "SNE-26010-KL-93",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-94": {
+      "qrCode": "SNE-26010-KL-94",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-95": {
+      "qrCode": "SNE-26010-KL-95",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-96": {
+      "qrCode": "SNE-26010-KL-96",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-97": {
+      "qrCode": "SNE-26010-KL-97",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-98": {
+      "qrCode": "SNE-26010-KL-98",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-99": {
+      "qrCode": "SNE-26010-KL-99",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-100": {
+      "qrCode": "SNE-26010-KL-100",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-101": {
+      "qrCode": "SNE-26010-KL-101",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-102": {
+      "qrCode": "SNE-26010-KL-102",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-103": {
+      "qrCode": "SNE-26010-KL-103",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-104": {
+      "qrCode": "SNE-26010-KL-104",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-105": {
+      "qrCode": "SNE-26010-KL-105",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-106": {
+      "qrCode": "SNE-26010-KL-106",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-107": {
+      "qrCode": "SNE-26010-KL-107",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-108": {
+      "qrCode": "SNE-26010-KL-108",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-109": {
+      "qrCode": "SNE-26010-KL-109",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-110": {
+      "qrCode": "SNE-26010-KL-110",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-111": {
+      "qrCode": "SNE-26010-KL-111",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-112": {
+      "qrCode": "SNE-26010-KL-112",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-113": {
+      "qrCode": "SNE-26010-KL-113",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-114": {
+      "qrCode": "SNE-26010-KL-114",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-115": {
+      "qrCode": "SNE-26010-KL-115",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-116": {
+      "qrCode": "SNE-26010-KL-116",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-117": {
+      "qrCode": "SNE-26010-KL-117",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-118": {
+      "qrCode": "SNE-26010-KL-118",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-119": {
+      "qrCode": "SNE-26010-KL-119",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-120": {
+      "qrCode": "SNE-26010-KL-120",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-121": {
+      "qrCode": "SNE-26010-KL-121",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-122": {
+      "qrCode": "SNE-26010-KL-122",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-123": {
+      "qrCode": "SNE-26010-KL-123",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-124": {
+      "qrCode": "SNE-26010-KL-124",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-125": {
+      "qrCode": "SNE-26010-KL-125",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-126": {
+      "qrCode": "SNE-26010-KL-126",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-127": {
+      "qrCode": "SNE-26010-KL-127",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-128": {
+      "qrCode": "SNE-26010-KL-128",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-129": {
+      "qrCode": "SNE-26010-KL-129",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-130": {
+      "qrCode": "SNE-26010-KL-130",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-131": {
+      "qrCode": "SNE-26010-KL-131",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-132": {
+      "qrCode": "SNE-26010-KL-132",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-133": {
+      "qrCode": "SNE-26010-KL-133",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-134": {
+      "qrCode": "SNE-26010-KL-134",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-135": {
+      "qrCode": "SNE-26010-KL-135",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-136": {
+      "qrCode": "SNE-26010-KL-136",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-137": {
+      "qrCode": "SNE-26010-KL-137",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-138": {
+      "qrCode": "SNE-26010-KL-138",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-139": {
+      "qrCode": "SNE-26010-KL-139",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-140": {
+      "qrCode": "SNE-26010-KL-140",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-141": {
+      "qrCode": "SNE-26010-KL-141",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-142": {
+      "qrCode": "SNE-26010-KL-142",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-143": {
+      "qrCode": "SNE-26010-KL-143",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-144": {
+      "qrCode": "SNE-26010-KL-144",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-145": {
+      "qrCode": "SNE-26010-KL-145",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-146": {
+      "qrCode": "SNE-26010-KL-146",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-147": {
+      "qrCode": "SNE-26010-KL-147",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-148": {
+      "qrCode": "SNE-26010-KL-148",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-149": {
+      "qrCode": "SNE-26010-KL-149",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-150": {
+      "qrCode": "SNE-26010-KL-150",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-151": {
+      "qrCode": "SNE-26010-KL-151",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-152": {
+      "qrCode": "SNE-26010-KL-152",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-153": {
+      "qrCode": "SNE-26010-KL-153",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-154": {
+      "qrCode": "SNE-26010-KL-154",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-155": {
+      "qrCode": "SNE-26010-KL-155",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-156": {
+      "qrCode": "SNE-26010-KL-156",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-157": {
+      "qrCode": "SNE-26010-KL-157",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-158": {
+      "qrCode": "SNE-26010-KL-158",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-159": {
+      "qrCode": "SNE-26010-KL-159",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-160": {
+      "qrCode": "SNE-26010-KL-160",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-161": {
+      "qrCode": "SNE-26010-KL-161",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-162": {
+      "qrCode": "SNE-26010-KL-162",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-163": {
+      "qrCode": "SNE-26010-KL-163",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-164": {
+      "qrCode": "SNE-26010-KL-164",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-165": {
+      "qrCode": "SNE-26010-KL-165",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-166": {
+      "qrCode": "SNE-26010-KL-166",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-167": {
+      "qrCode": "SNE-26010-KL-167",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-168": {
+      "qrCode": "SNE-26010-KL-168",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-169": {
+      "qrCode": "SNE-26010-KL-169",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-170": {
+      "qrCode": "SNE-26010-KL-170",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-171": {
+      "qrCode": "SNE-26010-KL-171",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-172": {
+      "qrCode": "SNE-26010-KL-172",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-173": {
+      "qrCode": "SNE-26010-KL-173",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-174": {
+      "qrCode": "SNE-26010-KL-174",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-175": {
+      "qrCode": "SNE-26010-KL-175",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-176": {
+      "qrCode": "SNE-26010-KL-176",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-177": {
+      "qrCode": "SNE-26010-KL-177",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-178": {
+      "qrCode": "SNE-26010-KL-178",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-179": {
+      "qrCode": "SNE-26010-KL-179",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-180": {
+      "qrCode": "SNE-26010-KL-180",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-181": {
+      "qrCode": "SNE-26010-KL-181",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-182": {
+      "qrCode": "SNE-26010-KL-182",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-183": {
+      "qrCode": "SNE-26010-KL-183",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-184": {
+      "qrCode": "SNE-26010-KL-184",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-185": {
+      "qrCode": "SNE-26010-KL-185",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-186": {
+      "qrCode": "SNE-26010-KL-186",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-187": {
+      "qrCode": "SNE-26010-KL-187",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-188": {
+      "qrCode": "SNE-26010-KL-188",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-189": {
+      "qrCode": "SNE-26010-KL-189",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-190": {
+      "qrCode": "SNE-26010-KL-190",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-191": {
+      "qrCode": "SNE-26010-KL-191",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-192": {
+      "qrCode": "SNE-26010-KL-192",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-193": {
+      "qrCode": "SNE-26010-KL-193",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-194": {
+      "qrCode": "SNE-26010-KL-194",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-195": {
+      "qrCode": "SNE-26010-KL-195",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-196": {
+      "qrCode": "SNE-26010-KL-196",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-197": {
+      "qrCode": "SNE-26010-KL-197",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-198": {
+      "qrCode": "SNE-26010-KL-198",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-199": {
+      "qrCode": "SNE-26010-KL-199",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-KL-200": {
+      "qrCode": "SNE-26010-KL-200",
+      "challanNo": "SNE-26010",
+      "itemCode": "KL",
+      "desc": "SOLUTAION FOR UPVC PIPE JOINT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-MN-1": {
+      "qrCode": "SNE-26010-MN-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "MN",
+      "desc": "2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-MN-2": {
+      "qrCode": "SNE-26010-MN-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "MN",
+      "desc": "2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-MN-3": {
+      "qrCode": "SNE-26010-MN-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "MN",
+      "desc": "2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-MN-4": {
+      "qrCode": "SNE-26010-MN-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "MN",
+      "desc": "2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-MN-5": {
+      "qrCode": "SNE-26010-MN-5",
+      "challanNo": "SNE-26010",
+      "itemCode": "MN",
+      "desc": "2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-MN-6": {
+      "qrCode": "SNE-26010-MN-6",
+      "challanNo": "SNE-26010",
+      "itemCode": "MN",
+      "desc": "2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-MN-7": {
+      "qrCode": "SNE-26010-MN-7",
+      "challanNo": "SNE-26010",
+      "itemCode": "MN",
+      "desc": "2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-MN-8": {
+      "qrCode": "SNE-26010-MN-8",
+      "challanNo": "SNE-26010",
+      "itemCode": "MN",
+      "desc": "2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-1": {
+      "qrCode": "SNE-26010-OP-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-2": {
+      "qrCode": "SNE-26010-OP-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-3": {
+      "qrCode": "SNE-26010-OP-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-4": {
+      "qrCode": "SNE-26010-OP-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-5": {
+      "qrCode": "SNE-26010-OP-5",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-6": {
+      "qrCode": "SNE-26010-OP-6",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-7": {
+      "qrCode": "SNE-26010-OP-7",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-8": {
+      "qrCode": "SNE-26010-OP-8",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-9": {
+      "qrCode": "SNE-26010-OP-9",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-10": {
+      "qrCode": "SNE-26010-OP-10",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-11": {
+      "qrCode": "SNE-26010-OP-11",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-12": {
+      "qrCode": "SNE-26010-OP-12",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-13": {
+      "qrCode": "SNE-26010-OP-13",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-14": {
+      "qrCode": "SNE-26010-OP-14",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-15": {
+      "qrCode": "SNE-26010-OP-15",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-16": {
+      "qrCode": "SNE-26010-OP-16",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-17": {
+      "qrCode": "SNE-26010-OP-17",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-18": {
+      "qrCode": "SNE-26010-OP-18",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-19": {
+      "qrCode": "SNE-26010-OP-19",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-20": {
+      "qrCode": "SNE-26010-OP-20",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-21": {
+      "qrCode": "SNE-26010-OP-21",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-22": {
+      "qrCode": "SNE-26010-OP-22",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-23": {
+      "qrCode": "SNE-26010-OP-23",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-24": {
+      "qrCode": "SNE-26010-OP-24",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-25": {
+      "qrCode": "SNE-26010-OP-25",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-26": {
+      "qrCode": "SNE-26010-OP-26",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-27": {
+      "qrCode": "SNE-26010-OP-27",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-28": {
+      "qrCode": "SNE-26010-OP-28",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-29": {
+      "qrCode": "SNE-26010-OP-29",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-30": {
+      "qrCode": "SNE-26010-OP-30",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-31": {
+      "qrCode": "SNE-26010-OP-31",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-32": {
+      "qrCode": "SNE-26010-OP-32",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-33": {
+      "qrCode": "SNE-26010-OP-33",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-34": {
+      "qrCode": "SNE-26010-OP-34",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-35": {
+      "qrCode": "SNE-26010-OP-35",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-36": {
+      "qrCode": "SNE-26010-OP-36",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-37": {
+      "qrCode": "SNE-26010-OP-37",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-38": {
+      "qrCode": "SNE-26010-OP-38",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-39": {
+      "qrCode": "SNE-26010-OP-39",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-40": {
+      "qrCode": "SNE-26010-OP-40",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-41": {
+      "qrCode": "SNE-26010-OP-41",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-42": {
+      "qrCode": "SNE-26010-OP-42",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-43": {
+      "qrCode": "SNE-26010-OP-43",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-44": {
+      "qrCode": "SNE-26010-OP-44",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-45": {
+      "qrCode": "SNE-26010-OP-45",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-46": {
+      "qrCode": "SNE-26010-OP-46",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-47": {
+      "qrCode": "SNE-26010-OP-47",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-48": {
+      "qrCode": "SNE-26010-OP-48",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-49": {
+      "qrCode": "SNE-26010-OP-49",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-50": {
+      "qrCode": "SNE-26010-OP-50",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-51": {
+      "qrCode": "SNE-26010-OP-51",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-52": {
+      "qrCode": "SNE-26010-OP-52",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-53": {
+      "qrCode": "SNE-26010-OP-53",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-54": {
+      "qrCode": "SNE-26010-OP-54",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-55": {
+      "qrCode": "SNE-26010-OP-55",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-56": {
+      "qrCode": "SNE-26010-OP-56",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-57": {
+      "qrCode": "SNE-26010-OP-57",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-58": {
+      "qrCode": "SNE-26010-OP-58",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-59": {
+      "qrCode": "SNE-26010-OP-59",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-60": {
+      "qrCode": "SNE-26010-OP-60",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-61": {
+      "qrCode": "SNE-26010-OP-61",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-62": {
+      "qrCode": "SNE-26010-OP-62",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-63": {
+      "qrCode": "SNE-26010-OP-63",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-64": {
+      "qrCode": "SNE-26010-OP-64",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-65": {
+      "qrCode": "SNE-26010-OP-65",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-66": {
+      "qrCode": "SNE-26010-OP-66",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-67": {
+      "qrCode": "SNE-26010-OP-67",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-68": {
+      "qrCode": "SNE-26010-OP-68",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-69": {
+      "qrCode": "SNE-26010-OP-69",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-OP-70": {
+      "qrCode": "SNE-26010-OP-70",
+      "challanNo": "SNE-26010",
+      "itemCode": "OP",
+      "desc": "COTTON GLOVES",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:28:50.517Z",
+      "challanNo": "SNE-26010",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 336 items."
+    },
     {
       "timestamp": "2026-11-15T13:28:27.074Z",
       "challanNo": "SNE-26009",
