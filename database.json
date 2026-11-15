@@ -382,6 +382,50 @@
         "SNE-26003-A15-1"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26004": {
+      "challanNo": "SNE-26004",
+      "date": "2026-11-15",
+      "poNo": "",
+      "poDate": "2026-11-15",
+      "projectName": "ASU MATERIAL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
+      "vehicle": "MH15KS0702",
+      "remarkType": "Remark",
+      "showTotal": false,
+      "items": [
+        {
+          "code": "A16",
+          "desc": "2\" ELBOW WITH PIPE 200L",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "A17",
+          "desc": "2\" FLANGE WITH PIPE 200L",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "A18",
+          "desc": "C CHANNEL 495L",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26004-A16-1",
+        "SNE-26004-A17-1",
+        "SNE-26004-A18-1"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -1428,9 +1472,47 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
       "status": "QR GENERATED"
+    },
+    "SNE-26004-A16-1": {
+      "qrCode": "SNE-26004-A16-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "A16",
+      "desc": "2\" ELBOW WITH PIPE 200L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-A17-1": {
+      "qrCode": "SNE-26004-A17-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "A17",
+      "desc": "2\" FLANGE WITH PIPE 200L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26004-A18-1": {
+      "qrCode": "SNE-26004-A18-1",
+      "challanNo": "SNE-26004",
+      "itemCode": "A18",
+      "desc": "C CHANNEL 495L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T16:27:54.791Z",
+      "challanNo": "SNE-26004",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 3 items."
+    },
     {
       "timestamp": "2026-11-15T16:21:59.411Z",
       "challanNo": "SNE-26003",
