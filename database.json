@@ -9020,20 +9020,22 @@
     },
     "SNE-26019": {
       "challanNo": "SNE-26019",
-      "date": "2026-10-29T18:30:00.000Z",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "MAHENDRA AND MAHENDRA CHAKAN MIDE,PUNE.",
+      "date": "",
       "poNo": "",
-      "poDate": "2026-10-29T18:30:00.000Z",
+      "poDate": "",
       "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
       "vehicle": "MH15JC9234",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
           "code": "AB",
           "desc": "HAMMER RUBBER HANDAL",
           "qty": 5,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -9041,6 +9043,7 @@
           "desc": "LEATHER WELDING APRON FULL SET",
           "qty": 5,
           "unit": "SET",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -9048,6 +9051,7 @@
           "desc": "WELDING HOLDER",
           "qty": 5,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -9055,6 +9059,7 @@
           "desc": "FIRE EXTINGUISHER SNE15,SNE101,SNE10",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -9062,6 +9067,7 @@
           "desc": "PLASMA NOZZLE + TIP",
           "qty": 20,
           "unit": "Nos EACH",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -9069,6 +9075,7 @@
           "desc": "PLASMA CERAMIC NOZZLE",
           "qty": 10,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -9076,6 +9083,7 @@
           "desc": "ORGON CYLINDER 5288,5454( BHAGYASHREE)",
           "qty": 2,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -9083,10 +9091,67 @@
           "desc": "Item Particular",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         }
       ],
-      "qrcodes": []
+      "qrcodes": [
+        "SNE-26019-AB-1",
+        "SNE-26019-AB-2",
+        "SNE-26019-AB-3",
+        "SNE-26019-AB-4",
+        "SNE-26019-AB-5",
+        "SNE-26019-AC-1",
+        "SNE-26019-AC-2",
+        "SNE-26019-AC-3",
+        "SNE-26019-AC-4",
+        "SNE-26019-AC-5",
+        "SNE-26019-AD-1",
+        "SNE-26019-AD-2",
+        "SNE-26019-AD-3",
+        "SNE-26019-AD-4",
+        "SNE-26019-AD-5",
+        "SNE-26019-AE-1",
+        "SNE-26019-AE-2",
+        "SNE-26019-AE-3",
+        "SNE-26019-AE-4",
+        "SNE-26019-AE-5",
+        "SNE-26019-AE-6",
+        "SNE-26019-AF-1",
+        "SNE-26019-AF-2",
+        "SNE-26019-AF-3",
+        "SNE-26019-AF-4",
+        "SNE-26019-AF-5",
+        "SNE-26019-AF-6",
+        "SNE-26019-AF-7",
+        "SNE-26019-AF-8",
+        "SNE-26019-AF-9",
+        "SNE-26019-AF-10",
+        "SNE-26019-AF-11",
+        "SNE-26019-AF-12",
+        "SNE-26019-AF-13",
+        "SNE-26019-AF-14",
+        "SNE-26019-AF-15",
+        "SNE-26019-AF-16",
+        "SNE-26019-AF-17",
+        "SNE-26019-AF-18",
+        "SNE-26019-AF-19",
+        "SNE-26019-AF-20",
+        "SNE-26019-AG-1",
+        "SNE-26019-AG-2",
+        "SNE-26019-AG-3",
+        "SNE-26019-AG-4",
+        "SNE-26019-AG-5",
+        "SNE-26019-AG-6",
+        "SNE-26019-AG-7",
+        "SNE-26019-AG-8",
+        "SNE-26019-AG-9",
+        "SNE-26019-AG-10",
+        "SNE-26019-AH-1",
+        "SNE-26019-AH-2",
+        "SNE-26019-ITM-1"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26020": {
       "challanNo": "SNE-26020",
@@ -85067,9 +85132,506 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26019-AB-1": {
+      "qrCode": "SNE-26019-AB-1",
+      "challanNo": "SNE-26019",
+      "itemCode": "AB",
+      "desc": "HAMMER RUBBER HANDAL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AB-2": {
+      "qrCode": "SNE-26019-AB-2",
+      "challanNo": "SNE-26019",
+      "itemCode": "AB",
+      "desc": "HAMMER RUBBER HANDAL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AB-3": {
+      "qrCode": "SNE-26019-AB-3",
+      "challanNo": "SNE-26019",
+      "itemCode": "AB",
+      "desc": "HAMMER RUBBER HANDAL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AB-4": {
+      "qrCode": "SNE-26019-AB-4",
+      "challanNo": "SNE-26019",
+      "itemCode": "AB",
+      "desc": "HAMMER RUBBER HANDAL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AB-5": {
+      "qrCode": "SNE-26019-AB-5",
+      "challanNo": "SNE-26019",
+      "itemCode": "AB",
+      "desc": "HAMMER RUBBER HANDAL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AC-1": {
+      "qrCode": "SNE-26019-AC-1",
+      "challanNo": "SNE-26019",
+      "itemCode": "AC",
+      "desc": "LEATHER WELDING APRON FULL SET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AC-2": {
+      "qrCode": "SNE-26019-AC-2",
+      "challanNo": "SNE-26019",
+      "itemCode": "AC",
+      "desc": "LEATHER WELDING APRON FULL SET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AC-3": {
+      "qrCode": "SNE-26019-AC-3",
+      "challanNo": "SNE-26019",
+      "itemCode": "AC",
+      "desc": "LEATHER WELDING APRON FULL SET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AC-4": {
+      "qrCode": "SNE-26019-AC-4",
+      "challanNo": "SNE-26019",
+      "itemCode": "AC",
+      "desc": "LEATHER WELDING APRON FULL SET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AC-5": {
+      "qrCode": "SNE-26019-AC-5",
+      "challanNo": "SNE-26019",
+      "itemCode": "AC",
+      "desc": "LEATHER WELDING APRON FULL SET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AD-1": {
+      "qrCode": "SNE-26019-AD-1",
+      "challanNo": "SNE-26019",
+      "itemCode": "AD",
+      "desc": "WELDING HOLDER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AD-2": {
+      "qrCode": "SNE-26019-AD-2",
+      "challanNo": "SNE-26019",
+      "itemCode": "AD",
+      "desc": "WELDING HOLDER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AD-3": {
+      "qrCode": "SNE-26019-AD-3",
+      "challanNo": "SNE-26019",
+      "itemCode": "AD",
+      "desc": "WELDING HOLDER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AD-4": {
+      "qrCode": "SNE-26019-AD-4",
+      "challanNo": "SNE-26019",
+      "itemCode": "AD",
+      "desc": "WELDING HOLDER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AD-5": {
+      "qrCode": "SNE-26019-AD-5",
+      "challanNo": "SNE-26019",
+      "itemCode": "AD",
+      "desc": "WELDING HOLDER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AE-1": {
+      "qrCode": "SNE-26019-AE-1",
+      "challanNo": "SNE-26019",
+      "itemCode": "AE",
+      "desc": "FIRE EXTINGUISHER SNE15,SNE101,SNE10",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AE-2": {
+      "qrCode": "SNE-26019-AE-2",
+      "challanNo": "SNE-26019",
+      "itemCode": "AE",
+      "desc": "FIRE EXTINGUISHER SNE15,SNE101,SNE10",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AE-3": {
+      "qrCode": "SNE-26019-AE-3",
+      "challanNo": "SNE-26019",
+      "itemCode": "AE",
+      "desc": "FIRE EXTINGUISHER SNE15,SNE101,SNE10",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AE-4": {
+      "qrCode": "SNE-26019-AE-4",
+      "challanNo": "SNE-26019",
+      "itemCode": "AE",
+      "desc": "FIRE EXTINGUISHER SNE15,SNE101,SNE10",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AE-5": {
+      "qrCode": "SNE-26019-AE-5",
+      "challanNo": "SNE-26019",
+      "itemCode": "AE",
+      "desc": "FIRE EXTINGUISHER SNE15,SNE101,SNE10",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AE-6": {
+      "qrCode": "SNE-26019-AE-6",
+      "challanNo": "SNE-26019",
+      "itemCode": "AE",
+      "desc": "FIRE EXTINGUISHER SNE15,SNE101,SNE10",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-1": {
+      "qrCode": "SNE-26019-AF-1",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-2": {
+      "qrCode": "SNE-26019-AF-2",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-3": {
+      "qrCode": "SNE-26019-AF-3",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-4": {
+      "qrCode": "SNE-26019-AF-4",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-5": {
+      "qrCode": "SNE-26019-AF-5",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-6": {
+      "qrCode": "SNE-26019-AF-6",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-7": {
+      "qrCode": "SNE-26019-AF-7",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-8": {
+      "qrCode": "SNE-26019-AF-8",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-9": {
+      "qrCode": "SNE-26019-AF-9",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-10": {
+      "qrCode": "SNE-26019-AF-10",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-11": {
+      "qrCode": "SNE-26019-AF-11",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-12": {
+      "qrCode": "SNE-26019-AF-12",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-13": {
+      "qrCode": "SNE-26019-AF-13",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-14": {
+      "qrCode": "SNE-26019-AF-14",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-15": {
+      "qrCode": "SNE-26019-AF-15",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-16": {
+      "qrCode": "SNE-26019-AF-16",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-17": {
+      "qrCode": "SNE-26019-AF-17",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-18": {
+      "qrCode": "SNE-26019-AF-18",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-19": {
+      "qrCode": "SNE-26019-AF-19",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AF-20": {
+      "qrCode": "SNE-26019-AF-20",
+      "challanNo": "SNE-26019",
+      "itemCode": "AF",
+      "desc": "PLASMA NOZZLE + TIP",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AG-1": {
+      "qrCode": "SNE-26019-AG-1",
+      "challanNo": "SNE-26019",
+      "itemCode": "AG",
+      "desc": "PLASMA CERAMIC NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AG-2": {
+      "qrCode": "SNE-26019-AG-2",
+      "challanNo": "SNE-26019",
+      "itemCode": "AG",
+      "desc": "PLASMA CERAMIC NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AG-3": {
+      "qrCode": "SNE-26019-AG-3",
+      "challanNo": "SNE-26019",
+      "itemCode": "AG",
+      "desc": "PLASMA CERAMIC NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AG-4": {
+      "qrCode": "SNE-26019-AG-4",
+      "challanNo": "SNE-26019",
+      "itemCode": "AG",
+      "desc": "PLASMA CERAMIC NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AG-5": {
+      "qrCode": "SNE-26019-AG-5",
+      "challanNo": "SNE-26019",
+      "itemCode": "AG",
+      "desc": "PLASMA CERAMIC NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AG-6": {
+      "qrCode": "SNE-26019-AG-6",
+      "challanNo": "SNE-26019",
+      "itemCode": "AG",
+      "desc": "PLASMA CERAMIC NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AG-7": {
+      "qrCode": "SNE-26019-AG-7",
+      "challanNo": "SNE-26019",
+      "itemCode": "AG",
+      "desc": "PLASMA CERAMIC NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AG-8": {
+      "qrCode": "SNE-26019-AG-8",
+      "challanNo": "SNE-26019",
+      "itemCode": "AG",
+      "desc": "PLASMA CERAMIC NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AG-9": {
+      "qrCode": "SNE-26019-AG-9",
+      "challanNo": "SNE-26019",
+      "itemCode": "AG",
+      "desc": "PLASMA CERAMIC NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AG-10": {
+      "qrCode": "SNE-26019-AG-10",
+      "challanNo": "SNE-26019",
+      "itemCode": "AG",
+      "desc": "PLASMA CERAMIC NOZZLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AH-1": {
+      "qrCode": "SNE-26019-AH-1",
+      "challanNo": "SNE-26019",
+      "itemCode": "AH",
+      "desc": "ORGON CYLINDER 5288,5454( BHAGYASHREE)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-AH-2": {
+      "qrCode": "SNE-26019-AH-2",
+      "challanNo": "SNE-26019",
+      "itemCode": "AH",
+      "desc": "ORGON CYLINDER 5288,5454( BHAGYASHREE)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26019-ITM-1": {
+      "qrCode": "SNE-26019-ITM-1",
+      "challanNo": "SNE-26019",
+      "itemCode": "ITM",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:31:05.643Z",
+      "challanNo": "SNE-26019",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 54 items."
+    },
     {
       "timestamp": "2026-11-15T13:30:57.194Z",
       "challanNo": "SNE-26018",
