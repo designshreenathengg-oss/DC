@@ -4274,20 +4274,22 @@
     },
     "SNE-26016": {
       "challanNo": "SNE-26016",
-      "date": "2026-10-27T18:30:00.000Z",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "MAHENDRA & MAHENDRA LTD, PLOT NO. F1,F7 HINGANA ROAG,NAGPUR- 440016",
+      "date": "",
       "poNo": "",
-      "poDate": "2026-10-27T18:30:00.000Z",
+      "poDate": "",
       "projectName": "NAGPUR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "HINGANA ROAD, MIDC NAGPUR",
       "vehicle": "MH15JW3865",
-      "status": "QR GENERATED",
+      "remarkType": "Remark",
+      "showTotal": false,
       "items": [
         {
           "code": "AA1",
           "desc": "DAMPER 610X610",
           "qty": 25,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -4295,6 +4297,7 @@
           "desc": "CHEQURE PLATE SS 1250X2500X4MM",
           "qty": 36,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -4302,6 +4305,7 @@
           "desc": "STAMP & INK PAD",
           "qty": 1,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -4309,6 +4313,7 @@
           "desc": "YELLOW HELMET",
           "qty": 6,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -4316,6 +4321,7 @@
           "desc": "T SHIRT",
           "qty": 10,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -4323,6 +4329,7 @@
           "desc": "SAFETY BELT SHOCK ABSORBER",
           "qty": 10,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -4330,6 +4337,7 @@
           "desc": "GOGGLE ( WHITE & BLACK )",
           "qty": 10,
           "unit": "Nos EACH",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -4337,6 +4345,7 @@
           "desc": "WELDING GLASS  ( WHITE & BLACK )",
           "qty": 5,
           "unit": "Nos EACH",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -4344,6 +4353,7 @@
           "desc": "COTTON DORI 22MM SIZE",
           "qty": 50,
           "unit": "MTR",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -4351,6 +4361,7 @@
           "desc": "U GASKET",
           "qty": 60,
           "unit": "MTR",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -4358,6 +4369,7 @@
           "desc": "TUBE LIGHT HOLDING CHAIN",
           "qty": 100,
           "unit": "MTR",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -4365,6 +4377,7 @@
           "desc": "TUBE LIGHT HOLDING HOOK",
           "qty": 8,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         },
         {
@@ -4372,10 +4385,364 @@
           "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
           "qty": 30,
           "unit": "Nos",
+          "remarkType": "Remark",
           "remark": "-"
         }
       ],
-      "qrcodes": []
+      "qrcodes": [
+        "SNE-26016-AA1-1",
+        "SNE-26016-AA1-2",
+        "SNE-26016-AA1-3",
+        "SNE-26016-AA1-4",
+        "SNE-26016-AA1-5",
+        "SNE-26016-AA1-6",
+        "SNE-26016-AA1-7",
+        "SNE-26016-AA1-8",
+        "SNE-26016-AA1-9",
+        "SNE-26016-AA1-10",
+        "SNE-26016-AA1-11",
+        "SNE-26016-AA1-12",
+        "SNE-26016-AA1-13",
+        "SNE-26016-AA1-14",
+        "SNE-26016-AA1-15",
+        "SNE-26016-AA1-16",
+        "SNE-26016-AA1-17",
+        "SNE-26016-AA1-18",
+        "SNE-26016-AA1-19",
+        "SNE-26016-AA1-20",
+        "SNE-26016-AA1-21",
+        "SNE-26016-AA1-22",
+        "SNE-26016-AA1-23",
+        "SNE-26016-AA1-24",
+        "SNE-26016-AA1-25",
+        "SNE-26016-AA2-1",
+        "SNE-26016-AA2-2",
+        "SNE-26016-AA2-3",
+        "SNE-26016-AA2-4",
+        "SNE-26016-AA2-5",
+        "SNE-26016-AA2-6",
+        "SNE-26016-AA2-7",
+        "SNE-26016-AA2-8",
+        "SNE-26016-AA2-9",
+        "SNE-26016-AA2-10",
+        "SNE-26016-AA2-11",
+        "SNE-26016-AA2-12",
+        "SNE-26016-AA2-13",
+        "SNE-26016-AA2-14",
+        "SNE-26016-AA2-15",
+        "SNE-26016-AA2-16",
+        "SNE-26016-AA2-17",
+        "SNE-26016-AA2-18",
+        "SNE-26016-AA2-19",
+        "SNE-26016-AA2-20",
+        "SNE-26016-AA2-21",
+        "SNE-26016-AA2-22",
+        "SNE-26016-AA2-23",
+        "SNE-26016-AA2-24",
+        "SNE-26016-AA2-25",
+        "SNE-26016-AA2-26",
+        "SNE-26016-AA2-27",
+        "SNE-26016-AA2-28",
+        "SNE-26016-AA2-29",
+        "SNE-26016-AA2-30",
+        "SNE-26016-AA2-31",
+        "SNE-26016-AA2-32",
+        "SNE-26016-AA2-33",
+        "SNE-26016-AA2-34",
+        "SNE-26016-AA2-35",
+        "SNE-26016-AA2-36",
+        "SNE-26016-AA3-1",
+        "SNE-26016-AA4-1",
+        "SNE-26016-AA4-2",
+        "SNE-26016-AA4-3",
+        "SNE-26016-AA4-4",
+        "SNE-26016-AA4-5",
+        "SNE-26016-AA4-6",
+        "SNE-26016-AA5-1",
+        "SNE-26016-AA5-2",
+        "SNE-26016-AA5-3",
+        "SNE-26016-AA5-4",
+        "SNE-26016-AA5-5",
+        "SNE-26016-AA5-6",
+        "SNE-26016-AA5-7",
+        "SNE-26016-AA5-8",
+        "SNE-26016-AA5-9",
+        "SNE-26016-AA5-10",
+        "SNE-26016-ITM-1",
+        "SNE-26016-ITM-2",
+        "SNE-26016-ITM-3",
+        "SNE-26016-ITM-4",
+        "SNE-26016-ITM-5",
+        "SNE-26016-ITM-6",
+        "SNE-26016-ITM-7",
+        "SNE-26016-ITM-8",
+        "SNE-26016-ITM-9",
+        "SNE-26016-ITM-10",
+        "SNE-26016-ITM-R7-1",
+        "SNE-26016-ITM-R7-2",
+        "SNE-26016-ITM-R7-3",
+        "SNE-26016-ITM-R7-4",
+        "SNE-26016-ITM-R7-5",
+        "SNE-26016-ITM-R7-6",
+        "SNE-26016-ITM-R7-7",
+        "SNE-26016-ITM-R7-8",
+        "SNE-26016-ITM-R7-9",
+        "SNE-26016-ITM-R7-10",
+        "SNE-26016-ITM-R8-1",
+        "SNE-26016-ITM-R8-2",
+        "SNE-26016-ITM-R8-3",
+        "SNE-26016-ITM-R8-4",
+        "SNE-26016-ITM-R8-5",
+        "SNE-26016-ITM-R9-1",
+        "SNE-26016-ITM-R9-2",
+        "SNE-26016-ITM-R9-3",
+        "SNE-26016-ITM-R9-4",
+        "SNE-26016-ITM-R9-5",
+        "SNE-26016-ITM-R9-6",
+        "SNE-26016-ITM-R9-7",
+        "SNE-26016-ITM-R9-8",
+        "SNE-26016-ITM-R9-9",
+        "SNE-26016-ITM-R9-10",
+        "SNE-26016-ITM-11",
+        "SNE-26016-ITM-12",
+        "SNE-26016-ITM-13",
+        "SNE-26016-ITM-14",
+        "SNE-26016-ITM-15",
+        "SNE-26016-ITM-16",
+        "SNE-26016-ITM-17",
+        "SNE-26016-ITM-18",
+        "SNE-26016-ITM-19",
+        "SNE-26016-ITM-20",
+        "SNE-26016-ITM-21",
+        "SNE-26016-ITM-22",
+        "SNE-26016-ITM-23",
+        "SNE-26016-ITM-24",
+        "SNE-26016-ITM-25",
+        "SNE-26016-ITM-26",
+        "SNE-26016-ITM-27",
+        "SNE-26016-ITM-28",
+        "SNE-26016-ITM-29",
+        "SNE-26016-ITM-30",
+        "SNE-26016-ITM-31",
+        "SNE-26016-ITM-32",
+        "SNE-26016-ITM-33",
+        "SNE-26016-ITM-34",
+        "SNE-26016-ITM-35",
+        "SNE-26016-ITM-36",
+        "SNE-26016-ITM-37",
+        "SNE-26016-ITM-38",
+        "SNE-26016-ITM-39",
+        "SNE-26016-ITM-40",
+        "SNE-26016-ITM-41",
+        "SNE-26016-ITM-42",
+        "SNE-26016-ITM-43",
+        "SNE-26016-ITM-44",
+        "SNE-26016-ITM-45",
+        "SNE-26016-ITM-46",
+        "SNE-26016-ITM-47",
+        "SNE-26016-ITM-48",
+        "SNE-26016-ITM-49",
+        "SNE-26016-ITM-50",
+        "SNE-26016-ITM-R10-1",
+        "SNE-26016-ITM-R10-2",
+        "SNE-26016-ITM-R10-3",
+        "SNE-26016-ITM-R10-4",
+        "SNE-26016-ITM-R10-5",
+        "SNE-26016-ITM-R10-6",
+        "SNE-26016-ITM-R10-7",
+        "SNE-26016-ITM-R10-8",
+        "SNE-26016-ITM-R10-9",
+        "SNE-26016-ITM-R10-10",
+        "SNE-26016-ITM-R10-11",
+        "SNE-26016-ITM-R10-12",
+        "SNE-26016-ITM-R10-13",
+        "SNE-26016-ITM-R10-14",
+        "SNE-26016-ITM-R10-15",
+        "SNE-26016-ITM-R10-16",
+        "SNE-26016-ITM-R10-17",
+        "SNE-26016-ITM-R10-18",
+        "SNE-26016-ITM-R10-19",
+        "SNE-26016-ITM-R10-20",
+        "SNE-26016-ITM-R10-21",
+        "SNE-26016-ITM-R10-22",
+        "SNE-26016-ITM-R10-23",
+        "SNE-26016-ITM-R10-24",
+        "SNE-26016-ITM-R10-25",
+        "SNE-26016-ITM-R10-26",
+        "SNE-26016-ITM-R10-27",
+        "SNE-26016-ITM-R10-28",
+        "SNE-26016-ITM-R10-29",
+        "SNE-26016-ITM-R10-30",
+        "SNE-26016-ITM-R10-31",
+        "SNE-26016-ITM-R10-32",
+        "SNE-26016-ITM-R10-33",
+        "SNE-26016-ITM-R10-34",
+        "SNE-26016-ITM-R10-35",
+        "SNE-26016-ITM-R10-36",
+        "SNE-26016-ITM-R10-37",
+        "SNE-26016-ITM-R10-38",
+        "SNE-26016-ITM-R10-39",
+        "SNE-26016-ITM-R10-40",
+        "SNE-26016-ITM-R10-41",
+        "SNE-26016-ITM-R10-42",
+        "SNE-26016-ITM-R10-43",
+        "SNE-26016-ITM-R10-44",
+        "SNE-26016-ITM-R10-45",
+        "SNE-26016-ITM-R10-46",
+        "SNE-26016-ITM-R10-47",
+        "SNE-26016-ITM-R10-48",
+        "SNE-26016-ITM-R10-49",
+        "SNE-26016-ITM-R10-50",
+        "SNE-26016-ITM-51",
+        "SNE-26016-ITM-52",
+        "SNE-26016-ITM-53",
+        "SNE-26016-ITM-54",
+        "SNE-26016-ITM-55",
+        "SNE-26016-ITM-56",
+        "SNE-26016-ITM-57",
+        "SNE-26016-ITM-58",
+        "SNE-26016-ITM-59",
+        "SNE-26016-ITM-60",
+        "SNE-26016-ITM-R11-1",
+        "SNE-26016-ITM-R11-2",
+        "SNE-26016-ITM-R11-3",
+        "SNE-26016-ITM-R11-4",
+        "SNE-26016-ITM-R11-5",
+        "SNE-26016-ITM-R11-6",
+        "SNE-26016-ITM-R11-7",
+        "SNE-26016-ITM-R11-8",
+        "SNE-26016-ITM-R11-9",
+        "SNE-26016-ITM-R11-10",
+        "SNE-26016-ITM-R11-11",
+        "SNE-26016-ITM-R11-12",
+        "SNE-26016-ITM-R11-13",
+        "SNE-26016-ITM-R11-14",
+        "SNE-26016-ITM-R11-15",
+        "SNE-26016-ITM-R11-16",
+        "SNE-26016-ITM-R11-17",
+        "SNE-26016-ITM-R11-18",
+        "SNE-26016-ITM-R11-19",
+        "SNE-26016-ITM-R11-20",
+        "SNE-26016-ITM-R11-21",
+        "SNE-26016-ITM-R11-22",
+        "SNE-26016-ITM-R11-23",
+        "SNE-26016-ITM-R11-24",
+        "SNE-26016-ITM-R11-25",
+        "SNE-26016-ITM-R11-26",
+        "SNE-26016-ITM-R11-27",
+        "SNE-26016-ITM-R11-28",
+        "SNE-26016-ITM-R11-29",
+        "SNE-26016-ITM-R11-30",
+        "SNE-26016-ITM-R11-31",
+        "SNE-26016-ITM-R11-32",
+        "SNE-26016-ITM-R11-33",
+        "SNE-26016-ITM-R11-34",
+        "SNE-26016-ITM-R11-35",
+        "SNE-26016-ITM-R11-36",
+        "SNE-26016-ITM-R11-37",
+        "SNE-26016-ITM-R11-38",
+        "SNE-26016-ITM-R11-39",
+        "SNE-26016-ITM-R11-40",
+        "SNE-26016-ITM-R11-41",
+        "SNE-26016-ITM-R11-42",
+        "SNE-26016-ITM-R11-43",
+        "SNE-26016-ITM-R11-44",
+        "SNE-26016-ITM-R11-45",
+        "SNE-26016-ITM-R11-46",
+        "SNE-26016-ITM-R11-47",
+        "SNE-26016-ITM-R11-48",
+        "SNE-26016-ITM-R11-49",
+        "SNE-26016-ITM-R11-50",
+        "SNE-26016-ITM-R11-51",
+        "SNE-26016-ITM-R11-52",
+        "SNE-26016-ITM-R11-53",
+        "SNE-26016-ITM-R11-54",
+        "SNE-26016-ITM-R11-55",
+        "SNE-26016-ITM-R11-56",
+        "SNE-26016-ITM-R11-57",
+        "SNE-26016-ITM-R11-58",
+        "SNE-26016-ITM-R11-59",
+        "SNE-26016-ITM-R11-60",
+        "SNE-26016-ITM-61",
+        "SNE-26016-ITM-62",
+        "SNE-26016-ITM-63",
+        "SNE-26016-ITM-64",
+        "SNE-26016-ITM-65",
+        "SNE-26016-ITM-66",
+        "SNE-26016-ITM-67",
+        "SNE-26016-ITM-68",
+        "SNE-26016-ITM-69",
+        "SNE-26016-ITM-70",
+        "SNE-26016-ITM-71",
+        "SNE-26016-ITM-72",
+        "SNE-26016-ITM-73",
+        "SNE-26016-ITM-74",
+        "SNE-26016-ITM-75",
+        "SNE-26016-ITM-76",
+        "SNE-26016-ITM-77",
+        "SNE-26016-ITM-78",
+        "SNE-26016-ITM-79",
+        "SNE-26016-ITM-80",
+        "SNE-26016-ITM-81",
+        "SNE-26016-ITM-82",
+        "SNE-26016-ITM-83",
+        "SNE-26016-ITM-84",
+        "SNE-26016-ITM-85",
+        "SNE-26016-ITM-86",
+        "SNE-26016-ITM-87",
+        "SNE-26016-ITM-88",
+        "SNE-26016-ITM-89",
+        "SNE-26016-ITM-90",
+        "SNE-26016-ITM-91",
+        "SNE-26016-ITM-92",
+        "SNE-26016-ITM-93",
+        "SNE-26016-ITM-94",
+        "SNE-26016-ITM-95",
+        "SNE-26016-ITM-96",
+        "SNE-26016-ITM-97",
+        "SNE-26016-ITM-98",
+        "SNE-26016-ITM-99",
+        "SNE-26016-ITM-100",
+        "SNE-26016-ITM-R12-1",
+        "SNE-26016-ITM-R12-2",
+        "SNE-26016-ITM-R12-3",
+        "SNE-26016-ITM-R12-4",
+        "SNE-26016-ITM-R12-5",
+        "SNE-26016-ITM-R12-6",
+        "SNE-26016-ITM-R12-7",
+        "SNE-26016-ITM-R12-8",
+        "SNE-26016-ITM-R13-1",
+        "SNE-26016-ITM-R13-2",
+        "SNE-26016-ITM-R13-3",
+        "SNE-26016-ITM-R13-4",
+        "SNE-26016-ITM-R13-5",
+        "SNE-26016-ITM-R13-6",
+        "SNE-26016-ITM-R13-7",
+        "SNE-26016-ITM-R13-8",
+        "SNE-26016-ITM-R13-9",
+        "SNE-26016-ITM-R13-10",
+        "SNE-26016-ITM-R13-11",
+        "SNE-26016-ITM-R13-12",
+        "SNE-26016-ITM-R13-13",
+        "SNE-26016-ITM-R13-14",
+        "SNE-26016-ITM-R13-15",
+        "SNE-26016-ITM-R13-16",
+        "SNE-26016-ITM-R13-17",
+        "SNE-26016-ITM-R13-18",
+        "SNE-26016-ITM-R13-19",
+        "SNE-26016-ITM-R13-20",
+        "SNE-26016-ITM-R13-21",
+        "SNE-26016-ITM-R13-22",
+        "SNE-26016-ITM-R13-23",
+        "SNE-26016-ITM-R13-24",
+        "SNE-26016-ITM-R13-25",
+        "SNE-26016-ITM-R13-26",
+        "SNE-26016-ITM-R13-27",
+        "SNE-26016-ITM-R13-28",
+        "SNE-26016-ITM-R13-29",
+        "SNE-26016-ITM-R13-30"
+      ],
+      "status": "QR GENERATED"
     },
     "SNE-26017": {
       "challanNo": "SNE-26017",
@@ -40952,9 +41319,3179 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "HINGANA ROAD, MIDC NAGPUR",
       "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-1": {
+      "qrCode": "SNE-26016-AA1-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-2": {
+      "qrCode": "SNE-26016-AA1-2",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-3": {
+      "qrCode": "SNE-26016-AA1-3",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-4": {
+      "qrCode": "SNE-26016-AA1-4",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-5": {
+      "qrCode": "SNE-26016-AA1-5",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-6": {
+      "qrCode": "SNE-26016-AA1-6",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-7": {
+      "qrCode": "SNE-26016-AA1-7",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-8": {
+      "qrCode": "SNE-26016-AA1-8",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-9": {
+      "qrCode": "SNE-26016-AA1-9",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-10": {
+      "qrCode": "SNE-26016-AA1-10",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-11": {
+      "qrCode": "SNE-26016-AA1-11",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-12": {
+      "qrCode": "SNE-26016-AA1-12",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-13": {
+      "qrCode": "SNE-26016-AA1-13",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-14": {
+      "qrCode": "SNE-26016-AA1-14",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-15": {
+      "qrCode": "SNE-26016-AA1-15",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-16": {
+      "qrCode": "SNE-26016-AA1-16",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-17": {
+      "qrCode": "SNE-26016-AA1-17",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-18": {
+      "qrCode": "SNE-26016-AA1-18",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-19": {
+      "qrCode": "SNE-26016-AA1-19",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-20": {
+      "qrCode": "SNE-26016-AA1-20",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-21": {
+      "qrCode": "SNE-26016-AA1-21",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-22": {
+      "qrCode": "SNE-26016-AA1-22",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-23": {
+      "qrCode": "SNE-26016-AA1-23",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-24": {
+      "qrCode": "SNE-26016-AA1-24",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA1-25": {
+      "qrCode": "SNE-26016-AA1-25",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA1",
+      "desc": "DAMPER 610X610",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-1": {
+      "qrCode": "SNE-26016-AA2-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-2": {
+      "qrCode": "SNE-26016-AA2-2",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-3": {
+      "qrCode": "SNE-26016-AA2-3",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-4": {
+      "qrCode": "SNE-26016-AA2-4",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-5": {
+      "qrCode": "SNE-26016-AA2-5",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-6": {
+      "qrCode": "SNE-26016-AA2-6",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-7": {
+      "qrCode": "SNE-26016-AA2-7",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-8": {
+      "qrCode": "SNE-26016-AA2-8",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-9": {
+      "qrCode": "SNE-26016-AA2-9",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-10": {
+      "qrCode": "SNE-26016-AA2-10",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-11": {
+      "qrCode": "SNE-26016-AA2-11",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-12": {
+      "qrCode": "SNE-26016-AA2-12",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-13": {
+      "qrCode": "SNE-26016-AA2-13",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-14": {
+      "qrCode": "SNE-26016-AA2-14",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-15": {
+      "qrCode": "SNE-26016-AA2-15",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-16": {
+      "qrCode": "SNE-26016-AA2-16",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-17": {
+      "qrCode": "SNE-26016-AA2-17",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-18": {
+      "qrCode": "SNE-26016-AA2-18",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-19": {
+      "qrCode": "SNE-26016-AA2-19",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-20": {
+      "qrCode": "SNE-26016-AA2-20",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-21": {
+      "qrCode": "SNE-26016-AA2-21",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-22": {
+      "qrCode": "SNE-26016-AA2-22",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-23": {
+      "qrCode": "SNE-26016-AA2-23",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-24": {
+      "qrCode": "SNE-26016-AA2-24",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-25": {
+      "qrCode": "SNE-26016-AA2-25",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-26": {
+      "qrCode": "SNE-26016-AA2-26",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-27": {
+      "qrCode": "SNE-26016-AA2-27",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-28": {
+      "qrCode": "SNE-26016-AA2-28",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-29": {
+      "qrCode": "SNE-26016-AA2-29",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-30": {
+      "qrCode": "SNE-26016-AA2-30",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-31": {
+      "qrCode": "SNE-26016-AA2-31",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-32": {
+      "qrCode": "SNE-26016-AA2-32",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-33": {
+      "qrCode": "SNE-26016-AA2-33",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-34": {
+      "qrCode": "SNE-26016-AA2-34",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-35": {
+      "qrCode": "SNE-26016-AA2-35",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA2-36": {
+      "qrCode": "SNE-26016-AA2-36",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA2",
+      "desc": "CHEQURE PLATE SS 1250X2500X4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA3-1": {
+      "qrCode": "SNE-26016-AA3-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA3",
+      "desc": "STAMP & INK PAD",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA4-1": {
+      "qrCode": "SNE-26016-AA4-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA4",
+      "desc": "YELLOW HELMET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA4-2": {
+      "qrCode": "SNE-26016-AA4-2",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA4",
+      "desc": "YELLOW HELMET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA4-3": {
+      "qrCode": "SNE-26016-AA4-3",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA4",
+      "desc": "YELLOW HELMET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA4-4": {
+      "qrCode": "SNE-26016-AA4-4",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA4",
+      "desc": "YELLOW HELMET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA4-5": {
+      "qrCode": "SNE-26016-AA4-5",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA4",
+      "desc": "YELLOW HELMET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA4-6": {
+      "qrCode": "SNE-26016-AA4-6",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA4",
+      "desc": "YELLOW HELMET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA5-1": {
+      "qrCode": "SNE-26016-AA5-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA5",
+      "desc": "T SHIRT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA5-2": {
+      "qrCode": "SNE-26016-AA5-2",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA5",
+      "desc": "T SHIRT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA5-3": {
+      "qrCode": "SNE-26016-AA5-3",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA5",
+      "desc": "T SHIRT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA5-4": {
+      "qrCode": "SNE-26016-AA5-4",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA5",
+      "desc": "T SHIRT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA5-5": {
+      "qrCode": "SNE-26016-AA5-5",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA5",
+      "desc": "T SHIRT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA5-6": {
+      "qrCode": "SNE-26016-AA5-6",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA5",
+      "desc": "T SHIRT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA5-7": {
+      "qrCode": "SNE-26016-AA5-7",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA5",
+      "desc": "T SHIRT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA5-8": {
+      "qrCode": "SNE-26016-AA5-8",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA5",
+      "desc": "T SHIRT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA5-9": {
+      "qrCode": "SNE-26016-AA5-9",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA5",
+      "desc": "T SHIRT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-AA5-10": {
+      "qrCode": "SNE-26016-AA5-10",
+      "challanNo": "SNE-26016",
+      "itemCode": "AA5",
+      "desc": "T SHIRT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-1": {
+      "qrCode": "SNE-26016-ITM-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "SAFETY BELT SHOCK ABSORBER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-2": {
+      "qrCode": "SNE-26016-ITM-2",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "SAFETY BELT SHOCK ABSORBER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-3": {
+      "qrCode": "SNE-26016-ITM-3",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "SAFETY BELT SHOCK ABSORBER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-4": {
+      "qrCode": "SNE-26016-ITM-4",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "SAFETY BELT SHOCK ABSORBER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-5": {
+      "qrCode": "SNE-26016-ITM-5",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "SAFETY BELT SHOCK ABSORBER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-6": {
+      "qrCode": "SNE-26016-ITM-6",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "SAFETY BELT SHOCK ABSORBER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-7": {
+      "qrCode": "SNE-26016-ITM-7",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "SAFETY BELT SHOCK ABSORBER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-8": {
+      "qrCode": "SNE-26016-ITM-8",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "SAFETY BELT SHOCK ABSORBER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-9": {
+      "qrCode": "SNE-26016-ITM-9",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "SAFETY BELT SHOCK ABSORBER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-10": {
+      "qrCode": "SNE-26016-ITM-10",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "SAFETY BELT SHOCK ABSORBER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R7-1": {
+      "qrCode": "SNE-26016-ITM-R7-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "GOGGLE ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R7-2": {
+      "qrCode": "SNE-26016-ITM-R7-2",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "GOGGLE ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R7-3": {
+      "qrCode": "SNE-26016-ITM-R7-3",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "GOGGLE ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R7-4": {
+      "qrCode": "SNE-26016-ITM-R7-4",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "GOGGLE ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R7-5": {
+      "qrCode": "SNE-26016-ITM-R7-5",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "GOGGLE ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R7-6": {
+      "qrCode": "SNE-26016-ITM-R7-6",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "GOGGLE ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R7-7": {
+      "qrCode": "SNE-26016-ITM-R7-7",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "GOGGLE ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R7-8": {
+      "qrCode": "SNE-26016-ITM-R7-8",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "GOGGLE ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R7-9": {
+      "qrCode": "SNE-26016-ITM-R7-9",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "GOGGLE ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R7-10": {
+      "qrCode": "SNE-26016-ITM-R7-10",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "GOGGLE ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R8-1": {
+      "qrCode": "SNE-26016-ITM-R8-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "WELDING GLASS  ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R8-2": {
+      "qrCode": "SNE-26016-ITM-R8-2",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "WELDING GLASS  ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R8-3": {
+      "qrCode": "SNE-26016-ITM-R8-3",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "WELDING GLASS  ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R8-4": {
+      "qrCode": "SNE-26016-ITM-R8-4",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "WELDING GLASS  ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R8-5": {
+      "qrCode": "SNE-26016-ITM-R8-5",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "WELDING GLASS  ( WHITE & BLACK )",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R9-1": {
+      "qrCode": "SNE-26016-ITM-R9-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R9-2": {
+      "qrCode": "SNE-26016-ITM-R9-2",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R9-3": {
+      "qrCode": "SNE-26016-ITM-R9-3",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R9-4": {
+      "qrCode": "SNE-26016-ITM-R9-4",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R9-5": {
+      "qrCode": "SNE-26016-ITM-R9-5",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R9-6": {
+      "qrCode": "SNE-26016-ITM-R9-6",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R9-7": {
+      "qrCode": "SNE-26016-ITM-R9-7",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R9-8": {
+      "qrCode": "SNE-26016-ITM-R9-8",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R9-9": {
+      "qrCode": "SNE-26016-ITM-R9-9",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R9-10": {
+      "qrCode": "SNE-26016-ITM-R9-10",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-11": {
+      "qrCode": "SNE-26016-ITM-11",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-12": {
+      "qrCode": "SNE-26016-ITM-12",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-13": {
+      "qrCode": "SNE-26016-ITM-13",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-14": {
+      "qrCode": "SNE-26016-ITM-14",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-15": {
+      "qrCode": "SNE-26016-ITM-15",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-16": {
+      "qrCode": "SNE-26016-ITM-16",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-17": {
+      "qrCode": "SNE-26016-ITM-17",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-18": {
+      "qrCode": "SNE-26016-ITM-18",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-19": {
+      "qrCode": "SNE-26016-ITM-19",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-20": {
+      "qrCode": "SNE-26016-ITM-20",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-21": {
+      "qrCode": "SNE-26016-ITM-21",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-22": {
+      "qrCode": "SNE-26016-ITM-22",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-23": {
+      "qrCode": "SNE-26016-ITM-23",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-24": {
+      "qrCode": "SNE-26016-ITM-24",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-25": {
+      "qrCode": "SNE-26016-ITM-25",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-26": {
+      "qrCode": "SNE-26016-ITM-26",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-27": {
+      "qrCode": "SNE-26016-ITM-27",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-28": {
+      "qrCode": "SNE-26016-ITM-28",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-29": {
+      "qrCode": "SNE-26016-ITM-29",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-30": {
+      "qrCode": "SNE-26016-ITM-30",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-31": {
+      "qrCode": "SNE-26016-ITM-31",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-32": {
+      "qrCode": "SNE-26016-ITM-32",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-33": {
+      "qrCode": "SNE-26016-ITM-33",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-34": {
+      "qrCode": "SNE-26016-ITM-34",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-35": {
+      "qrCode": "SNE-26016-ITM-35",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-36": {
+      "qrCode": "SNE-26016-ITM-36",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-37": {
+      "qrCode": "SNE-26016-ITM-37",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-38": {
+      "qrCode": "SNE-26016-ITM-38",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-39": {
+      "qrCode": "SNE-26016-ITM-39",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-40": {
+      "qrCode": "SNE-26016-ITM-40",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-41": {
+      "qrCode": "SNE-26016-ITM-41",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-42": {
+      "qrCode": "SNE-26016-ITM-42",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-43": {
+      "qrCode": "SNE-26016-ITM-43",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-44": {
+      "qrCode": "SNE-26016-ITM-44",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-45": {
+      "qrCode": "SNE-26016-ITM-45",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-46": {
+      "qrCode": "SNE-26016-ITM-46",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-47": {
+      "qrCode": "SNE-26016-ITM-47",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-48": {
+      "qrCode": "SNE-26016-ITM-48",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-49": {
+      "qrCode": "SNE-26016-ITM-49",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-50": {
+      "qrCode": "SNE-26016-ITM-50",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "COTTON DORI 22MM SIZE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-1": {
+      "qrCode": "SNE-26016-ITM-R10-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-2": {
+      "qrCode": "SNE-26016-ITM-R10-2",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-3": {
+      "qrCode": "SNE-26016-ITM-R10-3",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-4": {
+      "qrCode": "SNE-26016-ITM-R10-4",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-5": {
+      "qrCode": "SNE-26016-ITM-R10-5",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-6": {
+      "qrCode": "SNE-26016-ITM-R10-6",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-7": {
+      "qrCode": "SNE-26016-ITM-R10-7",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-8": {
+      "qrCode": "SNE-26016-ITM-R10-8",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-9": {
+      "qrCode": "SNE-26016-ITM-R10-9",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-10": {
+      "qrCode": "SNE-26016-ITM-R10-10",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-11": {
+      "qrCode": "SNE-26016-ITM-R10-11",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-12": {
+      "qrCode": "SNE-26016-ITM-R10-12",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-13": {
+      "qrCode": "SNE-26016-ITM-R10-13",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-14": {
+      "qrCode": "SNE-26016-ITM-R10-14",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-15": {
+      "qrCode": "SNE-26016-ITM-R10-15",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-16": {
+      "qrCode": "SNE-26016-ITM-R10-16",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-17": {
+      "qrCode": "SNE-26016-ITM-R10-17",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-18": {
+      "qrCode": "SNE-26016-ITM-R10-18",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-19": {
+      "qrCode": "SNE-26016-ITM-R10-19",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-20": {
+      "qrCode": "SNE-26016-ITM-R10-20",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-21": {
+      "qrCode": "SNE-26016-ITM-R10-21",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-22": {
+      "qrCode": "SNE-26016-ITM-R10-22",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-23": {
+      "qrCode": "SNE-26016-ITM-R10-23",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-24": {
+      "qrCode": "SNE-26016-ITM-R10-24",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-25": {
+      "qrCode": "SNE-26016-ITM-R10-25",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-26": {
+      "qrCode": "SNE-26016-ITM-R10-26",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-27": {
+      "qrCode": "SNE-26016-ITM-R10-27",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-28": {
+      "qrCode": "SNE-26016-ITM-R10-28",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-29": {
+      "qrCode": "SNE-26016-ITM-R10-29",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-30": {
+      "qrCode": "SNE-26016-ITM-R10-30",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-31": {
+      "qrCode": "SNE-26016-ITM-R10-31",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-32": {
+      "qrCode": "SNE-26016-ITM-R10-32",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-33": {
+      "qrCode": "SNE-26016-ITM-R10-33",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-34": {
+      "qrCode": "SNE-26016-ITM-R10-34",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-35": {
+      "qrCode": "SNE-26016-ITM-R10-35",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-36": {
+      "qrCode": "SNE-26016-ITM-R10-36",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-37": {
+      "qrCode": "SNE-26016-ITM-R10-37",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-38": {
+      "qrCode": "SNE-26016-ITM-R10-38",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-39": {
+      "qrCode": "SNE-26016-ITM-R10-39",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-40": {
+      "qrCode": "SNE-26016-ITM-R10-40",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-41": {
+      "qrCode": "SNE-26016-ITM-R10-41",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-42": {
+      "qrCode": "SNE-26016-ITM-R10-42",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-43": {
+      "qrCode": "SNE-26016-ITM-R10-43",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-44": {
+      "qrCode": "SNE-26016-ITM-R10-44",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-45": {
+      "qrCode": "SNE-26016-ITM-R10-45",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-46": {
+      "qrCode": "SNE-26016-ITM-R10-46",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-47": {
+      "qrCode": "SNE-26016-ITM-R10-47",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-48": {
+      "qrCode": "SNE-26016-ITM-R10-48",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-49": {
+      "qrCode": "SNE-26016-ITM-R10-49",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R10-50": {
+      "qrCode": "SNE-26016-ITM-R10-50",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-51": {
+      "qrCode": "SNE-26016-ITM-51",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-52": {
+      "qrCode": "SNE-26016-ITM-52",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-53": {
+      "qrCode": "SNE-26016-ITM-53",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-54": {
+      "qrCode": "SNE-26016-ITM-54",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-55": {
+      "qrCode": "SNE-26016-ITM-55",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-56": {
+      "qrCode": "SNE-26016-ITM-56",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-57": {
+      "qrCode": "SNE-26016-ITM-57",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-58": {
+      "qrCode": "SNE-26016-ITM-58",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-59": {
+      "qrCode": "SNE-26016-ITM-59",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-60": {
+      "qrCode": "SNE-26016-ITM-60",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "U GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-1": {
+      "qrCode": "SNE-26016-ITM-R11-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-2": {
+      "qrCode": "SNE-26016-ITM-R11-2",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-3": {
+      "qrCode": "SNE-26016-ITM-R11-3",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-4": {
+      "qrCode": "SNE-26016-ITM-R11-4",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-5": {
+      "qrCode": "SNE-26016-ITM-R11-5",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-6": {
+      "qrCode": "SNE-26016-ITM-R11-6",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-7": {
+      "qrCode": "SNE-26016-ITM-R11-7",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-8": {
+      "qrCode": "SNE-26016-ITM-R11-8",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-9": {
+      "qrCode": "SNE-26016-ITM-R11-9",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-10": {
+      "qrCode": "SNE-26016-ITM-R11-10",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-11": {
+      "qrCode": "SNE-26016-ITM-R11-11",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-12": {
+      "qrCode": "SNE-26016-ITM-R11-12",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-13": {
+      "qrCode": "SNE-26016-ITM-R11-13",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-14": {
+      "qrCode": "SNE-26016-ITM-R11-14",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-15": {
+      "qrCode": "SNE-26016-ITM-R11-15",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-16": {
+      "qrCode": "SNE-26016-ITM-R11-16",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-17": {
+      "qrCode": "SNE-26016-ITM-R11-17",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-18": {
+      "qrCode": "SNE-26016-ITM-R11-18",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-19": {
+      "qrCode": "SNE-26016-ITM-R11-19",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-20": {
+      "qrCode": "SNE-26016-ITM-R11-20",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-21": {
+      "qrCode": "SNE-26016-ITM-R11-21",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-22": {
+      "qrCode": "SNE-26016-ITM-R11-22",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-23": {
+      "qrCode": "SNE-26016-ITM-R11-23",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-24": {
+      "qrCode": "SNE-26016-ITM-R11-24",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-25": {
+      "qrCode": "SNE-26016-ITM-R11-25",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-26": {
+      "qrCode": "SNE-26016-ITM-R11-26",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-27": {
+      "qrCode": "SNE-26016-ITM-R11-27",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-28": {
+      "qrCode": "SNE-26016-ITM-R11-28",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-29": {
+      "qrCode": "SNE-26016-ITM-R11-29",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-30": {
+      "qrCode": "SNE-26016-ITM-R11-30",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-31": {
+      "qrCode": "SNE-26016-ITM-R11-31",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-32": {
+      "qrCode": "SNE-26016-ITM-R11-32",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-33": {
+      "qrCode": "SNE-26016-ITM-R11-33",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-34": {
+      "qrCode": "SNE-26016-ITM-R11-34",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-35": {
+      "qrCode": "SNE-26016-ITM-R11-35",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-36": {
+      "qrCode": "SNE-26016-ITM-R11-36",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-37": {
+      "qrCode": "SNE-26016-ITM-R11-37",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-38": {
+      "qrCode": "SNE-26016-ITM-R11-38",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-39": {
+      "qrCode": "SNE-26016-ITM-R11-39",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-40": {
+      "qrCode": "SNE-26016-ITM-R11-40",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-41": {
+      "qrCode": "SNE-26016-ITM-R11-41",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-42": {
+      "qrCode": "SNE-26016-ITM-R11-42",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-43": {
+      "qrCode": "SNE-26016-ITM-R11-43",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-44": {
+      "qrCode": "SNE-26016-ITM-R11-44",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-45": {
+      "qrCode": "SNE-26016-ITM-R11-45",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-46": {
+      "qrCode": "SNE-26016-ITM-R11-46",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-47": {
+      "qrCode": "SNE-26016-ITM-R11-47",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-48": {
+      "qrCode": "SNE-26016-ITM-R11-48",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-49": {
+      "qrCode": "SNE-26016-ITM-R11-49",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-50": {
+      "qrCode": "SNE-26016-ITM-R11-50",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-51": {
+      "qrCode": "SNE-26016-ITM-R11-51",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-52": {
+      "qrCode": "SNE-26016-ITM-R11-52",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-53": {
+      "qrCode": "SNE-26016-ITM-R11-53",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-54": {
+      "qrCode": "SNE-26016-ITM-R11-54",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-55": {
+      "qrCode": "SNE-26016-ITM-R11-55",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-56": {
+      "qrCode": "SNE-26016-ITM-R11-56",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-57": {
+      "qrCode": "SNE-26016-ITM-R11-57",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-58": {
+      "qrCode": "SNE-26016-ITM-R11-58",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-59": {
+      "qrCode": "SNE-26016-ITM-R11-59",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R11-60": {
+      "qrCode": "SNE-26016-ITM-R11-60",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-61": {
+      "qrCode": "SNE-26016-ITM-61",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-62": {
+      "qrCode": "SNE-26016-ITM-62",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-63": {
+      "qrCode": "SNE-26016-ITM-63",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-64": {
+      "qrCode": "SNE-26016-ITM-64",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-65": {
+      "qrCode": "SNE-26016-ITM-65",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-66": {
+      "qrCode": "SNE-26016-ITM-66",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-67": {
+      "qrCode": "SNE-26016-ITM-67",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-68": {
+      "qrCode": "SNE-26016-ITM-68",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-69": {
+      "qrCode": "SNE-26016-ITM-69",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-70": {
+      "qrCode": "SNE-26016-ITM-70",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-71": {
+      "qrCode": "SNE-26016-ITM-71",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-72": {
+      "qrCode": "SNE-26016-ITM-72",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-73": {
+      "qrCode": "SNE-26016-ITM-73",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-74": {
+      "qrCode": "SNE-26016-ITM-74",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-75": {
+      "qrCode": "SNE-26016-ITM-75",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-76": {
+      "qrCode": "SNE-26016-ITM-76",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-77": {
+      "qrCode": "SNE-26016-ITM-77",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-78": {
+      "qrCode": "SNE-26016-ITM-78",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-79": {
+      "qrCode": "SNE-26016-ITM-79",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-80": {
+      "qrCode": "SNE-26016-ITM-80",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-81": {
+      "qrCode": "SNE-26016-ITM-81",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-82": {
+      "qrCode": "SNE-26016-ITM-82",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-83": {
+      "qrCode": "SNE-26016-ITM-83",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-84": {
+      "qrCode": "SNE-26016-ITM-84",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-85": {
+      "qrCode": "SNE-26016-ITM-85",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-86": {
+      "qrCode": "SNE-26016-ITM-86",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-87": {
+      "qrCode": "SNE-26016-ITM-87",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-88": {
+      "qrCode": "SNE-26016-ITM-88",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-89": {
+      "qrCode": "SNE-26016-ITM-89",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-90": {
+      "qrCode": "SNE-26016-ITM-90",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-91": {
+      "qrCode": "SNE-26016-ITM-91",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-92": {
+      "qrCode": "SNE-26016-ITM-92",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-93": {
+      "qrCode": "SNE-26016-ITM-93",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-94": {
+      "qrCode": "SNE-26016-ITM-94",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-95": {
+      "qrCode": "SNE-26016-ITM-95",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-96": {
+      "qrCode": "SNE-26016-ITM-96",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-97": {
+      "qrCode": "SNE-26016-ITM-97",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-98": {
+      "qrCode": "SNE-26016-ITM-98",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-99": {
+      "qrCode": "SNE-26016-ITM-99",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-100": {
+      "qrCode": "SNE-26016-ITM-100",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R12-1": {
+      "qrCode": "SNE-26016-ITM-R12-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING HOOK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R12-2": {
+      "qrCode": "SNE-26016-ITM-R12-2",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING HOOK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R12-3": {
+      "qrCode": "SNE-26016-ITM-R12-3",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING HOOK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R12-4": {
+      "qrCode": "SNE-26016-ITM-R12-4",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING HOOK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R12-5": {
+      "qrCode": "SNE-26016-ITM-R12-5",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING HOOK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R12-6": {
+      "qrCode": "SNE-26016-ITM-R12-6",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING HOOK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R12-7": {
+      "qrCode": "SNE-26016-ITM-R12-7",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING HOOK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R12-8": {
+      "qrCode": "SNE-26016-ITM-R12-8",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "TUBE LIGHT HOLDING HOOK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-1": {
+      "qrCode": "SNE-26016-ITM-R13-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-2": {
+      "qrCode": "SNE-26016-ITM-R13-2",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-3": {
+      "qrCode": "SNE-26016-ITM-R13-3",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-4": {
+      "qrCode": "SNE-26016-ITM-R13-4",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-5": {
+      "qrCode": "SNE-26016-ITM-R13-5",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-6": {
+      "qrCode": "SNE-26016-ITM-R13-6",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-7": {
+      "qrCode": "SNE-26016-ITM-R13-7",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-8": {
+      "qrCode": "SNE-26016-ITM-R13-8",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-9": {
+      "qrCode": "SNE-26016-ITM-R13-9",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-10": {
+      "qrCode": "SNE-26016-ITM-R13-10",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-11": {
+      "qrCode": "SNE-26016-ITM-R13-11",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-12": {
+      "qrCode": "SNE-26016-ITM-R13-12",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-13": {
+      "qrCode": "SNE-26016-ITM-R13-13",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-14": {
+      "qrCode": "SNE-26016-ITM-R13-14",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-15": {
+      "qrCode": "SNE-26016-ITM-R13-15",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-16": {
+      "qrCode": "SNE-26016-ITM-R13-16",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-17": {
+      "qrCode": "SNE-26016-ITM-R13-17",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-18": {
+      "qrCode": "SNE-26016-ITM-R13-18",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-19": {
+      "qrCode": "SNE-26016-ITM-R13-19",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-20": {
+      "qrCode": "SNE-26016-ITM-R13-20",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-21": {
+      "qrCode": "SNE-26016-ITM-R13-21",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-22": {
+      "qrCode": "SNE-26016-ITM-R13-22",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-23": {
+      "qrCode": "SNE-26016-ITM-R13-23",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-24": {
+      "qrCode": "SNE-26016-ITM-R13-24",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-25": {
+      "qrCode": "SNE-26016-ITM-R13-25",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-26": {
+      "qrCode": "SNE-26016-ITM-R13-26",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-27": {
+      "qrCode": "SNE-26016-ITM-R13-27",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-28": {
+      "qrCode": "SNE-26016-ITM-R13-28",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-29": {
+      "qrCode": "SNE-26016-ITM-R13-29",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-ITM-R13-30": {
+      "qrCode": "SNE-26016-ITM-R13-30",
+      "challanNo": "SNE-26016",
+      "itemCode": "ITM",
+      "desc": "CHAIN SLING 80 GR 1 LEG 12MM CHAIN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "HINGANA ROAD, MIDC NAGPUR",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-15T13:30:30.644Z",
+      "challanNo": "SNE-26016",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 351 items."
+    },
     {
       "timestamp": "2026-11-15T13:30:17.693Z",
       "challanNo": "SNE-26015",
