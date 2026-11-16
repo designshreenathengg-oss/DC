@@ -127,7 +127,7 @@
       "date": "2026-11-15",
       "poNo": "",
       "poDate": "",
-      "projectName": "",
+      "projectName": "DUTECK- BASE PLATE FOR SKID LOCKING UNIT",
       "customer": "MAHINDRA AND MAHINDRA",
       "address": "CHAKAN MIDC, PUNE",
       "vehicle": "",
@@ -1502,6 +1502,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-16T06:14:39.355Z",
+      "challanNo": "SNE-26002",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 8 items."
+    },
     {
       "timestamp": "2026-11-16T05:21:01.937Z",
       "challanNo": "SNE-26007",
