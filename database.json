@@ -2334,7 +2334,11 @@
       "desc": "BOX PIPE 145X82X4THK 6000L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "ROHIT",
+        "time": "2026-11-17T08:31:48.885Z"
+      }
     },
     "SNE-26001-7-3": {
       "qrCode": "SNE-26001-7-3",
@@ -8612,6 +8616,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T08:31:48.885Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-7-2",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "ROHIT",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T08:31:37.042Z",
       "challanNo": "SNE-26001",
