@@ -2293,7 +2293,11 @@
       "desc": "BOX PIPE 145X82X4THK 6000L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T07:04:25.255Z"
+      }
     },
     "SNE-26001-7-2": {
       "qrCode": "SNE-26001-7-2",
@@ -2311,7 +2315,11 @@
       "desc": "BOX PIPE 145X82X4THK 6000L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T07:04:26.017Z"
+      }
     },
     "SNE-26001-7-4": {
       "qrCode": "SNE-26001-7-4",
@@ -2329,7 +2337,11 @@
       "desc": "BOX PIPE 145X82X4THK 2210L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T07:04:25.485Z"
+      }
     },
     "SNE-26001-8-2": {
       "qrCode": "SNE-26001-8-2",
@@ -8516,6 +8528,39 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T07:04:26.017Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-7-3",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T07:04:25.486Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-8-1",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T07:04:25.256Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-7-1",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T07:04:23.613Z",
       "challanNo": "SNE-26001",
