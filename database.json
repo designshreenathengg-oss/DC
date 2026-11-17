@@ -1657,7 +1657,11 @@
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:01:56.421Z"
+      }
     },
     "SNE-26003-A6-7": {
       "qrCode": "SNE-26003-A6-7",
@@ -8956,6 +8960,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T15:01:56.421Z",
+      "challanNo": "SNE-26003",
+      "qrCode": "SNE-26003-A6-6",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T15:01:49.947Z",
       "challanNo": "SNE-26003",
