@@ -2660,7 +2660,11 @@
       "desc": "2 INCH ELBOW",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "ROHIT",
+        "time": "2026-11-17T16:55:31.025Z"
+      }
     },
     "SNE-26005-6-2": {
       "qrCode": "SNE-26005-6-2",
@@ -2727,6 +2731,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T16:55:31.025Z",
+      "challanNo": "SNE-26005",
+      "qrCode": "SNE-26005-6-1",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "ROHIT",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T16:55:26.187Z",
       "challanNo": "SNE-26005",
