@@ -2392,7 +2392,11 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "ROHIT",
+        "time": "2026-11-17T16:54:00.623Z"
+      }
     },
     "SNE-26005-4-6": {
       "qrCode": "SNE-26005-4-6",
@@ -2401,7 +2405,11 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "ROHIT",
+        "time": "2026-11-17T16:54:03.100Z"
+      }
     },
     "SNE-26005-4-7": {
       "qrCode": "SNE-26005-4-7",
@@ -2643,6 +2651,28 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T16:54:03.100Z",
+      "challanNo": "SNE-26005",
+      "qrCode": "SNE-26005-4-6",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "ROHIT",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T16:54:00.623Z",
+      "challanNo": "SNE-26005",
+      "qrCode": "SNE-26005-4-5",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "ROHIT",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T16:53:57.734Z",
       "challanNo": "SNE-26005",
