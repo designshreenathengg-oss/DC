@@ -8523,7 +8523,11 @@
       "desc": "2 INCH ELBOW",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:10:15.020Z"
+      }
     },
     "SNE-26005-6-6": {
       "qrCode": "SNE-26005-6-6",
@@ -8545,7 +8549,11 @@
       "desc": "1100X750X32MM THK PLATE",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:10:13.695Z"
+      }
     },
     "SNE-26005-7-2": {
       "qrCode": "SNE-26005-7-2",
@@ -8638,6 +8646,28 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T15:10:15.020Z",
+      "challanNo": "SNE-26005",
+      "qrCode": "SNE-26005-6-5",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T15:10:13.695Z",
+      "challanNo": "SNE-26005",
+      "qrCode": "SNE-26005-7-1",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T15:10:11.062Z",
       "challanNo": "SNE-26005",
