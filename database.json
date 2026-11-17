@@ -8466,7 +8466,11 @@
       "desc": "2 INCH PIPE",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:10:24.390Z"
+      }
     },
     "SNE-26005-6-1": {
       "qrCode": "SNE-26005-6-1",
@@ -8650,6 +8654,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T15:10:24.390Z",
+      "challanNo": "SNE-26005",
+      "qrCode": "SNE-26005-5-4",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T15:10:21.549Z",
       "challanNo": "SNE-26005",
