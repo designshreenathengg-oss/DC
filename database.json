@@ -1293,7 +1293,11 @@
       "desc": "M.S. 950X625X12THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Kunal",
+        "time": "2026-11-17T14:57:47.251Z"
+      }
     },
     "SNE-26002-PLATE 1-2": {
       "qrCode": "SNE-26002-PLATE 1-2",
@@ -1311,7 +1315,11 @@
       "desc": "M.S. 950X625X12THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Kunal",
+        "time": "2026-11-17T14:57:47.058Z"
+      }
     },
     "SNE-26002-PLATE 1-4": {
       "qrCode": "SNE-26002-PLATE 1-4",
@@ -8624,6 +8632,28 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T14:57:47.252Z",
+      "challanNo": "SNE-26002",
+      "qrCode": "SNE-26002-PLATE 1-1",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Kunal",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T14:57:47.058Z",
+      "challanNo": "SNE-26002",
+      "qrCode": "SNE-26002-PLATE 1-3",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Kunal",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T08:32:04.410Z",
       "challanNo": "SNE-26001",
