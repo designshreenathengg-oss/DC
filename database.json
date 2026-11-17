@@ -490,9 +490,9 @@
       "items": [
         {
           "code": "1",
-          "desc": "2.5 RING LUG 400 NOS",
-          "qty": 1,
-          "unit": "SET",
+          "desc": "2.5 RING LUG",
+          "qty": 400,
+          "unit": "Nos",
           "remarkType": "Remark",
           "remark": "-"
         },
@@ -522,7 +522,7 @@
         },
         {
           "code": "5",
-          "desc": "2 INCH PIPE",
+          "desc": "2\" GI PIPE",
           "qty": 4,
           "unit": "Nos",
           "remarkType": "Remark",
@@ -530,7 +530,7 @@
         },
         {
           "code": "6",
-          "desc": "2 INCH ELBOW",
+          "desc": "2\" ELBOW",
           "qty": 6,
           "unit": "Nos",
           "remarkType": "Remark",
@@ -551,10 +551,465 @@
           "unit": "Nos",
           "remarkType": "Remark",
           "remark": "-"
+        },
+        {
+          "code": "9",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "10",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "11",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "12",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "13",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "14",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "15",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
         }
       ],
       "qrcodes": [
         "SNE-26005-1-1",
+        "SNE-26005-1-2",
+        "SNE-26005-1-3",
+        "SNE-26005-1-4",
+        "SNE-26005-1-5",
+        "SNE-26005-1-6",
+        "SNE-26005-1-7",
+        "SNE-26005-1-8",
+        "SNE-26005-1-9",
+        "SNE-26005-1-10",
+        "SNE-26005-1-11",
+        "SNE-26005-1-12",
+        "SNE-26005-1-13",
+        "SNE-26005-1-14",
+        "SNE-26005-1-15",
+        "SNE-26005-1-16",
+        "SNE-26005-1-17",
+        "SNE-26005-1-18",
+        "SNE-26005-1-19",
+        "SNE-26005-1-20",
+        "SNE-26005-1-21",
+        "SNE-26005-1-22",
+        "SNE-26005-1-23",
+        "SNE-26005-1-24",
+        "SNE-26005-1-25",
+        "SNE-26005-1-26",
+        "SNE-26005-1-27",
+        "SNE-26005-1-28",
+        "SNE-26005-1-29",
+        "SNE-26005-1-30",
+        "SNE-26005-1-31",
+        "SNE-26005-1-32",
+        "SNE-26005-1-33",
+        "SNE-26005-1-34",
+        "SNE-26005-1-35",
+        "SNE-26005-1-36",
+        "SNE-26005-1-37",
+        "SNE-26005-1-38",
+        "SNE-26005-1-39",
+        "SNE-26005-1-40",
+        "SNE-26005-1-41",
+        "SNE-26005-1-42",
+        "SNE-26005-1-43",
+        "SNE-26005-1-44",
+        "SNE-26005-1-45",
+        "SNE-26005-1-46",
+        "SNE-26005-1-47",
+        "SNE-26005-1-48",
+        "SNE-26005-1-49",
+        "SNE-26005-1-50",
+        "SNE-26005-1-51",
+        "SNE-26005-1-52",
+        "SNE-26005-1-53",
+        "SNE-26005-1-54",
+        "SNE-26005-1-55",
+        "SNE-26005-1-56",
+        "SNE-26005-1-57",
+        "SNE-26005-1-58",
+        "SNE-26005-1-59",
+        "SNE-26005-1-60",
+        "SNE-26005-1-61",
+        "SNE-26005-1-62",
+        "SNE-26005-1-63",
+        "SNE-26005-1-64",
+        "SNE-26005-1-65",
+        "SNE-26005-1-66",
+        "SNE-26005-1-67",
+        "SNE-26005-1-68",
+        "SNE-26005-1-69",
+        "SNE-26005-1-70",
+        "SNE-26005-1-71",
+        "SNE-26005-1-72",
+        "SNE-26005-1-73",
+        "SNE-26005-1-74",
+        "SNE-26005-1-75",
+        "SNE-26005-1-76",
+        "SNE-26005-1-77",
+        "SNE-26005-1-78",
+        "SNE-26005-1-79",
+        "SNE-26005-1-80",
+        "SNE-26005-1-81",
+        "SNE-26005-1-82",
+        "SNE-26005-1-83",
+        "SNE-26005-1-84",
+        "SNE-26005-1-85",
+        "SNE-26005-1-86",
+        "SNE-26005-1-87",
+        "SNE-26005-1-88",
+        "SNE-26005-1-89",
+        "SNE-26005-1-90",
+        "SNE-26005-1-91",
+        "SNE-26005-1-92",
+        "SNE-26005-1-93",
+        "SNE-26005-1-94",
+        "SNE-26005-1-95",
+        "SNE-26005-1-96",
+        "SNE-26005-1-97",
+        "SNE-26005-1-98",
+        "SNE-26005-1-99",
+        "SNE-26005-1-100",
+        "SNE-26005-1-101",
+        "SNE-26005-1-102",
+        "SNE-26005-1-103",
+        "SNE-26005-1-104",
+        "SNE-26005-1-105",
+        "SNE-26005-1-106",
+        "SNE-26005-1-107",
+        "SNE-26005-1-108",
+        "SNE-26005-1-109",
+        "SNE-26005-1-110",
+        "SNE-26005-1-111",
+        "SNE-26005-1-112",
+        "SNE-26005-1-113",
+        "SNE-26005-1-114",
+        "SNE-26005-1-115",
+        "SNE-26005-1-116",
+        "SNE-26005-1-117",
+        "SNE-26005-1-118",
+        "SNE-26005-1-119",
+        "SNE-26005-1-120",
+        "SNE-26005-1-121",
+        "SNE-26005-1-122",
+        "SNE-26005-1-123",
+        "SNE-26005-1-124",
+        "SNE-26005-1-125",
+        "SNE-26005-1-126",
+        "SNE-26005-1-127",
+        "SNE-26005-1-128",
+        "SNE-26005-1-129",
+        "SNE-26005-1-130",
+        "SNE-26005-1-131",
+        "SNE-26005-1-132",
+        "SNE-26005-1-133",
+        "SNE-26005-1-134",
+        "SNE-26005-1-135",
+        "SNE-26005-1-136",
+        "SNE-26005-1-137",
+        "SNE-26005-1-138",
+        "SNE-26005-1-139",
+        "SNE-26005-1-140",
+        "SNE-26005-1-141",
+        "SNE-26005-1-142",
+        "SNE-26005-1-143",
+        "SNE-26005-1-144",
+        "SNE-26005-1-145",
+        "SNE-26005-1-146",
+        "SNE-26005-1-147",
+        "SNE-26005-1-148",
+        "SNE-26005-1-149",
+        "SNE-26005-1-150",
+        "SNE-26005-1-151",
+        "SNE-26005-1-152",
+        "SNE-26005-1-153",
+        "SNE-26005-1-154",
+        "SNE-26005-1-155",
+        "SNE-26005-1-156",
+        "SNE-26005-1-157",
+        "SNE-26005-1-158",
+        "SNE-26005-1-159",
+        "SNE-26005-1-160",
+        "SNE-26005-1-161",
+        "SNE-26005-1-162",
+        "SNE-26005-1-163",
+        "SNE-26005-1-164",
+        "SNE-26005-1-165",
+        "SNE-26005-1-166",
+        "SNE-26005-1-167",
+        "SNE-26005-1-168",
+        "SNE-26005-1-169",
+        "SNE-26005-1-170",
+        "SNE-26005-1-171",
+        "SNE-26005-1-172",
+        "SNE-26005-1-173",
+        "SNE-26005-1-174",
+        "SNE-26005-1-175",
+        "SNE-26005-1-176",
+        "SNE-26005-1-177",
+        "SNE-26005-1-178",
+        "SNE-26005-1-179",
+        "SNE-26005-1-180",
+        "SNE-26005-1-181",
+        "SNE-26005-1-182",
+        "SNE-26005-1-183",
+        "SNE-26005-1-184",
+        "SNE-26005-1-185",
+        "SNE-26005-1-186",
+        "SNE-26005-1-187",
+        "SNE-26005-1-188",
+        "SNE-26005-1-189",
+        "SNE-26005-1-190",
+        "SNE-26005-1-191",
+        "SNE-26005-1-192",
+        "SNE-26005-1-193",
+        "SNE-26005-1-194",
+        "SNE-26005-1-195",
+        "SNE-26005-1-196",
+        "SNE-26005-1-197",
+        "SNE-26005-1-198",
+        "SNE-26005-1-199",
+        "SNE-26005-1-200",
+        "SNE-26005-1-201",
+        "SNE-26005-1-202",
+        "SNE-26005-1-203",
+        "SNE-26005-1-204",
+        "SNE-26005-1-205",
+        "SNE-26005-1-206",
+        "SNE-26005-1-207",
+        "SNE-26005-1-208",
+        "SNE-26005-1-209",
+        "SNE-26005-1-210",
+        "SNE-26005-1-211",
+        "SNE-26005-1-212",
+        "SNE-26005-1-213",
+        "SNE-26005-1-214",
+        "SNE-26005-1-215",
+        "SNE-26005-1-216",
+        "SNE-26005-1-217",
+        "SNE-26005-1-218",
+        "SNE-26005-1-219",
+        "SNE-26005-1-220",
+        "SNE-26005-1-221",
+        "SNE-26005-1-222",
+        "SNE-26005-1-223",
+        "SNE-26005-1-224",
+        "SNE-26005-1-225",
+        "SNE-26005-1-226",
+        "SNE-26005-1-227",
+        "SNE-26005-1-228",
+        "SNE-26005-1-229",
+        "SNE-26005-1-230",
+        "SNE-26005-1-231",
+        "SNE-26005-1-232",
+        "SNE-26005-1-233",
+        "SNE-26005-1-234",
+        "SNE-26005-1-235",
+        "SNE-26005-1-236",
+        "SNE-26005-1-237",
+        "SNE-26005-1-238",
+        "SNE-26005-1-239",
+        "SNE-26005-1-240",
+        "SNE-26005-1-241",
+        "SNE-26005-1-242",
+        "SNE-26005-1-243",
+        "SNE-26005-1-244",
+        "SNE-26005-1-245",
+        "SNE-26005-1-246",
+        "SNE-26005-1-247",
+        "SNE-26005-1-248",
+        "SNE-26005-1-249",
+        "SNE-26005-1-250",
+        "SNE-26005-1-251",
+        "SNE-26005-1-252",
+        "SNE-26005-1-253",
+        "SNE-26005-1-254",
+        "SNE-26005-1-255",
+        "SNE-26005-1-256",
+        "SNE-26005-1-257",
+        "SNE-26005-1-258",
+        "SNE-26005-1-259",
+        "SNE-26005-1-260",
+        "SNE-26005-1-261",
+        "SNE-26005-1-262",
+        "SNE-26005-1-263",
+        "SNE-26005-1-264",
+        "SNE-26005-1-265",
+        "SNE-26005-1-266",
+        "SNE-26005-1-267",
+        "SNE-26005-1-268",
+        "SNE-26005-1-269",
+        "SNE-26005-1-270",
+        "SNE-26005-1-271",
+        "SNE-26005-1-272",
+        "SNE-26005-1-273",
+        "SNE-26005-1-274",
+        "SNE-26005-1-275",
+        "SNE-26005-1-276",
+        "SNE-26005-1-277",
+        "SNE-26005-1-278",
+        "SNE-26005-1-279",
+        "SNE-26005-1-280",
+        "SNE-26005-1-281",
+        "SNE-26005-1-282",
+        "SNE-26005-1-283",
+        "SNE-26005-1-284",
+        "SNE-26005-1-285",
+        "SNE-26005-1-286",
+        "SNE-26005-1-287",
+        "SNE-26005-1-288",
+        "SNE-26005-1-289",
+        "SNE-26005-1-290",
+        "SNE-26005-1-291",
+        "SNE-26005-1-292",
+        "SNE-26005-1-293",
+        "SNE-26005-1-294",
+        "SNE-26005-1-295",
+        "SNE-26005-1-296",
+        "SNE-26005-1-297",
+        "SNE-26005-1-298",
+        "SNE-26005-1-299",
+        "SNE-26005-1-300",
+        "SNE-26005-1-301",
+        "SNE-26005-1-302",
+        "SNE-26005-1-303",
+        "SNE-26005-1-304",
+        "SNE-26005-1-305",
+        "SNE-26005-1-306",
+        "SNE-26005-1-307",
+        "SNE-26005-1-308",
+        "SNE-26005-1-309",
+        "SNE-26005-1-310",
+        "SNE-26005-1-311",
+        "SNE-26005-1-312",
+        "SNE-26005-1-313",
+        "SNE-26005-1-314",
+        "SNE-26005-1-315",
+        "SNE-26005-1-316",
+        "SNE-26005-1-317",
+        "SNE-26005-1-318",
+        "SNE-26005-1-319",
+        "SNE-26005-1-320",
+        "SNE-26005-1-321",
+        "SNE-26005-1-322",
+        "SNE-26005-1-323",
+        "SNE-26005-1-324",
+        "SNE-26005-1-325",
+        "SNE-26005-1-326",
+        "SNE-26005-1-327",
+        "SNE-26005-1-328",
+        "SNE-26005-1-329",
+        "SNE-26005-1-330",
+        "SNE-26005-1-331",
+        "SNE-26005-1-332",
+        "SNE-26005-1-333",
+        "SNE-26005-1-334",
+        "SNE-26005-1-335",
+        "SNE-26005-1-336",
+        "SNE-26005-1-337",
+        "SNE-26005-1-338",
+        "SNE-26005-1-339",
+        "SNE-26005-1-340",
+        "SNE-26005-1-341",
+        "SNE-26005-1-342",
+        "SNE-26005-1-343",
+        "SNE-26005-1-344",
+        "SNE-26005-1-345",
+        "SNE-26005-1-346",
+        "SNE-26005-1-347",
+        "SNE-26005-1-348",
+        "SNE-26005-1-349",
+        "SNE-26005-1-350",
+        "SNE-26005-1-351",
+        "SNE-26005-1-352",
+        "SNE-26005-1-353",
+        "SNE-26005-1-354",
+        "SNE-26005-1-355",
+        "SNE-26005-1-356",
+        "SNE-26005-1-357",
+        "SNE-26005-1-358",
+        "SNE-26005-1-359",
+        "SNE-26005-1-360",
+        "SNE-26005-1-361",
+        "SNE-26005-1-362",
+        "SNE-26005-1-363",
+        "SNE-26005-1-364",
+        "SNE-26005-1-365",
+        "SNE-26005-1-366",
+        "SNE-26005-1-367",
+        "SNE-26005-1-368",
+        "SNE-26005-1-369",
+        "SNE-26005-1-370",
+        "SNE-26005-1-371",
+        "SNE-26005-1-372",
+        "SNE-26005-1-373",
+        "SNE-26005-1-374",
+        "SNE-26005-1-375",
+        "SNE-26005-1-376",
+        "SNE-26005-1-377",
+        "SNE-26005-1-378",
+        "SNE-26005-1-379",
+        "SNE-26005-1-380",
+        "SNE-26005-1-381",
+        "SNE-26005-1-382",
+        "SNE-26005-1-383",
+        "SNE-26005-1-384",
+        "SNE-26005-1-385",
+        "SNE-26005-1-386",
+        "SNE-26005-1-387",
+        "SNE-26005-1-388",
+        "SNE-26005-1-389",
+        "SNE-26005-1-390",
+        "SNE-26005-1-391",
+        "SNE-26005-1-392",
+        "SNE-26005-1-393",
+        "SNE-26005-1-394",
+        "SNE-26005-1-395",
+        "SNE-26005-1-396",
+        "SNE-26005-1-397",
+        "SNE-26005-1-398",
+        "SNE-26005-1-399",
+        "SNE-26005-1-400",
         "SNE-26005-2-1",
         "SNE-26005-2-2",
         "SNE-26005-3-1",
@@ -593,12 +1048,244 @@
         "SNE-26005-6-6",
         "SNE-26005-7-1",
         "SNE-26005-7-2",
-        "SNE-26005-8-1"
+        "SNE-26005-8-1",
+        "SNE-26005-9-1",
+        "SNE-26005-10-1",
+        "SNE-26005-11-1",
+        "SNE-26005-12-1",
+        "SNE-26005-13-1",
+        "SNE-26005-14-1",
+        "SNE-26005-15-1"
       ],
-      "status": "IN TRANSIT"
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
+    "SNE-26001-FD1-1": {
+      "qrCode": "SNE-26001-FD1-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "FD1",
+      "desc": "G.I.2170X655X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-FD1-2": {
+      "qrCode": "SNE-26001-FD1-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "FD1",
+      "desc": "G.I.2170X655X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-FD2-1": {
+      "qrCode": "SNE-26001-FD2-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "FD2",
+      "desc": "G.I.2170X560X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-FD2-2": {
+      "qrCode": "SNE-26001-FD2-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "FD2",
+      "desc": "G.I.2170X560X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P1-1-1": {
+      "qrCode": "SNE-26001-P1-1-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "P1-1",
+      "desc": "G.I.1590X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P1-1-2": {
+      "qrCode": "SNE-26001-P1-1-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "P1-1",
+      "desc": "G.I.1590X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P1-1-3": {
+      "qrCode": "SNE-26001-P1-1-3",
+      "challanNo": "SNE-26001",
+      "itemCode": "P1-1",
+      "desc": "G.I.1590X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P1-1-4": {
+      "qrCode": "SNE-26001-P1-1-4",
+      "challanNo": "SNE-26001",
+      "itemCode": "P1-1",
+      "desc": "G.I.1590X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P1-2-1": {
+      "qrCode": "SNE-26001-P1-2-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "P1-2",
+      "desc": "G.I.1590X1042X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P2-1-1": {
+      "qrCode": "SNE-26001-P2-1-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "P2-1",
+      "desc": "G.I.1740X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P2-1-2": {
+      "qrCode": "SNE-26001-P2-1-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "P2-1",
+      "desc": "G.I.1740X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P2-1-3": {
+      "qrCode": "SNE-26001-P2-1-3",
+      "challanNo": "SNE-26001",
+      "itemCode": "P2-1",
+      "desc": "G.I.1740X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P2-1-4": {
+      "qrCode": "SNE-26001-P2-1-4",
+      "challanNo": "SNE-26001",
+      "itemCode": "P2-1",
+      "desc": "G.I.1740X1112X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-P2-2-1": {
+      "qrCode": "SNE-26001-P2-2-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "P2-2",
+      "desc": "G.I.1740X1042X50",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-1": {
+      "qrCode": "SNE-26001-ITM-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-2": {
+      "qrCode": "SNE-26001-ITM-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-3": {
+      "qrCode": "SNE-26001-ITM-3",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-4": {
+      "qrCode": "SNE-26001-ITM-4",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R8-1": {
+      "qrCode": "SNE-26001-ITM-R8-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 2210L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R8-2": {
+      "qrCode": "SNE-26001-ITM-R8-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 2210L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R9-1": {
+      "qrCode": "SNE-26001-ITM-R9-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 4360L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R9-2": {
+      "qrCode": "SNE-26001-ITM-R9-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 145X82X4THK 4360L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R10-1": {
+      "qrCode": "SNE-26001-ITM-R10-1",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 200X100X3THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R10-2": {
+      "qrCode": "SNE-26001-ITM-R10-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 200X100X3THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-ITM-R10-3": {
+      "qrCode": "SNE-26001-ITM-R10-3",
+      "challanNo": "SNE-26001",
+      "itemCode": "ITM",
+      "desc": "BOX PIPE 200X100X3THK 6000L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
     "SNE-26002-PLATE 1-1": {
       "qrCode": "SNE-26002-PLATE 1-1",
       "challanNo": "SNE-26002",
@@ -2159,6 +2846,1797 @@
         "time": "2026-11-17T07:04:41.302Z"
       }
     },
+    "SNE-26001-11-2": {
+      "qrCode": "SNE-26001-11-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-3": {
+      "qrCode": "SNE-26001-11-3",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-4": {
+      "qrCode": "SNE-26001-11-4",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-5": {
+      "qrCode": "SNE-26001-11-5",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-6": {
+      "qrCode": "SNE-26001-11-6",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-7": {
+      "qrCode": "SNE-26001-11-7",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-8": {
+      "qrCode": "SNE-26001-11-8",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-9": {
+      "qrCode": "SNE-26001-11-9",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-10": {
+      "qrCode": "SNE-26001-11-10",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-11": {
+      "qrCode": "SNE-26001-11-11",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-12": {
+      "qrCode": "SNE-26001-11-12",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-13": {
+      "qrCode": "SNE-26001-11-13",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-14": {
+      "qrCode": "SNE-26001-11-14",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-15": {
+      "qrCode": "SNE-26001-11-15",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-16": {
+      "qrCode": "SNE-26001-11-16",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-17": {
+      "qrCode": "SNE-26001-11-17",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-18": {
+      "qrCode": "SNE-26001-11-18",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-19": {
+      "qrCode": "SNE-26001-11-19",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-20": {
+      "qrCode": "SNE-26001-11-20",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-21": {
+      "qrCode": "SNE-26001-11-21",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-22": {
+      "qrCode": "SNE-26001-11-22",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-23": {
+      "qrCode": "SNE-26001-11-23",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-24": {
+      "qrCode": "SNE-26001-11-24",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-25": {
+      "qrCode": "SNE-26001-11-25",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-26": {
+      "qrCode": "SNE-26001-11-26",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-27": {
+      "qrCode": "SNE-26001-11-27",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-28": {
+      "qrCode": "SNE-26001-11-28",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-29": {
+      "qrCode": "SNE-26001-11-29",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-30": {
+      "qrCode": "SNE-26001-11-30",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-31": {
+      "qrCode": "SNE-26001-11-31",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-32": {
+      "qrCode": "SNE-26001-11-32",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-33": {
+      "qrCode": "SNE-26001-11-33",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-34": {
+      "qrCode": "SNE-26001-11-34",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-35": {
+      "qrCode": "SNE-26001-11-35",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-36": {
+      "qrCode": "SNE-26001-11-36",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-37": {
+      "qrCode": "SNE-26001-11-37",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-38": {
+      "qrCode": "SNE-26001-11-38",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-39": {
+      "qrCode": "SNE-26001-11-39",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-40": {
+      "qrCode": "SNE-26001-11-40",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-41": {
+      "qrCode": "SNE-26001-11-41",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-42": {
+      "qrCode": "SNE-26001-11-42",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-43": {
+      "qrCode": "SNE-26001-11-43",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-44": {
+      "qrCode": "SNE-26001-11-44",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-45": {
+      "qrCode": "SNE-26001-11-45",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-46": {
+      "qrCode": "SNE-26001-11-46",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-47": {
+      "qrCode": "SNE-26001-11-47",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-48": {
+      "qrCode": "SNE-26001-11-48",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-49": {
+      "qrCode": "SNE-26001-11-49",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-50": {
+      "qrCode": "SNE-26001-11-50",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-51": {
+      "qrCode": "SNE-26001-11-51",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-52": {
+      "qrCode": "SNE-26001-11-52",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-53": {
+      "qrCode": "SNE-26001-11-53",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-54": {
+      "qrCode": "SNE-26001-11-54",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-55": {
+      "qrCode": "SNE-26001-11-55",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-56": {
+      "qrCode": "SNE-26001-11-56",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-57": {
+      "qrCode": "SNE-26001-11-57",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-58": {
+      "qrCode": "SNE-26001-11-58",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-59": {
+      "qrCode": "SNE-26001-11-59",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-60": {
+      "qrCode": "SNE-26001-11-60",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-61": {
+      "qrCode": "SNE-26001-11-61",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-62": {
+      "qrCode": "SNE-26001-11-62",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-63": {
+      "qrCode": "SNE-26001-11-63",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-64": {
+      "qrCode": "SNE-26001-11-64",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-65": {
+      "qrCode": "SNE-26001-11-65",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-66": {
+      "qrCode": "SNE-26001-11-66",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-67": {
+      "qrCode": "SNE-26001-11-67",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-68": {
+      "qrCode": "SNE-26001-11-68",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-69": {
+      "qrCode": "SNE-26001-11-69",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-70": {
+      "qrCode": "SNE-26001-11-70",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-71": {
+      "qrCode": "SNE-26001-11-71",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-72": {
+      "qrCode": "SNE-26001-11-72",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-73": {
+      "qrCode": "SNE-26001-11-73",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-74": {
+      "qrCode": "SNE-26001-11-74",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-75": {
+      "qrCode": "SNE-26001-11-75",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-76": {
+      "qrCode": "SNE-26001-11-76",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-77": {
+      "qrCode": "SNE-26001-11-77",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-78": {
+      "qrCode": "SNE-26001-11-78",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-79": {
+      "qrCode": "SNE-26001-11-79",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-80": {
+      "qrCode": "SNE-26001-11-80",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-81": {
+      "qrCode": "SNE-26001-11-81",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-82": {
+      "qrCode": "SNE-26001-11-82",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-83": {
+      "qrCode": "SNE-26001-11-83",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-84": {
+      "qrCode": "SNE-26001-11-84",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-85": {
+      "qrCode": "SNE-26001-11-85",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-86": {
+      "qrCode": "SNE-26001-11-86",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-87": {
+      "qrCode": "SNE-26001-11-87",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-88": {
+      "qrCode": "SNE-26001-11-88",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-89": {
+      "qrCode": "SNE-26001-11-89",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-90": {
+      "qrCode": "SNE-26001-11-90",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-91": {
+      "qrCode": "SNE-26001-11-91",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-92": {
+      "qrCode": "SNE-26001-11-92",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-93": {
+      "qrCode": "SNE-26001-11-93",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-94": {
+      "qrCode": "SNE-26001-11-94",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-95": {
+      "qrCode": "SNE-26001-11-95",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-96": {
+      "qrCode": "SNE-26001-11-96",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-97": {
+      "qrCode": "SNE-26001-11-97",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-98": {
+      "qrCode": "SNE-26001-11-98",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-99": {
+      "qrCode": "SNE-26001-11-99",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-100": {
+      "qrCode": "SNE-26001-11-100",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-101": {
+      "qrCode": "SNE-26001-11-101",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-102": {
+      "qrCode": "SNE-26001-11-102",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-103": {
+      "qrCode": "SNE-26001-11-103",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-104": {
+      "qrCode": "SNE-26001-11-104",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-105": {
+      "qrCode": "SNE-26001-11-105",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-106": {
+      "qrCode": "SNE-26001-11-106",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-107": {
+      "qrCode": "SNE-26001-11-107",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-108": {
+      "qrCode": "SNE-26001-11-108",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-109": {
+      "qrCode": "SNE-26001-11-109",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-110": {
+      "qrCode": "SNE-26001-11-110",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-111": {
+      "qrCode": "SNE-26001-11-111",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-112": {
+      "qrCode": "SNE-26001-11-112",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-113": {
+      "qrCode": "SNE-26001-11-113",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-114": {
+      "qrCode": "SNE-26001-11-114",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-115": {
+      "qrCode": "SNE-26001-11-115",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-116": {
+      "qrCode": "SNE-26001-11-116",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-117": {
+      "qrCode": "SNE-26001-11-117",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-118": {
+      "qrCode": "SNE-26001-11-118",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-119": {
+      "qrCode": "SNE-26001-11-119",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-120": {
+      "qrCode": "SNE-26001-11-120",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-121": {
+      "qrCode": "SNE-26001-11-121",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-122": {
+      "qrCode": "SNE-26001-11-122",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-123": {
+      "qrCode": "SNE-26001-11-123",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-124": {
+      "qrCode": "SNE-26001-11-124",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-125": {
+      "qrCode": "SNE-26001-11-125",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-126": {
+      "qrCode": "SNE-26001-11-126",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-127": {
+      "qrCode": "SNE-26001-11-127",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-128": {
+      "qrCode": "SNE-26001-11-128",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-129": {
+      "qrCode": "SNE-26001-11-129",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-130": {
+      "qrCode": "SNE-26001-11-130",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-131": {
+      "qrCode": "SNE-26001-11-131",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-132": {
+      "qrCode": "SNE-26001-11-132",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-133": {
+      "qrCode": "SNE-26001-11-133",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-134": {
+      "qrCode": "SNE-26001-11-134",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-135": {
+      "qrCode": "SNE-26001-11-135",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-136": {
+      "qrCode": "SNE-26001-11-136",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-137": {
+      "qrCode": "SNE-26001-11-137",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-138": {
+      "qrCode": "SNE-26001-11-138",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-139": {
+      "qrCode": "SNE-26001-11-139",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-140": {
+      "qrCode": "SNE-26001-11-140",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-141": {
+      "qrCode": "SNE-26001-11-141",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-142": {
+      "qrCode": "SNE-26001-11-142",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-143": {
+      "qrCode": "SNE-26001-11-143",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-144": {
+      "qrCode": "SNE-26001-11-144",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-145": {
+      "qrCode": "SNE-26001-11-145",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-146": {
+      "qrCode": "SNE-26001-11-146",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-147": {
+      "qrCode": "SNE-26001-11-147",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-148": {
+      "qrCode": "SNE-26001-11-148",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-149": {
+      "qrCode": "SNE-26001-11-149",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-150": {
+      "qrCode": "SNE-26001-11-150",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-151": {
+      "qrCode": "SNE-26001-11-151",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-152": {
+      "qrCode": "SNE-26001-11-152",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-153": {
+      "qrCode": "SNE-26001-11-153",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-154": {
+      "qrCode": "SNE-26001-11-154",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-155": {
+      "qrCode": "SNE-26001-11-155",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-156": {
+      "qrCode": "SNE-26001-11-156",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-157": {
+      "qrCode": "SNE-26001-11-157",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-158": {
+      "qrCode": "SNE-26001-11-158",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-159": {
+      "qrCode": "SNE-26001-11-159",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-160": {
+      "qrCode": "SNE-26001-11-160",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-161": {
+      "qrCode": "SNE-26001-11-161",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-162": {
+      "qrCode": "SNE-26001-11-162",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-163": {
+      "qrCode": "SNE-26001-11-163",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-164": {
+      "qrCode": "SNE-26001-11-164",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-165": {
+      "qrCode": "SNE-26001-11-165",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-166": {
+      "qrCode": "SNE-26001-11-166",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-167": {
+      "qrCode": "SNE-26001-11-167",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-168": {
+      "qrCode": "SNE-26001-11-168",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-169": {
+      "qrCode": "SNE-26001-11-169",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-170": {
+      "qrCode": "SNE-26001-11-170",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-171": {
+      "qrCode": "SNE-26001-11-171",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-172": {
+      "qrCode": "SNE-26001-11-172",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-173": {
+      "qrCode": "SNE-26001-11-173",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-174": {
+      "qrCode": "SNE-26001-11-174",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-175": {
+      "qrCode": "SNE-26001-11-175",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-176": {
+      "qrCode": "SNE-26001-11-176",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-177": {
+      "qrCode": "SNE-26001-11-177",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-178": {
+      "qrCode": "SNE-26001-11-178",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-179": {
+      "qrCode": "SNE-26001-11-179",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-180": {
+      "qrCode": "SNE-26001-11-180",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-181": {
+      "qrCode": "SNE-26001-11-181",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-182": {
+      "qrCode": "SNE-26001-11-182",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-183": {
+      "qrCode": "SNE-26001-11-183",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-184": {
+      "qrCode": "SNE-26001-11-184",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-185": {
+      "qrCode": "SNE-26001-11-185",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-186": {
+      "qrCode": "SNE-26001-11-186",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-187": {
+      "qrCode": "SNE-26001-11-187",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-188": {
+      "qrCode": "SNE-26001-11-188",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-189": {
+      "qrCode": "SNE-26001-11-189",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-190": {
+      "qrCode": "SNE-26001-11-190",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-191": {
+      "qrCode": "SNE-26001-11-191",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-192": {
+      "qrCode": "SNE-26001-11-192",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-193": {
+      "qrCode": "SNE-26001-11-193",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-194": {
+      "qrCode": "SNE-26001-11-194",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-195": {
+      "qrCode": "SNE-26001-11-195",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-196": {
+      "qrCode": "SNE-26001-11-196",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-197": {
+      "qrCode": "SNE-26001-11-197",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-198": {
+      "qrCode": "SNE-26001-11-198",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-199": {
+      "qrCode": "SNE-26001-11-199",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-11-200": {
+      "qrCode": "SNE-26001-11-200",
+      "challanNo": "SNE-26001",
+      "itemCode": "11",
+      "desc": "CUTTING WHEEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
     "SNE-26001-12-1": {
       "qrCode": "SNE-26001-12-1",
       "challanNo": "SNE-26001",
@@ -2237,6 +4715,87 @@
         "time": "2026-11-17T07:04:39.446Z"
       }
     },
+    "SNE-26001-13-2": {
+      "qrCode": "SNE-26001-13-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "13",
+      "desc": "WELDING ROD 4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-13-3": {
+      "qrCode": "SNE-26001-13-3",
+      "challanNo": "SNE-26001",
+      "itemCode": "13",
+      "desc": "WELDING ROD 4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-13-4": {
+      "qrCode": "SNE-26001-13-4",
+      "challanNo": "SNE-26001",
+      "itemCode": "13",
+      "desc": "WELDING ROD 4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-13-5": {
+      "qrCode": "SNE-26001-13-5",
+      "challanNo": "SNE-26001",
+      "itemCode": "13",
+      "desc": "WELDING ROD 4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-13-6": {
+      "qrCode": "SNE-26001-13-6",
+      "challanNo": "SNE-26001",
+      "itemCode": "13",
+      "desc": "WELDING ROD 4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-13-7": {
+      "qrCode": "SNE-26001-13-7",
+      "challanNo": "SNE-26001",
+      "itemCode": "13",
+      "desc": "WELDING ROD 4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-13-8": {
+      "qrCode": "SNE-26001-13-8",
+      "challanNo": "SNE-26001",
+      "itemCode": "13",
+      "desc": "WELDING ROD 4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-13-9": {
+      "qrCode": "SNE-26001-13-9",
+      "challanNo": "SNE-26001",
+      "itemCode": "13",
+      "desc": "WELDING ROD 4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-13-10": {
+      "qrCode": "SNE-26001-13-10",
+      "challanNo": "SNE-26001",
+      "itemCode": "13",
+      "desc": "WELDING ROD 4MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
     "SNE-26001-14-1": {
       "qrCode": "SNE-26001-14-1",
       "challanNo": "SNE-26001",
@@ -2249,6 +4808,87 @@
         "officer": "ROHIT",
         "time": "2026-11-17T08:32:01.808Z"
       }
+    },
+    "SNE-26001-14-2": {
+      "qrCode": "SNE-26001-14-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "14",
+      "desc": "WELDING ROD 3.15 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-14-3": {
+      "qrCode": "SNE-26001-14-3",
+      "challanNo": "SNE-26001",
+      "itemCode": "14",
+      "desc": "WELDING ROD 3.15 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-14-4": {
+      "qrCode": "SNE-26001-14-4",
+      "challanNo": "SNE-26001",
+      "itemCode": "14",
+      "desc": "WELDING ROD 3.15 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-14-5": {
+      "qrCode": "SNE-26001-14-5",
+      "challanNo": "SNE-26001",
+      "itemCode": "14",
+      "desc": "WELDING ROD 3.15 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-14-6": {
+      "qrCode": "SNE-26001-14-6",
+      "challanNo": "SNE-26001",
+      "itemCode": "14",
+      "desc": "WELDING ROD 3.15 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-14-7": {
+      "qrCode": "SNE-26001-14-7",
+      "challanNo": "SNE-26001",
+      "itemCode": "14",
+      "desc": "WELDING ROD 3.15 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-14-8": {
+      "qrCode": "SNE-26001-14-8",
+      "challanNo": "SNE-26001",
+      "itemCode": "14",
+      "desc": "WELDING ROD 3.15 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-14-9": {
+      "qrCode": "SNE-26001-14-9",
+      "challanNo": "SNE-26001",
+      "itemCode": "14",
+      "desc": "WELDING ROD 3.15 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-14-10": {
+      "qrCode": "SNE-26001-14-10",
+      "challanNo": "SNE-26001",
+      "itemCode": "14",
+      "desc": "WELDING ROD 3.15 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     },
     "SNE-26001-15-1": {
       "qrCode": "SNE-26001-15-1",
@@ -2263,14 +4903,95 @@
         "time": "2026-11-17T07:04:38.701Z"
       }
     },
+    "SNE-26001-15-2": {
+      "qrCode": "SNE-26001-15-2",
+      "challanNo": "SNE-26001",
+      "itemCode": "15",
+      "desc": "CABLE TIE 100 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-15-3": {
+      "qrCode": "SNE-26001-15-3",
+      "challanNo": "SNE-26001",
+      "itemCode": "15",
+      "desc": "CABLE TIE 100 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-15-4": {
+      "qrCode": "SNE-26001-15-4",
+      "challanNo": "SNE-26001",
+      "itemCode": "15",
+      "desc": "CABLE TIE 100 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-15-5": {
+      "qrCode": "SNE-26001-15-5",
+      "challanNo": "SNE-26001",
+      "itemCode": "15",
+      "desc": "CABLE TIE 100 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-15-6": {
+      "qrCode": "SNE-26001-15-6",
+      "challanNo": "SNE-26001",
+      "itemCode": "15",
+      "desc": "CABLE TIE 100 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-15-7": {
+      "qrCode": "SNE-26001-15-7",
+      "challanNo": "SNE-26001",
+      "itemCode": "15",
+      "desc": "CABLE TIE 100 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-15-8": {
+      "qrCode": "SNE-26001-15-8",
+      "challanNo": "SNE-26001",
+      "itemCode": "15",
+      "desc": "CABLE TIE 100 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-15-9": {
+      "qrCode": "SNE-26001-15-9",
+      "challanNo": "SNE-26001",
+      "itemCode": "15",
+      "desc": "CABLE TIE 100 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26001-15-10": {
+      "qrCode": "SNE-26001-15-10",
+      "challanNo": "SNE-26001",
+      "itemCode": "15",
+      "desc": "CABLE TIE 100 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
     "SNE-26005-1-1": {
       "qrCode": "SNE-26005-1-1",
       "challanNo": "SNE-26005",
       "itemCode": "1",
-      "desc": "2.5 RING LUG 400 NOS",
+      "desc": "2.5 RING LUG",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
+      "status": "DISPATCH SCANNED",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T15:06:27.149Z"
@@ -5874,11 +8595,7 @@
       "desc": "SAW CUTTER 22 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:11:01.850Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-2-2": {
       "qrCode": "SNE-26005-2-2",
@@ -5887,7 +8604,7 @@
       "desc": "SAW CUTTER 22 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
+      "status": "DISPATCH SCANNED",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T15:06:30.354Z"
@@ -5900,11 +8617,7 @@
       "desc": "PERMIT BOOK HEIGHT/HOT",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:09:46.016Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-3-2": {
       "qrCode": "SNE-26005-3-2",
@@ -5913,7 +8626,7 @@
       "desc": "PERMIT BOOK HEIGHT/HOT",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
+      "status": "DISPATCH SCANNED",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T15:06:31.883Z"
@@ -5926,11 +8639,7 @@
       "desc": "PERMIT BOOK HEIGHT/HOT",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:56.204Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-3-4": {
       "qrCode": "SNE-26005-3-4",
@@ -5939,7 +8648,7 @@
       "desc": "PERMIT BOOK HEIGHT/HOT",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
+      "status": "DISPATCH SCANNED",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T15:06:34.206Z"
@@ -5952,11 +8661,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:52.382Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-2": {
       "qrCode": "SNE-26005-4-2",
@@ -5965,11 +8670,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:09:43.261Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-3": {
       "qrCode": "SNE-26005-4-3",
@@ -5978,11 +8679,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:09:51.554Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-4": {
       "qrCode": "SNE-26005-4-4",
@@ -5991,11 +8688,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:09:43.068Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-5": {
       "qrCode": "SNE-26005-4-5",
@@ -6004,11 +8697,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:51.182Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-6": {
       "qrCode": "SNE-26005-4-6",
@@ -6017,11 +8706,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:09:53.583Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-7": {
       "qrCode": "SNE-26005-4-7",
@@ -6030,11 +8715,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:47.171Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-8": {
       "qrCode": "SNE-26005-4-8",
@@ -6043,11 +8724,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:09:54.910Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-9": {
       "qrCode": "SNE-26005-4-9",
@@ -6056,11 +8733,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:44.067Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-10": {
       "qrCode": "SNE-26005-4-10",
@@ -6069,11 +8742,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:09:55.130Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-11": {
       "qrCode": "SNE-26005-4-11",
@@ -6082,11 +8751,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:09:55.355Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-12": {
       "qrCode": "SNE-26005-4-12",
@@ -6095,11 +8760,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:09:56.648Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-13": {
       "qrCode": "SNE-26005-4-13",
@@ -6108,11 +8769,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:37.690Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-14": {
       "qrCode": "SNE-26005-4-14",
@@ -6121,11 +8778,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:38.728Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-15": {
       "qrCode": "SNE-26005-4-15",
@@ -6134,11 +8787,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:35.751Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-16": {
       "qrCode": "SNE-26005-4-16",
@@ -6147,11 +8796,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:09:57.934Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-17": {
       "qrCode": "SNE-26005-4-17",
@@ -6160,11 +8805,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:09:58.143Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-18": {
       "qrCode": "SNE-26005-4-18",
@@ -6173,11 +8814,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:32.118Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-19": {
       "qrCode": "SNE-26005-4-19",
@@ -6186,11 +8823,7 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:31.321Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-4-20": {
       "qrCode": "SNE-26005-4-20",
@@ -6199,20 +8832,16 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:00.309Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-5-1": {
       "qrCode": "SNE-26005-5-1",
       "challanNo": "SNE-26005",
       "itemCode": "5",
-      "desc": "2 INCH PIPE",
+      "desc": "2\" GI PIPE",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
+      "status": "DISPATCH SCANNED",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T15:06:36.561Z"
@@ -6222,118 +8851,82 @@
       "qrCode": "SNE-26005-5-2",
       "challanNo": "SNE-26005",
       "itemCode": "5",
-      "desc": "2 INCH PIPE",
+      "desc": "2\" GI PIPE",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:09:59.904Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-5-3": {
       "qrCode": "SNE-26005-5-3",
       "challanNo": "SNE-26005",
       "itemCode": "5",
-      "desc": "2 INCH PIPE",
+      "desc": "2\" GI PIPE",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:00.108Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-5-4": {
       "qrCode": "SNE-26005-5-4",
       "challanNo": "SNE-26005",
       "itemCode": "5",
-      "desc": "2 INCH PIPE",
+      "desc": "2\" GI PIPE",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:24.390Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-6-1": {
       "qrCode": "SNE-26005-6-1",
       "challanNo": "SNE-26005",
       "itemCode": "6",
-      "desc": "2 INCH ELBOW",
+      "desc": "2\" ELBOW",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:03.154Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-6-2": {
       "qrCode": "SNE-26005-6-2",
       "challanNo": "SNE-26005",
       "itemCode": "6",
-      "desc": "2 INCH ELBOW",
+      "desc": "2\" ELBOW",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:02.938Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-6-3": {
       "qrCode": "SNE-26005-6-3",
       "challanNo": "SNE-26005",
       "itemCode": "6",
-      "desc": "2 INCH ELBOW",
+      "desc": "2\" ELBOW",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:01.540Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-6-4": {
       "qrCode": "SNE-26005-6-4",
       "challanNo": "SNE-26005",
       "itemCode": "6",
-      "desc": "2 INCH ELBOW",
+      "desc": "2\" ELBOW",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:21.549Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-6-5": {
       "qrCode": "SNE-26005-6-5",
       "challanNo": "SNE-26005",
       "itemCode": "6",
-      "desc": "2 INCH ELBOW",
+      "desc": "2\" ELBOW",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:15.020Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-6-6": {
       "qrCode": "SNE-26005-6-6",
       "challanNo": "SNE-26005",
       "itemCode": "6",
-      "desc": "2 INCH ELBOW",
+      "desc": "2\" ELBOW",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:06.400Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-7-1": {
       "qrCode": "SNE-26005-7-1",
@@ -6342,11 +8935,7 @@
       "desc": "1100X750X32MM THK PLATE",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:13.695Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-7-2": {
       "qrCode": "SNE-26005-7-2",
@@ -6355,11 +8944,7 @@
       "desc": "1100X750X32MM THK PLATE",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:07.152Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-8-1": {
       "qrCode": "SNE-26005-8-1",
@@ -6368,11 +8953,7 @@
       "desc": "1700X1250 SS 1.5 THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "IN TRANSIT",
-      "dispatchScan": {
-        "officer": "Rohit",
-        "time": "2026-11-17T15:10:11.062Z"
-      }
+      "status": "QR GENERATED"
     },
     "SNE-26005-9-1": {
       "qrCode": "SNE-26005-9-1",
@@ -6439,424 +9020,6 @@
     }
   },
   "audit": [
-    {
-      "timestamp": "2026-11-17T15:54:15.149Z",
-      "challanNo": "SNE-26001",
-      "qrCode": "ALL",
-      "action": "CHALLAN EDITED",
-      "actor": "admin",
-      "dispatchPerson": "-",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Win32)",
-      "details": "Saved 34 items."
-    },
-    {
-      "timestamp": "2026-11-17T15:11:04.392Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "ALL",
-      "action": "DISPATCH CONFIRMED",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Status set to IN TRANSIT"
-    },
-    {
-      "timestamp": "2026-11-17T15:11:01.850Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-2-1",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:56.204Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-3-3",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:52.382Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-1",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:51.182Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-5",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:47.171Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-7",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:44.067Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-9",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:38.728Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-14",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:37.690Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-13",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:35.751Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-15",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:32.118Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-18",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:31.321Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-19",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:24.390Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-5-4",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:21.549Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-6-4",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:15.020Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-6-5",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:13.695Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-7-1",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:11.062Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-8-1",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:07.152Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-7-2",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:06.400Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-6-6",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:03.154Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-6-1",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:02.938Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-6-2",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:01.540Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-6-3",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:00.309Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-20",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:10:00.108Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-5-3",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:09:59.904Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-5-2",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:09:58.143Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-17",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:09:57.934Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-16",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:09:56.648Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-12",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:09:55.355Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-11",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:09:55.130Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-10",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:09:54.910Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-8",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:09:53.583Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-6",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:09:51.554Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-3",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:09:46.016Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-3-1",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:09:43.261Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-2",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:09:43.068Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "SNE-26005-4-4",
-      "action": "DISPATCH SCAN",
-      "actor": "dispatch",
-      "dispatchPerson": "Rohit",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Linux armv81)",
-      "details": "Scanned"
-    },
-    {
-      "timestamp": "2026-11-17T15:08:14.539Z",
-      "challanNo": "SNE-26005",
-      "qrCode": "ALL",
-      "action": "CHALLAN EDITED",
-      "actor": "admin",
-      "dispatchPerson": "-",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Win32)",
-      "details": "Saved 40 items."
-    },
     {
       "timestamp": "2026-11-17T15:06:36.561Z",
       "challanNo": "SNE-26005",
