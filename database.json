@@ -1579,7 +1579,11 @@
       "desc": "TAPER SUPPORT HEIGHT 1245 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:01:46.605Z"
+      }
     },
     "SNE-26003-A6-1": {
       "qrCode": "SNE-26003-A6-1",
@@ -1601,7 +1605,11 @@
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:01:49.947Z"
+      }
     },
     "SNE-26003-A6-3": {
       "qrCode": "SNE-26003-A6-3",
@@ -8948,6 +8956,28 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T15:01:49.947Z",
+      "challanNo": "SNE-26003",
+      "qrCode": "SNE-26003-A6-2",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T15:01:46.605Z",
+      "challanNo": "SNE-26003",
+      "qrCode": "SNE-26003-A5-2",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T15:01:26.059Z",
       "challanNo": "SNE-26003",
