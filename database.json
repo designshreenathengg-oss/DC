@@ -2161,7 +2161,11 @@
       "desc": "G.I.2170X560X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T07:04:13.456Z"
+      }
     },
     "SNE-26001-2-2": {
       "qrCode": "SNE-26001-2-2",
@@ -2179,7 +2183,11 @@
       "desc": "G.I.1590X1112X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T07:04:13.840Z"
+      }
     },
     "SNE-26001-3-2": {
       "qrCode": "SNE-26001-3-2",
@@ -2197,7 +2205,11 @@
       "desc": "G.I.1590X1112X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T07:04:14.338Z"
+      }
     },
     "SNE-26001-3-4": {
       "qrCode": "SNE-26001-3-4",
@@ -2215,7 +2227,11 @@
       "desc": "G.I.1590X1042X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T07:04:16.903Z"
+      }
     },
     "SNE-26001-5-1": {
       "qrCode": "SNE-26001-5-1",
@@ -8492,6 +8508,50 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T07:04:16.903Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-4-1",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T07:04:14.339Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-3-3",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T07:04:13.840Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-3-1",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T07:04:13.456Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-2-1",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T07:04:12.006Z",
       "challanNo": "SNE-26001",
