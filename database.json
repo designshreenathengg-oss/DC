@@ -1636,7 +1636,11 @@
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:01:17.281Z"
+      }
     },
     "SNE-26003-A6-6": {
       "qrCode": "SNE-26003-A6-6",
@@ -1654,7 +1658,11 @@
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:01:18.583Z"
+      }
     },
     "SNE-26003-A6-8": {
       "qrCode": "SNE-26003-A6-8",
@@ -1663,7 +1671,11 @@
       "desc": "TAPER SUPPORT HEIGHT  469 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:01:21.168Z"
+      }
     },
     "SNE-26003-A6-9": {
       "qrCode": "SNE-26003-A6-9",
@@ -1772,7 +1784,11 @@
       "desc": "ASU TANK MESH",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:01:26.059Z"
+      }
     },
     "SNE-26003-A7-6": {
       "qrCode": "SNE-26003-A7-6",
@@ -8932,6 +8948,50 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T15:01:26.059Z",
+      "challanNo": "SNE-26003",
+      "qrCode": "SNE-26003-A7-5",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T15:01:21.168Z",
+      "challanNo": "SNE-26003",
+      "qrCode": "SNE-26003-A6-8",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T15:01:18.583Z",
+      "challanNo": "SNE-26003",
+      "qrCode": "SNE-26003-A6-7",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T15:01:17.281Z",
+      "challanNo": "SNE-26003",
+      "qrCode": "SNE-26003-A6-5",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T15:01:08.867Z",
       "challanNo": "SNE-26003",
