@@ -210,7 +210,7 @@
         "SNE-26002-PLATE 2-3",
         "SNE-26002-PLATE 2-4"
       ],
-      "status": "QR GENERATED"
+      "status": "IN TRANSIT"
     },
     "SNE-26003": {
       "challanNo": "SNE-26003",
@@ -1293,7 +1293,7 @@
       "desc": "M.S. 950X625X12THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Kunal",
         "time": "2026-11-17T14:57:47.251Z"
@@ -1306,7 +1306,7 @@
       "desc": "M.S. 950X625X12THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Kunal",
         "time": "2026-11-17T14:57:58.503Z"
@@ -1319,7 +1319,7 @@
       "desc": "M.S. 950X625X12THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Kunal",
         "time": "2026-11-17T14:57:47.058Z"
@@ -1332,7 +1332,7 @@
       "desc": "M.S. 950X625X12THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Kunal",
         "time": "2026-11-17T14:57:57.009Z"
@@ -1345,7 +1345,7 @@
       "desc": "M.S. 685X625X12THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Kunal",
         "time": "2026-11-17T14:57:53.250Z"
@@ -1358,7 +1358,7 @@
       "desc": "M.S. 685X625X12THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Kunal",
         "time": "2026-11-17T14:58:03.991Z"
@@ -1371,7 +1371,7 @@
       "desc": "M.S. 685X625X12THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Kunal",
         "time": "2026-11-17T14:57:55.356Z"
@@ -1384,7 +1384,7 @@
       "desc": "M.S. 685X625X12THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Kunal",
         "time": "2026-11-17T14:58:04.651Z"
@@ -8656,6 +8656,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T14:58:11.384Z",
+      "challanNo": "SNE-26002",
+      "qrCode": "ALL",
+      "action": "DISPATCH CONFIRMED",
+      "actor": "dispatch",
+      "dispatchPerson": "Kunal",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Status set to IN TRANSIT"
+    },
     {
       "timestamp": "2026-11-17T14:58:04.651Z",
       "challanNo": "SNE-26002",
