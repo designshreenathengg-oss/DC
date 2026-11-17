@@ -2274,7 +2274,11 @@
       "desc": "SAW CUTTER 22 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "ROHIT",
+        "time": "2026-11-17T16:55:04.503Z"
+      }
     },
     "SNE-26005-2-2": {
       "qrCode": "SNE-26005-2-2",
@@ -2715,6 +2719,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T16:55:04.503Z",
+      "challanNo": "SNE-26005",
+      "qrCode": "SNE-26005-2-1",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "ROHIT",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T16:55:00.478Z",
       "challanNo": "SNE-26005",
