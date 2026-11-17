@@ -2359,7 +2359,11 @@
       "desc": "BOX PIPE 145X82X4THK 4360L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T07:04:33.693Z"
+      }
     },
     "SNE-26001-9-2": {
       "qrCode": "SNE-26001-9-2",
@@ -2377,7 +2381,11 @@
       "desc": "BOX PIPE 200X100X3THK 6000L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T07:04:34.221Z"
+      }
     },
     "SNE-26001-10-2": {
       "qrCode": "SNE-26001-10-2",
@@ -2395,7 +2403,11 @@
       "desc": "BOX PIPE 200X100X3THK 6000L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T07:04:34.901Z"
+      }
     },
     "SNE-26001-11-1": {
       "qrCode": "SNE-26001-11-1",
@@ -4204,7 +4216,11 @@
       "desc": "SILVER SPRAY",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T07:04:35.665Z"
+      }
     },
     "SNE-26001-12-2": {
       "qrCode": "SNE-26001-12-2",
@@ -4222,7 +4238,11 @@
       "desc": "SILVER SPRAY",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T07:04:36.437Z"
+      }
     },
     "SNE-26001-12-4": {
       "qrCode": "SNE-26001-12-4",
@@ -8528,6 +8548,61 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T07:04:36.437Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-12-3",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T07:04:35.665Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-12-1",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T07:04:34.901Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-10-3",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T07:04:34.221Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-10-1",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T07:04:33.693Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-9-1",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T07:04:26.017Z",
       "challanNo": "SNE-26001",
