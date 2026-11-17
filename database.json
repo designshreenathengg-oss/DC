@@ -1748,7 +1748,11 @@
       "desc": "ASU TANK MESH",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:02:04.213Z"
+      }
     },
     "SNE-26003-A7-2": {
       "qrCode": "SNE-26003-A7-2",
@@ -8960,6 +8964,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T15:02:04.213Z",
+      "challanNo": "SNE-26003",
+      "qrCode": "SNE-26003-A7-1",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T15:01:56.421Z",
       "challanNo": "SNE-26003",
