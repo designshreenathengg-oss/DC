@@ -2751,10 +2751,25 @@
       "desc": "1100X750X32MM THK PLATE",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "ROHIT",
+        "time": "2026-11-17T16:56:33.079Z"
+      }
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T16:56:33.079Z",
+      "challanNo": "SNE-26005",
+      "qrCode": "SNE-26005-7-2",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "ROHIT",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T16:56:28.550Z",
       "challanNo": "SNE-26005",
