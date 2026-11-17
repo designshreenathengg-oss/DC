@@ -1878,7 +1878,11 @@
       "desc": "DUCT SAFETY MESH SS",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:02:16.324Z"
+      }
     },
     "SNE-26003-A8-4": {
       "qrCode": "SNE-26003-A8-4",
@@ -8972,6 +8976,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T15:02:16.324Z",
+      "challanNo": "SNE-26003",
+      "qrCode": "SNE-26003-A8-3",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T15:02:12.899Z",
       "challanNo": "SNE-26003",
