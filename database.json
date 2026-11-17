@@ -8567,7 +8567,11 @@
       "desc": "1700X1250 SS 1.5 THK",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:10:11.062Z"
+      }
     },
     "SNE-26005-9-1": {
       "qrCode": "SNE-26005-9-1",
@@ -8634,6 +8638,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T15:10:11.062Z",
+      "challanNo": "SNE-26005",
+      "qrCode": "SNE-26005-8-1",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T15:10:07.152Z",
       "challanNo": "SNE-26005",
