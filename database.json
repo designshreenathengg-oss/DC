@@ -169,7 +169,7 @@
         "SNE-26001-14-1",
         "SNE-26001-15-1"
       ],
-      "status": "QR GENERATED"
+      "status": "IN TRANSIT"
     },
     "SNE-26002": {
       "challanNo": "SNE-26002",
@@ -2139,7 +2139,7 @@
       "desc": "G.I.2170X655X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:12.006Z"
@@ -2152,7 +2152,7 @@
       "desc": "G.I.2170X655X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-17T08:30:58.357Z"
@@ -2165,7 +2165,7 @@
       "desc": "G.I.2170X560X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:13.456Z"
@@ -2178,7 +2178,7 @@
       "desc": "G.I.2170X560X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-17T08:31:05.915Z"
@@ -2191,7 +2191,7 @@
       "desc": "G.I.1590X1112X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:13.840Z"
@@ -2204,7 +2204,7 @@
       "desc": "G.I.1590X1112X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-17T08:31:11.014Z"
@@ -2217,7 +2217,7 @@
       "desc": "G.I.1590X1112X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:14.338Z"
@@ -2230,7 +2230,7 @@
       "desc": "G.I.1590X1112X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-17T08:31:15.764Z"
@@ -2243,7 +2243,7 @@
       "desc": "G.I.1590X1042X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:16.903Z"
@@ -2256,7 +2256,7 @@
       "desc": "G.I.1740X1112X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-17T08:31:27.269Z"
@@ -2269,7 +2269,7 @@
       "desc": "G.I.1740X1112X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:17.629Z"
@@ -2282,7 +2282,7 @@
       "desc": "G.I.1740X1112X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-17T08:31:32.359Z"
@@ -2295,7 +2295,7 @@
       "desc": "G.I.1740X1112X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:23.613Z"
@@ -2308,7 +2308,7 @@
       "desc": "G.I.1740X1042X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-17T08:31:37.042Z"
@@ -2321,7 +2321,7 @@
       "desc": "BOX PIPE 145X82X4THK 6000L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:25.255Z"
@@ -2334,7 +2334,7 @@
       "desc": "BOX PIPE 145X82X4THK 6000L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-17T08:31:48.885Z"
@@ -2347,7 +2347,7 @@
       "desc": "BOX PIPE 145X82X4THK 6000L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:26.017Z"
@@ -2360,7 +2360,7 @@
       "desc": "BOX PIPE 145X82X4THK 6000L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:44.337Z"
@@ -2373,7 +2373,7 @@
       "desc": "BOX PIPE 145X82X4THK 2210L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:25.485Z"
@@ -2386,7 +2386,7 @@
       "desc": "BOX PIPE 145X82X4THK 2210L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:42.733Z"
@@ -2399,7 +2399,7 @@
       "desc": "BOX PIPE 145X82X4THK 4360L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:33.693Z"
@@ -2412,7 +2412,7 @@
       "desc": "BOX PIPE 145X82X4THK 4360L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:42.563Z"
@@ -2425,7 +2425,7 @@
       "desc": "BOX PIPE 200X100X3THK 6000L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:34.221Z"
@@ -2438,7 +2438,7 @@
       "desc": "BOX PIPE 200X100X3THK 6000L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:41.665Z"
@@ -2451,7 +2451,7 @@
       "desc": "BOX PIPE 200X100X3THK 6000L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:34.901Z"
@@ -2464,7 +2464,7 @@
       "desc": "CUTTING WHEEL 200 nos",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:41.302Z"
@@ -4268,7 +4268,7 @@
       "desc": "SILVER SPRAY",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:35.665Z"
@@ -4281,7 +4281,7 @@
       "desc": "SILVER SPRAY",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:40.880Z"
@@ -4294,7 +4294,7 @@
       "desc": "SILVER SPRAY",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:36.437Z"
@@ -4307,7 +4307,7 @@
       "desc": "SILVER SPRAY",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:38.479Z"
@@ -4320,7 +4320,7 @@
       "desc": "SILVER SPRAY",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-17T08:31:55.895Z"
@@ -4333,7 +4333,7 @@
       "desc": "WELDING ROD 4MM 10 nos",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:39.446Z"
@@ -4427,7 +4427,7 @@
       "desc": "WELDING ROD 3.15 MM 10 nos",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "ROHIT",
         "time": "2026-11-17T08:32:01.808Z"
@@ -4521,7 +4521,7 @@
       "desc": "CABLE TIE 100 MM 10nos",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "DISPATCH SCANNED",
+      "status": "IN TRANSIT",
       "dispatchScan": {
         "officer": "Rohit",
         "time": "2026-11-17T07:04:38.701Z"
@@ -8624,6 +8624,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T08:32:04.410Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "ALL",
+      "action": "DISPATCH CONFIRMED",
+      "actor": "admin",
+      "dispatchPerson": "ROHIT",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Status set to IN TRANSIT"
+    },
     {
       "timestamp": "2026-11-17T08:32:01.808Z",
       "challanNo": "SNE-26001",
