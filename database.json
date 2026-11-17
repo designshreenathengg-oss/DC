@@ -2362,7 +2362,11 @@
       "desc": "Z ANGLE 50X50X50X3000 MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "ROHIT",
+        "time": "2026-11-17T16:53:51.224Z"
+      }
     },
     "SNE-26005-4-4": {
       "qrCode": "SNE-26005-4-4",
@@ -2631,6 +2635,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T16:53:51.224Z",
+      "challanNo": "SNE-26005",
+      "qrCode": "SNE-26005-4-3",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "ROHIT",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T16:53:47.154Z",
       "challanNo": "SNE-26005",
