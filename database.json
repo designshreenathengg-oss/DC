@@ -4427,7 +4427,11 @@
       "desc": "WELDING ROD 3.15 MM 10 nos",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "ROHIT",
+        "time": "2026-11-17T08:32:01.808Z"
+      }
     },
     "SNE-26001-14-2": {
       "qrCode": "SNE-26001-14-2",
@@ -8620,6 +8624,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T08:32:01.808Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-14-1",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "ROHIT",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T08:31:55.895Z",
       "challanNo": "SNE-26001",
