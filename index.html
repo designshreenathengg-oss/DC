@@ -252,7 +252,7 @@
     }
   </style>
 </head>
-<body class="mode-challan-only">
+<body>
 
 <!-- Mobile Header Nav -->
 <div class="mobile-header">
@@ -533,7 +533,7 @@
               </select>
             </div>
             <div class="col-md-4">
-              <label class="form-label fw-bold">Select QR-Generated Challan</label>
+              <label class="form-label fw-bold">Select Delivery Challan</label>
               <select id="print-dc-select" class="form-select" onchange="loadChallanForPrint()">
                 <option value="">Choose a Delivery Challan...</option>
               </select>
@@ -661,9 +661,9 @@
         <div class="card p-3 mb-4 screen-only">
           <div class="row g-3 align-items-end">
             <div class="col-md-8">
-              <label class="form-label fw-bold">Select Pending Delivery Challan for QR Code Generation</label>
+              <label class="form-label fw-bold">Select Delivery Challan for QR Code Generation</label>
               <select id="qrcode-dc-select" class="form-select" onchange="loadQRCodesForPrint()">
-                <option value="">Choose a Pending Delivery Challan...</option>
+                <option value="">Choose a Delivery Challan...</option>
               </select>
             </div>
             <div class="col-md-4">
@@ -918,6 +918,11 @@
   const DEFAULT_REPO = 'designshreenathengg-oss/DC';
   const DEFAULT_TOKEN = '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';
 
+  function escapeAttr(str) {
+    if (!str) return '';
+    return String(str).replace(/"/g, '&quot;').replace(/'/g, '&#39;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  }
+
   function formatDate(dateStr) {
     if (!dateStr) return '-';
     const parts = dateStr.split('-');
@@ -1009,7 +1014,7 @@
     };
   }
 
-  // SERVER FETCH (PULL)
+  // SERVER FETCH (PULL) WITH ROBUST LOCAL FALLBACK
   async function fetchGithubData(isBackground = false) {
     const cfg = getGhConfig();
     const statusEl = document.getElementById('sync-status');
@@ -1032,7 +1037,16 @@
       githubFileSha = fileData.sha; 
 
       const jsonString = decodeURIComponent(escape(atob(fileData.content)));
-      db = JSON.parse(jsonString);
+      const remoteDb = JSON.parse(jsonString);
+
+      const localStored = JSON.parse(localStorage.getItem('DC_FLOW_DB'));
+      if (remoteDb && (Object.keys(remoteDb.challans || {}).length > 0 || !localStored || Object.keys(localStored.challans || {}).length === 0)) {
+        db = remoteDb;
+      } else if (localStored) {
+        db = localStored;
+      } else {
+        db = remoteDb;
+      }
 
       if(!db.customers) db.customers = {};
       if(!db.qrcodes) db.qrcodes = db.barcodes || {};
@@ -1056,12 +1070,12 @@
     db = JSON.parse(localStorage.getItem('DC_FLOW_DB')) || { challans: {}, qrcodes: {}, audit: [], customers: {} };
     if(!db.customers) db.customers = {};
     if(!db.qrcodes) db.qrcodes = db.barcodes || {};
+    if(!db.audit) db.audit = [];
     initAppView();
   }
 
   // DEBOUNCED & QUEUED SERVER SAVE (PUSH) FOR RAPID SCANNING SAFETY
   async function saveData() {
-    // 1. Instantly save locally so UI never lags or freezes during rapid scans
     localStorage.setItem('DC_FLOW_DB', JSON.stringify(db));
     renderDashboard();
 
@@ -1069,7 +1083,6 @@
     statusEl.className = 'text-warning';
     statusEl.innerText = 'Changes saved locally (Syncing in 2s...)';
 
-    // 2. Debounce GitHub sync by 2 seconds to batch rapid successive scans into one reliable push
     if (syncTimeout) clearTimeout(syncTimeout);
 
     syncTimeout = setTimeout(async () => {
@@ -1089,7 +1102,6 @@
     statusEl.innerText = 'Pushing to Server...';
 
     try {
-      // Always fetch fresh SHA right before pushing to prevent conflict errors
       const resGet = await fetch(`https://api.github.com/repos/${cfg.repo}/contents/database.json`, {
         headers: { 'Accept': 'application/vnd.github+json', 'Authorization': `Bearer ${cfg.token}` }
       });
@@ -1206,8 +1218,12 @@
   }
 
   function showSection(id) {
+    document.body.className = '';
+
     document.querySelectorAll('.content-section').forEach(el => el.classList.add('d-none'));
-    document.getElementById('section-' + id).classList.remove('d-none');
+    const targetSection = document.getElementById('section-' + id);
+    if (targetSection) targetSection.classList.remove('d-none');
+    
     stopScanner();
     document.getElementById('sidebar-wrapper').classList.remove('show-mobile');
 
@@ -1420,12 +1436,12 @@
     const tr = document.createElement('tr');
     tr.innerHTML = `
       <td class="text-center fw-bold row-index">${rowCount + 1}</td>
-      <td><input type="text" class="form-control item-code" value="${itemData ? (itemData.itemCode || itemData.code || '') : ''}" placeholder="ITM-01"></td>
-      <td><input type="text" class="form-control item-desc" value="${itemData ? (itemData.DESCRIPTION || itemData.desc || '') : ''}" placeholder="Description"></td>
-      <td><input type="number" class="form-control item-qty" value="${itemData ? (itemData.Qty || itemData.qty || '1') : '1'}" min="1"></td>
-      <td><input type="text" class="form-control item-unit" value="${itemData ? (itemData.Unit || itemData.unit || 'Nos') : 'Nos'}" placeholder="Nos"></td>
+      <td><input type="text" class="form-control item-code" value="${escapeAttr(itemData ? (itemData.itemCode || itemData.code || '') : '')}" placeholder="ITM-01"></td>
+      <td><input type="text" class="form-control item-desc" value="${escapeAttr(itemData ? (itemData.DESCRIPTION || itemData.desc || '') : '')}" placeholder="Description"></td>
+      <td><input type="number" class="form-control item-qty" value="${escapeAttr(itemData ? (itemData.Qty || itemData.qty || '1') : '1')}" min="1"></td>
+      <td><input type="text" class="form-control item-unit" value="${escapeAttr(itemData ? (itemData.Unit || itemData.unit || 'Nos') : 'Nos')}" placeholder="Nos"></td>
       <td>
-        <input type="text" class="form-control item-remark" value="${remVal}" placeholder="${globalType === 'Amount' ? '0.00' : 'Remark text'}">
+        <input type="text" class="form-control item-remark" value="${escapeAttr(remVal)}" placeholder="${globalType === 'Amount' ? '0.00' : 'Remark text'}">
       </td>
       <td class="text-center"><button class="btn btn-sm btn-outline-danger" onclick="removeDcItemRow(this)"><i class="fa-solid fa-trash"></i></button></td>
     `;
@@ -1598,6 +1614,20 @@
     });
 
     const isEdit = !!editingDcNo;
+
+    if (db.challans[dcNo] && db.challans[dcNo].qrcodes) {
+      db.challans[dcNo].qrcodes.forEach(oldQ => {
+        if (!qrcodesArr.includes(oldQ)) {
+          delete db.qrcodes[oldQ];
+        }
+      });
+    }
+    Object.keys(db.qrcodes).forEach(qrKey => {
+      if (db.qrcodes[qrKey].challanNo === dcNo && !qrcodesArr.includes(qrKey)) {
+        delete db.qrcodes[qrKey];
+      }
+    });
+
     db.challans[dcNo] = {
       challanNo: dcNo, date: dcDate, poNo, poDate, projectName, customer, address, vehicle,
       remarkType, showTotal, items, qrcodes: qrcodesArr, status: isEdit ? db.challans[dcNo].status : 'QR GENERATED'
@@ -1614,7 +1644,7 @@
     siteSel.innerHTML = '<option value="">All Sites / Addresses</option>';
     let sites = new Set(); 
     Object.values(db.challans).forEach(c => { 
-      if(c.status === 'QR GENERATED' && c.address) sites.add(c.address); 
+      if(c.address) sites.add(c.address); 
     });
     sites.forEach(s => siteSel.innerHTML += `<option value="${s}">${s}</option>`);
     populatePrintChallanSelect();
@@ -1623,10 +1653,10 @@
   function populatePrintChallanSelect() {
     const siteFilter = document.getElementById('print-site-filter').value;
     const sel = document.getElementById('print-dc-select');
-    sel.innerHTML = '<option value="">Choose QR-Generated Challan...</option>';
+    sel.innerHTML = '<option value="">Choose Delivery Challan...</option>';
     Object.values(db.challans).forEach(c => {
-      if (c.status === 'QR GENERATED' && (!siteFilter || c.address === siteFilter)) {
-        sel.innerHTML += `<option value="${c.challanNo}">${c.challanNo} - ${c.customer}</option>`;
+      if (!siteFilter || c.address === siteFilter) {
+        sel.innerHTML += `<option value="${c.challanNo}">${c.challanNo} - ${c.customer} [${c.status}]</option>`;
       }
     });
   }
@@ -1729,7 +1759,7 @@
     const sel = document.getElementById('qrcode-dc-select'); sel.innerHTML = '<option value="">Choose Challan...</option>';
     Object.keys(db.challans).forEach(dc => {
       const c = db.challans[dc];
-      if (c.status !== 'DELIVERED') sel.innerHTML += `<option value="${dc}">${dc} - ${c.customer} (${(c.qrcodes||[]).length} QRs)</option>`;
+      sel.innerHTML += `<option value="${dc}">${dc} - ${c.customer} (${(c.qrcodes||[]).length} QRs) [${c.status}]</option>`;
     });
   }
 
@@ -2087,7 +2117,8 @@
   window.onload = function() {
     loadStickerConfig();
     new bootstrap.Modal(document.getElementById('loginModal')).show();
-    fetchGithubData();
+    loadLocalDb();
+    fetchGithubData(true);
   };
 </script>
 </body>
