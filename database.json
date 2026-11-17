@@ -8626,7 +8626,11 @@
       "desc": "PERMIT BOOK HEIGHT/HOT",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:06:31.883Z"
+      }
     },
     "SNE-26005-3-3": {
       "qrCode": "SNE-26005-3-3",
@@ -8644,7 +8648,11 @@
       "desc": "PERMIT BOOK HEIGHT/HOT",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:06:34.206Z"
+      }
     },
     "SNE-26005-4-1": {
       "qrCode": "SNE-26005-4-1",
@@ -9008,6 +9016,28 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T15:06:34.206Z",
+      "challanNo": "SNE-26005",
+      "qrCode": "SNE-26005-3-4",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T15:06:31.883Z",
+      "challanNo": "SNE-26005",
+      "qrCode": "SNE-26005-3-2",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T15:06:30.354Z",
       "challanNo": "SNE-26005",
