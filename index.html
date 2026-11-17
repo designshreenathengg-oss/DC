@@ -1654,11 +1654,27 @@
     const siteFilter = document.getElementById('print-site-filter').value;
     const sel = document.getElementById('print-dc-select');
     sel.innerHTML = '<option value="">Choose Delivery Challan...</option>';
-    Object.values(db.challans).forEach(c => {
-      if (!siteFilter || c.address === siteFilter) {
-        sel.innerHTML += `<option value="${c.challanNo}">${c.challanNo} - ${c.customer} [${c.status}]</option>`;
-      }
+    
+    let challanKeys = Object.keys(db.challans);
+    let matchingChallans = challanKeys.filter(dc => {
+      const c = db.challans[dc];
+      return (!siteFilter || c.address === siteFilter);
     });
+
+    matchingChallans.forEach(dc => {
+      const c = db.challans[dc];
+      sel.innerHTML += `<option value="${c.challanNo}">${c.challanNo} - ${c.customer} [${c.status}]</option>`;
+    });
+
+    // Auto-select the most recent challan if available
+    if (matchingChallans.length > 0) {
+      const latestChallan = matchingChallans[matchingChallans.length - 1];
+      sel.value = latestChallan;
+      loadChallanForPrint();
+    } else {
+      sel.value = "";
+      loadChallanForPrint();
+    }
   }
 
   function openPrintChallanTab(dcNo) { showSection('print-challan'); document.getElementById('print-dc-select').value = dcNo; loadChallanForPrint(); }
@@ -1756,11 +1772,24 @@
   function resetStickerConfigDefaults() { localStorage.removeItem('SNE_STICKER_CONFIG'); loadStickerConfig(); alert("Reset defaults."); }
 
   function populatePrintQRCodeSelect() {
-    const sel = document.getElementById('qrcode-dc-select'); sel.innerHTML = '<option value="">Choose Challan...</option>';
-    Object.keys(db.challans).forEach(dc => {
+    const sel = document.getElementById('qrcode-dc-select'); 
+    sel.innerHTML = '<option value="">Choose Challan...</option>';
+    
+    let challanKeys = Object.keys(db.challans);
+    challanKeys.forEach(dc => {
       const c = db.challans[dc];
       sel.innerHTML += `<option value="${dc}">${dc} - ${c.customer} (${(c.qrcodes||[]).length} QRs) [${c.status}]</option>`;
     });
+
+    // Auto-select the most recent challan if available
+    if (challanKeys.length > 0) {
+      const latestChallan = challanKeys[challanKeys.length - 1];
+      sel.value = latestChallan;
+      loadQRCodesForPrint();
+    } else {
+      sel.value = "";
+      loadQRCodesForPrint();
+    }
   }
 
   function openPrintQRCodesTab(dcNo) { showSection('print-qrcodes'); document.getElementById('qrcode-dc-select').value = dcNo; loadQRCodesForPrint(); }
