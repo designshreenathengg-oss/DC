@@ -8155,7 +8155,11 @@
       "desc": "PERMIT BOOK HEIGHT/HOT",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:09:46.016Z"
+      }
     },
     "SNE-26005-3-2": {
       "qrCode": "SNE-26005-3-2",
@@ -8566,6 +8570,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T15:09:46.016Z",
+      "challanNo": "SNE-26005",
+      "qrCode": "SNE-26005-3-1",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T15:09:43.261Z",
       "challanNo": "SNE-26005",
