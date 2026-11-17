@@ -2256,7 +2256,11 @@
       "desc": "G.I.1740X1112X50",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "ROHIT",
+        "time": "2026-11-17T08:31:27.269Z"
+      }
     },
     "SNE-26001-5-2": {
       "qrCode": "SNE-26001-5-2",
@@ -8600,6 +8604,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T08:31:27.269Z",
+      "challanNo": "SNE-26001",
+      "qrCode": "SNE-26001-5-1",
+      "action": "DISPATCH SCAN",
+      "actor": "admin",
+      "dispatchPerson": "ROHIT",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T08:31:15.764Z",
       "challanNo": "SNE-26001",
