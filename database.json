@@ -2182,7 +2182,11 @@
       "desc": "WIRE 7CX0.75SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:00:36.207Z"
+      }
     },
     "SNE-26003-A13-15": {
       "qrCode": "SNE-26003-A13-15",
@@ -2243,7 +2247,11 @@
       "desc": "WIRE 4CX2.5 SQ.MM",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
-      "status": "QR GENERATED"
+      "status": "DISPATCH SCANNED",
+      "dispatchScan": {
+        "officer": "Rohit",
+        "time": "2026-11-17T15:00:32.586Z"
+      }
     },
     "SNE-26003-A14-4": {
       "qrCode": "SNE-26003-A14-4",
@@ -8812,6 +8820,28 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-17T15:00:36.207Z",
+      "challanNo": "SNE-26003",
+      "qrCode": "SNE-26003-A13-14",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
+    {
+      "timestamp": "2026-11-17T15:00:32.586Z",
+      "challanNo": "SNE-26003",
+      "qrCode": "SNE-26003-A14-3",
+      "action": "DISPATCH SCAN",
+      "actor": "dispatch",
+      "dispatchPerson": "Rohit",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Scanned"
+    },
     {
       "timestamp": "2026-11-17T15:00:30.742Z",
       "challanNo": "SNE-26003",
