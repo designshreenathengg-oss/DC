@@ -173,7 +173,7 @@
     },
     "SNE-26002": {
       "challanNo": "SNE-26002",
-      "date": "2026-11-15",
+      "date": "2026-11-18",
       "poNo": "",
       "poDate": "",
       "projectName": "",
@@ -2763,6 +2763,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-18T04:47:12.233Z",
+      "challanNo": "SNE-26002",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Linux armv81)",
+      "details": "Saved 8 items."
+    },
     {
       "timestamp": "2026-11-17T16:56:51.176Z",
       "challanNo": "SNE-26005",
