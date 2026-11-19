@@ -650,35 +650,35 @@
         },
         {
           "code": "7",
-          "desc": "CE2 535X196X80",
-          "qty": 8,
+          "desc": "Item Particular",
+          "qty": 1,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "₹ 6000"
+          "remark": "-"
         },
         {
           "code": "8",
-          "desc": "CE3 535X150X80",
-          "qty": 12,
+          "desc": "Item Particular",
+          "qty": 1,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "₹ 4000"
+          "remark": "-"
         },
         {
           "code": "9",
-          "desc": "PE4 975X196X80",
-          "qty": 8,
+          "desc": "Item Particular",
+          "qty": 1,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "₹ 8000"
+          "remark": "-"
         },
         {
           "code": "10",
-          "desc": "PE5 975X150X80",
-          "qty": 12,
+          "desc": "Item Particular",
+          "qty": 1,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "₹ 9500"
+          "remark": "-"
         },
         {
           "code": "11",
@@ -769,45 +769,9 @@
         "SNE-26006-6-15",
         "SNE-26006-6-16",
         "SNE-26006-7-1",
-        "SNE-26006-7-2",
-        "SNE-26006-7-3",
-        "SNE-26006-7-4",
-        "SNE-26006-7-5",
-        "SNE-26006-7-6",
-        "SNE-26006-7-7",
-        "SNE-26006-7-8",
         "SNE-26006-8-1",
-        "SNE-26006-8-2",
-        "SNE-26006-8-3",
-        "SNE-26006-8-4",
-        "SNE-26006-8-5",
-        "SNE-26006-8-6",
-        "SNE-26006-8-7",
-        "SNE-26006-8-8",
-        "SNE-26006-8-9",
-        "SNE-26006-8-10",
-        "SNE-26006-8-11",
-        "SNE-26006-8-12",
         "SNE-26006-9-1",
-        "SNE-26006-9-2",
-        "SNE-26006-9-3",
-        "SNE-26006-9-4",
-        "SNE-26006-9-5",
-        "SNE-26006-9-6",
-        "SNE-26006-9-7",
-        "SNE-26006-9-8",
         "SNE-26006-10-1",
-        "SNE-26006-10-2",
-        "SNE-26006-10-3",
-        "SNE-26006-10-4",
-        "SNE-26006-10-5",
-        "SNE-26006-10-6",
-        "SNE-26006-10-7",
-        "SNE-26006-10-8",
-        "SNE-26006-10-9",
-        "SNE-26006-10-10",
-        "SNE-26006-10-11",
-        "SNE-26006-10-12",
         "SNE-26006-11-1",
         "SNE-26006-11-2",
         "SNE-26006-11-3",
@@ -3841,70 +3805,7 @@
       "qrCode": "SNE-26006-7-1",
       "challanNo": "SNE-26006",
       "itemCode": "7",
-      "desc": "CE2 535X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-7-2": {
-      "qrCode": "SNE-26006-7-2",
-      "challanNo": "SNE-26006",
-      "itemCode": "7",
-      "desc": "CE2 535X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-7-3": {
-      "qrCode": "SNE-26006-7-3",
-      "challanNo": "SNE-26006",
-      "itemCode": "7",
-      "desc": "CE2 535X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-7-4": {
-      "qrCode": "SNE-26006-7-4",
-      "challanNo": "SNE-26006",
-      "itemCode": "7",
-      "desc": "CE2 535X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-7-5": {
-      "qrCode": "SNE-26006-7-5",
-      "challanNo": "SNE-26006",
-      "itemCode": "7",
-      "desc": "CE2 535X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-7-6": {
-      "qrCode": "SNE-26006-7-6",
-      "challanNo": "SNE-26006",
-      "itemCode": "7",
-      "desc": "CE2 535X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-7-7": {
-      "qrCode": "SNE-26006-7-7",
-      "challanNo": "SNE-26006",
-      "itemCode": "7",
-      "desc": "CE2 535X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-7-8": {
-      "qrCode": "SNE-26006-7-8",
-      "challanNo": "SNE-26006",
-      "itemCode": "7",
-      "desc": "CE2 535X196X80",
+      "desc": "Item Particular",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -3913,106 +3814,7 @@
       "qrCode": "SNE-26006-8-1",
       "challanNo": "SNE-26006",
       "itemCode": "8",
-      "desc": "CE3 535X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-8-2": {
-      "qrCode": "SNE-26006-8-2",
-      "challanNo": "SNE-26006",
-      "itemCode": "8",
-      "desc": "CE3 535X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-8-3": {
-      "qrCode": "SNE-26006-8-3",
-      "challanNo": "SNE-26006",
-      "itemCode": "8",
-      "desc": "CE3 535X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-8-4": {
-      "qrCode": "SNE-26006-8-4",
-      "challanNo": "SNE-26006",
-      "itemCode": "8",
-      "desc": "CE3 535X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-8-5": {
-      "qrCode": "SNE-26006-8-5",
-      "challanNo": "SNE-26006",
-      "itemCode": "8",
-      "desc": "CE3 535X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-8-6": {
-      "qrCode": "SNE-26006-8-6",
-      "challanNo": "SNE-26006",
-      "itemCode": "8",
-      "desc": "CE3 535X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-8-7": {
-      "qrCode": "SNE-26006-8-7",
-      "challanNo": "SNE-26006",
-      "itemCode": "8",
-      "desc": "CE3 535X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-8-8": {
-      "qrCode": "SNE-26006-8-8",
-      "challanNo": "SNE-26006",
-      "itemCode": "8",
-      "desc": "CE3 535X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-8-9": {
-      "qrCode": "SNE-26006-8-9",
-      "challanNo": "SNE-26006",
-      "itemCode": "8",
-      "desc": "CE3 535X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-8-10": {
-      "qrCode": "SNE-26006-8-10",
-      "challanNo": "SNE-26006",
-      "itemCode": "8",
-      "desc": "CE3 535X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-8-11": {
-      "qrCode": "SNE-26006-8-11",
-      "challanNo": "SNE-26006",
-      "itemCode": "8",
-      "desc": "CE3 535X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-8-12": {
-      "qrCode": "SNE-26006-8-12",
-      "challanNo": "SNE-26006",
-      "itemCode": "8",
-      "desc": "CE3 535X150X80",
+      "desc": "Item Particular",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -4021,70 +3823,7 @@
       "qrCode": "SNE-26006-9-1",
       "challanNo": "SNE-26006",
       "itemCode": "9",
-      "desc": "PE4 975X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-9-2": {
-      "qrCode": "SNE-26006-9-2",
-      "challanNo": "SNE-26006",
-      "itemCode": "9",
-      "desc": "PE4 975X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-9-3": {
-      "qrCode": "SNE-26006-9-3",
-      "challanNo": "SNE-26006",
-      "itemCode": "9",
-      "desc": "PE4 975X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-9-4": {
-      "qrCode": "SNE-26006-9-4",
-      "challanNo": "SNE-26006",
-      "itemCode": "9",
-      "desc": "PE4 975X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-9-5": {
-      "qrCode": "SNE-26006-9-5",
-      "challanNo": "SNE-26006",
-      "itemCode": "9",
-      "desc": "PE4 975X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-9-6": {
-      "qrCode": "SNE-26006-9-6",
-      "challanNo": "SNE-26006",
-      "itemCode": "9",
-      "desc": "PE4 975X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-9-7": {
-      "qrCode": "SNE-26006-9-7",
-      "challanNo": "SNE-26006",
-      "itemCode": "9",
-      "desc": "PE4 975X196X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-9-8": {
-      "qrCode": "SNE-26006-9-8",
-      "challanNo": "SNE-26006",
-      "itemCode": "9",
-      "desc": "PE4 975X196X80",
+      "desc": "Item Particular",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -4093,106 +3832,7 @@
       "qrCode": "SNE-26006-10-1",
       "challanNo": "SNE-26006",
       "itemCode": "10",
-      "desc": "PE5 975X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-10-2": {
-      "qrCode": "SNE-26006-10-2",
-      "challanNo": "SNE-26006",
-      "itemCode": "10",
-      "desc": "PE5 975X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-10-3": {
-      "qrCode": "SNE-26006-10-3",
-      "challanNo": "SNE-26006",
-      "itemCode": "10",
-      "desc": "PE5 975X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-10-4": {
-      "qrCode": "SNE-26006-10-4",
-      "challanNo": "SNE-26006",
-      "itemCode": "10",
-      "desc": "PE5 975X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-10-5": {
-      "qrCode": "SNE-26006-10-5",
-      "challanNo": "SNE-26006",
-      "itemCode": "10",
-      "desc": "PE5 975X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-10-6": {
-      "qrCode": "SNE-26006-10-6",
-      "challanNo": "SNE-26006",
-      "itemCode": "10",
-      "desc": "PE5 975X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-10-7": {
-      "qrCode": "SNE-26006-10-7",
-      "challanNo": "SNE-26006",
-      "itemCode": "10",
-      "desc": "PE5 975X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-10-8": {
-      "qrCode": "SNE-26006-10-8",
-      "challanNo": "SNE-26006",
-      "itemCode": "10",
-      "desc": "PE5 975X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-10-9": {
-      "qrCode": "SNE-26006-10-9",
-      "challanNo": "SNE-26006",
-      "itemCode": "10",
-      "desc": "PE5 975X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-10-10": {
-      "qrCode": "SNE-26006-10-10",
-      "challanNo": "SNE-26006",
-      "itemCode": "10",
-      "desc": "PE5 975X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-10-11": {
-      "qrCode": "SNE-26006-10-11",
-      "challanNo": "SNE-26006",
-      "itemCode": "10",
-      "desc": "PE5 975X150X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26006-10-12": {
-      "qrCode": "SNE-26006-10-12",
-      "challanNo": "SNE-26006",
-      "itemCode": "10",
-      "desc": "PE5 975X150X80",
+      "desc": "Item Particular",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6917,6 +6557,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-19T19:39:39.615Z",
+      "challanNo": "SNE-26006",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 210 items."
+    },
     {
       "timestamp": "2026-11-19T19:25:37.703Z",
       "challanNo": "SNE-26007",
