@@ -953,7 +953,7 @@
           "qty": 8,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 4000"
         },
         {
           "code": "17",
@@ -961,7 +961,7 @@
           "qty": 4,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 5000"
         },
         {
           "code": "18",
@@ -969,7 +969,7 @@
           "qty": 20,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 22000"
         },
         {
           "code": "19",
@@ -977,7 +977,7 @@
           "qty": 20,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 20000"
         },
         {
           "code": "20",
@@ -985,7 +985,7 @@
           "qty": 20,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 18000"
         },
         {
           "code": "21",
@@ -993,7 +993,7 @@
           "qty": 20,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 19000"
         },
         {
           "code": "22",
@@ -1001,7 +1001,7 @@
           "qty": 10,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 19500"
         },
         {
           "code": "23",
@@ -1009,63 +1009,63 @@
           "qty": 10,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 18000"
         },
         {
           "code": "24",
-          "desc": "PB2 1585X175X80",
-          "qty": 8,
-          "unit": "Nos",
-          "remarkType": "Amount",
-          "remark": "-"
-        },
-        {
-          "code": "25",
-          "desc": "PB3 1585X180X80",
-          "qty": 4,
-          "unit": "Nos",
-          "remarkType": "Amount",
-          "remark": "-"
-        },
-        {
-          "code": "26",
           "desc": "COVER 3000X863",
           "qty": 4,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 4000"
         },
         {
-          "code": "27",
+          "code": "25",
           "desc": "COVER 3000X873",
           "qty": 4,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 4000"
         },
         {
-          "code": "28",
+          "code": "26",
           "desc": "COVER 873X2325",
           "qty": 4,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 5000"
         },
         {
-          "code": "29",
+          "code": "27",
           "desc": "COVER 2325X873",
           "qty": 4,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 6000"
         },
         {
-          "code": "30",
+          "code": "28",
           "desc": "6000X820 ''H'' FRAME",
           "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 12000"
+        },
+        {
+          "code": "29",
+          "desc": "4360X820 ''H''FRAME",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 8000"
+        },
+        {
+          "code": "30",
+          "desc": "6000X145X82",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 11000"
         }
       ],
       "qrcodes": [
@@ -1185,10 +1185,6 @@
         "SNE-26007-24-2",
         "SNE-26007-24-3",
         "SNE-26007-24-4",
-        "SNE-26007-24-5",
-        "SNE-26007-24-6",
-        "SNE-26007-24-7",
-        "SNE-26007-24-8",
         "SNE-26007-25-1",
         "SNE-26007-25-2",
         "SNE-26007-25-3",
@@ -1203,12 +1199,8 @@
         "SNE-26007-27-4",
         "SNE-26007-28-1",
         "SNE-26007-28-2",
-        "SNE-26007-28-3",
-        "SNE-26007-28-4",
         "SNE-26007-29-1",
         "SNE-26007-29-2",
-        "SNE-26007-29-3",
-        "SNE-26007-29-4",
         "SNE-26007-30-1",
         "SNE-26007-30-2"
       ],
@@ -6289,7 +6281,7 @@
       "qrCode": "SNE-26007-24-1",
       "challanNo": "SNE-26007",
       "itemCode": "24",
-      "desc": "PB2 1585X175X80",
+      "desc": "COVER 3000X863",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6298,7 +6290,7 @@
       "qrCode": "SNE-26007-24-2",
       "challanNo": "SNE-26007",
       "itemCode": "24",
-      "desc": "PB2 1585X175X80",
+      "desc": "COVER 3000X863",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6307,7 +6299,7 @@
       "qrCode": "SNE-26007-24-3",
       "challanNo": "SNE-26007",
       "itemCode": "24",
-      "desc": "PB2 1585X175X80",
+      "desc": "COVER 3000X863",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6316,43 +6308,7 @@
       "qrCode": "SNE-26007-24-4",
       "challanNo": "SNE-26007",
       "itemCode": "24",
-      "desc": "PB2 1585X175X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26007-24-5": {
-      "qrCode": "SNE-26007-24-5",
-      "challanNo": "SNE-26007",
-      "itemCode": "24",
-      "desc": "PB2 1585X175X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26007-24-6": {
-      "qrCode": "SNE-26007-24-6",
-      "challanNo": "SNE-26007",
-      "itemCode": "24",
-      "desc": "PB2 1585X175X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26007-24-7": {
-      "qrCode": "SNE-26007-24-7",
-      "challanNo": "SNE-26007",
-      "itemCode": "24",
-      "desc": "PB2 1585X175X80",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26007-24-8": {
-      "qrCode": "SNE-26007-24-8",
-      "challanNo": "SNE-26007",
-      "itemCode": "24",
-      "desc": "PB2 1585X175X80",
+      "desc": "COVER 3000X863",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6361,7 +6317,7 @@
       "qrCode": "SNE-26007-25-1",
       "challanNo": "SNE-26007",
       "itemCode": "25",
-      "desc": "PB3 1585X180X80",
+      "desc": "COVER 3000X873",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6370,7 +6326,7 @@
       "qrCode": "SNE-26007-25-2",
       "challanNo": "SNE-26007",
       "itemCode": "25",
-      "desc": "PB3 1585X180X80",
+      "desc": "COVER 3000X873",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6379,7 +6335,7 @@
       "qrCode": "SNE-26007-25-3",
       "challanNo": "SNE-26007",
       "itemCode": "25",
-      "desc": "PB3 1585X180X80",
+      "desc": "COVER 3000X873",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6388,7 +6344,7 @@
       "qrCode": "SNE-26007-25-4",
       "challanNo": "SNE-26007",
       "itemCode": "25",
-      "desc": "PB3 1585X180X80",
+      "desc": "COVER 3000X873",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6397,7 +6353,7 @@
       "qrCode": "SNE-26007-26-1",
       "challanNo": "SNE-26007",
       "itemCode": "26",
-      "desc": "COVER 3000X863",
+      "desc": "COVER 873X2325",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6406,7 +6362,7 @@
       "qrCode": "SNE-26007-26-2",
       "challanNo": "SNE-26007",
       "itemCode": "26",
-      "desc": "COVER 3000X863",
+      "desc": "COVER 873X2325",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6415,7 +6371,7 @@
       "qrCode": "SNE-26007-26-3",
       "challanNo": "SNE-26007",
       "itemCode": "26",
-      "desc": "COVER 3000X863",
+      "desc": "COVER 873X2325",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6424,7 +6380,7 @@
       "qrCode": "SNE-26007-26-4",
       "challanNo": "SNE-26007",
       "itemCode": "26",
-      "desc": "COVER 3000X863",
+      "desc": "COVER 873X2325",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6433,7 +6389,7 @@
       "qrCode": "SNE-26007-27-1",
       "challanNo": "SNE-26007",
       "itemCode": "27",
-      "desc": "COVER 3000X873",
+      "desc": "COVER 2325X873",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6442,7 +6398,7 @@
       "qrCode": "SNE-26007-27-2",
       "challanNo": "SNE-26007",
       "itemCode": "27",
-      "desc": "COVER 3000X873",
+      "desc": "COVER 2325X873",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6451,7 +6407,7 @@
       "qrCode": "SNE-26007-27-3",
       "challanNo": "SNE-26007",
       "itemCode": "27",
-      "desc": "COVER 3000X873",
+      "desc": "COVER 2325X873",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6460,7 +6416,7 @@
       "qrCode": "SNE-26007-27-4",
       "challanNo": "SNE-26007",
       "itemCode": "27",
-      "desc": "COVER 3000X873",
+      "desc": "COVER 2325X873",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6469,7 +6425,7 @@
       "qrCode": "SNE-26007-28-1",
       "challanNo": "SNE-26007",
       "itemCode": "28",
-      "desc": "COVER 873X2325",
+      "desc": "6000X820 ''H'' FRAME",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6478,25 +6434,7 @@
       "qrCode": "SNE-26007-28-2",
       "challanNo": "SNE-26007",
       "itemCode": "28",
-      "desc": "COVER 873X2325",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26007-28-3": {
-      "qrCode": "SNE-26007-28-3",
-      "challanNo": "SNE-26007",
-      "itemCode": "28",
-      "desc": "COVER 873X2325",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26007-28-4": {
-      "qrCode": "SNE-26007-28-4",
-      "challanNo": "SNE-26007",
-      "itemCode": "28",
-      "desc": "COVER 873X2325",
+      "desc": "6000X820 ''H'' FRAME",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6505,7 +6443,7 @@
       "qrCode": "SNE-26007-29-1",
       "challanNo": "SNE-26007",
       "itemCode": "29",
-      "desc": "COVER 2325X873",
+      "desc": "4360X820 ''H''FRAME",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6514,25 +6452,7 @@
       "qrCode": "SNE-26007-29-2",
       "challanNo": "SNE-26007",
       "itemCode": "29",
-      "desc": "COVER 2325X873",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26007-29-3": {
-      "qrCode": "SNE-26007-29-3",
-      "challanNo": "SNE-26007",
-      "itemCode": "29",
-      "desc": "COVER 2325X873",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26007-29-4": {
-      "qrCode": "SNE-26007-29-4",
-      "challanNo": "SNE-26007",
-      "itemCode": "29",
-      "desc": "COVER 2325X873",
+      "desc": "4360X820 ''H''FRAME",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6541,7 +6461,7 @@
       "qrCode": "SNE-26007-30-1",
       "challanNo": "SNE-26007",
       "itemCode": "30",
-      "desc": "6000X820 ''H'' FRAME",
+      "desc": "6000X145X82",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -6550,13 +6470,24 @@
       "qrCode": "SNE-26007-30-2",
       "challanNo": "SNE-26007",
       "itemCode": "30",
-      "desc": "6000X820 ''H'' FRAME",
+      "desc": "6000X145X82",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-20T00:28:31.831Z",
+      "challanNo": "SNE-26007",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 134 items."
+    },
     {
       "timestamp": "2026-11-19T19:39:39.615Z",
       "challanNo": "SNE-26006",
