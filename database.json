@@ -2080,6 +2080,387 @@
         "SNE-26008-15-1"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26009": {
+      "challanNo": "SNE-26009",
+      "date": "2026-11-20",
+      "poNo": "",
+      "poDate": "2026-11-19",
+      "projectName": "CC INT/CC EXT SIDE WALL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
+      "vehicle": "MH15JW3865",
+      "remarkType": "Remark",
+      "showTotal": false,
+      "items": [
+        {
+          "code": "16",
+          "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+          "qty": 30,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "17",
+          "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+          "qty": 30,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "18",
+          "desc": "WATER LAVEL PIPE",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "19",
+          "desc": "DUCTING GASKET",
+          "qty": 20,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "20",
+          "desc": "SAFETY BELT",
+          "qty": 5,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "21",
+          "desc": "10X125 FASTENERS",
+          "qty": 100,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "22",
+          "desc": "1/2'' GASKET",
+          "qty": 20,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "23",
+          "desc": "M18X80 GI NUT BOLT WITH WASHER",
+          "qty": 30,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "24",
+          "desc": "6'' GI ELBOW",
+          "qty": 5,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "25",
+          "desc": "6'' FLANGE",
+          "qty": 5,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "26",
+          "desc": "MS KEY FOR NUTECK ELEVATOR SPROCKET COUPLING 20X12X65MM L",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "27",
+          "desc": "MS KEY FOR NUTECK ELEVATOR SPROCKET COUPLING 18X11X65MML",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "28",
+          "desc": "RESISTER",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "29",
+          "desc": "DRWAING",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26009-16-1",
+        "SNE-26009-16-2",
+        "SNE-26009-16-3",
+        "SNE-26009-16-4",
+        "SNE-26009-16-5",
+        "SNE-26009-16-6",
+        "SNE-26009-16-7",
+        "SNE-26009-16-8",
+        "SNE-26009-16-9",
+        "SNE-26009-16-10",
+        "SNE-26009-16-11",
+        "SNE-26009-16-12",
+        "SNE-26009-16-13",
+        "SNE-26009-16-14",
+        "SNE-26009-16-15",
+        "SNE-26009-16-16",
+        "SNE-26009-16-17",
+        "SNE-26009-16-18",
+        "SNE-26009-16-19",
+        "SNE-26009-16-20",
+        "SNE-26009-16-21",
+        "SNE-26009-16-22",
+        "SNE-26009-16-23",
+        "SNE-26009-16-24",
+        "SNE-26009-16-25",
+        "SNE-26009-16-26",
+        "SNE-26009-16-27",
+        "SNE-26009-16-28",
+        "SNE-26009-16-29",
+        "SNE-26009-16-30",
+        "SNE-26009-17-1",
+        "SNE-26009-17-2",
+        "SNE-26009-17-3",
+        "SNE-26009-17-4",
+        "SNE-26009-17-5",
+        "SNE-26009-17-6",
+        "SNE-26009-17-7",
+        "SNE-26009-17-8",
+        "SNE-26009-17-9",
+        "SNE-26009-17-10",
+        "SNE-26009-17-11",
+        "SNE-26009-17-12",
+        "SNE-26009-17-13",
+        "SNE-26009-17-14",
+        "SNE-26009-17-15",
+        "SNE-26009-17-16",
+        "SNE-26009-17-17",
+        "SNE-26009-17-18",
+        "SNE-26009-17-19",
+        "SNE-26009-17-20",
+        "SNE-26009-17-21",
+        "SNE-26009-17-22",
+        "SNE-26009-17-23",
+        "SNE-26009-17-24",
+        "SNE-26009-17-25",
+        "SNE-26009-17-26",
+        "SNE-26009-17-27",
+        "SNE-26009-17-28",
+        "SNE-26009-17-29",
+        "SNE-26009-17-30",
+        "SNE-26009-18-1",
+        "SNE-26009-19-1",
+        "SNE-26009-19-2",
+        "SNE-26009-19-3",
+        "SNE-26009-19-4",
+        "SNE-26009-19-5",
+        "SNE-26009-19-6",
+        "SNE-26009-19-7",
+        "SNE-26009-19-8",
+        "SNE-26009-19-9",
+        "SNE-26009-19-10",
+        "SNE-26009-19-11",
+        "SNE-26009-19-12",
+        "SNE-26009-19-13",
+        "SNE-26009-19-14",
+        "SNE-26009-19-15",
+        "SNE-26009-19-16",
+        "SNE-26009-19-17",
+        "SNE-26009-19-18",
+        "SNE-26009-19-19",
+        "SNE-26009-19-20",
+        "SNE-26009-20-1",
+        "SNE-26009-20-2",
+        "SNE-26009-20-3",
+        "SNE-26009-20-4",
+        "SNE-26009-20-5",
+        "SNE-26009-21-1",
+        "SNE-26009-21-2",
+        "SNE-26009-21-3",
+        "SNE-26009-21-4",
+        "SNE-26009-21-5",
+        "SNE-26009-21-6",
+        "SNE-26009-21-7",
+        "SNE-26009-21-8",
+        "SNE-26009-21-9",
+        "SNE-26009-21-10",
+        "SNE-26009-21-11",
+        "SNE-26009-21-12",
+        "SNE-26009-21-13",
+        "SNE-26009-21-14",
+        "SNE-26009-21-15",
+        "SNE-26009-21-16",
+        "SNE-26009-21-17",
+        "SNE-26009-21-18",
+        "SNE-26009-21-19",
+        "SNE-26009-21-20",
+        "SNE-26009-21-21",
+        "SNE-26009-21-22",
+        "SNE-26009-21-23",
+        "SNE-26009-21-24",
+        "SNE-26009-21-25",
+        "SNE-26009-21-26",
+        "SNE-26009-21-27",
+        "SNE-26009-21-28",
+        "SNE-26009-21-29",
+        "SNE-26009-21-30",
+        "SNE-26009-21-31",
+        "SNE-26009-21-32",
+        "SNE-26009-21-33",
+        "SNE-26009-21-34",
+        "SNE-26009-21-35",
+        "SNE-26009-21-36",
+        "SNE-26009-21-37",
+        "SNE-26009-21-38",
+        "SNE-26009-21-39",
+        "SNE-26009-21-40",
+        "SNE-26009-21-41",
+        "SNE-26009-21-42",
+        "SNE-26009-21-43",
+        "SNE-26009-21-44",
+        "SNE-26009-21-45",
+        "SNE-26009-21-46",
+        "SNE-26009-21-47",
+        "SNE-26009-21-48",
+        "SNE-26009-21-49",
+        "SNE-26009-21-50",
+        "SNE-26009-21-51",
+        "SNE-26009-21-52",
+        "SNE-26009-21-53",
+        "SNE-26009-21-54",
+        "SNE-26009-21-55",
+        "SNE-26009-21-56",
+        "SNE-26009-21-57",
+        "SNE-26009-21-58",
+        "SNE-26009-21-59",
+        "SNE-26009-21-60",
+        "SNE-26009-21-61",
+        "SNE-26009-21-62",
+        "SNE-26009-21-63",
+        "SNE-26009-21-64",
+        "SNE-26009-21-65",
+        "SNE-26009-21-66",
+        "SNE-26009-21-67",
+        "SNE-26009-21-68",
+        "SNE-26009-21-69",
+        "SNE-26009-21-70",
+        "SNE-26009-21-71",
+        "SNE-26009-21-72",
+        "SNE-26009-21-73",
+        "SNE-26009-21-74",
+        "SNE-26009-21-75",
+        "SNE-26009-21-76",
+        "SNE-26009-21-77",
+        "SNE-26009-21-78",
+        "SNE-26009-21-79",
+        "SNE-26009-21-80",
+        "SNE-26009-21-81",
+        "SNE-26009-21-82",
+        "SNE-26009-21-83",
+        "SNE-26009-21-84",
+        "SNE-26009-21-85",
+        "SNE-26009-21-86",
+        "SNE-26009-21-87",
+        "SNE-26009-21-88",
+        "SNE-26009-21-89",
+        "SNE-26009-21-90",
+        "SNE-26009-21-91",
+        "SNE-26009-21-92",
+        "SNE-26009-21-93",
+        "SNE-26009-21-94",
+        "SNE-26009-21-95",
+        "SNE-26009-21-96",
+        "SNE-26009-21-97",
+        "SNE-26009-21-98",
+        "SNE-26009-21-99",
+        "SNE-26009-21-100",
+        "SNE-26009-22-1",
+        "SNE-26009-22-2",
+        "SNE-26009-22-3",
+        "SNE-26009-22-4",
+        "SNE-26009-22-5",
+        "SNE-26009-22-6",
+        "SNE-26009-22-7",
+        "SNE-26009-22-8",
+        "SNE-26009-22-9",
+        "SNE-26009-22-10",
+        "SNE-26009-22-11",
+        "SNE-26009-22-12",
+        "SNE-26009-22-13",
+        "SNE-26009-22-14",
+        "SNE-26009-22-15",
+        "SNE-26009-22-16",
+        "SNE-26009-22-17",
+        "SNE-26009-22-18",
+        "SNE-26009-22-19",
+        "SNE-26009-22-20",
+        "SNE-26009-23-1",
+        "SNE-26009-23-2",
+        "SNE-26009-23-3",
+        "SNE-26009-23-4",
+        "SNE-26009-23-5",
+        "SNE-26009-23-6",
+        "SNE-26009-23-7",
+        "SNE-26009-23-8",
+        "SNE-26009-23-9",
+        "SNE-26009-23-10",
+        "SNE-26009-23-11",
+        "SNE-26009-23-12",
+        "SNE-26009-23-13",
+        "SNE-26009-23-14",
+        "SNE-26009-23-15",
+        "SNE-26009-23-16",
+        "SNE-26009-23-17",
+        "SNE-26009-23-18",
+        "SNE-26009-23-19",
+        "SNE-26009-23-20",
+        "SNE-26009-23-21",
+        "SNE-26009-23-22",
+        "SNE-26009-23-23",
+        "SNE-26009-23-24",
+        "SNE-26009-23-25",
+        "SNE-26009-23-26",
+        "SNE-26009-23-27",
+        "SNE-26009-23-28",
+        "SNE-26009-23-29",
+        "SNE-26009-23-30",
+        "SNE-26009-24-1",
+        "SNE-26009-24-2",
+        "SNE-26009-24-3",
+        "SNE-26009-24-4",
+        "SNE-26009-24-5",
+        "SNE-26009-25-1",
+        "SNE-26009-25-2",
+        "SNE-26009-25-3",
+        "SNE-26009-25-4",
+        "SNE-26009-25-5",
+        "SNE-26009-26-1",
+        "SNE-26009-27-1",
+        "SNE-26009-28-1",
+        "SNE-26009-28-2",
+        "SNE-26009-29-1",
+        "SNE-26009-29-2"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -13991,9 +14372,2288 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26009-16-1": {
+      "qrCode": "SNE-26009-16-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-2": {
+      "qrCode": "SNE-26009-16-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-3": {
+      "qrCode": "SNE-26009-16-3",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-4": {
+      "qrCode": "SNE-26009-16-4",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-5": {
+      "qrCode": "SNE-26009-16-5",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-6": {
+      "qrCode": "SNE-26009-16-6",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-7": {
+      "qrCode": "SNE-26009-16-7",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-8": {
+      "qrCode": "SNE-26009-16-8",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-9": {
+      "qrCode": "SNE-26009-16-9",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-10": {
+      "qrCode": "SNE-26009-16-10",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-11": {
+      "qrCode": "SNE-26009-16-11",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-12": {
+      "qrCode": "SNE-26009-16-12",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-13": {
+      "qrCode": "SNE-26009-16-13",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-14": {
+      "qrCode": "SNE-26009-16-14",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-15": {
+      "qrCode": "SNE-26009-16-15",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-16": {
+      "qrCode": "SNE-26009-16-16",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-17": {
+      "qrCode": "SNE-26009-16-17",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-18": {
+      "qrCode": "SNE-26009-16-18",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-19": {
+      "qrCode": "SNE-26009-16-19",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-20": {
+      "qrCode": "SNE-26009-16-20",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-21": {
+      "qrCode": "SNE-26009-16-21",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-22": {
+      "qrCode": "SNE-26009-16-22",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-23": {
+      "qrCode": "SNE-26009-16-23",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-24": {
+      "qrCode": "SNE-26009-16-24",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-25": {
+      "qrCode": "SNE-26009-16-25",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-26": {
+      "qrCode": "SNE-26009-16-26",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-27": {
+      "qrCode": "SNE-26009-16-27",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-28": {
+      "qrCode": "SNE-26009-16-28",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-29": {
+      "qrCode": "SNE-26009-16-29",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-16-30": {
+      "qrCode": "SNE-26009-16-30",
+      "challanNo": "SNE-26009",
+      "itemCode": "16",
+      "desc": "10X10 CONNECTOR PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-1": {
+      "qrCode": "SNE-26009-17-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-2": {
+      "qrCode": "SNE-26009-17-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-3": {
+      "qrCode": "SNE-26009-17-3",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-4": {
+      "qrCode": "SNE-26009-17-4",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-5": {
+      "qrCode": "SNE-26009-17-5",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-6": {
+      "qrCode": "SNE-26009-17-6",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-7": {
+      "qrCode": "SNE-26009-17-7",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-8": {
+      "qrCode": "SNE-26009-17-8",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-9": {
+      "qrCode": "SNE-26009-17-9",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-10": {
+      "qrCode": "SNE-26009-17-10",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-11": {
+      "qrCode": "SNE-26009-17-11",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-12": {
+      "qrCode": "SNE-26009-17-12",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-13": {
+      "qrCode": "SNE-26009-17-13",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-14": {
+      "qrCode": "SNE-26009-17-14",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-15": {
+      "qrCode": "SNE-26009-17-15",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-16": {
+      "qrCode": "SNE-26009-17-16",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-17": {
+      "qrCode": "SNE-26009-17-17",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-18": {
+      "qrCode": "SNE-26009-17-18",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-19": {
+      "qrCode": "SNE-26009-17-19",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-20": {
+      "qrCode": "SNE-26009-17-20",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-21": {
+      "qrCode": "SNE-26009-17-21",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-22": {
+      "qrCode": "SNE-26009-17-22",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-23": {
+      "qrCode": "SNE-26009-17-23",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-24": {
+      "qrCode": "SNE-26009-17-24",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-25": {
+      "qrCode": "SNE-26009-17-25",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-26": {
+      "qrCode": "SNE-26009-17-26",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-27": {
+      "qrCode": "SNE-26009-17-27",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-28": {
+      "qrCode": "SNE-26009-17-28",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-29": {
+      "qrCode": "SNE-26009-17-29",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-17-30": {
+      "qrCode": "SNE-26009-17-30",
+      "challanNo": "SNE-26009",
+      "itemCode": "17",
+      "desc": "T CONNECTOR 10X10 PNEUMATIC PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-18-1": {
+      "qrCode": "SNE-26009-18-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "18",
+      "desc": "WATER LAVEL PIPE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-1": {
+      "qrCode": "SNE-26009-19-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-2": {
+      "qrCode": "SNE-26009-19-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-3": {
+      "qrCode": "SNE-26009-19-3",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-4": {
+      "qrCode": "SNE-26009-19-4",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-5": {
+      "qrCode": "SNE-26009-19-5",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-6": {
+      "qrCode": "SNE-26009-19-6",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-7": {
+      "qrCode": "SNE-26009-19-7",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-8": {
+      "qrCode": "SNE-26009-19-8",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-9": {
+      "qrCode": "SNE-26009-19-9",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-10": {
+      "qrCode": "SNE-26009-19-10",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-11": {
+      "qrCode": "SNE-26009-19-11",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-12": {
+      "qrCode": "SNE-26009-19-12",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-13": {
+      "qrCode": "SNE-26009-19-13",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-14": {
+      "qrCode": "SNE-26009-19-14",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-15": {
+      "qrCode": "SNE-26009-19-15",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-16": {
+      "qrCode": "SNE-26009-19-16",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-17": {
+      "qrCode": "SNE-26009-19-17",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-18": {
+      "qrCode": "SNE-26009-19-18",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-19": {
+      "qrCode": "SNE-26009-19-19",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-19-20": {
+      "qrCode": "SNE-26009-19-20",
+      "challanNo": "SNE-26009",
+      "itemCode": "19",
+      "desc": "DUCTING GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-20-1": {
+      "qrCode": "SNE-26009-20-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "20",
+      "desc": "SAFETY BELT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-20-2": {
+      "qrCode": "SNE-26009-20-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "20",
+      "desc": "SAFETY BELT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-20-3": {
+      "qrCode": "SNE-26009-20-3",
+      "challanNo": "SNE-26009",
+      "itemCode": "20",
+      "desc": "SAFETY BELT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-20-4": {
+      "qrCode": "SNE-26009-20-4",
+      "challanNo": "SNE-26009",
+      "itemCode": "20",
+      "desc": "SAFETY BELT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-20-5": {
+      "qrCode": "SNE-26009-20-5",
+      "challanNo": "SNE-26009",
+      "itemCode": "20",
+      "desc": "SAFETY BELT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-1": {
+      "qrCode": "SNE-26009-21-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-2": {
+      "qrCode": "SNE-26009-21-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-3": {
+      "qrCode": "SNE-26009-21-3",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-4": {
+      "qrCode": "SNE-26009-21-4",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-5": {
+      "qrCode": "SNE-26009-21-5",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-6": {
+      "qrCode": "SNE-26009-21-6",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-7": {
+      "qrCode": "SNE-26009-21-7",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-8": {
+      "qrCode": "SNE-26009-21-8",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-9": {
+      "qrCode": "SNE-26009-21-9",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-10": {
+      "qrCode": "SNE-26009-21-10",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-11": {
+      "qrCode": "SNE-26009-21-11",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-12": {
+      "qrCode": "SNE-26009-21-12",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-13": {
+      "qrCode": "SNE-26009-21-13",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-14": {
+      "qrCode": "SNE-26009-21-14",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-15": {
+      "qrCode": "SNE-26009-21-15",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-16": {
+      "qrCode": "SNE-26009-21-16",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-17": {
+      "qrCode": "SNE-26009-21-17",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-18": {
+      "qrCode": "SNE-26009-21-18",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-19": {
+      "qrCode": "SNE-26009-21-19",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-20": {
+      "qrCode": "SNE-26009-21-20",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-21": {
+      "qrCode": "SNE-26009-21-21",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-22": {
+      "qrCode": "SNE-26009-21-22",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-23": {
+      "qrCode": "SNE-26009-21-23",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-24": {
+      "qrCode": "SNE-26009-21-24",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-25": {
+      "qrCode": "SNE-26009-21-25",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-26": {
+      "qrCode": "SNE-26009-21-26",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-27": {
+      "qrCode": "SNE-26009-21-27",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-28": {
+      "qrCode": "SNE-26009-21-28",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-29": {
+      "qrCode": "SNE-26009-21-29",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-30": {
+      "qrCode": "SNE-26009-21-30",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-31": {
+      "qrCode": "SNE-26009-21-31",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-32": {
+      "qrCode": "SNE-26009-21-32",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-33": {
+      "qrCode": "SNE-26009-21-33",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-34": {
+      "qrCode": "SNE-26009-21-34",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-35": {
+      "qrCode": "SNE-26009-21-35",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-36": {
+      "qrCode": "SNE-26009-21-36",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-37": {
+      "qrCode": "SNE-26009-21-37",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-38": {
+      "qrCode": "SNE-26009-21-38",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-39": {
+      "qrCode": "SNE-26009-21-39",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-40": {
+      "qrCode": "SNE-26009-21-40",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-41": {
+      "qrCode": "SNE-26009-21-41",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-42": {
+      "qrCode": "SNE-26009-21-42",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-43": {
+      "qrCode": "SNE-26009-21-43",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-44": {
+      "qrCode": "SNE-26009-21-44",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-45": {
+      "qrCode": "SNE-26009-21-45",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-46": {
+      "qrCode": "SNE-26009-21-46",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-47": {
+      "qrCode": "SNE-26009-21-47",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-48": {
+      "qrCode": "SNE-26009-21-48",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-49": {
+      "qrCode": "SNE-26009-21-49",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-50": {
+      "qrCode": "SNE-26009-21-50",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-51": {
+      "qrCode": "SNE-26009-21-51",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-52": {
+      "qrCode": "SNE-26009-21-52",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-53": {
+      "qrCode": "SNE-26009-21-53",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-54": {
+      "qrCode": "SNE-26009-21-54",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-55": {
+      "qrCode": "SNE-26009-21-55",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-56": {
+      "qrCode": "SNE-26009-21-56",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-57": {
+      "qrCode": "SNE-26009-21-57",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-58": {
+      "qrCode": "SNE-26009-21-58",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-59": {
+      "qrCode": "SNE-26009-21-59",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-60": {
+      "qrCode": "SNE-26009-21-60",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-61": {
+      "qrCode": "SNE-26009-21-61",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-62": {
+      "qrCode": "SNE-26009-21-62",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-63": {
+      "qrCode": "SNE-26009-21-63",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-64": {
+      "qrCode": "SNE-26009-21-64",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-65": {
+      "qrCode": "SNE-26009-21-65",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-66": {
+      "qrCode": "SNE-26009-21-66",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-67": {
+      "qrCode": "SNE-26009-21-67",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-68": {
+      "qrCode": "SNE-26009-21-68",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-69": {
+      "qrCode": "SNE-26009-21-69",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-70": {
+      "qrCode": "SNE-26009-21-70",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-71": {
+      "qrCode": "SNE-26009-21-71",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-72": {
+      "qrCode": "SNE-26009-21-72",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-73": {
+      "qrCode": "SNE-26009-21-73",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-74": {
+      "qrCode": "SNE-26009-21-74",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-75": {
+      "qrCode": "SNE-26009-21-75",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-76": {
+      "qrCode": "SNE-26009-21-76",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-77": {
+      "qrCode": "SNE-26009-21-77",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-78": {
+      "qrCode": "SNE-26009-21-78",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-79": {
+      "qrCode": "SNE-26009-21-79",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-80": {
+      "qrCode": "SNE-26009-21-80",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-81": {
+      "qrCode": "SNE-26009-21-81",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-82": {
+      "qrCode": "SNE-26009-21-82",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-83": {
+      "qrCode": "SNE-26009-21-83",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-84": {
+      "qrCode": "SNE-26009-21-84",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-85": {
+      "qrCode": "SNE-26009-21-85",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-86": {
+      "qrCode": "SNE-26009-21-86",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-87": {
+      "qrCode": "SNE-26009-21-87",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-88": {
+      "qrCode": "SNE-26009-21-88",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-89": {
+      "qrCode": "SNE-26009-21-89",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-90": {
+      "qrCode": "SNE-26009-21-90",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-91": {
+      "qrCode": "SNE-26009-21-91",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-92": {
+      "qrCode": "SNE-26009-21-92",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-93": {
+      "qrCode": "SNE-26009-21-93",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-94": {
+      "qrCode": "SNE-26009-21-94",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-95": {
+      "qrCode": "SNE-26009-21-95",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-96": {
+      "qrCode": "SNE-26009-21-96",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-97": {
+      "qrCode": "SNE-26009-21-97",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-98": {
+      "qrCode": "SNE-26009-21-98",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-99": {
+      "qrCode": "SNE-26009-21-99",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-21-100": {
+      "qrCode": "SNE-26009-21-100",
+      "challanNo": "SNE-26009",
+      "itemCode": "21",
+      "desc": "10X125 FASTENERS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-1": {
+      "qrCode": "SNE-26009-22-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-2": {
+      "qrCode": "SNE-26009-22-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-3": {
+      "qrCode": "SNE-26009-22-3",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-4": {
+      "qrCode": "SNE-26009-22-4",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-5": {
+      "qrCode": "SNE-26009-22-5",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-6": {
+      "qrCode": "SNE-26009-22-6",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-7": {
+      "qrCode": "SNE-26009-22-7",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-8": {
+      "qrCode": "SNE-26009-22-8",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-9": {
+      "qrCode": "SNE-26009-22-9",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-10": {
+      "qrCode": "SNE-26009-22-10",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-11": {
+      "qrCode": "SNE-26009-22-11",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-12": {
+      "qrCode": "SNE-26009-22-12",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-13": {
+      "qrCode": "SNE-26009-22-13",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-14": {
+      "qrCode": "SNE-26009-22-14",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-15": {
+      "qrCode": "SNE-26009-22-15",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-16": {
+      "qrCode": "SNE-26009-22-16",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-17": {
+      "qrCode": "SNE-26009-22-17",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-18": {
+      "qrCode": "SNE-26009-22-18",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-19": {
+      "qrCode": "SNE-26009-22-19",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-22-20": {
+      "qrCode": "SNE-26009-22-20",
+      "challanNo": "SNE-26009",
+      "itemCode": "22",
+      "desc": "1/2'' GASKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-1": {
+      "qrCode": "SNE-26009-23-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-2": {
+      "qrCode": "SNE-26009-23-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-3": {
+      "qrCode": "SNE-26009-23-3",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-4": {
+      "qrCode": "SNE-26009-23-4",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-5": {
+      "qrCode": "SNE-26009-23-5",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-6": {
+      "qrCode": "SNE-26009-23-6",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-7": {
+      "qrCode": "SNE-26009-23-7",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-8": {
+      "qrCode": "SNE-26009-23-8",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-9": {
+      "qrCode": "SNE-26009-23-9",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-10": {
+      "qrCode": "SNE-26009-23-10",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-11": {
+      "qrCode": "SNE-26009-23-11",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-12": {
+      "qrCode": "SNE-26009-23-12",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-13": {
+      "qrCode": "SNE-26009-23-13",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-14": {
+      "qrCode": "SNE-26009-23-14",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-15": {
+      "qrCode": "SNE-26009-23-15",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-16": {
+      "qrCode": "SNE-26009-23-16",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-17": {
+      "qrCode": "SNE-26009-23-17",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-18": {
+      "qrCode": "SNE-26009-23-18",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-19": {
+      "qrCode": "SNE-26009-23-19",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-20": {
+      "qrCode": "SNE-26009-23-20",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-21": {
+      "qrCode": "SNE-26009-23-21",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-22": {
+      "qrCode": "SNE-26009-23-22",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-23": {
+      "qrCode": "SNE-26009-23-23",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-24": {
+      "qrCode": "SNE-26009-23-24",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-25": {
+      "qrCode": "SNE-26009-23-25",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-26": {
+      "qrCode": "SNE-26009-23-26",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-27": {
+      "qrCode": "SNE-26009-23-27",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-28": {
+      "qrCode": "SNE-26009-23-28",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-29": {
+      "qrCode": "SNE-26009-23-29",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-23-30": {
+      "qrCode": "SNE-26009-23-30",
+      "challanNo": "SNE-26009",
+      "itemCode": "23",
+      "desc": "M18X80 GI NUT BOLT WITH WASHER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-24-1": {
+      "qrCode": "SNE-26009-24-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "24",
+      "desc": "6'' GI ELBOW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-24-2": {
+      "qrCode": "SNE-26009-24-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "24",
+      "desc": "6'' GI ELBOW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-24-3": {
+      "qrCode": "SNE-26009-24-3",
+      "challanNo": "SNE-26009",
+      "itemCode": "24",
+      "desc": "6'' GI ELBOW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-24-4": {
+      "qrCode": "SNE-26009-24-4",
+      "challanNo": "SNE-26009",
+      "itemCode": "24",
+      "desc": "6'' GI ELBOW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-24-5": {
+      "qrCode": "SNE-26009-24-5",
+      "challanNo": "SNE-26009",
+      "itemCode": "24",
+      "desc": "6'' GI ELBOW",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-25-1": {
+      "qrCode": "SNE-26009-25-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "25",
+      "desc": "6'' FLANGE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-25-2": {
+      "qrCode": "SNE-26009-25-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "25",
+      "desc": "6'' FLANGE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-25-3": {
+      "qrCode": "SNE-26009-25-3",
+      "challanNo": "SNE-26009",
+      "itemCode": "25",
+      "desc": "6'' FLANGE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-25-4": {
+      "qrCode": "SNE-26009-25-4",
+      "challanNo": "SNE-26009",
+      "itemCode": "25",
+      "desc": "6'' FLANGE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-25-5": {
+      "qrCode": "SNE-26009-25-5",
+      "challanNo": "SNE-26009",
+      "itemCode": "25",
+      "desc": "6'' FLANGE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-26-1": {
+      "qrCode": "SNE-26009-26-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "26",
+      "desc": "MS KEY FOR NUTECK ELEVATOR SPROCKET COUPLING 20X12X65MM L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-27-1": {
+      "qrCode": "SNE-26009-27-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "27",
+      "desc": "MS KEY FOR NUTECK ELEVATOR SPROCKET COUPLING 18X11X65MML",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-28-1": {
+      "qrCode": "SNE-26009-28-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "28",
+      "desc": "RESISTER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-28-2": {
+      "qrCode": "SNE-26009-28-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "28",
+      "desc": "RESISTER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-29-1": {
+      "qrCode": "SNE-26009-29-1",
+      "challanNo": "SNE-26009",
+      "itemCode": "29",
+      "desc": "DRWAING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26009-29-2": {
+      "qrCode": "SNE-26009-29-2",
+      "challanNo": "SNE-26009",
+      "itemCode": "29",
+      "desc": "DRWAING",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-20T02:05:54.616Z",
+      "challanNo": "SNE-26009",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 252 items."
+    },
     {
       "timestamp": "2026-11-20T01:49:40.068Z",
       "challanNo": "SNE-26008",
