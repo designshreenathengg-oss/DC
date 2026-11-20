@@ -2461,6 +2461,175 @@
         "SNE-26009-29-2"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26010": {
+      "challanNo": "SNE-26010",
+      "date": "2026-11-20",
+      "poNo": "",
+      "poDate": "2026-11-20",
+      "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
+      "vehicle": "MH12YQ9077  Nub :- 9764276038",
+      "remarkType": "Amount",
+      "showTotal": true,
+      "items": [
+        {
+          "code": "ITM",
+          "desc": "Sq Pipe 200X300X 3800 L",
+          "qty": 31,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 325000"
+        },
+        {
+          "code": "ITM",
+          "desc": "Sq Pipe 200X200X3696 L",
+          "qty": 4,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 25000"
+        },
+        {
+          "code": "ITM",
+          "desc": "C Chaneel 100X50X3800 L",
+          "qty": 45,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 625000"
+        },
+        {
+          "code": "ITM",
+          "desc": "MS Roller  Assembely For ED Oven",
+          "qty": 10,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 300000"
+        },
+        {
+          "code": "ITM",
+          "desc": "MS Drive Shaft for Roller Bed",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 20000"
+        },
+        {
+          "code": "ITM",
+          "desc": "PRB Roller Cover",
+          "qty": 12,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 35000"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26010-ITM-1",
+        "SNE-26010-ITM-2",
+        "SNE-26010-ITM-3",
+        "SNE-26010-ITM-4",
+        "SNE-26010-ITM-5",
+        "SNE-26010-ITM-6",
+        "SNE-26010-ITM-7",
+        "SNE-26010-ITM-8",
+        "SNE-26010-ITM-9",
+        "SNE-26010-ITM-10",
+        "SNE-26010-ITM-11",
+        "SNE-26010-ITM-12",
+        "SNE-26010-ITM-13",
+        "SNE-26010-ITM-14",
+        "SNE-26010-ITM-15",
+        "SNE-26010-ITM-16",
+        "SNE-26010-ITM-17",
+        "SNE-26010-ITM-18",
+        "SNE-26010-ITM-19",
+        "SNE-26010-ITM-20",
+        "SNE-26010-ITM-21",
+        "SNE-26010-ITM-22",
+        "SNE-26010-ITM-23",
+        "SNE-26010-ITM-24",
+        "SNE-26010-ITM-25",
+        "SNE-26010-ITM-26",
+        "SNE-26010-ITM-27",
+        "SNE-26010-ITM-28",
+        "SNE-26010-ITM-29",
+        "SNE-26010-ITM-30",
+        "SNE-26010-ITM-31",
+        "SNE-26010-ITM-R2-1",
+        "SNE-26010-ITM-R2-2",
+        "SNE-26010-ITM-R2-3",
+        "SNE-26010-ITM-R2-4",
+        "SNE-26010-ITM-R3-1",
+        "SNE-26010-ITM-R3-2",
+        "SNE-26010-ITM-R3-3",
+        "SNE-26010-ITM-R3-4",
+        "SNE-26010-ITM-R3-5",
+        "SNE-26010-ITM-R3-6",
+        "SNE-26010-ITM-R3-7",
+        "SNE-26010-ITM-R3-8",
+        "SNE-26010-ITM-R3-9",
+        "SNE-26010-ITM-R3-10",
+        "SNE-26010-ITM-R3-11",
+        "SNE-26010-ITM-R3-12",
+        "SNE-26010-ITM-R3-13",
+        "SNE-26010-ITM-R3-14",
+        "SNE-26010-ITM-R3-15",
+        "SNE-26010-ITM-R3-16",
+        "SNE-26010-ITM-R3-17",
+        "SNE-26010-ITM-R3-18",
+        "SNE-26010-ITM-R3-19",
+        "SNE-26010-ITM-R3-20",
+        "SNE-26010-ITM-R3-21",
+        "SNE-26010-ITM-R3-22",
+        "SNE-26010-ITM-R3-23",
+        "SNE-26010-ITM-R3-24",
+        "SNE-26010-ITM-R3-25",
+        "SNE-26010-ITM-R3-26",
+        "SNE-26010-ITM-R3-27",
+        "SNE-26010-ITM-R3-28",
+        "SNE-26010-ITM-R3-29",
+        "SNE-26010-ITM-R3-30",
+        "SNE-26010-ITM-R3-31",
+        "SNE-26010-ITM-32",
+        "SNE-26010-ITM-33",
+        "SNE-26010-ITM-34",
+        "SNE-26010-ITM-35",
+        "SNE-26010-ITM-36",
+        "SNE-26010-ITM-37",
+        "SNE-26010-ITM-38",
+        "SNE-26010-ITM-39",
+        "SNE-26010-ITM-40",
+        "SNE-26010-ITM-41",
+        "SNE-26010-ITM-42",
+        "SNE-26010-ITM-43",
+        "SNE-26010-ITM-44",
+        "SNE-26010-ITM-45",
+        "SNE-26010-ITM-R4-1",
+        "SNE-26010-ITM-R4-2",
+        "SNE-26010-ITM-R4-3",
+        "SNE-26010-ITM-R4-4",
+        "SNE-26010-ITM-R4-5",
+        "SNE-26010-ITM-R4-6",
+        "SNE-26010-ITM-R4-7",
+        "SNE-26010-ITM-R4-8",
+        "SNE-26010-ITM-R4-9",
+        "SNE-26010-ITM-R4-10",
+        "SNE-26010-ITM-R5-1",
+        "SNE-26010-ITM-R5-2",
+        "SNE-26010-ITM-R6-1",
+        "SNE-26010-ITM-R6-2",
+        "SNE-26010-ITM-R6-3",
+        "SNE-26010-ITM-R6-4",
+        "SNE-26010-ITM-R6-5",
+        "SNE-26010-ITM-R6-6",
+        "SNE-26010-ITM-R6-7",
+        "SNE-26010-ITM-R6-8",
+        "SNE-26010-ITM-R6-9",
+        "SNE-26010-ITM-R6-10",
+        "SNE-26010-ITM-R6-11",
+        "SNE-26010-ITM-R6-12"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -16640,9 +16809,956 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-1": {
+      "qrCode": "SNE-26010-ITM-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-2": {
+      "qrCode": "SNE-26010-ITM-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-3": {
+      "qrCode": "SNE-26010-ITM-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-4": {
+      "qrCode": "SNE-26010-ITM-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-5": {
+      "qrCode": "SNE-26010-ITM-5",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-6": {
+      "qrCode": "SNE-26010-ITM-6",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-7": {
+      "qrCode": "SNE-26010-ITM-7",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-8": {
+      "qrCode": "SNE-26010-ITM-8",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-9": {
+      "qrCode": "SNE-26010-ITM-9",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-10": {
+      "qrCode": "SNE-26010-ITM-10",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-11": {
+      "qrCode": "SNE-26010-ITM-11",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-12": {
+      "qrCode": "SNE-26010-ITM-12",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-13": {
+      "qrCode": "SNE-26010-ITM-13",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-14": {
+      "qrCode": "SNE-26010-ITM-14",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-15": {
+      "qrCode": "SNE-26010-ITM-15",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-16": {
+      "qrCode": "SNE-26010-ITM-16",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-17": {
+      "qrCode": "SNE-26010-ITM-17",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-18": {
+      "qrCode": "SNE-26010-ITM-18",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-19": {
+      "qrCode": "SNE-26010-ITM-19",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-20": {
+      "qrCode": "SNE-26010-ITM-20",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-21": {
+      "qrCode": "SNE-26010-ITM-21",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-22": {
+      "qrCode": "SNE-26010-ITM-22",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-23": {
+      "qrCode": "SNE-26010-ITM-23",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-24": {
+      "qrCode": "SNE-26010-ITM-24",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-25": {
+      "qrCode": "SNE-26010-ITM-25",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-26": {
+      "qrCode": "SNE-26010-ITM-26",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-27": {
+      "qrCode": "SNE-26010-ITM-27",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-28": {
+      "qrCode": "SNE-26010-ITM-28",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-29": {
+      "qrCode": "SNE-26010-ITM-29",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-30": {
+      "qrCode": "SNE-26010-ITM-30",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-31": {
+      "qrCode": "SNE-26010-ITM-31",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X300X 3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R2-1": {
+      "qrCode": "SNE-26010-ITM-R2-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X200X3696 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R2-2": {
+      "qrCode": "SNE-26010-ITM-R2-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X200X3696 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R2-3": {
+      "qrCode": "SNE-26010-ITM-R2-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X200X3696 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R2-4": {
+      "qrCode": "SNE-26010-ITM-R2-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "Sq Pipe 200X200X3696 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-1": {
+      "qrCode": "SNE-26010-ITM-R3-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-2": {
+      "qrCode": "SNE-26010-ITM-R3-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-3": {
+      "qrCode": "SNE-26010-ITM-R3-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-4": {
+      "qrCode": "SNE-26010-ITM-R3-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-5": {
+      "qrCode": "SNE-26010-ITM-R3-5",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-6": {
+      "qrCode": "SNE-26010-ITM-R3-6",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-7": {
+      "qrCode": "SNE-26010-ITM-R3-7",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-8": {
+      "qrCode": "SNE-26010-ITM-R3-8",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-9": {
+      "qrCode": "SNE-26010-ITM-R3-9",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-10": {
+      "qrCode": "SNE-26010-ITM-R3-10",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-11": {
+      "qrCode": "SNE-26010-ITM-R3-11",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-12": {
+      "qrCode": "SNE-26010-ITM-R3-12",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-13": {
+      "qrCode": "SNE-26010-ITM-R3-13",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-14": {
+      "qrCode": "SNE-26010-ITM-R3-14",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-15": {
+      "qrCode": "SNE-26010-ITM-R3-15",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-16": {
+      "qrCode": "SNE-26010-ITM-R3-16",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-17": {
+      "qrCode": "SNE-26010-ITM-R3-17",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-18": {
+      "qrCode": "SNE-26010-ITM-R3-18",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-19": {
+      "qrCode": "SNE-26010-ITM-R3-19",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-20": {
+      "qrCode": "SNE-26010-ITM-R3-20",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-21": {
+      "qrCode": "SNE-26010-ITM-R3-21",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-22": {
+      "qrCode": "SNE-26010-ITM-R3-22",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-23": {
+      "qrCode": "SNE-26010-ITM-R3-23",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-24": {
+      "qrCode": "SNE-26010-ITM-R3-24",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-25": {
+      "qrCode": "SNE-26010-ITM-R3-25",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-26": {
+      "qrCode": "SNE-26010-ITM-R3-26",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-27": {
+      "qrCode": "SNE-26010-ITM-R3-27",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-28": {
+      "qrCode": "SNE-26010-ITM-R3-28",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-29": {
+      "qrCode": "SNE-26010-ITM-R3-29",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-30": {
+      "qrCode": "SNE-26010-ITM-R3-30",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R3-31": {
+      "qrCode": "SNE-26010-ITM-R3-31",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-32": {
+      "qrCode": "SNE-26010-ITM-32",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-33": {
+      "qrCode": "SNE-26010-ITM-33",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-34": {
+      "qrCode": "SNE-26010-ITM-34",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-35": {
+      "qrCode": "SNE-26010-ITM-35",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-36": {
+      "qrCode": "SNE-26010-ITM-36",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-37": {
+      "qrCode": "SNE-26010-ITM-37",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-38": {
+      "qrCode": "SNE-26010-ITM-38",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-39": {
+      "qrCode": "SNE-26010-ITM-39",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-40": {
+      "qrCode": "SNE-26010-ITM-40",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-41": {
+      "qrCode": "SNE-26010-ITM-41",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-42": {
+      "qrCode": "SNE-26010-ITM-42",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-43": {
+      "qrCode": "SNE-26010-ITM-43",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-44": {
+      "qrCode": "SNE-26010-ITM-44",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-45": {
+      "qrCode": "SNE-26010-ITM-45",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "C Chaneel 100X50X3800 L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R4-1": {
+      "qrCode": "SNE-26010-ITM-R4-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "MS Roller  Assembely For ED Oven",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R4-2": {
+      "qrCode": "SNE-26010-ITM-R4-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "MS Roller  Assembely For ED Oven",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R4-3": {
+      "qrCode": "SNE-26010-ITM-R4-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "MS Roller  Assembely For ED Oven",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R4-4": {
+      "qrCode": "SNE-26010-ITM-R4-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "MS Roller  Assembely For ED Oven",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R4-5": {
+      "qrCode": "SNE-26010-ITM-R4-5",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "MS Roller  Assembely For ED Oven",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R4-6": {
+      "qrCode": "SNE-26010-ITM-R4-6",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "MS Roller  Assembely For ED Oven",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R4-7": {
+      "qrCode": "SNE-26010-ITM-R4-7",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "MS Roller  Assembely For ED Oven",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R4-8": {
+      "qrCode": "SNE-26010-ITM-R4-8",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "MS Roller  Assembely For ED Oven",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R4-9": {
+      "qrCode": "SNE-26010-ITM-R4-9",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "MS Roller  Assembely For ED Oven",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R4-10": {
+      "qrCode": "SNE-26010-ITM-R4-10",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "MS Roller  Assembely For ED Oven",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R5-1": {
+      "qrCode": "SNE-26010-ITM-R5-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "MS Drive Shaft for Roller Bed",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R5-2": {
+      "qrCode": "SNE-26010-ITM-R5-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "MS Drive Shaft for Roller Bed",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R6-1": {
+      "qrCode": "SNE-26010-ITM-R6-1",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "PRB Roller Cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R6-2": {
+      "qrCode": "SNE-26010-ITM-R6-2",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "PRB Roller Cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R6-3": {
+      "qrCode": "SNE-26010-ITM-R6-3",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "PRB Roller Cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R6-4": {
+      "qrCode": "SNE-26010-ITM-R6-4",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "PRB Roller Cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R6-5": {
+      "qrCode": "SNE-26010-ITM-R6-5",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "PRB Roller Cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R6-6": {
+      "qrCode": "SNE-26010-ITM-R6-6",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "PRB Roller Cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R6-7": {
+      "qrCode": "SNE-26010-ITM-R6-7",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "PRB Roller Cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R6-8": {
+      "qrCode": "SNE-26010-ITM-R6-8",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "PRB Roller Cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R6-9": {
+      "qrCode": "SNE-26010-ITM-R6-9",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "PRB Roller Cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R6-10": {
+      "qrCode": "SNE-26010-ITM-R6-10",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "PRB Roller Cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R6-11": {
+      "qrCode": "SNE-26010-ITM-R6-11",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "PRB Roller Cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26010-ITM-R6-12": {
+      "qrCode": "SNE-26010-ITM-R6-12",
+      "challanNo": "SNE-26010",
+      "itemCode": "ITM",
+      "desc": "PRB Roller Cover",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-20T15:17:02.063Z",
+      "challanNo": "SNE-26010",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 104 items."
+    },
     {
       "timestamp": "2026-11-20T04:49:14.422Z",
       "challanNo": "SNE-26010",
