@@ -1210,7 +1210,7 @@
       "challanNo": "SNE-26008",
       "date": "2026-11-20",
       "poNo": "",
-      "poDate": "2026-11-20",
+      "poDate": "2026-11-19",
       "projectName": "CC INT/ CC EXT SIDE WALL",
       "customer": "MAHINDRA AND MAHINDRA",
       "address": "CHAKAN MIDC, PUNE",
@@ -16643,6 +16643,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-20T02:09:02.454Z",
+      "challanNo": "SNE-26008",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 738 items."
+    },
     {
       "timestamp": "2026-11-20T02:05:54.616Z",
       "challanNo": "SNE-26009",
