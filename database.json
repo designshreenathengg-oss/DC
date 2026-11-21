@@ -3158,11 +3158,11 @@
         },
         {
           "code": "ITM",
-          "desc": "06\"Champion Gasket",
-          "qty": 75,
+          "desc": "05\"Champion Gasket",
+          "qty": 10,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "₹ 60000"
+          "remark": "₹ 6000"
         },
         {
           "code": "ITM",
@@ -3170,7 +3170,7 @@
           "qty": 75,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "₹ 60000"
+          "remark": "₹ 6000"
         },
         {
           "code": "ITM",
@@ -3309,16 +3309,26 @@
         "SNE-26013-ITM-R5-8",
         "SNE-26013-ITM-R5-9",
         "SNE-26013-ITM-R5-10",
-        "SNE-26013-ITM-R5-11",
-        "SNE-26013-ITM-R5-12",
-        "SNE-26013-ITM-R5-13",
-        "SNE-26013-ITM-R5-14",
-        "SNE-26013-ITM-R5-15",
-        "SNE-26013-ITM-R5-16",
-        "SNE-26013-ITM-R5-17",
-        "SNE-26013-ITM-R5-18",
-        "SNE-26013-ITM-R5-19",
-        "SNE-26013-ITM-R5-20",
+        "SNE-26013-ITM-R6-1",
+        "SNE-26013-ITM-R6-2",
+        "SNE-26013-ITM-R6-3",
+        "SNE-26013-ITM-R6-4",
+        "SNE-26013-ITM-R6-5",
+        "SNE-26013-ITM-R6-6",
+        "SNE-26013-ITM-R6-7",
+        "SNE-26013-ITM-R6-8",
+        "SNE-26013-ITM-R6-9",
+        "SNE-26013-ITM-R6-10",
+        "SNE-26013-ITM-R6-11",
+        "SNE-26013-ITM-R6-12",
+        "SNE-26013-ITM-R6-13",
+        "SNE-26013-ITM-R6-14",
+        "SNE-26013-ITM-R6-15",
+        "SNE-26013-ITM-R6-16",
+        "SNE-26013-ITM-R6-17",
+        "SNE-26013-ITM-R6-18",
+        "SNE-26013-ITM-R6-19",
+        "SNE-26013-ITM-R6-20",
         "SNE-26013-ITM-21",
         "SNE-26013-ITM-22",
         "SNE-26013-ITM-23",
@@ -3374,81 +3384,6 @@
         "SNE-26013-ITM-73",
         "SNE-26013-ITM-74",
         "SNE-26013-ITM-75",
-        "SNE-26013-ITM-R6-1",
-        "SNE-26013-ITM-R6-2",
-        "SNE-26013-ITM-R6-3",
-        "SNE-26013-ITM-R6-4",
-        "SNE-26013-ITM-R6-5",
-        "SNE-26013-ITM-R6-6",
-        "SNE-26013-ITM-R6-7",
-        "SNE-26013-ITM-R6-8",
-        "SNE-26013-ITM-R6-9",
-        "SNE-26013-ITM-R6-10",
-        "SNE-26013-ITM-R6-11",
-        "SNE-26013-ITM-R6-12",
-        "SNE-26013-ITM-R6-13",
-        "SNE-26013-ITM-R6-14",
-        "SNE-26013-ITM-R6-15",
-        "SNE-26013-ITM-R6-16",
-        "SNE-26013-ITM-R6-17",
-        "SNE-26013-ITM-R6-18",
-        "SNE-26013-ITM-R6-19",
-        "SNE-26013-ITM-R6-20",
-        "SNE-26013-ITM-R6-21",
-        "SNE-26013-ITM-R6-22",
-        "SNE-26013-ITM-R6-23",
-        "SNE-26013-ITM-R6-24",
-        "SNE-26013-ITM-R6-25",
-        "SNE-26013-ITM-R6-26",
-        "SNE-26013-ITM-R6-27",
-        "SNE-26013-ITM-R6-28",
-        "SNE-26013-ITM-R6-29",
-        "SNE-26013-ITM-R6-30",
-        "SNE-26013-ITM-R6-31",
-        "SNE-26013-ITM-R6-32",
-        "SNE-26013-ITM-R6-33",
-        "SNE-26013-ITM-R6-34",
-        "SNE-26013-ITM-R6-35",
-        "SNE-26013-ITM-R6-36",
-        "SNE-26013-ITM-R6-37",
-        "SNE-26013-ITM-R6-38",
-        "SNE-26013-ITM-R6-39",
-        "SNE-26013-ITM-R6-40",
-        "SNE-26013-ITM-R6-41",
-        "SNE-26013-ITM-R6-42",
-        "SNE-26013-ITM-R6-43",
-        "SNE-26013-ITM-R6-44",
-        "SNE-26013-ITM-R6-45",
-        "SNE-26013-ITM-R6-46",
-        "SNE-26013-ITM-R6-47",
-        "SNE-26013-ITM-R6-48",
-        "SNE-26013-ITM-R6-49",
-        "SNE-26013-ITM-R6-50",
-        "SNE-26013-ITM-R6-51",
-        "SNE-26013-ITM-R6-52",
-        "SNE-26013-ITM-R6-53",
-        "SNE-26013-ITM-R6-54",
-        "SNE-26013-ITM-R6-55",
-        "SNE-26013-ITM-R6-56",
-        "SNE-26013-ITM-R6-57",
-        "SNE-26013-ITM-R6-58",
-        "SNE-26013-ITM-R6-59",
-        "SNE-26013-ITM-R6-60",
-        "SNE-26013-ITM-R6-61",
-        "SNE-26013-ITM-R6-62",
-        "SNE-26013-ITM-R6-63",
-        "SNE-26013-ITM-R6-64",
-        "SNE-26013-ITM-R6-65",
-        "SNE-26013-ITM-R6-66",
-        "SNE-26013-ITM-R6-67",
-        "SNE-26013-ITM-R6-68",
-        "SNE-26013-ITM-R6-69",
-        "SNE-26013-ITM-R6-70",
-        "SNE-26013-ITM-R6-71",
-        "SNE-26013-ITM-R6-72",
-        "SNE-26013-ITM-R6-73",
-        "SNE-26013-ITM-R6-74",
-        "SNE-26013-ITM-R6-75",
         "SNE-26013-ITM-R7-1",
         "SNE-26013-ITM-R7-2",
         "SNE-26013-ITM-R7-3",
@@ -21036,7 +20971,7 @@
       "qrCode": "SNE-26013-ITM-R5-1",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "05\"Champion Gasket",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21045,7 +20980,7 @@
       "qrCode": "SNE-26013-ITM-R5-2",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "05\"Champion Gasket",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21054,7 +20989,7 @@
       "qrCode": "SNE-26013-ITM-R5-3",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "05\"Champion Gasket",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21063,7 +20998,7 @@
       "qrCode": "SNE-26013-ITM-R5-4",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "05\"Champion Gasket",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21072,7 +21007,7 @@
       "qrCode": "SNE-26013-ITM-R5-5",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "05\"Champion Gasket",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21081,7 +21016,7 @@
       "qrCode": "SNE-26013-ITM-R5-6",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "05\"Champion Gasket",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21090,7 +21025,7 @@
       "qrCode": "SNE-26013-ITM-R5-7",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "05\"Champion Gasket",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21099,7 +21034,7 @@
       "qrCode": "SNE-26013-ITM-R5-8",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "05\"Champion Gasket",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21108,7 +21043,7 @@
       "qrCode": "SNE-26013-ITM-R5-9",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "05\"Champion Gasket",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21117,97 +21052,7 @@
       "qrCode": "SNE-26013-ITM-R5-10",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R5-11": {
-      "qrCode": "SNE-26013-ITM-R5-11",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R5-12": {
-      "qrCode": "SNE-26013-ITM-R5-12",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R5-13": {
-      "qrCode": "SNE-26013-ITM-R5-13",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R5-14": {
-      "qrCode": "SNE-26013-ITM-R5-14",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R5-15": {
-      "qrCode": "SNE-26013-ITM-R5-15",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R5-16": {
-      "qrCode": "SNE-26013-ITM-R5-16",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R5-17": {
-      "qrCode": "SNE-26013-ITM-R5-17",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R5-18": {
-      "qrCode": "SNE-26013-ITM-R5-18",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R5-19": {
-      "qrCode": "SNE-26013-ITM-R5-19",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R5-20": {
-      "qrCode": "SNE-26013-ITM-R5-20",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "05\"Champion Gasket",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21216,7 +21061,7 @@
       "qrCode": "SNE-26013-ITM-21",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21225,7 +21070,7 @@
       "qrCode": "SNE-26013-ITM-22",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21234,7 +21079,7 @@
       "qrCode": "SNE-26013-ITM-23",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21243,7 +21088,7 @@
       "qrCode": "SNE-26013-ITM-24",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21252,7 +21097,7 @@
       "qrCode": "SNE-26013-ITM-25",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21261,7 +21106,7 @@
       "qrCode": "SNE-26013-ITM-26",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21270,7 +21115,7 @@
       "qrCode": "SNE-26013-ITM-27",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21279,7 +21124,7 @@
       "qrCode": "SNE-26013-ITM-28",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21288,7 +21133,7 @@
       "qrCode": "SNE-26013-ITM-29",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21297,7 +21142,7 @@
       "qrCode": "SNE-26013-ITM-30",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21306,7 +21151,7 @@
       "qrCode": "SNE-26013-ITM-31",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21315,7 +21160,7 @@
       "qrCode": "SNE-26013-ITM-32",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21324,7 +21169,7 @@
       "qrCode": "SNE-26013-ITM-33",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21333,7 +21178,7 @@
       "qrCode": "SNE-26013-ITM-34",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21342,7 +21187,7 @@
       "qrCode": "SNE-26013-ITM-35",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21351,7 +21196,7 @@
       "qrCode": "SNE-26013-ITM-36",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21360,7 +21205,7 @@
       "qrCode": "SNE-26013-ITM-37",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21369,7 +21214,7 @@
       "qrCode": "SNE-26013-ITM-38",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21378,7 +21223,7 @@
       "qrCode": "SNE-26013-ITM-39",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21387,7 +21232,7 @@
       "qrCode": "SNE-26013-ITM-40",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21396,7 +21241,7 @@
       "qrCode": "SNE-26013-ITM-41",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21405,7 +21250,7 @@
       "qrCode": "SNE-26013-ITM-42",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21414,7 +21259,7 @@
       "qrCode": "SNE-26013-ITM-43",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21423,7 +21268,7 @@
       "qrCode": "SNE-26013-ITM-44",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21432,7 +21277,7 @@
       "qrCode": "SNE-26013-ITM-45",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21441,7 +21286,7 @@
       "qrCode": "SNE-26013-ITM-46",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21450,7 +21295,7 @@
       "qrCode": "SNE-26013-ITM-47",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21459,7 +21304,7 @@
       "qrCode": "SNE-26013-ITM-48",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21468,7 +21313,7 @@
       "qrCode": "SNE-26013-ITM-49",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21477,7 +21322,7 @@
       "qrCode": "SNE-26013-ITM-50",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21486,7 +21331,7 @@
       "qrCode": "SNE-26013-ITM-51",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21495,7 +21340,7 @@
       "qrCode": "SNE-26013-ITM-52",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21504,7 +21349,7 @@
       "qrCode": "SNE-26013-ITM-53",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21513,7 +21358,7 @@
       "qrCode": "SNE-26013-ITM-54",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21522,7 +21367,7 @@
       "qrCode": "SNE-26013-ITM-55",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21531,7 +21376,7 @@
       "qrCode": "SNE-26013-ITM-56",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21540,7 +21385,7 @@
       "qrCode": "SNE-26013-ITM-57",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21549,7 +21394,7 @@
       "qrCode": "SNE-26013-ITM-58",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21558,7 +21403,7 @@
       "qrCode": "SNE-26013-ITM-59",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21567,7 +21412,7 @@
       "qrCode": "SNE-26013-ITM-60",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21576,7 +21421,7 @@
       "qrCode": "SNE-26013-ITM-61",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21585,7 +21430,7 @@
       "qrCode": "SNE-26013-ITM-62",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21594,7 +21439,7 @@
       "qrCode": "SNE-26013-ITM-63",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21603,7 +21448,7 @@
       "qrCode": "SNE-26013-ITM-64",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21612,7 +21457,7 @@
       "qrCode": "SNE-26013-ITM-65",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21621,7 +21466,7 @@
       "qrCode": "SNE-26013-ITM-66",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21630,7 +21475,7 @@
       "qrCode": "SNE-26013-ITM-67",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21639,7 +21484,7 @@
       "qrCode": "SNE-26013-ITM-68",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21648,7 +21493,7 @@
       "qrCode": "SNE-26013-ITM-69",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21657,7 +21502,7 @@
       "qrCode": "SNE-26013-ITM-70",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21666,7 +21511,7 @@
       "qrCode": "SNE-26013-ITM-71",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21675,7 +21520,7 @@
       "qrCode": "SNE-26013-ITM-72",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21684,7 +21529,7 @@
       "qrCode": "SNE-26013-ITM-73",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21693,7 +21538,7 @@
       "qrCode": "SNE-26013-ITM-74",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21702,7 +21547,7 @@
       "qrCode": "SNE-26013-ITM-75",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
-      "desc": "06\"Champion Gasket",
+      "desc": "24X150 SS Nut Bolt Double Washer",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -21880,501 +21725,6 @@
     },
     "SNE-26013-ITM-R6-20": {
       "qrCode": "SNE-26013-ITM-R6-20",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-21": {
-      "qrCode": "SNE-26013-ITM-R6-21",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-22": {
-      "qrCode": "SNE-26013-ITM-R6-22",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-23": {
-      "qrCode": "SNE-26013-ITM-R6-23",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-24": {
-      "qrCode": "SNE-26013-ITM-R6-24",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-25": {
-      "qrCode": "SNE-26013-ITM-R6-25",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-26": {
-      "qrCode": "SNE-26013-ITM-R6-26",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-27": {
-      "qrCode": "SNE-26013-ITM-R6-27",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-28": {
-      "qrCode": "SNE-26013-ITM-R6-28",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-29": {
-      "qrCode": "SNE-26013-ITM-R6-29",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-30": {
-      "qrCode": "SNE-26013-ITM-R6-30",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-31": {
-      "qrCode": "SNE-26013-ITM-R6-31",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-32": {
-      "qrCode": "SNE-26013-ITM-R6-32",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-33": {
-      "qrCode": "SNE-26013-ITM-R6-33",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-34": {
-      "qrCode": "SNE-26013-ITM-R6-34",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-35": {
-      "qrCode": "SNE-26013-ITM-R6-35",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-36": {
-      "qrCode": "SNE-26013-ITM-R6-36",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-37": {
-      "qrCode": "SNE-26013-ITM-R6-37",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-38": {
-      "qrCode": "SNE-26013-ITM-R6-38",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-39": {
-      "qrCode": "SNE-26013-ITM-R6-39",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-40": {
-      "qrCode": "SNE-26013-ITM-R6-40",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-41": {
-      "qrCode": "SNE-26013-ITM-R6-41",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-42": {
-      "qrCode": "SNE-26013-ITM-R6-42",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-43": {
-      "qrCode": "SNE-26013-ITM-R6-43",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-44": {
-      "qrCode": "SNE-26013-ITM-R6-44",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-45": {
-      "qrCode": "SNE-26013-ITM-R6-45",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-46": {
-      "qrCode": "SNE-26013-ITM-R6-46",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-47": {
-      "qrCode": "SNE-26013-ITM-R6-47",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-48": {
-      "qrCode": "SNE-26013-ITM-R6-48",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-49": {
-      "qrCode": "SNE-26013-ITM-R6-49",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-50": {
-      "qrCode": "SNE-26013-ITM-R6-50",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-51": {
-      "qrCode": "SNE-26013-ITM-R6-51",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-52": {
-      "qrCode": "SNE-26013-ITM-R6-52",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-53": {
-      "qrCode": "SNE-26013-ITM-R6-53",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-54": {
-      "qrCode": "SNE-26013-ITM-R6-54",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-55": {
-      "qrCode": "SNE-26013-ITM-R6-55",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-56": {
-      "qrCode": "SNE-26013-ITM-R6-56",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-57": {
-      "qrCode": "SNE-26013-ITM-R6-57",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-58": {
-      "qrCode": "SNE-26013-ITM-R6-58",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-59": {
-      "qrCode": "SNE-26013-ITM-R6-59",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-60": {
-      "qrCode": "SNE-26013-ITM-R6-60",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-61": {
-      "qrCode": "SNE-26013-ITM-R6-61",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-62": {
-      "qrCode": "SNE-26013-ITM-R6-62",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-63": {
-      "qrCode": "SNE-26013-ITM-R6-63",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-64": {
-      "qrCode": "SNE-26013-ITM-R6-64",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-65": {
-      "qrCode": "SNE-26013-ITM-R6-65",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-66": {
-      "qrCode": "SNE-26013-ITM-R6-66",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-67": {
-      "qrCode": "SNE-26013-ITM-R6-67",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-68": {
-      "qrCode": "SNE-26013-ITM-R6-68",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-69": {
-      "qrCode": "SNE-26013-ITM-R6-69",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-70": {
-      "qrCode": "SNE-26013-ITM-R6-70",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-71": {
-      "qrCode": "SNE-26013-ITM-R6-71",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-72": {
-      "qrCode": "SNE-26013-ITM-R6-72",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-73": {
-      "qrCode": "SNE-26013-ITM-R6-73",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-74": {
-      "qrCode": "SNE-26013-ITM-R6-74",
-      "challanNo": "SNE-26013",
-      "itemCode": "ITM",
-      "desc": "24X150 SS Nut Bolt Double Washer",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26013-ITM-R6-75": {
-      "qrCode": "SNE-26013-ITM-R6-75",
       "challanNo": "SNE-26013",
       "itemCode": "ITM",
       "desc": "24X150 SS Nut Bolt Double Washer",
@@ -26434,6 +25784,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-21T17:18:56.719Z",
+      "challanNo": "SNE-26013",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 514 items."
+    },
     {
       "timestamp": "2026-11-21T17:16:26.566Z",
       "challanNo": "SNE-26012",
