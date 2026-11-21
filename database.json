@@ -2878,7 +2878,7 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "address": "CHAKAN MIDC, PUNE",
       "vehicle": "",
-      "remarkType": "Remark",
+      "remarkType": "Amount",
       "showTotal": true,
       "items": [
         {
@@ -2886,7 +2886,7 @@
           "desc": "10\" SS Butterfly Valve",
           "qty": 6,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2894,7 +2894,7 @@
           "desc": "10\" SS Bllow With SS Flanges  Thickness 20mm",
           "qty": 6,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2902,7 +2902,7 @@
           "desc": "10\" SS 304 Stub End",
           "qty": 32,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2910,7 +2910,7 @@
           "desc": "12\" SS 304 Stub End",
           "qty": 6,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2918,7 +2918,7 @@
           "desc": "20\" SS 304 Stub End",
           "qty": 2,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2926,7 +2926,7 @@
           "desc": "16\" SS 304 Stub End",
           "qty": 2,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2934,7 +2934,7 @@
           "desc": "06\" SS 304 Stub End",
           "qty": 24,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2942,7 +2942,7 @@
           "desc": "08\"X10\" SS Conicentric Reducer",
           "qty": 3,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2950,7 +2950,7 @@
           "desc": "06\"X10\" SS Conicentric Reducer",
           "qty": 3,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2958,7 +2958,7 @@
           "desc": "20\" U Clamp",
           "qty": 2,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2966,7 +2966,7 @@
           "desc": "16\" U Clamp",
           "qty": 2,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2974,7 +2974,7 @@
           "desc": "06\" U Clamp",
           "qty": 20,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2982,7 +2982,7 @@
           "desc": "08\" SS Flange Thickness 20mm",
           "qty": 3,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2990,7 +2990,7 @@
           "desc": "20\"Champion Gasket",
           "qty": 5,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         },
         {
@@ -2998,7 +2998,7 @@
           "desc": "16\"Champion Gasket",
           "qty": 5,
           "unit": "Nos",
-          "remarkType": "Remark",
+          "remarkType": "Amount",
           "remark": "-"
         }
       ],
@@ -26169,6 +26169,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-21T15:24:20.395Z",
+      "challanNo": "SNE-26012",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 121 items."
+    },
     {
       "timestamp": "2026-11-21T15:22:40.864Z",
       "challanNo": "SNE-26013",
