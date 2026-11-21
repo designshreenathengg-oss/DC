@@ -2645,7 +2645,7 @@
       "items": [
         {
           "code": "ITM",
-          "desc": "20 Inch SS Pipe -SCH -105",
+          "desc": "20\" SS Pipe -SCH -105",
           "qty": 1,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2653,7 +2653,7 @@
         },
         {
           "code": "ITM",
-          "desc": "16 Inch SS Pipe -SCH -105",
+          "desc": "16\" SS Pipe -SCH -105",
           "qty": 1,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2661,7 +2661,7 @@
         },
         {
           "code": "ITM",
-          "desc": "12 Inch SS Pipe -SCH -105",
+          "desc": "12\" SS Pipe -SCH -105",
           "qty": 1,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2669,7 +2669,7 @@
         },
         {
           "code": "ITM",
-          "desc": "10 Inch SS Pipe -SCH -105",
+          "desc": "10\" SS Pipe -SCH -105",
           "qty": 1,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2677,7 +2677,7 @@
         },
         {
           "code": "ITM",
-          "desc": "06 Inch SS Pipe -SCH -105",
+          "desc": "06\" SS Pipe -SCH -105",
           "qty": 1,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2685,7 +2685,7 @@
         },
         {
           "code": "ITM",
-          "desc": "06 Inch SS Elbow",
+          "desc": "06\" SS Elbow",
           "qty": 10,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2693,7 +2693,7 @@
         },
         {
           "code": "ITM",
-          "desc": "06 Inch SS Flanges 20mm Thickness",
+          "desc": "06\" SS Flanges 20mm Thickness",
           "qty": 28,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2701,7 +2701,7 @@
         },
         {
           "code": "ITM",
-          "desc": "06 inch Butterfly Valve",
+          "desc": "06\" Butterfly Valve",
           "qty": 6,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2709,7 +2709,7 @@
         },
         {
           "code": "ITM",
-          "desc": "12 Inch SS Flanges 20mm Thickness",
+          "desc": "12\" SS Flanges 20mm Thickness",
           "qty": 6,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2717,7 +2717,7 @@
         },
         {
           "code": "ITM",
-          "desc": "10 Inch SS Flanges 20mm Thickness",
+          "desc": "10\" SS Flanges 20mm Thickness",
           "qty": 32,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2725,7 +2725,7 @@
         },
         {
           "code": "ITM",
-          "desc": "20 Inch SS dummy Flanges 20mm Thickness",
+          "desc": "20\" SS dummy Flanges 20mm Thickness",
           "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2733,7 +2733,7 @@
         },
         {
           "code": "ITM",
-          "desc": "20 Inch SS Flanges 20mm Thickness",
+          "desc": "20\" SS Flanges 20mm Thickness",
           "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2741,7 +2741,7 @@
         },
         {
           "code": "ITM",
-          "desc": "16 Inch SS Flanges 20mm Thickness",
+          "desc": "16\" SS Flanges 20mm Thickness",
           "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2749,7 +2749,7 @@
         },
         {
           "code": "ITM",
-          "desc": "16 Inch SS Dummy Flanges 20mm Thickness",
+          "desc": "16\" SS Dummy Flanges 20mm Thickness",
           "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -2757,7 +2757,7 @@
         },
         {
           "code": "ITM",
-          "desc": "10 Inch NRV",
+          "desc": "10\" NRV",
           "qty": 6,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -18962,7 +18962,7 @@
       "qrCode": "SNE-26011-ITM-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "20 Inch SS Pipe -SCH -105",
+      "desc": "20\" SS Pipe -SCH -105",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -18971,7 +18971,7 @@
       "qrCode": "SNE-26011-ITM-R2-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "16 Inch SS Pipe -SCH -105",
+      "desc": "16\" SS Pipe -SCH -105",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -18980,7 +18980,7 @@
       "qrCode": "SNE-26011-ITM-R3-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "12 Inch SS Pipe -SCH -105",
+      "desc": "12\" SS Pipe -SCH -105",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -18989,7 +18989,7 @@
       "qrCode": "SNE-26011-ITM-R4-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Pipe -SCH -105",
+      "desc": "10\" SS Pipe -SCH -105",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -18998,7 +18998,7 @@
       "qrCode": "SNE-26011-ITM-R5-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Pipe -SCH -105",
+      "desc": "06\" SS Pipe -SCH -105",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19007,7 +19007,7 @@
       "qrCode": "SNE-26011-ITM-R6-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Elbow",
+      "desc": "06\" SS Elbow",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19016,7 +19016,7 @@
       "qrCode": "SNE-26011-ITM-2",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Elbow",
+      "desc": "06\" SS Elbow",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19025,7 +19025,7 @@
       "qrCode": "SNE-26011-ITM-3",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Elbow",
+      "desc": "06\" SS Elbow",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19034,7 +19034,7 @@
       "qrCode": "SNE-26011-ITM-4",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Elbow",
+      "desc": "06\" SS Elbow",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19043,7 +19043,7 @@
       "qrCode": "SNE-26011-ITM-5",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Elbow",
+      "desc": "06\" SS Elbow",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19052,7 +19052,7 @@
       "qrCode": "SNE-26011-ITM-6",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Elbow",
+      "desc": "06\" SS Elbow",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19061,7 +19061,7 @@
       "qrCode": "SNE-26011-ITM-7",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Elbow",
+      "desc": "06\" SS Elbow",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19070,7 +19070,7 @@
       "qrCode": "SNE-26011-ITM-8",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Elbow",
+      "desc": "06\" SS Elbow",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19079,7 +19079,7 @@
       "qrCode": "SNE-26011-ITM-9",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Elbow",
+      "desc": "06\" SS Elbow",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19088,7 +19088,7 @@
       "qrCode": "SNE-26011-ITM-10",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Elbow",
+      "desc": "06\" SS Elbow",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19097,7 +19097,7 @@
       "qrCode": "SNE-26011-ITM-R7-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19106,7 +19106,7 @@
       "qrCode": "SNE-26011-ITM-R7-2",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19115,7 +19115,7 @@
       "qrCode": "SNE-26011-ITM-R7-3",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19124,7 +19124,7 @@
       "qrCode": "SNE-26011-ITM-R7-4",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19133,7 +19133,7 @@
       "qrCode": "SNE-26011-ITM-R7-5",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19142,7 +19142,7 @@
       "qrCode": "SNE-26011-ITM-R7-6",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19151,7 +19151,7 @@
       "qrCode": "SNE-26011-ITM-R7-7",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19160,7 +19160,7 @@
       "qrCode": "SNE-26011-ITM-R7-8",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19169,7 +19169,7 @@
       "qrCode": "SNE-26011-ITM-R7-9",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19178,7 +19178,7 @@
       "qrCode": "SNE-26011-ITM-R7-10",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19187,7 +19187,7 @@
       "qrCode": "SNE-26011-ITM-11",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19196,7 +19196,7 @@
       "qrCode": "SNE-26011-ITM-12",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19205,7 +19205,7 @@
       "qrCode": "SNE-26011-ITM-13",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19214,7 +19214,7 @@
       "qrCode": "SNE-26011-ITM-14",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19223,7 +19223,7 @@
       "qrCode": "SNE-26011-ITM-15",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19232,7 +19232,7 @@
       "qrCode": "SNE-26011-ITM-16",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19241,7 +19241,7 @@
       "qrCode": "SNE-26011-ITM-17",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19250,7 +19250,7 @@
       "qrCode": "SNE-26011-ITM-18",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19259,7 +19259,7 @@
       "qrCode": "SNE-26011-ITM-19",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19268,7 +19268,7 @@
       "qrCode": "SNE-26011-ITM-20",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19277,7 +19277,7 @@
       "qrCode": "SNE-26011-ITM-21",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19286,7 +19286,7 @@
       "qrCode": "SNE-26011-ITM-22",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19295,7 +19295,7 @@
       "qrCode": "SNE-26011-ITM-23",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19304,7 +19304,7 @@
       "qrCode": "SNE-26011-ITM-24",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19313,7 +19313,7 @@
       "qrCode": "SNE-26011-ITM-25",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19322,7 +19322,7 @@
       "qrCode": "SNE-26011-ITM-26",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19331,7 +19331,7 @@
       "qrCode": "SNE-26011-ITM-27",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19340,7 +19340,7 @@
       "qrCode": "SNE-26011-ITM-28",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "desc": "06\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19349,7 +19349,7 @@
       "qrCode": "SNE-26011-ITM-R8-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 inch Butterfly Valve",
+      "desc": "06\" Butterfly Valve",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19358,7 +19358,7 @@
       "qrCode": "SNE-26011-ITM-R8-2",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 inch Butterfly Valve",
+      "desc": "06\" Butterfly Valve",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19367,7 +19367,7 @@
       "qrCode": "SNE-26011-ITM-R8-3",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 inch Butterfly Valve",
+      "desc": "06\" Butterfly Valve",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19376,7 +19376,7 @@
       "qrCode": "SNE-26011-ITM-R8-4",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 inch Butterfly Valve",
+      "desc": "06\" Butterfly Valve",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19385,7 +19385,7 @@
       "qrCode": "SNE-26011-ITM-R8-5",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 inch Butterfly Valve",
+      "desc": "06\" Butterfly Valve",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19394,7 +19394,7 @@
       "qrCode": "SNE-26011-ITM-R8-6",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06 inch Butterfly Valve",
+      "desc": "06\" Butterfly Valve",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19403,7 +19403,7 @@
       "qrCode": "SNE-26011-ITM-R9-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "12 Inch SS Flanges 20mm Thickness",
+      "desc": "12\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19412,7 +19412,7 @@
       "qrCode": "SNE-26011-ITM-R9-2",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "12 Inch SS Flanges 20mm Thickness",
+      "desc": "12\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19421,7 +19421,7 @@
       "qrCode": "SNE-26011-ITM-R9-3",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "12 Inch SS Flanges 20mm Thickness",
+      "desc": "12\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19430,7 +19430,7 @@
       "qrCode": "SNE-26011-ITM-R9-4",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "12 Inch SS Flanges 20mm Thickness",
+      "desc": "12\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19439,7 +19439,7 @@
       "qrCode": "SNE-26011-ITM-R9-5",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "12 Inch SS Flanges 20mm Thickness",
+      "desc": "12\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19448,7 +19448,7 @@
       "qrCode": "SNE-26011-ITM-R9-6",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "12 Inch SS Flanges 20mm Thickness",
+      "desc": "12\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19457,7 +19457,7 @@
       "qrCode": "SNE-26011-ITM-R10-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19466,7 +19466,7 @@
       "qrCode": "SNE-26011-ITM-R10-2",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19475,7 +19475,7 @@
       "qrCode": "SNE-26011-ITM-R10-3",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19484,7 +19484,7 @@
       "qrCode": "SNE-26011-ITM-R10-4",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19493,7 +19493,7 @@
       "qrCode": "SNE-26011-ITM-R10-5",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19502,7 +19502,7 @@
       "qrCode": "SNE-26011-ITM-R10-6",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19511,7 +19511,7 @@
       "qrCode": "SNE-26011-ITM-R10-7",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19520,7 +19520,7 @@
       "qrCode": "SNE-26011-ITM-R10-8",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19529,7 +19529,7 @@
       "qrCode": "SNE-26011-ITM-R10-9",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19538,7 +19538,7 @@
       "qrCode": "SNE-26011-ITM-R10-10",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19547,7 +19547,7 @@
       "qrCode": "SNE-26011-ITM-R10-11",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19556,7 +19556,7 @@
       "qrCode": "SNE-26011-ITM-R10-12",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19565,7 +19565,7 @@
       "qrCode": "SNE-26011-ITM-R10-13",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19574,7 +19574,7 @@
       "qrCode": "SNE-26011-ITM-R10-14",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19583,7 +19583,7 @@
       "qrCode": "SNE-26011-ITM-R10-15",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19592,7 +19592,7 @@
       "qrCode": "SNE-26011-ITM-R10-16",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19601,7 +19601,7 @@
       "qrCode": "SNE-26011-ITM-R10-17",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19610,7 +19610,7 @@
       "qrCode": "SNE-26011-ITM-R10-18",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19619,7 +19619,7 @@
       "qrCode": "SNE-26011-ITM-R10-19",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19628,7 +19628,7 @@
       "qrCode": "SNE-26011-ITM-R10-20",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19637,7 +19637,7 @@
       "qrCode": "SNE-26011-ITM-R10-21",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19646,7 +19646,7 @@
       "qrCode": "SNE-26011-ITM-R10-22",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19655,7 +19655,7 @@
       "qrCode": "SNE-26011-ITM-R10-23",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19664,7 +19664,7 @@
       "qrCode": "SNE-26011-ITM-R10-24",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19673,7 +19673,7 @@
       "qrCode": "SNE-26011-ITM-R10-25",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19682,7 +19682,7 @@
       "qrCode": "SNE-26011-ITM-R10-26",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19691,7 +19691,7 @@
       "qrCode": "SNE-26011-ITM-R10-27",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19700,7 +19700,7 @@
       "qrCode": "SNE-26011-ITM-R10-28",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19709,7 +19709,7 @@
       "qrCode": "SNE-26011-ITM-29",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19718,7 +19718,7 @@
       "qrCode": "SNE-26011-ITM-30",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19727,7 +19727,7 @@
       "qrCode": "SNE-26011-ITM-31",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19736,7 +19736,7 @@
       "qrCode": "SNE-26011-ITM-32",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "desc": "10\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19745,7 +19745,7 @@
       "qrCode": "SNE-26011-ITM-R11-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "20 Inch SS dummy Flanges 20mm Thickness",
+      "desc": "20\" SS dummy Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19754,7 +19754,7 @@
       "qrCode": "SNE-26011-ITM-R11-2",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "20 Inch SS dummy Flanges 20mm Thickness",
+      "desc": "20\" SS dummy Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19763,7 +19763,7 @@
       "qrCode": "SNE-26011-ITM-R12-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "20 Inch SS Flanges 20mm Thickness",
+      "desc": "20\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19772,7 +19772,7 @@
       "qrCode": "SNE-26011-ITM-R12-2",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "20 Inch SS Flanges 20mm Thickness",
+      "desc": "20\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19781,7 +19781,7 @@
       "qrCode": "SNE-26011-ITM-R13-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "16 Inch SS Flanges 20mm Thickness",
+      "desc": "16\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19790,7 +19790,7 @@
       "qrCode": "SNE-26011-ITM-R13-2",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "16 Inch SS Flanges 20mm Thickness",
+      "desc": "16\" SS Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19799,7 +19799,7 @@
       "qrCode": "SNE-26011-ITM-R14-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "16 Inch SS Dummy Flanges 20mm Thickness",
+      "desc": "16\" SS Dummy Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19808,7 +19808,7 @@
       "qrCode": "SNE-26011-ITM-R14-2",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "16 Inch SS Dummy Flanges 20mm Thickness",
+      "desc": "16\" SS Dummy Flanges 20mm Thickness",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19817,7 +19817,7 @@
       "qrCode": "SNE-26011-ITM-R15-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch NRV",
+      "desc": "10\" NRV",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19826,7 +19826,7 @@
       "qrCode": "SNE-26011-ITM-R15-2",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch NRV",
+      "desc": "10\" NRV",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19835,7 +19835,7 @@
       "qrCode": "SNE-26011-ITM-R15-3",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch NRV",
+      "desc": "10\" NRV",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19844,7 +19844,7 @@
       "qrCode": "SNE-26011-ITM-R15-4",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch NRV",
+      "desc": "10\" NRV",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19853,7 +19853,7 @@
       "qrCode": "SNE-26011-ITM-R15-5",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch NRV",
+      "desc": "10\" NRV",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19862,7 +19862,7 @@
       "qrCode": "SNE-26011-ITM-R15-6",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10 Inch NRV",
+      "desc": "10\" NRV",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -26169,6 +26169,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-21T15:18:45.248Z",
+      "challanNo": "SNE-26011",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 101 items."
+    },
     {
       "timestamp": "2026-11-21T14:51:19.832Z",
       "challanNo": "SNE-26013",
