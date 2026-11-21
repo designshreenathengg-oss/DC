@@ -26170,6 +26170,17 @@
   },
   "audit": [
     {
+      "timestamp": "2026-11-21T15:22:40.864Z",
+      "challanNo": "SNE-26013",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 579 items."
+    },
+    {
       "timestamp": "2026-11-21T15:21:12.392Z",
       "challanNo": "SNE-26013",
       "qrCode": "ALL",
