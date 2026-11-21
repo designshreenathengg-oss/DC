@@ -3842,6 +3842,34 @@
         "SNE-26013-ITM-R15-1"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26014": {
+      "challanNo": "SNE-26014",
+      "date": "2026-11-21",
+      "poNo": "",
+      "poDate": "",
+      "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
+      "vehicle": "MH15KS0702",
+      "remarkType": "Amount",
+      "showTotal": true,
+      "items": [
+        {
+          "code": "ITM",
+          "desc": "Electric Control Panel",
+          "qty": 3,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 51000"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26014-ITM-1",
+        "SNE-26014-ITM-2",
+        "SNE-26014-ITM-3"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -26166,9 +26194,47 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26014-ITM-1": {
+      "qrCode": "SNE-26014-ITM-1",
+      "challanNo": "SNE-26014",
+      "itemCode": "ITM",
+      "desc": "Electric Control Panel",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26014-ITM-2": {
+      "qrCode": "SNE-26014-ITM-2",
+      "challanNo": "SNE-26014",
+      "itemCode": "ITM",
+      "desc": "Electric Control Panel",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26014-ITM-3": {
+      "qrCode": "SNE-26014-ITM-3",
+      "challanNo": "SNE-26014",
+      "itemCode": "ITM",
+      "desc": "Electric Control Panel",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-21T16:53:53.938Z",
+      "challanNo": "SNE-26014",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 3 items."
+    },
     {
       "timestamp": "2026-11-21T16:50:23.936Z",
       "challanNo": "SNE-26013",
