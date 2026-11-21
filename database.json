@@ -3145,7 +3145,7 @@
           "qty": 5,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 4000"
         },
         {
           "code": "ITM",
@@ -3153,7 +3153,7 @@
           "qty": 20,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 16000"
         },
         {
           "code": "ITM",
@@ -3161,7 +3161,7 @@
           "qty": 8,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 6400"
         },
         {
           "code": "ITM",
@@ -3169,7 +3169,7 @@
           "qty": 20,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 16000"
         },
         {
           "code": "ITM",
@@ -3177,7 +3177,7 @@
           "qty": 75,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 60000"
         },
         {
           "code": "ITM",
@@ -3185,7 +3185,7 @@
           "qty": 75,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 60000"
         },
         {
           "code": "ITM",
@@ -3193,7 +3193,7 @@
           "qty": 100,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 5000"
         },
         {
           "code": "ITM",
@@ -3201,7 +3201,7 @@
           "qty": 70,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 3800"
         },
         {
           "code": "ITM",
@@ -3209,7 +3209,7 @@
           "qty": 200,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 11000"
         },
         {
           "code": "ITM",
@@ -26169,6 +26169,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-21T16:25:51.304Z",
+      "challanNo": "SNE-26013",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 579 items."
+    },
     {
       "timestamp": "2026-11-21T16:14:51.623Z",
       "challanNo": "SNE-26012",
