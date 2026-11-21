@@ -2630,6 +2630,244 @@
         "SNE-26010-ITM-R6-12"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26011": {
+      "challanNo": "SNE-26011",
+      "date": "2026-11-21",
+      "poNo": "",
+      "poDate": "",
+      "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
+      "vehicle": "",
+      "remarkType": "Amount",
+      "showTotal": true,
+      "items": [
+        {
+          "code": "ITM",
+          "desc": "20 Inch SS Pipe -SCH -105",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "16 Inch SS Pipe -SCH -105",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "12 Inch SS Pipe -SCH -105",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "10 Inch SS Pipe -SCH -105",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "06 Inch SS Pipe -SCH -105",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "06 Inch SS Elbow",
+          "qty": 10,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "06 Inch SS Flanges 20mm Thickness",
+          "qty": 28,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "06 inch Butterfly Valve",
+          "qty": 6,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "12 Inch SS Flanges 20mm Thickness",
+          "qty": 6,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "10 Inch SS Flanges 20mm Thickness",
+          "qty": 32,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "20 Inch SS dummy Flanges 20mm Thickness",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "20 Inch SS Flanges 20mm Thickness",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "16 Inch SS Flanges 20mm Thickness",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "16 Inch SS Dummy Flanges 20mm Thickness",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM",
+          "desc": "10 Inch NRV",
+          "qty": 6,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26011-ITM-1",
+        "SNE-26011-ITM-R2-1",
+        "SNE-26011-ITM-R3-1",
+        "SNE-26011-ITM-R4-1",
+        "SNE-26011-ITM-R5-1",
+        "SNE-26011-ITM-R6-1",
+        "SNE-26011-ITM-2",
+        "SNE-26011-ITM-3",
+        "SNE-26011-ITM-4",
+        "SNE-26011-ITM-5",
+        "SNE-26011-ITM-6",
+        "SNE-26011-ITM-7",
+        "SNE-26011-ITM-8",
+        "SNE-26011-ITM-9",
+        "SNE-26011-ITM-10",
+        "SNE-26011-ITM-R7-1",
+        "SNE-26011-ITM-R7-2",
+        "SNE-26011-ITM-R7-3",
+        "SNE-26011-ITM-R7-4",
+        "SNE-26011-ITM-R7-5",
+        "SNE-26011-ITM-R7-6",
+        "SNE-26011-ITM-R7-7",
+        "SNE-26011-ITM-R7-8",
+        "SNE-26011-ITM-R7-9",
+        "SNE-26011-ITM-R7-10",
+        "SNE-26011-ITM-11",
+        "SNE-26011-ITM-12",
+        "SNE-26011-ITM-13",
+        "SNE-26011-ITM-14",
+        "SNE-26011-ITM-15",
+        "SNE-26011-ITM-16",
+        "SNE-26011-ITM-17",
+        "SNE-26011-ITM-18",
+        "SNE-26011-ITM-19",
+        "SNE-26011-ITM-20",
+        "SNE-26011-ITM-21",
+        "SNE-26011-ITM-22",
+        "SNE-26011-ITM-23",
+        "SNE-26011-ITM-24",
+        "SNE-26011-ITM-25",
+        "SNE-26011-ITM-26",
+        "SNE-26011-ITM-27",
+        "SNE-26011-ITM-28",
+        "SNE-26011-ITM-R8-1",
+        "SNE-26011-ITM-R8-2",
+        "SNE-26011-ITM-R8-3",
+        "SNE-26011-ITM-R8-4",
+        "SNE-26011-ITM-R8-5",
+        "SNE-26011-ITM-R8-6",
+        "SNE-26011-ITM-R9-1",
+        "SNE-26011-ITM-R9-2",
+        "SNE-26011-ITM-R9-3",
+        "SNE-26011-ITM-R9-4",
+        "SNE-26011-ITM-R9-5",
+        "SNE-26011-ITM-R9-6",
+        "SNE-26011-ITM-R10-1",
+        "SNE-26011-ITM-R10-2",
+        "SNE-26011-ITM-R10-3",
+        "SNE-26011-ITM-R10-4",
+        "SNE-26011-ITM-R10-5",
+        "SNE-26011-ITM-R10-6",
+        "SNE-26011-ITM-R10-7",
+        "SNE-26011-ITM-R10-8",
+        "SNE-26011-ITM-R10-9",
+        "SNE-26011-ITM-R10-10",
+        "SNE-26011-ITM-R10-11",
+        "SNE-26011-ITM-R10-12",
+        "SNE-26011-ITM-R10-13",
+        "SNE-26011-ITM-R10-14",
+        "SNE-26011-ITM-R10-15",
+        "SNE-26011-ITM-R10-16",
+        "SNE-26011-ITM-R10-17",
+        "SNE-26011-ITM-R10-18",
+        "SNE-26011-ITM-R10-19",
+        "SNE-26011-ITM-R10-20",
+        "SNE-26011-ITM-R10-21",
+        "SNE-26011-ITM-R10-22",
+        "SNE-26011-ITM-R10-23",
+        "SNE-26011-ITM-R10-24",
+        "SNE-26011-ITM-R10-25",
+        "SNE-26011-ITM-R10-26",
+        "SNE-26011-ITM-R10-27",
+        "SNE-26011-ITM-R10-28",
+        "SNE-26011-ITM-29",
+        "SNE-26011-ITM-30",
+        "SNE-26011-ITM-31",
+        "SNE-26011-ITM-32",
+        "SNE-26011-ITM-R11-1",
+        "SNE-26011-ITM-R11-2",
+        "SNE-26011-ITM-R12-1",
+        "SNE-26011-ITM-R12-2",
+        "SNE-26011-ITM-R13-1",
+        "SNE-26011-ITM-R13-2",
+        "SNE-26011-ITM-R14-1",
+        "SNE-26011-ITM-R14-2",
+        "SNE-26011-ITM-R15-1",
+        "SNE-26011-ITM-R15-2",
+        "SNE-26011-ITM-R15-3",
+        "SNE-26011-ITM-R15-4",
+        "SNE-26011-ITM-R15-5",
+        "SNE-26011-ITM-R15-6"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -17745,9 +17983,929 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-1": {
+      "qrCode": "SNE-26011-ITM-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "20 Inch SS Pipe -SCH -105",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R2-1": {
+      "qrCode": "SNE-26011-ITM-R2-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "16 Inch SS Pipe -SCH -105",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R3-1": {
+      "qrCode": "SNE-26011-ITM-R3-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "12 Inch SS Pipe -SCH -105",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R4-1": {
+      "qrCode": "SNE-26011-ITM-R4-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Pipe -SCH -105",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R5-1": {
+      "qrCode": "SNE-26011-ITM-R5-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Pipe -SCH -105",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R6-1": {
+      "qrCode": "SNE-26011-ITM-R6-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-2": {
+      "qrCode": "SNE-26011-ITM-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-3": {
+      "qrCode": "SNE-26011-ITM-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-4": {
+      "qrCode": "SNE-26011-ITM-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-5": {
+      "qrCode": "SNE-26011-ITM-5",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-6": {
+      "qrCode": "SNE-26011-ITM-6",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-7": {
+      "qrCode": "SNE-26011-ITM-7",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-8": {
+      "qrCode": "SNE-26011-ITM-8",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-9": {
+      "qrCode": "SNE-26011-ITM-9",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-10": {
+      "qrCode": "SNE-26011-ITM-10",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-1": {
+      "qrCode": "SNE-26011-ITM-R7-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-2": {
+      "qrCode": "SNE-26011-ITM-R7-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-3": {
+      "qrCode": "SNE-26011-ITM-R7-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-4": {
+      "qrCode": "SNE-26011-ITM-R7-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-5": {
+      "qrCode": "SNE-26011-ITM-R7-5",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-6": {
+      "qrCode": "SNE-26011-ITM-R7-6",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-7": {
+      "qrCode": "SNE-26011-ITM-R7-7",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-8": {
+      "qrCode": "SNE-26011-ITM-R7-8",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-9": {
+      "qrCode": "SNE-26011-ITM-R7-9",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-10": {
+      "qrCode": "SNE-26011-ITM-R7-10",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-11": {
+      "qrCode": "SNE-26011-ITM-11",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-12": {
+      "qrCode": "SNE-26011-ITM-12",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-13": {
+      "qrCode": "SNE-26011-ITM-13",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-14": {
+      "qrCode": "SNE-26011-ITM-14",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-15": {
+      "qrCode": "SNE-26011-ITM-15",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-16": {
+      "qrCode": "SNE-26011-ITM-16",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-17": {
+      "qrCode": "SNE-26011-ITM-17",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-18": {
+      "qrCode": "SNE-26011-ITM-18",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-19": {
+      "qrCode": "SNE-26011-ITM-19",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-20": {
+      "qrCode": "SNE-26011-ITM-20",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-21": {
+      "qrCode": "SNE-26011-ITM-21",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-22": {
+      "qrCode": "SNE-26011-ITM-22",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-23": {
+      "qrCode": "SNE-26011-ITM-23",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-24": {
+      "qrCode": "SNE-26011-ITM-24",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-25": {
+      "qrCode": "SNE-26011-ITM-25",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-26": {
+      "qrCode": "SNE-26011-ITM-26",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-27": {
+      "qrCode": "SNE-26011-ITM-27",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-28": {
+      "qrCode": "SNE-26011-ITM-28",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R8-1": {
+      "qrCode": "SNE-26011-ITM-R8-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 inch Butterfly Valve",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R8-2": {
+      "qrCode": "SNE-26011-ITM-R8-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 inch Butterfly Valve",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R8-3": {
+      "qrCode": "SNE-26011-ITM-R8-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 inch Butterfly Valve",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R8-4": {
+      "qrCode": "SNE-26011-ITM-R8-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 inch Butterfly Valve",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R8-5": {
+      "qrCode": "SNE-26011-ITM-R8-5",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 inch Butterfly Valve",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R8-6": {
+      "qrCode": "SNE-26011-ITM-R8-6",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06 inch Butterfly Valve",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R9-1": {
+      "qrCode": "SNE-26011-ITM-R9-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "12 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R9-2": {
+      "qrCode": "SNE-26011-ITM-R9-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "12 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R9-3": {
+      "qrCode": "SNE-26011-ITM-R9-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "12 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R9-4": {
+      "qrCode": "SNE-26011-ITM-R9-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "12 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R9-5": {
+      "qrCode": "SNE-26011-ITM-R9-5",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "12 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R9-6": {
+      "qrCode": "SNE-26011-ITM-R9-6",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "12 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-1": {
+      "qrCode": "SNE-26011-ITM-R10-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-2": {
+      "qrCode": "SNE-26011-ITM-R10-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-3": {
+      "qrCode": "SNE-26011-ITM-R10-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-4": {
+      "qrCode": "SNE-26011-ITM-R10-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-5": {
+      "qrCode": "SNE-26011-ITM-R10-5",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-6": {
+      "qrCode": "SNE-26011-ITM-R10-6",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-7": {
+      "qrCode": "SNE-26011-ITM-R10-7",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-8": {
+      "qrCode": "SNE-26011-ITM-R10-8",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-9": {
+      "qrCode": "SNE-26011-ITM-R10-9",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-10": {
+      "qrCode": "SNE-26011-ITM-R10-10",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-11": {
+      "qrCode": "SNE-26011-ITM-R10-11",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-12": {
+      "qrCode": "SNE-26011-ITM-R10-12",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-13": {
+      "qrCode": "SNE-26011-ITM-R10-13",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-14": {
+      "qrCode": "SNE-26011-ITM-R10-14",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-15": {
+      "qrCode": "SNE-26011-ITM-R10-15",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-16": {
+      "qrCode": "SNE-26011-ITM-R10-16",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-17": {
+      "qrCode": "SNE-26011-ITM-R10-17",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-18": {
+      "qrCode": "SNE-26011-ITM-R10-18",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-19": {
+      "qrCode": "SNE-26011-ITM-R10-19",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-20": {
+      "qrCode": "SNE-26011-ITM-R10-20",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-21": {
+      "qrCode": "SNE-26011-ITM-R10-21",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-22": {
+      "qrCode": "SNE-26011-ITM-R10-22",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-23": {
+      "qrCode": "SNE-26011-ITM-R10-23",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-24": {
+      "qrCode": "SNE-26011-ITM-R10-24",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-25": {
+      "qrCode": "SNE-26011-ITM-R10-25",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-26": {
+      "qrCode": "SNE-26011-ITM-R10-26",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-27": {
+      "qrCode": "SNE-26011-ITM-R10-27",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-28": {
+      "qrCode": "SNE-26011-ITM-R10-28",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-29": {
+      "qrCode": "SNE-26011-ITM-29",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-30": {
+      "qrCode": "SNE-26011-ITM-30",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-31": {
+      "qrCode": "SNE-26011-ITM-31",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-32": {
+      "qrCode": "SNE-26011-ITM-32",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R11-1": {
+      "qrCode": "SNE-26011-ITM-R11-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "20 Inch SS dummy Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R11-2": {
+      "qrCode": "SNE-26011-ITM-R11-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "20 Inch SS dummy Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R12-1": {
+      "qrCode": "SNE-26011-ITM-R12-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "20 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R12-2": {
+      "qrCode": "SNE-26011-ITM-R12-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "20 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R13-1": {
+      "qrCode": "SNE-26011-ITM-R13-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "16 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R13-2": {
+      "qrCode": "SNE-26011-ITM-R13-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "16 Inch SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R14-1": {
+      "qrCode": "SNE-26011-ITM-R14-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "16 Inch SS Dummy Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R14-2": {
+      "qrCode": "SNE-26011-ITM-R14-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "16 Inch SS Dummy Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R15-1": {
+      "qrCode": "SNE-26011-ITM-R15-1",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch NRV",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R15-2": {
+      "qrCode": "SNE-26011-ITM-R15-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch NRV",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R15-3": {
+      "qrCode": "SNE-26011-ITM-R15-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch NRV",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R15-4": {
+      "qrCode": "SNE-26011-ITM-R15-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch NRV",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R15-5": {
+      "qrCode": "SNE-26011-ITM-R15-5",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch NRV",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R15-6": {
+      "qrCode": "SNE-26011-ITM-R15-6",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10 Inch NRV",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-21T14:11:56.484Z",
+      "challanNo": "SNE-26011",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 101 items."
+    },
     {
       "timestamp": "2026-11-20T15:18:34.838Z",
       "challanNo": "SNE-26010",
