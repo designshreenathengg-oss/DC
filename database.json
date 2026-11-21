@@ -3782,12 +3782,21 @@
           "unit": "Nos",
           "remarkType": "Amount",
           "remark": "₹ 51000"
+        },
+        {
+          "code": "ITM",
+          "desc": "Nibbler Machines Cutter",
+          "qty": 1,
+          "unit": "Set",
+          "remarkType": "Amount",
+          "remark": "₹ 12000"
         }
       ],
       "qrcodes": [
         "SNE-26014-ITM-1",
         "SNE-26014-ITM-2",
-        "SNE-26014-ITM-3"
+        "SNE-26014-ITM-3",
+        "SNE-26014-ITM-R2-1"
       ],
       "status": "QR GENERATED"
     }
@@ -25781,9 +25790,29 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26014-ITM-R2-1": {
+      "qrCode": "SNE-26014-ITM-R2-1",
+      "challanNo": "SNE-26014",
+      "itemCode": "ITM",
+      "desc": "Nibbler Machines Cutter",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-21T17:37:57.345Z",
+      "challanNo": "SNE-26014",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 4 items."
+    },
     {
       "timestamp": "2026-11-21T17:35:38.715Z",
       "challanNo": "SNE-26013",
