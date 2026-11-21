@@ -3771,7 +3771,7 @@
       "projectName": "CHAKAN",
       "customer": "MAHINDRA AND MAHINDRA",
       "address": "CHAKAN MIDC, PUNE",
-      "vehicle": "MH15KS0702",
+      "vehicle": "MH15KS0702  Mob :- 8085725937",
       "remarkType": "Amount",
       "showTotal": true,
       "items": [
@@ -25784,6 +25784,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-21T17:24:59.429Z",
+      "challanNo": "SNE-26014",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 3 items."
+    },
     {
       "timestamp": "2026-11-21T17:24:11.651Z",
       "challanNo": "SNE-26013",
