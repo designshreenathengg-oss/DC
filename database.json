@@ -2645,43 +2645,43 @@
       "items": [
         {
           "code": "ITM",
-          "desc": "20\" SS Pipe -SCH -105",
-          "qty": 1,
-          "unit": "Nos",
+          "desc": "20\" SS 304 Pipe -SCH -10S",
+          "qty": 4,
+          "unit": "Mtr",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 8000"
         },
         {
           "code": "ITM",
-          "desc": "16\" SS Pipe -SCH -105",
-          "qty": 1,
-          "unit": "Nos",
+          "desc": "16\" SS 304 Pipe -SCH -10S",
+          "qty": 10,
+          "unit": "Mtr",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 20000"
         },
         {
           "code": "ITM",
-          "desc": "12\" SS Pipe -SCH -105",
-          "qty": 1,
-          "unit": "Nos",
+          "desc": "12\" SS 304 Pipe -SCH -10S",
+          "qty": 4,
+          "unit": "Mtr",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 16000"
         },
         {
           "code": "ITM",
-          "desc": "10\" SS Pipe -SCH -105",
-          "qty": 1,
-          "unit": "Nos",
+          "desc": "10\" SS 304 Pipe -SCH -10S",
+          "qty": 8,
+          "unit": "Mtr",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 12000"
         },
         {
           "code": "ITM",
-          "desc": "06\" SS Pipe -SCH -105",
-          "qty": 1,
-          "unit": "Nos",
+          "desc": "06\" SS 304 Pipe -SCH -10S",
+          "qty": 42,
+          "unit": "Mtr",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 35000"
         },
         {
           "code": "ITM",
@@ -2702,7 +2702,7 @@
         {
           "code": "ITM",
           "desc": "06\" Butterfly Valve",
-          "qty": 6,
+          "qty": 4,
           "unit": "Nos",
           "remarkType": "Amount",
           "remark": "₹ 30000"
@@ -2749,14 +2749,6 @@
         },
         {
           "code": "ITM",
-          "desc": "16\" SS Dummy Flanges 20mm Thickness",
-          "qty": 2,
-          "unit": "Nos",
-          "remarkType": "Amount",
-          "remark": "₹ 14000"
-        },
-        {
-          "code": "ITM",
           "desc": "10\" NRV",
           "qty": 6,
           "unit": "Nos",
@@ -2766,30 +2758,41 @@
       ],
       "qrcodes": [
         "SNE-26011-ITM-1",
-        "SNE-26011-ITM-R2-1",
-        "SNE-26011-ITM-R3-1",
-        "SNE-26011-ITM-R4-1",
-        "SNE-26011-ITM-R5-1",
-        "SNE-26011-ITM-R6-1",
         "SNE-26011-ITM-2",
         "SNE-26011-ITM-3",
         "SNE-26011-ITM-4",
+        "SNE-26011-ITM-R2-1",
+        "SNE-26011-ITM-R2-2",
+        "SNE-26011-ITM-R2-3",
+        "SNE-26011-ITM-R2-4",
         "SNE-26011-ITM-5",
         "SNE-26011-ITM-6",
         "SNE-26011-ITM-7",
         "SNE-26011-ITM-8",
         "SNE-26011-ITM-9",
         "SNE-26011-ITM-10",
-        "SNE-26011-ITM-R7-1",
-        "SNE-26011-ITM-R7-2",
-        "SNE-26011-ITM-R7-3",
-        "SNE-26011-ITM-R7-4",
-        "SNE-26011-ITM-R7-5",
-        "SNE-26011-ITM-R7-6",
-        "SNE-26011-ITM-R7-7",
-        "SNE-26011-ITM-R7-8",
-        "SNE-26011-ITM-R7-9",
-        "SNE-26011-ITM-R7-10",
+        "SNE-26011-ITM-R3-1",
+        "SNE-26011-ITM-R3-2",
+        "SNE-26011-ITM-R3-3",
+        "SNE-26011-ITM-R3-4",
+        "SNE-26011-ITM-R4-1",
+        "SNE-26011-ITM-R4-2",
+        "SNE-26011-ITM-R4-3",
+        "SNE-26011-ITM-R4-4",
+        "SNE-26011-ITM-R4-5",
+        "SNE-26011-ITM-R4-6",
+        "SNE-26011-ITM-R4-7",
+        "SNE-26011-ITM-R4-8",
+        "SNE-26011-ITM-R5-1",
+        "SNE-26011-ITM-R5-2",
+        "SNE-26011-ITM-R5-3",
+        "SNE-26011-ITM-R5-4",
+        "SNE-26011-ITM-R5-5",
+        "SNE-26011-ITM-R5-6",
+        "SNE-26011-ITM-R5-7",
+        "SNE-26011-ITM-R5-8",
+        "SNE-26011-ITM-R5-9",
+        "SNE-26011-ITM-R5-10",
         "SNE-26011-ITM-11",
         "SNE-26011-ITM-12",
         "SNE-26011-ITM-13",
@@ -2808,12 +2811,62 @@
         "SNE-26011-ITM-26",
         "SNE-26011-ITM-27",
         "SNE-26011-ITM-28",
+        "SNE-26011-ITM-29",
+        "SNE-26011-ITM-30",
+        "SNE-26011-ITM-31",
+        "SNE-26011-ITM-32",
+        "SNE-26011-ITM-33",
+        "SNE-26011-ITM-34",
+        "SNE-26011-ITM-35",
+        "SNE-26011-ITM-36",
+        "SNE-26011-ITM-37",
+        "SNE-26011-ITM-38",
+        "SNE-26011-ITM-39",
+        "SNE-26011-ITM-40",
+        "SNE-26011-ITM-41",
+        "SNE-26011-ITM-42",
+        "SNE-26011-ITM-R6-1",
+        "SNE-26011-ITM-R6-2",
+        "SNE-26011-ITM-R6-3",
+        "SNE-26011-ITM-R6-4",
+        "SNE-26011-ITM-R6-5",
+        "SNE-26011-ITM-R6-6",
+        "SNE-26011-ITM-R6-7",
+        "SNE-26011-ITM-R6-8",
+        "SNE-26011-ITM-R6-9",
+        "SNE-26011-ITM-R6-10",
+        "SNE-26011-ITM-R7-1",
+        "SNE-26011-ITM-R7-2",
+        "SNE-26011-ITM-R7-3",
+        "SNE-26011-ITM-R7-4",
+        "SNE-26011-ITM-R7-5",
+        "SNE-26011-ITM-R7-6",
+        "SNE-26011-ITM-R7-7",
+        "SNE-26011-ITM-R7-8",
+        "SNE-26011-ITM-R7-9",
+        "SNE-26011-ITM-R7-10",
+        "SNE-26011-ITM-R7-11",
+        "SNE-26011-ITM-R7-12",
+        "SNE-26011-ITM-R7-13",
+        "SNE-26011-ITM-R7-14",
+        "SNE-26011-ITM-R7-15",
+        "SNE-26011-ITM-R7-16",
+        "SNE-26011-ITM-R7-17",
+        "SNE-26011-ITM-R7-18",
+        "SNE-26011-ITM-R7-19",
+        "SNE-26011-ITM-R7-20",
+        "SNE-26011-ITM-R7-21",
+        "SNE-26011-ITM-R7-22",
+        "SNE-26011-ITM-R7-23",
+        "SNE-26011-ITM-R7-24",
+        "SNE-26011-ITM-R7-25",
+        "SNE-26011-ITM-R7-26",
+        "SNE-26011-ITM-R7-27",
+        "SNE-26011-ITM-R7-28",
         "SNE-26011-ITM-R8-1",
         "SNE-26011-ITM-R8-2",
         "SNE-26011-ITM-R8-3",
         "SNE-26011-ITM-R8-4",
-        "SNE-26011-ITM-R8-5",
-        "SNE-26011-ITM-R8-6",
         "SNE-26011-ITM-R9-1",
         "SNE-26011-ITM-R9-2",
         "SNE-26011-ITM-R9-3",
@@ -2848,10 +2901,10 @@
         "SNE-26011-ITM-R10-26",
         "SNE-26011-ITM-R10-27",
         "SNE-26011-ITM-R10-28",
-        "SNE-26011-ITM-29",
-        "SNE-26011-ITM-30",
-        "SNE-26011-ITM-31",
-        "SNE-26011-ITM-32",
+        "SNE-26011-ITM-R10-29",
+        "SNE-26011-ITM-R10-30",
+        "SNE-26011-ITM-R10-31",
+        "SNE-26011-ITM-R10-32",
         "SNE-26011-ITM-R11-1",
         "SNE-26011-ITM-R11-2",
         "SNE-26011-ITM-R12-1",
@@ -2860,12 +2913,10 @@
         "SNE-26011-ITM-R13-2",
         "SNE-26011-ITM-R14-1",
         "SNE-26011-ITM-R14-2",
-        "SNE-26011-ITM-R15-1",
-        "SNE-26011-ITM-R15-2",
-        "SNE-26011-ITM-R15-3",
-        "SNE-26011-ITM-R15-4",
-        "SNE-26011-ITM-R15-5",
-        "SNE-26011-ITM-R15-6"
+        "SNE-26011-ITM-R14-3",
+        "SNE-26011-ITM-R14-4",
+        "SNE-26011-ITM-R14-5",
+        "SNE-26011-ITM-R14-6"
       ],
       "status": "QR GENERATED"
     },
@@ -18990,7 +19041,7 @@
       "qrCode": "SNE-26011-ITM-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "20\" SS Pipe -SCH -105",
+      "desc": "20\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -18999,7 +19050,7 @@
       "qrCode": "SNE-26011-ITM-R2-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "16\" SS Pipe -SCH -105",
+      "desc": "16\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19008,7 +19059,7 @@
       "qrCode": "SNE-26011-ITM-R3-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "12\" SS Pipe -SCH -105",
+      "desc": "12\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19017,7 +19068,7 @@
       "qrCode": "SNE-26011-ITM-R4-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10\" SS Pipe -SCH -105",
+      "desc": "10\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19026,7 +19077,7 @@
       "qrCode": "SNE-26011-ITM-R5-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Pipe -SCH -105",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19044,7 +19095,7 @@
       "qrCode": "SNE-26011-ITM-2",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Elbow",
+      "desc": "20\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19053,7 +19104,7 @@
       "qrCode": "SNE-26011-ITM-3",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Elbow",
+      "desc": "20\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19062,7 +19113,7 @@
       "qrCode": "SNE-26011-ITM-4",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Elbow",
+      "desc": "20\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19071,7 +19122,7 @@
       "qrCode": "SNE-26011-ITM-5",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Elbow",
+      "desc": "16\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19080,7 +19131,7 @@
       "qrCode": "SNE-26011-ITM-6",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Elbow",
+      "desc": "16\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19089,7 +19140,7 @@
       "qrCode": "SNE-26011-ITM-7",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Elbow",
+      "desc": "16\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19098,7 +19149,7 @@
       "qrCode": "SNE-26011-ITM-8",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Elbow",
+      "desc": "16\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19107,7 +19158,7 @@
       "qrCode": "SNE-26011-ITM-9",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Elbow",
+      "desc": "16\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19116,7 +19167,7 @@
       "qrCode": "SNE-26011-ITM-10",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Elbow",
+      "desc": "16\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19215,7 +19266,7 @@
       "qrCode": "SNE-26011-ITM-11",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19224,7 +19275,7 @@
       "qrCode": "SNE-26011-ITM-12",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19233,7 +19284,7 @@
       "qrCode": "SNE-26011-ITM-13",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19242,7 +19293,7 @@
       "qrCode": "SNE-26011-ITM-14",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19251,7 +19302,7 @@
       "qrCode": "SNE-26011-ITM-15",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19260,7 +19311,7 @@
       "qrCode": "SNE-26011-ITM-16",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19269,7 +19320,7 @@
       "qrCode": "SNE-26011-ITM-17",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19278,7 +19329,7 @@
       "qrCode": "SNE-26011-ITM-18",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19287,7 +19338,7 @@
       "qrCode": "SNE-26011-ITM-19",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19296,7 +19347,7 @@
       "qrCode": "SNE-26011-ITM-20",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19305,7 +19356,7 @@
       "qrCode": "SNE-26011-ITM-21",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19314,7 +19365,7 @@
       "qrCode": "SNE-26011-ITM-22",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19323,7 +19374,7 @@
       "qrCode": "SNE-26011-ITM-23",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19332,7 +19383,7 @@
       "qrCode": "SNE-26011-ITM-24",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19341,7 +19392,7 @@
       "qrCode": "SNE-26011-ITM-25",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19350,7 +19401,7 @@
       "qrCode": "SNE-26011-ITM-26",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19359,7 +19410,7 @@
       "qrCode": "SNE-26011-ITM-27",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19368,7 +19419,7 @@
       "qrCode": "SNE-26011-ITM-28",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "06\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19402,24 +19453,6 @@
     },
     "SNE-26011-ITM-R8-4": {
       "qrCode": "SNE-26011-ITM-R8-4",
-      "challanNo": "SNE-26011",
-      "itemCode": "ITM",
-      "desc": "06\" Butterfly Valve",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26011-ITM-R8-5": {
-      "qrCode": "SNE-26011-ITM-R8-5",
-      "challanNo": "SNE-26011",
-      "itemCode": "ITM",
-      "desc": "06\" Butterfly Valve",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26011-ITM-R8-6": {
-      "qrCode": "SNE-26011-ITM-R8-6",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
       "desc": "06\" Butterfly Valve",
@@ -19737,7 +19770,7 @@
       "qrCode": "SNE-26011-ITM-29",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19746,7 +19779,7 @@
       "qrCode": "SNE-26011-ITM-30",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19755,7 +19788,7 @@
       "qrCode": "SNE-26011-ITM-31",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19764,7 +19797,7 @@
       "qrCode": "SNE-26011-ITM-32",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "10\" SS Flanges 20mm Thickness",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19827,67 +19860,13 @@
       "qrCode": "SNE-26011-ITM-R14-1",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
-      "desc": "16\" SS Dummy Flanges 20mm Thickness",
+      "desc": "10\" NRV",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
     },
     "SNE-26011-ITM-R14-2": {
       "qrCode": "SNE-26011-ITM-R14-2",
-      "challanNo": "SNE-26011",
-      "itemCode": "ITM",
-      "desc": "16\" SS Dummy Flanges 20mm Thickness",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26011-ITM-R15-1": {
-      "qrCode": "SNE-26011-ITM-R15-1",
-      "challanNo": "SNE-26011",
-      "itemCode": "ITM",
-      "desc": "10\" NRV",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26011-ITM-R15-2": {
-      "qrCode": "SNE-26011-ITM-R15-2",
-      "challanNo": "SNE-26011",
-      "itemCode": "ITM",
-      "desc": "10\" NRV",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26011-ITM-R15-3": {
-      "qrCode": "SNE-26011-ITM-R15-3",
-      "challanNo": "SNE-26011",
-      "itemCode": "ITM",
-      "desc": "10\" NRV",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26011-ITM-R15-4": {
-      "qrCode": "SNE-26011-ITM-R15-4",
-      "challanNo": "SNE-26011",
-      "itemCode": "ITM",
-      "desc": "10\" NRV",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26011-ITM-R15-5": {
-      "qrCode": "SNE-26011-ITM-R15-5",
-      "challanNo": "SNE-26011",
-      "itemCode": "ITM",
-      "desc": "10\" NRV",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26011-ITM-R15-6": {
-      "qrCode": "SNE-26011-ITM-R15-6",
       "challanNo": "SNE-26011",
       "itemCode": "ITM",
       "desc": "10\" NRV",
@@ -26221,9 +26200,623 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R2-2": {
+      "qrCode": "SNE-26011-ITM-R2-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "16\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R2-3": {
+      "qrCode": "SNE-26011-ITM-R2-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "16\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R2-4": {
+      "qrCode": "SNE-26011-ITM-R2-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "16\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R3-2": {
+      "qrCode": "SNE-26011-ITM-R3-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "12\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R3-3": {
+      "qrCode": "SNE-26011-ITM-R3-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "12\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R3-4": {
+      "qrCode": "SNE-26011-ITM-R3-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "12\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R4-2": {
+      "qrCode": "SNE-26011-ITM-R4-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R4-3": {
+      "qrCode": "SNE-26011-ITM-R4-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R4-4": {
+      "qrCode": "SNE-26011-ITM-R4-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R4-5": {
+      "qrCode": "SNE-26011-ITM-R4-5",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R4-6": {
+      "qrCode": "SNE-26011-ITM-R4-6",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R4-7": {
+      "qrCode": "SNE-26011-ITM-R4-7",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R4-8": {
+      "qrCode": "SNE-26011-ITM-R4-8",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R5-2": {
+      "qrCode": "SNE-26011-ITM-R5-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R5-3": {
+      "qrCode": "SNE-26011-ITM-R5-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R5-4": {
+      "qrCode": "SNE-26011-ITM-R5-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R5-5": {
+      "qrCode": "SNE-26011-ITM-R5-5",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R5-6": {
+      "qrCode": "SNE-26011-ITM-R5-6",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R5-7": {
+      "qrCode": "SNE-26011-ITM-R5-7",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R5-8": {
+      "qrCode": "SNE-26011-ITM-R5-8",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R5-9": {
+      "qrCode": "SNE-26011-ITM-R5-9",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R5-10": {
+      "qrCode": "SNE-26011-ITM-R5-10",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-33": {
+      "qrCode": "SNE-26011-ITM-33",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-34": {
+      "qrCode": "SNE-26011-ITM-34",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-35": {
+      "qrCode": "SNE-26011-ITM-35",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-36": {
+      "qrCode": "SNE-26011-ITM-36",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-37": {
+      "qrCode": "SNE-26011-ITM-37",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-38": {
+      "qrCode": "SNE-26011-ITM-38",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-39": {
+      "qrCode": "SNE-26011-ITM-39",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-40": {
+      "qrCode": "SNE-26011-ITM-40",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-41": {
+      "qrCode": "SNE-26011-ITM-41",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-42": {
+      "qrCode": "SNE-26011-ITM-42",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS 304 Pipe -SCH -10S",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R6-2": {
+      "qrCode": "SNE-26011-ITM-R6-2",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R6-3": {
+      "qrCode": "SNE-26011-ITM-R6-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R6-4": {
+      "qrCode": "SNE-26011-ITM-R6-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R6-5": {
+      "qrCode": "SNE-26011-ITM-R6-5",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R6-6": {
+      "qrCode": "SNE-26011-ITM-R6-6",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R6-7": {
+      "qrCode": "SNE-26011-ITM-R6-7",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R6-8": {
+      "qrCode": "SNE-26011-ITM-R6-8",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R6-9": {
+      "qrCode": "SNE-26011-ITM-R6-9",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R6-10": {
+      "qrCode": "SNE-26011-ITM-R6-10",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Elbow",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-11": {
+      "qrCode": "SNE-26011-ITM-R7-11",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-12": {
+      "qrCode": "SNE-26011-ITM-R7-12",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-13": {
+      "qrCode": "SNE-26011-ITM-R7-13",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-14": {
+      "qrCode": "SNE-26011-ITM-R7-14",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-15": {
+      "qrCode": "SNE-26011-ITM-R7-15",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-16": {
+      "qrCode": "SNE-26011-ITM-R7-16",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-17": {
+      "qrCode": "SNE-26011-ITM-R7-17",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-18": {
+      "qrCode": "SNE-26011-ITM-R7-18",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-19": {
+      "qrCode": "SNE-26011-ITM-R7-19",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-20": {
+      "qrCode": "SNE-26011-ITM-R7-20",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-21": {
+      "qrCode": "SNE-26011-ITM-R7-21",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-22": {
+      "qrCode": "SNE-26011-ITM-R7-22",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-23": {
+      "qrCode": "SNE-26011-ITM-R7-23",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-24": {
+      "qrCode": "SNE-26011-ITM-R7-24",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-25": {
+      "qrCode": "SNE-26011-ITM-R7-25",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-26": {
+      "qrCode": "SNE-26011-ITM-R7-26",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-27": {
+      "qrCode": "SNE-26011-ITM-R7-27",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R7-28": {
+      "qrCode": "SNE-26011-ITM-R7-28",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "06\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-29": {
+      "qrCode": "SNE-26011-ITM-R10-29",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-30": {
+      "qrCode": "SNE-26011-ITM-R10-30",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-31": {
+      "qrCode": "SNE-26011-ITM-R10-31",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R10-32": {
+      "qrCode": "SNE-26011-ITM-R10-32",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" SS Flanges 20mm Thickness",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R14-3": {
+      "qrCode": "SNE-26011-ITM-R14-3",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" NRV",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R14-4": {
+      "qrCode": "SNE-26011-ITM-R14-4",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" NRV",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R14-5": {
+      "qrCode": "SNE-26011-ITM-R14-5",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" NRV",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26011-ITM-R14-6": {
+      "qrCode": "SNE-26011-ITM-R14-6",
+      "challanNo": "SNE-26011",
+      "itemCode": "ITM",
+      "desc": "10\" NRV",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-21T17:13:01.972Z",
+      "challanNo": "SNE-26011",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 160 items."
+    },
     {
       "timestamp": "2026-11-21T16:53:53.938Z",
       "challanNo": "SNE-26014",
