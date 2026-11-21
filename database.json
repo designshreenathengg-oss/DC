@@ -2942,11 +2942,11 @@
         },
         {
           "code": "ITM",
-          "desc": "10\" SS Bllow With SS Flanges  Thickness 20mm",
-          "qty": 6,
+          "desc": "10\" SS Ballow With SS Flanges  Thickness 20mm",
+          "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "₹ 72000"
+          "remark": "₹ 24000"
         },
         {
           "code": "ITM",
@@ -2983,7 +2983,7 @@
         {
           "code": "ITM",
           "desc": "06\" SS 304 Stub End",
-          "qty": 24,
+          "qty": 23,
           "unit": "Nos",
           "remarkType": "Amount",
           "remark": "₹ 43200"
@@ -2994,7 +2994,7 @@
           "qty": 3,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 18000"
         },
         {
           "code": "ITM",
@@ -3002,31 +3002,7 @@
           "qty": 3,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "₹ 600"
-        },
-        {
-          "code": "ITM",
-          "desc": "20\" U Clamp",
-          "qty": 2,
-          "unit": "Nos",
-          "remarkType": "Amount",
-          "remark": "₹ 400"
-        },
-        {
-          "code": "ITM",
-          "desc": "16\" U Clamp",
-          "qty": 2,
-          "unit": "Nos",
-          "remarkType": "Amount",
-          "remark": "₹ 400"
-        },
-        {
-          "code": "ITM",
-          "desc": "06\" U Clamp",
-          "qty": 20,
-          "unit": "Nos",
-          "remarkType": "Amount",
-          "remark": "₹ 4000"
+          "remark": "₹ 15000"
         },
         {
           "code": "ITM",
@@ -3035,14 +3011,6 @@
           "unit": "Nos",
           "remarkType": "Amount",
           "remark": "₹ 3000"
-        },
-        {
-          "code": "ITM",
-          "desc": "20\"Champion Gasket",
-          "qty": 5,
-          "unit": "Nos",
-          "remarkType": "Amount",
-          "remark": "₹ 4100"
         },
         {
           "code": "ITM",
@@ -3062,10 +3030,6 @@
         "SNE-26012-ITM-6",
         "SNE-26012-ITM-R2-1",
         "SNE-26012-ITM-R2-2",
-        "SNE-26012-ITM-R2-3",
-        "SNE-26012-ITM-R2-4",
-        "SNE-26012-ITM-R2-5",
-        "SNE-26012-ITM-R2-6",
         "SNE-26012-ITM-R3-1",
         "SNE-26012-ITM-R3-2",
         "SNE-26012-ITM-R3-3",
@@ -3131,7 +3095,6 @@
         "SNE-26012-ITM-R7-21",
         "SNE-26012-ITM-R7-22",
         "SNE-26012-ITM-R7-23",
-        "SNE-26012-ITM-R7-24",
         "SNE-26012-ITM-R8-1",
         "SNE-26012-ITM-R8-2",
         "SNE-26012-ITM-R8-3",
@@ -3140,41 +3103,12 @@
         "SNE-26012-ITM-R9-3",
         "SNE-26012-ITM-R10-1",
         "SNE-26012-ITM-R10-2",
+        "SNE-26012-ITM-R10-3",
         "SNE-26012-ITM-R11-1",
         "SNE-26012-ITM-R11-2",
-        "SNE-26012-ITM-R12-1",
-        "SNE-26012-ITM-R12-2",
-        "SNE-26012-ITM-R12-3",
-        "SNE-26012-ITM-R12-4",
-        "SNE-26012-ITM-R12-5",
-        "SNE-26012-ITM-R12-6",
-        "SNE-26012-ITM-R12-7",
-        "SNE-26012-ITM-R12-8",
-        "SNE-26012-ITM-R12-9",
-        "SNE-26012-ITM-R12-10",
-        "SNE-26012-ITM-R12-11",
-        "SNE-26012-ITM-R12-12",
-        "SNE-26012-ITM-R12-13",
-        "SNE-26012-ITM-R12-14",
-        "SNE-26012-ITM-R12-15",
-        "SNE-26012-ITM-R12-16",
-        "SNE-26012-ITM-R12-17",
-        "SNE-26012-ITM-R12-18",
-        "SNE-26012-ITM-R12-19",
-        "SNE-26012-ITM-R12-20",
-        "SNE-26012-ITM-R13-1",
-        "SNE-26012-ITM-R13-2",
-        "SNE-26012-ITM-R13-3",
-        "SNE-26012-ITM-R14-1",
-        "SNE-26012-ITM-R14-2",
-        "SNE-26012-ITM-R14-3",
-        "SNE-26012-ITM-R14-4",
-        "SNE-26012-ITM-R14-5",
-        "SNE-26012-ITM-R15-1",
-        "SNE-26012-ITM-R15-2",
-        "SNE-26012-ITM-R15-3",
-        "SNE-26012-ITM-R15-4",
-        "SNE-26012-ITM-R15-5"
+        "SNE-26012-ITM-R11-3",
+        "SNE-26012-ITM-R11-4",
+        "SNE-26012-ITM-R11-5"
       ],
       "status": "QR GENERATED"
     },
@@ -19932,7 +19866,7 @@
       "qrCode": "SNE-26012-ITM-R2-1",
       "challanNo": "SNE-26012",
       "itemCode": "ITM",
-      "desc": "10\" SS Bllow With SS Flanges  Thickness 20mm",
+      "desc": "10\" SS Ballow With SS Flanges  Thickness 20mm",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -19941,43 +19875,7 @@
       "qrCode": "SNE-26012-ITM-R2-2",
       "challanNo": "SNE-26012",
       "itemCode": "ITM",
-      "desc": "10\" SS Bllow With SS Flanges  Thickness 20mm",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R2-3": {
-      "qrCode": "SNE-26012-ITM-R2-3",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "10\" SS Bllow With SS Flanges  Thickness 20mm",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R2-4": {
-      "qrCode": "SNE-26012-ITM-R2-4",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "10\" SS Bllow With SS Flanges  Thickness 20mm",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R2-5": {
-      "qrCode": "SNE-26012-ITM-R2-5",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "10\" SS Bllow With SS Flanges  Thickness 20mm",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R2-6": {
-      "qrCode": "SNE-26012-ITM-R2-6",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "10\" SS Bllow With SS Flanges  Thickness 20mm",
+      "desc": "10\" SS Ballow With SS Flanges  Thickness 20mm",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -20567,15 +20465,6 @@
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
     },
-    "SNE-26012-ITM-R7-24": {
-      "qrCode": "SNE-26012-ITM-R7-24",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" SS 304 Stub End",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
     "SNE-26012-ITM-R8-1": {
       "qrCode": "SNE-26012-ITM-R8-1",
       "challanNo": "SNE-26012",
@@ -20634,7 +20523,7 @@
       "qrCode": "SNE-26012-ITM-R10-1",
       "challanNo": "SNE-26012",
       "itemCode": "ITM",
-      "desc": "20\" U Clamp",
+      "desc": "08\" SS Flange Thickness 20mm",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -20643,7 +20532,7 @@
       "qrCode": "SNE-26012-ITM-R10-2",
       "challanNo": "SNE-26012",
       "itemCode": "ITM",
-      "desc": "20\" U Clamp",
+      "desc": "08\" SS Flange Thickness 20mm",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -20652,310 +20541,13 @@
       "qrCode": "SNE-26012-ITM-R11-1",
       "challanNo": "SNE-26012",
       "itemCode": "ITM",
-      "desc": "16\" U Clamp",
+      "desc": "16\"Champion Gasket",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
     },
     "SNE-26012-ITM-R11-2": {
       "qrCode": "SNE-26012-ITM-R11-2",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "16\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-1": {
-      "qrCode": "SNE-26012-ITM-R12-1",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-2": {
-      "qrCode": "SNE-26012-ITM-R12-2",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-3": {
-      "qrCode": "SNE-26012-ITM-R12-3",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-4": {
-      "qrCode": "SNE-26012-ITM-R12-4",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-5": {
-      "qrCode": "SNE-26012-ITM-R12-5",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-6": {
-      "qrCode": "SNE-26012-ITM-R12-6",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-7": {
-      "qrCode": "SNE-26012-ITM-R12-7",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-8": {
-      "qrCode": "SNE-26012-ITM-R12-8",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-9": {
-      "qrCode": "SNE-26012-ITM-R12-9",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-10": {
-      "qrCode": "SNE-26012-ITM-R12-10",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-11": {
-      "qrCode": "SNE-26012-ITM-R12-11",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-12": {
-      "qrCode": "SNE-26012-ITM-R12-12",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-13": {
-      "qrCode": "SNE-26012-ITM-R12-13",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-14": {
-      "qrCode": "SNE-26012-ITM-R12-14",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-15": {
-      "qrCode": "SNE-26012-ITM-R12-15",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-16": {
-      "qrCode": "SNE-26012-ITM-R12-16",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-17": {
-      "qrCode": "SNE-26012-ITM-R12-17",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-18": {
-      "qrCode": "SNE-26012-ITM-R12-18",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-19": {
-      "qrCode": "SNE-26012-ITM-R12-19",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R12-20": {
-      "qrCode": "SNE-26012-ITM-R12-20",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "06\" U Clamp",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R13-1": {
-      "qrCode": "SNE-26012-ITM-R13-1",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "08\" SS Flange Thickness 20mm",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R13-2": {
-      "qrCode": "SNE-26012-ITM-R13-2",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "08\" SS Flange Thickness 20mm",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R13-3": {
-      "qrCode": "SNE-26012-ITM-R13-3",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "08\" SS Flange Thickness 20mm",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R14-1": {
-      "qrCode": "SNE-26012-ITM-R14-1",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "20\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R14-2": {
-      "qrCode": "SNE-26012-ITM-R14-2",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "20\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R14-3": {
-      "qrCode": "SNE-26012-ITM-R14-3",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "20\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R14-4": {
-      "qrCode": "SNE-26012-ITM-R14-4",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "20\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R14-5": {
-      "qrCode": "SNE-26012-ITM-R14-5",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "20\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R15-1": {
-      "qrCode": "SNE-26012-ITM-R15-1",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "16\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R15-2": {
-      "qrCode": "SNE-26012-ITM-R15-2",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "16\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R15-3": {
-      "qrCode": "SNE-26012-ITM-R15-3",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "16\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R15-4": {
-      "qrCode": "SNE-26012-ITM-R15-4",
-      "challanNo": "SNE-26012",
-      "itemCode": "ITM",
-      "desc": "16\"Champion Gasket",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26012-ITM-R15-5": {
-      "qrCode": "SNE-26012-ITM-R15-5",
       "challanNo": "SNE-26012",
       "itemCode": "ITM",
       "desc": "16\"Champion Gasket",
@@ -26803,9 +26395,56 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26012-ITM-R10-3": {
+      "qrCode": "SNE-26012-ITM-R10-3",
+      "challanNo": "SNE-26012",
+      "itemCode": "ITM",
+      "desc": "08\" SS Flange Thickness 20mm",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26012-ITM-R11-3": {
+      "qrCode": "SNE-26012-ITM-R11-3",
+      "challanNo": "SNE-26012",
+      "itemCode": "ITM",
+      "desc": "16\"Champion Gasket",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26012-ITM-R11-4": {
+      "qrCode": "SNE-26012-ITM-R11-4",
+      "challanNo": "SNE-26012",
+      "itemCode": "ITM",
+      "desc": "16\"Champion Gasket",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26012-ITM-R11-5": {
+      "qrCode": "SNE-26012-ITM-R11-5",
+      "challanNo": "SNE-26012",
+      "itemCode": "ITM",
+      "desc": "16\"Champion Gasket",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-21T17:16:26.566Z",
+      "challanNo": "SNE-26012",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 87 items."
+    },
     {
       "timestamp": "2026-11-21T17:13:01.972Z",
       "challanNo": "SNE-26011",
