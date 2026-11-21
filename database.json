@@ -2887,7 +2887,7 @@
           "qty": 6,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 42000"
         },
         {
           "code": "ITM",
@@ -2895,7 +2895,7 @@
           "qty": 6,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 72000"
         },
         {
           "code": "ITM",
@@ -2903,7 +2903,7 @@
           "qty": 32,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 70400"
         },
         {
           "code": "ITM",
@@ -2911,7 +2911,7 @@
           "qty": 6,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 12000"
         },
         {
           "code": "ITM",
@@ -2919,7 +2919,7 @@
           "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 5000"
         },
         {
           "code": "ITM",
@@ -2927,7 +2927,7 @@
           "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 5600"
         },
         {
           "code": "ITM",
@@ -2935,7 +2935,7 @@
           "qty": 24,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 43200"
         },
         {
           "code": "ITM",
@@ -2951,7 +2951,7 @@
           "qty": 3,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 600"
         },
         {
           "code": "ITM",
@@ -2959,7 +2959,7 @@
           "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 400"
         },
         {
           "code": "ITM",
@@ -2967,7 +2967,7 @@
           "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 400"
         },
         {
           "code": "ITM",
@@ -2975,7 +2975,7 @@
           "qty": 20,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 4000"
         },
         {
           "code": "ITM",
@@ -2983,7 +2983,7 @@
           "qty": 3,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 3000"
         },
         {
           "code": "ITM",
@@ -2991,7 +2991,7 @@
           "qty": 5,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 4100"
         },
         {
           "code": "ITM",
@@ -2999,7 +2999,7 @@
           "qty": 5,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 3900"
         }
       ],
       "qrcodes": [
@@ -26169,6 +26169,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-21T16:14:51.623Z",
+      "challanNo": "SNE-26012",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 121 items."
+    },
     {
       "timestamp": "2026-11-21T16:06:08.454Z",
       "challanNo": "SNE-26011",
