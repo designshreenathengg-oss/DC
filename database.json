@@ -2689,7 +2689,7 @@
           "qty": 10,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 19000"
         },
         {
           "code": "ITM",
@@ -2697,7 +2697,7 @@
           "qty": 28,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 280000"
         },
         {
           "code": "ITM",
@@ -2705,7 +2705,7 @@
           "qty": 6,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 30000"
         },
         {
           "code": "ITM",
@@ -2713,7 +2713,7 @@
           "qty": 6,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 22000"
         },
         {
           "code": "ITM",
@@ -2721,7 +2721,7 @@
           "qty": 32,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 640000"
         },
         {
           "code": "ITM",
@@ -2729,7 +2729,7 @@
           "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 25000"
         },
         {
           "code": "ITM",
@@ -2737,7 +2737,7 @@
           "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 20000"
         },
         {
           "code": "ITM",
@@ -2745,7 +2745,7 @@
           "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 20000"
         },
         {
           "code": "ITM",
@@ -2753,7 +2753,7 @@
           "qty": 2,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 14000"
         },
         {
           "code": "ITM",
@@ -2761,7 +2761,7 @@
           "qty": 6,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "-"
+          "remark": "₹ 48000"
         }
       ],
       "qrcodes": [
@@ -26169,6 +26169,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-21T16:06:08.454Z",
+      "challanNo": "SNE-26011",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 101 items."
+    },
     {
       "timestamp": "2026-11-21T15:49:22.328Z",
       "challanNo": "SNE-26013",
