@@ -4016,6 +4016,38 @@
           "unit": "Nos",
           "remarkType": "Amount",
           "remark": "₹ 50000"
+        },
+        {
+          "code": "ITM",
+          "desc": "GRATING 990X490 240 NOS",
+          "qty": 1,
+          "unit": "SET",
+          "remarkType": "Amount",
+          "remark": "₹ 60000"
+        },
+        {
+          "code": "ITM",
+          "desc": "GRATING 990X650 30 NOS",
+          "qty": 1,
+          "unit": "SET",
+          "remarkType": "Amount",
+          "remark": "₹ 20000"
+        },
+        {
+          "code": "ITM",
+          "desc": "GRATING 990X200 60 NOS",
+          "qty": 1,
+          "unit": "SET",
+          "remarkType": "Amount",
+          "remark": "₹ 30000"
+        },
+        {
+          "code": "BOX PIPE",
+          "desc": "415X600X12THK 15MTR",
+          "qty": 1,
+          "unit": "SET",
+          "remarkType": "Amount",
+          "remark": "₹ 70000"
         }
       ],
       "qrcodes": [
@@ -4033,7 +4065,11 @@
         "SNE-26017-M.S.-R3-1",
         "SNE-26017-M.S.-R3-2",
         "SNE-26017-M.S.-R3-3",
-        "SNE-26017-M.S.-R3-4"
+        "SNE-26017-M.S.-R3-4",
+        "SNE-26017-ITM-1",
+        "SNE-26017-ITM-R5-1",
+        "SNE-26017-ITM-R6-1",
+        "SNE-26017-BOX PIPE-1"
       ],
       "status": "QR GENERATED"
     }
@@ -26702,9 +26738,56 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26017-ITM-1": {
+      "qrCode": "SNE-26017-ITM-1",
+      "challanNo": "SNE-26017",
+      "itemCode": "ITM",
+      "desc": "GRATING 990X490 240 NOS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26017-ITM-R5-1": {
+      "qrCode": "SNE-26017-ITM-R5-1",
+      "challanNo": "SNE-26017",
+      "itemCode": "ITM",
+      "desc": "GRATING 990X650 30 NOS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26017-ITM-R6-1": {
+      "qrCode": "SNE-26017-ITM-R6-1",
+      "challanNo": "SNE-26017",
+      "itemCode": "ITM",
+      "desc": "GRATING 990X200 60 NOS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26017-BOX PIPE-1": {
+      "qrCode": "SNE-26017-BOX PIPE-1",
+      "challanNo": "SNE-26017",
+      "itemCode": "BOX PIPE",
+      "desc": "415X600X12THK 15MTR",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-22T12:01:32.454Z",
+      "challanNo": "SNE-26017",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 19 items."
+    },
     {
       "timestamp": "2026-11-22T11:57:21.869Z",
       "challanNo": "SNE-26016",
