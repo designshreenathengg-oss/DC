@@ -431,6 +431,17 @@
               <input type="text" id="new-dc-no" class="form-control bg-light fw-bold text-primary" readonly />
             </div>
             <div class="col-md-3">
+              <label class="form-label fw-bold">User Name <span class="text-danger">*</span></label>
+              <input type="text" id="new-created-by" class="form-control border-primary" placeholder="Enter your name (Required)" required />
+            </div>
+            <div class="col-md-3">
+              <label class="form-label fw-bold">Challan Type</label>
+              <select id="new-dc-type" class="form-select fw-semibold border-primary">
+                <option value="DELIVERY CHALLAN">Delivery Challan (Non-Returnable)</option>
+                <option value="RETURNABLE CHALLAN">Returnable Challan</option>
+              </select>
+            </div>
+            <div class="col-md-3">
               <label class="form-label">Challan Date</label>
               <input type="date" id="new-dc-date" class="form-control" />
             </div>
@@ -442,7 +453,7 @@
               <label class="form-label">PO Date</label>
               <input type="date" id="new-po-date" class="form-control" />
             </div>
-            <div class="col-md-4">
+            <div class="col-md-3">
               <label class="form-label">Customer Name</label>
               <select id="customer-select" class="form-select" onchange="handleCustomerSelect()">
                 <option value="">Select Customer...</option>
@@ -450,7 +461,7 @@
                 <option value="__DELETE__" class="text-danger fw-bold">🗑 Delete Selected Customer</option>
               </select>
             </div>
-            <div class="col-md-4" id="new-customer-box" style="display: none;">
+            <div class="col-md-3" id="new-customer-box" style="display: none;">
               <label class="form-label">New Customer Name</label>
               <input type="text" id="new-customer-name" class="form-control" placeholder="Enter Company Name" />
             </div>
@@ -462,7 +473,7 @@
               <label class="form-label">Vehicle No.</label>
               <input type="text" id="new-vehicle-no" class="form-control" placeholder="MH-15-AB-1234" />
             </div>
-            <div class="col-md-8 d-flex align-items-center">
+            <div class="col-md-4 d-flex align-items-center">
               <div class="form-check mt-4">
                 <input class="form-check-input" type="checkbox" id="new-show-total" />
                 <label class="form-check-label fw-bold text-primary" for="new-show-total">Show Total / Summary Row in DC Print</label>
@@ -560,7 +571,7 @@
               </div>
               
               <div class="title-banner">
-                DELIVERY CHALLAN / RETURNABLE <span id="dc-copy-type" class="ms-2 text-uppercase fw-bold">(ORIGINAL)</span>
+                <span id="dc-banner-title">DELIVERY CHALLAN</span> <span id="dc-copy-type" class="ms-2 text-uppercase fw-bold">(ORIGINAL)</span>
               </div>
 
               <table class="excel-meta-table">
@@ -914,6 +925,7 @@
 
   const MAX_ENTRIES = 15;
   const PINS = { admin: '9999', dispatch: '1111', receiver: '2222' };
+  const DEFAULT_APP_TITLE = 'SHREE NATH ENGINEERING - Delivery Challan System (Server Backend)';
 
   const DEFAULT_REPO = 'designshreenathengg-oss/DC';
   const DEFAULT_TOKEN = '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';
@@ -1219,6 +1231,7 @@
 
   function showSection(id) {
     document.body.className = '';
+    document.title = DEFAULT_APP_TITLE;
 
     document.querySelectorAll('.content-section').forEach(el => el.classList.add('d-none'));
     const targetSection = document.getElementById('section-' + id);
@@ -1259,6 +1272,8 @@
     const yearShort = new Date().getFullYear().toString().substr(-2);
     
     document.getElementById('new-dc-no').value = `SNE-${yearShort}${String(nextNum).padStart(3, '0')}`;
+    document.getElementById('new-created-by').value = '';
+    document.getElementById('new-dc-type').value = 'DELIVERY CHALLAN';
     document.getElementById('new-dc-date').value = new Date().toISOString().split('T')[0];
     document.getElementById('new-po-no').value = '';
     document.getElementById('new-po-date').value = '';
@@ -1472,6 +1487,15 @@
 
   function handleExcelUpload(event) {
     const file = event.target.files[0]; if (!file) return;
+    const userNameInput = document.getElementById('new-created-by');
+    const createdBy = userNameInput.value.trim();
+    if (!createdBy) {
+      alert("User Name is mandatory! Please enter your name before uploading an Excel file.");
+      userNameInput.focus();
+      event.target.value = '';
+      return;
+    }
+
     const reader = new FileReader();
     reader.onload = function(e) {
       try {
@@ -1499,6 +1523,7 @@
           document.getElementById('excel-file-input').value = '';
           alert(`Successfully imported ${allParsedItems.length} line items into form!`);
         } else {
+          const challanType = document.getElementById('new-dc-type').value;
           const dcDate = document.getElementById('new-dc-date').value;
           const poNo = document.getElementById('new-po-no').value.trim();
           const poDate = document.getElementById('new-po-date').value;
@@ -1546,11 +1571,11 @@
             });
 
             db.challans[dcNo] = {
-              challanNo: dcNo, date: dcDate, poNo, poDate, projectName, customer, address, vehicle,
+              challanNo: dcNo, challanType, createdBy, date: dcDate, poNo, poDate, projectName, customer, address, vehicle,
               remarkType, showTotal, items, qrcodes: qrcodesArr, status: 'QR GENERATED'
             };
             createdChallans.push(dcNo);
-            logAudit(dcNo, 'ALL', 'CHALLAN CREATED VIA BULK EXCEL', currentUserRole || 'Admin', `Auto-generated chunk ${chunkIdx+1} with ${qrcodesArr.length} items.`, '-', '-');
+            logAudit(dcNo, 'ALL', 'CHALLAN CREATED VIA BULK EXCEL', createdBy, `By ${createdBy}: Auto-generated chunk ${chunkIdx+1} (${challanType}) with ${qrcodesArr.length} items.`, '-', '-');
           });
 
           saveData();
@@ -1565,6 +1590,9 @@
 
   function generateDeliveryChallan() {
     const dcNo = document.getElementById('new-dc-no').value;
+    const createdByInput = document.getElementById('new-created-by');
+    const createdBy = createdByInput.value.trim();
+    const challanType = document.getElementById('new-dc-type').value;
     const dcDate = document.getElementById('new-dc-date').value;
     const poNo = document.getElementById('new-po-no').value.trim();
     const poDate = document.getElementById('new-po-date').value;
@@ -1572,6 +1600,12 @@
     const vehicle = document.getElementById('new-vehicle-no').value.trim();
     const remarkType = document.getElementById('global-remark-type').value;
     const showTotal = document.getElementById('new-show-total').checked;
+
+    if (!createdBy) {
+      alert("User Name is mandatory! Please enter your name before saving the challan.");
+      createdByInput.focus();
+      return;
+    }
 
     let customer = document.getElementById('customer-select').value;
     if (customer === '__NEW__') customer = document.getElementById('new-customer-name').value.trim();
@@ -1628,12 +1662,23 @@
       }
     });
 
+    const originalCreator = isEdit ? (db.challans[dcNo].createdBy || createdBy) : createdBy;
+
     db.challans[dcNo] = {
-      challanNo: dcNo, date: dcDate, poNo, poDate, projectName, customer, address, vehicle,
+      challanNo: dcNo, challanType, createdBy: originalCreator, lastUpdatedBy: createdBy,
+      date: dcDate, poNo, poDate, projectName, customer, address, vehicle,
       remarkType, showTotal, items, qrcodes: qrcodesArr, status: isEdit ? db.challans[dcNo].status : 'QR GENERATED'
     };
 
-    logAudit(dcNo, 'ALL', isEdit ? 'CHALLAN EDITED' : 'CHALLAN CREATED', currentUserRole || 'Admin', `Saved ${qrcodesArr.length} items.`, '-', '-');
+    logAudit(
+      dcNo,
+      'ALL',
+      isEdit ? 'CHALLAN EDITED' : 'CHALLAN CREATED',
+      createdBy,
+      `User "${createdBy}" ${isEdit ? 'updated' : 'created'} ${dcNo} (${challanType}) with ${qrcodesArr.length} items.`,
+      '-',
+      '-'
+    );
     saveData();
     alert(`Delivery Challan ${dcNo} successfully saved & synced to Server!`);
     openPrintChallanTab(dcNo);
@@ -1682,6 +1727,7 @@
 
   function renderDcPreview(dcNo, copyType) {
     const c = db.challans[dcNo]; if(!c) return;
+    document.getElementById('dc-banner-title').innerText = (c.challanType || 'DELIVERY CHALLAN').toUpperCase();
     document.getElementById('dc-copy-type').innerText = `(${copyType})`;
     document.getElementById('dc-view-no').innerText = c.challanNo;
     document.getElementById('dc-view-date').innerText = formatDate(c.date);
@@ -1733,7 +1779,16 @@
   function triggerDcPrint(copyType) {
     const dcNo = document.getElementById('print-dc-select').value;
     if(!dcNo) { alert("Select Delivery Challan!"); return; }
-    renderDcPreview(dcNo, copyType); document.body.className = 'mode-challan-only';
+    renderDcPreview(dcNo, copyType);
+    document.body.className = 'mode-challan-only';
+
+    const copyShort = copyType.split(' ')[0];
+    document.title = copyShort === 'ORIGINAL' ? dcNo : `${dcNo}-${copyShort}`;
+
+    window.addEventListener('afterprint', () => {
+      document.title = DEFAULT_APP_TITLE;
+    }, { once: true });
+
     setTimeout(() => { window.print(); }, 150);
   }
 
@@ -1852,8 +1907,15 @@
   }
 
   function triggerQRCodePrint() {
-    if(!document.getElementById('qrcode-dc-select').value) { alert("Select Challan!"); return; }
+    const dcNo = document.getElementById('qrcode-dc-select').value;
+    if(!dcNo) { alert("Select Challan!"); return; }
     document.body.className = 'mode-qrcodes-only';
+    document.title = `${dcNo}-QRCODES`;
+
+    window.addEventListener('afterprint', () => {
+      document.title = DEFAULT_APP_TITLE;
+    }, { once: true });
+
     setTimeout(() => { window.print(); }, 250);
   }
 
@@ -1862,6 +1924,8 @@
     editingDcNo = dcNo; showSection('create-challan');
     document.getElementById('form-title-text').innerText = `Edit Delivery Challan (${dcNo})`;
     document.getElementById('new-dc-no').value = c.challanNo;
+    document.getElementById('new-created-by').value = c.lastUpdatedBy || c.createdBy || '';
+    document.getElementById('new-dc-type').value = c.challanType || 'DELIVERY CHALLAN';
     document.getElementById('new-dc-date').value = c.date;
     document.getElementById('new-po-no').value = c.poNo || '';
     document.getElementById('new-po-date').value = c.poDate || '';
@@ -2052,7 +2116,7 @@
           <td>${dcLink}</td>
           <td><code>${a.qrCode}</code></td>
           <td><strong>${a.action}</strong></td>
-          <td>${a.actor}</td>
+          <td><span class="fw-semibold">${a.actor}</span></td>
           <td><span class="text-primary fw-semibold">${a.dispatchPerson || '-'}</span></td>
           <td><span class="text-success fw-semibold">${a.siteReceiver || '-'}</span></td>
           <td><span class="badge bg-light text-dark border">${a.deviceInfo}</span></td>
@@ -2119,9 +2183,13 @@
       if(c.status === 'DELIVERED') totalDelivered += received;
       totalPending += ((c.qrcodes||[]).length - received);
 
+      const typeBadge = (c.challanType === 'RETURNABLE CHALLAN')
+        ? `<span class="badge bg-info text-dark ms-1">Returnable</span>`
+        : `<span class="badge bg-light text-dark border ms-1">Delivery</span>`;
+
       tbody.innerHTML += `
         <tr>
-          <td><strong>${c.challanNo}</strong></td><td>${c.customer}</td><td>${c.poNo || '-'}</td><td>${(c.qrcodes||[]).length}</td>
+          <td><strong>${c.challanNo}</strong> ${typeBadge}</td><td>${c.customer}</td><td>${c.poNo || '-'}</td><td>${(c.qrcodes||[]).length}</td>
           <td><span class="badge status-badge bg-${c.status==='DELIVERED'?'success':c.status==='IN TRANSIT'?'warning':'secondary'}">${c.status}</span></td>
           <td>
             <button class="btn btn-sm btn-outline-primary me-1 mb-1" onclick="openPrintChallanTab('${c.challanNo}')"><i class="fa-solid fa-print me-1"></i>Print DC</button>
