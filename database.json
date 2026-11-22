@@ -4161,7 +4161,7 @@
     },
     "SNE-26018": {
       "challanNo": "SNE-26018",
-      "challanType": "DELIVERY CHALLAN",
+      "challanType": "RETURNABLE CHALLAN",
       "date": "2026-11-22",
       "poNo": "",
       "poDate": "",
@@ -27889,6 +27889,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-22T11:08:49.716Z",
+      "challanNo": "SNE-26018",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 1 items (RETURNABLE CHALLAN)."
+    },
     {
       "timestamp": "2026-11-22T11:08:39.080Z",
       "challanNo": "SNE-26018",
