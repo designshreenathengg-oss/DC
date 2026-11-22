@@ -3904,23 +3904,15 @@
       "items": [
         {
           "code": "M.S. BOX PIPE",
-          "desc": "300X200X4THK 6000L WITH CLIT PLATE (40 NOS)",
+          "desc": "300X200X4THK 6000L (WITH CLIT PLATE 40 NOS)",
           "qty": 4,
           "unit": "Nos",
           "remarkType": "Amount",
           "remark": "₹ 40000"
         },
         {
-          "code": "ISMC",
-          "desc": "ISMC125X3800",
-          "qty": 1,
-          "unit": "Nos",
-          "remarkType": "Amount",
-          "remark": "₹ 0"
-        },
-        {
           "code": "M.S. BOX PIPE",
-          "desc": "300X200X4THK  2600L",
+          "desc": "300X200X4THK  2600L (WITH CLIT PLATE 40 NOS)",
           "qty": 4,
           "unit": "Nos",
           "remarkType": "Amount",
@@ -3929,42 +3921,42 @@
         {
           "code": "M.S. BOX PIPE",
           "desc": "300X200X4THK  3800L",
-          "qty": 1,
-          "unit": "Nos",
-          "remarkType": "Amount",
-          "remark": "₹ 0"
-        },
-        {
-          "code": "M.S. PLATE",
-          "desc": "100X80X10THK WITH 2 HOLE",
-          "qty": 90,
+          "qty": 6,
           "unit": "Nos",
           "remarkType": "Amount",
           "remark": "₹ 15000"
         },
         {
-          "code": "HARDWARE",
-          "desc": "G.I. NBDW M12X30L",
-          "qty": 30,
-          "unit": "Nos",
+          "code": "M.S. PLATE",
+          "desc": "100X80X10THK WITH 2 HOLE 90NOS",
+          "qty": 1,
+          "unit": "SET",
           "remarkType": "Amount",
-          "remark": "₹ 500"
+          "remark": "₹ 15000"
         },
         {
           "code": "HARDWARE",
-          "desc": "FASTNER M16X150L",
+          "desc": "G.I. NBDW M12X30L 300NOS",
           "qty": 1,
-          "unit": "Nos",
+          "unit": "SET",
           "remarkType": "Amount",
-          "remark": "₹ 0"
+          "remark": "₹ 4000"
         },
         {
           "code": "HARDWARE",
-          "desc": "NBDW M16X50L",
+          "desc": "FASTNER M16X150L 100 NOS",
           "qty": 1,
           "unit": "Nos",
           "remarkType": "Amount",
-          "remark": "₹ 0"
+          "remark": "₹ 5000"
+        },
+        {
+          "code": "HARDWARE",
+          "desc": "NBDW M16X50L 300NOS",
+          "qty": 1,
+          "unit": "SET",
+          "remarkType": "Amount",
+          "remark": "₹ 3000"
         }
       ],
       "qrcodes": [
@@ -3972,134 +3964,20 @@
         "SNE-26016-M.S. BOX PIPE-2",
         "SNE-26016-M.S. BOX PIPE-3",
         "SNE-26016-M.S. BOX PIPE-4",
-        "SNE-26016-ISMC-1",
+        "SNE-26016-M.S. BOX PIPE-R2-1",
+        "SNE-26016-M.S. BOX PIPE-R2-2",
+        "SNE-26016-M.S. BOX PIPE-R2-3",
+        "SNE-26016-M.S. BOX PIPE-R2-4",
         "SNE-26016-M.S. BOX PIPE-R3-1",
         "SNE-26016-M.S. BOX PIPE-R3-2",
         "SNE-26016-M.S. BOX PIPE-R3-3",
         "SNE-26016-M.S. BOX PIPE-R3-4",
-        "SNE-26016-M.S. BOX PIPE-R4-1",
+        "SNE-26016-M.S. BOX PIPE-5",
+        "SNE-26016-M.S. BOX PIPE-6",
         "SNE-26016-M.S. PLATE-1",
-        "SNE-26016-M.S. PLATE-2",
-        "SNE-26016-M.S. PLATE-3",
-        "SNE-26016-M.S. PLATE-4",
-        "SNE-26016-M.S. PLATE-5",
-        "SNE-26016-M.S. PLATE-6",
-        "SNE-26016-M.S. PLATE-7",
-        "SNE-26016-M.S. PLATE-8",
-        "SNE-26016-M.S. PLATE-9",
-        "SNE-26016-M.S. PLATE-10",
-        "SNE-26016-M.S. PLATE-11",
-        "SNE-26016-M.S. PLATE-12",
-        "SNE-26016-M.S. PLATE-13",
-        "SNE-26016-M.S. PLATE-14",
-        "SNE-26016-M.S. PLATE-15",
-        "SNE-26016-M.S. PLATE-16",
-        "SNE-26016-M.S. PLATE-17",
-        "SNE-26016-M.S. PLATE-18",
-        "SNE-26016-M.S. PLATE-19",
-        "SNE-26016-M.S. PLATE-20",
-        "SNE-26016-M.S. PLATE-21",
-        "SNE-26016-M.S. PLATE-22",
-        "SNE-26016-M.S. PLATE-23",
-        "SNE-26016-M.S. PLATE-24",
-        "SNE-26016-M.S. PLATE-25",
-        "SNE-26016-M.S. PLATE-26",
-        "SNE-26016-M.S. PLATE-27",
-        "SNE-26016-M.S. PLATE-28",
-        "SNE-26016-M.S. PLATE-29",
-        "SNE-26016-M.S. PLATE-30",
-        "SNE-26016-M.S. PLATE-31",
-        "SNE-26016-M.S. PLATE-32",
-        "SNE-26016-M.S. PLATE-33",
-        "SNE-26016-M.S. PLATE-34",
-        "SNE-26016-M.S. PLATE-35",
-        "SNE-26016-M.S. PLATE-36",
-        "SNE-26016-M.S. PLATE-37",
-        "SNE-26016-M.S. PLATE-38",
-        "SNE-26016-M.S. PLATE-39",
-        "SNE-26016-M.S. PLATE-40",
-        "SNE-26016-M.S. PLATE-41",
-        "SNE-26016-M.S. PLATE-42",
-        "SNE-26016-M.S. PLATE-43",
-        "SNE-26016-M.S. PLATE-44",
-        "SNE-26016-M.S. PLATE-45",
-        "SNE-26016-M.S. PLATE-46",
-        "SNE-26016-M.S. PLATE-47",
-        "SNE-26016-M.S. PLATE-48",
-        "SNE-26016-M.S. PLATE-49",
-        "SNE-26016-M.S. PLATE-50",
-        "SNE-26016-M.S. PLATE-51",
-        "SNE-26016-M.S. PLATE-52",
-        "SNE-26016-M.S. PLATE-53",
-        "SNE-26016-M.S. PLATE-54",
-        "SNE-26016-M.S. PLATE-55",
-        "SNE-26016-M.S. PLATE-56",
-        "SNE-26016-M.S. PLATE-57",
-        "SNE-26016-M.S. PLATE-58",
-        "SNE-26016-M.S. PLATE-59",
-        "SNE-26016-M.S. PLATE-60",
-        "SNE-26016-M.S. PLATE-61",
-        "SNE-26016-M.S. PLATE-62",
-        "SNE-26016-M.S. PLATE-63",
-        "SNE-26016-M.S. PLATE-64",
-        "SNE-26016-M.S. PLATE-65",
-        "SNE-26016-M.S. PLATE-66",
-        "SNE-26016-M.S. PLATE-67",
-        "SNE-26016-M.S. PLATE-68",
-        "SNE-26016-M.S. PLATE-69",
-        "SNE-26016-M.S. PLATE-70",
-        "SNE-26016-M.S. PLATE-71",
-        "SNE-26016-M.S. PLATE-72",
-        "SNE-26016-M.S. PLATE-73",
-        "SNE-26016-M.S. PLATE-74",
-        "SNE-26016-M.S. PLATE-75",
-        "SNE-26016-M.S. PLATE-76",
-        "SNE-26016-M.S. PLATE-77",
-        "SNE-26016-M.S. PLATE-78",
-        "SNE-26016-M.S. PLATE-79",
-        "SNE-26016-M.S. PLATE-80",
-        "SNE-26016-M.S. PLATE-81",
-        "SNE-26016-M.S. PLATE-82",
-        "SNE-26016-M.S. PLATE-83",
-        "SNE-26016-M.S. PLATE-84",
-        "SNE-26016-M.S. PLATE-85",
-        "SNE-26016-M.S. PLATE-86",
-        "SNE-26016-M.S. PLATE-87",
-        "SNE-26016-M.S. PLATE-88",
-        "SNE-26016-M.S. PLATE-89",
-        "SNE-26016-M.S. PLATE-90",
         "SNE-26016-HARDWARE-1",
-        "SNE-26016-HARDWARE-2",
-        "SNE-26016-HARDWARE-3",
-        "SNE-26016-HARDWARE-4",
-        "SNE-26016-HARDWARE-5",
-        "SNE-26016-HARDWARE-6",
-        "SNE-26016-HARDWARE-7",
-        "SNE-26016-HARDWARE-8",
-        "SNE-26016-HARDWARE-9",
-        "SNE-26016-HARDWARE-10",
-        "SNE-26016-HARDWARE-11",
-        "SNE-26016-HARDWARE-12",
-        "SNE-26016-HARDWARE-13",
-        "SNE-26016-HARDWARE-14",
-        "SNE-26016-HARDWARE-15",
-        "SNE-26016-HARDWARE-16",
-        "SNE-26016-HARDWARE-17",
-        "SNE-26016-HARDWARE-18",
-        "SNE-26016-HARDWARE-19",
-        "SNE-26016-HARDWARE-20",
-        "SNE-26016-HARDWARE-21",
-        "SNE-26016-HARDWARE-22",
-        "SNE-26016-HARDWARE-23",
-        "SNE-26016-HARDWARE-24",
-        "SNE-26016-HARDWARE-25",
-        "SNE-26016-HARDWARE-26",
-        "SNE-26016-HARDWARE-27",
-        "SNE-26016-HARDWARE-28",
-        "SNE-26016-HARDWARE-29",
-        "SNE-26016-HARDWARE-30",
-        "SNE-26016-HARDWARE-R7-1",
-        "SNE-26016-HARDWARE-R8-1"
+        "SNE-26016-HARDWARE-R6-1",
+        "SNE-26016-HARDWARE-R7-1"
       ],
       "status": "QR GENERATED"
     },
@@ -26532,7 +26410,7 @@
       "qrCode": "SNE-26016-M.S. BOX PIPE-1",
       "challanNo": "SNE-26016",
       "itemCode": "M.S. BOX PIPE",
-      "desc": "300X200X4THK 6000L WITH CLIT PLATE (40 NOS)",
+      "desc": "300X200X4THK 6000L (WITH CLIT PLATE 40 NOS)",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -26541,7 +26419,7 @@
       "qrCode": "SNE-26016-M.S. BOX PIPE-2",
       "challanNo": "SNE-26016",
       "itemCode": "M.S. BOX PIPE",
-      "desc": "300X200X4THK 6000L WITH CLIT PLATE (40 NOS)",
+      "desc": "300X200X4THK 6000L (WITH CLIT PLATE 40 NOS)",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -26550,7 +26428,7 @@
       "qrCode": "SNE-26016-M.S. BOX PIPE-3",
       "challanNo": "SNE-26016",
       "itemCode": "M.S. BOX PIPE",
-      "desc": "300X200X4THK 6000L WITH CLIT PLATE (40 NOS)",
+      "desc": "300X200X4THK 6000L (WITH CLIT PLATE 40 NOS)",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -26559,16 +26437,7 @@
       "qrCode": "SNE-26016-M.S. BOX PIPE-4",
       "challanNo": "SNE-26016",
       "itemCode": "M.S. BOX PIPE",
-      "desc": "300X200X4THK 6000L WITH CLIT PLATE (40 NOS)",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-ISMC-1": {
-      "qrCode": "SNE-26016-ISMC-1",
-      "challanNo": "SNE-26016",
-      "itemCode": "ISMC",
-      "desc": "ISMC125X3800",
+      "desc": "300X200X4THK 6000L (WITH CLIT PLATE 40 NOS)",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -26577,7 +26446,7 @@
       "qrCode": "SNE-26016-M.S. BOX PIPE-R3-1",
       "challanNo": "SNE-26016",
       "itemCode": "M.S. BOX PIPE",
-      "desc": "300X200X4THK  2600L",
+      "desc": "300X200X4THK  3800L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -26586,7 +26455,7 @@
       "qrCode": "SNE-26016-M.S. BOX PIPE-R3-2",
       "challanNo": "SNE-26016",
       "itemCode": "M.S. BOX PIPE",
-      "desc": "300X200X4THK  2600L",
+      "desc": "300X200X4THK  3800L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -26595,22 +26464,13 @@
       "qrCode": "SNE-26016-M.S. BOX PIPE-R3-3",
       "challanNo": "SNE-26016",
       "itemCode": "M.S. BOX PIPE",
-      "desc": "300X200X4THK  2600L",
+      "desc": "300X200X4THK  3800L",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
     },
     "SNE-26016-M.S. BOX PIPE-R3-4": {
       "qrCode": "SNE-26016-M.S. BOX PIPE-R3-4",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. BOX PIPE",
-      "desc": "300X200X4THK  2600L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. BOX PIPE-R4-1": {
-      "qrCode": "SNE-26016-M.S. BOX PIPE-R4-1",
       "challanNo": "SNE-26016",
       "itemCode": "M.S. BOX PIPE",
       "desc": "300X200X4THK  3800L",
@@ -26622,808 +26482,7 @@
       "qrCode": "SNE-26016-M.S. PLATE-1",
       "challanNo": "SNE-26016",
       "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-2": {
-      "qrCode": "SNE-26016-M.S. PLATE-2",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-3": {
-      "qrCode": "SNE-26016-M.S. PLATE-3",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-4": {
-      "qrCode": "SNE-26016-M.S. PLATE-4",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-5": {
-      "qrCode": "SNE-26016-M.S. PLATE-5",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-6": {
-      "qrCode": "SNE-26016-M.S. PLATE-6",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-7": {
-      "qrCode": "SNE-26016-M.S. PLATE-7",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-8": {
-      "qrCode": "SNE-26016-M.S. PLATE-8",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-9": {
-      "qrCode": "SNE-26016-M.S. PLATE-9",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-10": {
-      "qrCode": "SNE-26016-M.S. PLATE-10",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-11": {
-      "qrCode": "SNE-26016-M.S. PLATE-11",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-12": {
-      "qrCode": "SNE-26016-M.S. PLATE-12",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-13": {
-      "qrCode": "SNE-26016-M.S. PLATE-13",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-14": {
-      "qrCode": "SNE-26016-M.S. PLATE-14",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-15": {
-      "qrCode": "SNE-26016-M.S. PLATE-15",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-16": {
-      "qrCode": "SNE-26016-M.S. PLATE-16",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-17": {
-      "qrCode": "SNE-26016-M.S. PLATE-17",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-18": {
-      "qrCode": "SNE-26016-M.S. PLATE-18",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-19": {
-      "qrCode": "SNE-26016-M.S. PLATE-19",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-20": {
-      "qrCode": "SNE-26016-M.S. PLATE-20",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-21": {
-      "qrCode": "SNE-26016-M.S. PLATE-21",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-22": {
-      "qrCode": "SNE-26016-M.S. PLATE-22",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-23": {
-      "qrCode": "SNE-26016-M.S. PLATE-23",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-24": {
-      "qrCode": "SNE-26016-M.S. PLATE-24",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-25": {
-      "qrCode": "SNE-26016-M.S. PLATE-25",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-26": {
-      "qrCode": "SNE-26016-M.S. PLATE-26",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-27": {
-      "qrCode": "SNE-26016-M.S. PLATE-27",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-28": {
-      "qrCode": "SNE-26016-M.S. PLATE-28",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-29": {
-      "qrCode": "SNE-26016-M.S. PLATE-29",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-30": {
-      "qrCode": "SNE-26016-M.S. PLATE-30",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-31": {
-      "qrCode": "SNE-26016-M.S. PLATE-31",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-32": {
-      "qrCode": "SNE-26016-M.S. PLATE-32",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-33": {
-      "qrCode": "SNE-26016-M.S. PLATE-33",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-34": {
-      "qrCode": "SNE-26016-M.S. PLATE-34",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-35": {
-      "qrCode": "SNE-26016-M.S. PLATE-35",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-36": {
-      "qrCode": "SNE-26016-M.S. PLATE-36",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-37": {
-      "qrCode": "SNE-26016-M.S. PLATE-37",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-38": {
-      "qrCode": "SNE-26016-M.S. PLATE-38",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-39": {
-      "qrCode": "SNE-26016-M.S. PLATE-39",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-40": {
-      "qrCode": "SNE-26016-M.S. PLATE-40",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-41": {
-      "qrCode": "SNE-26016-M.S. PLATE-41",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-42": {
-      "qrCode": "SNE-26016-M.S. PLATE-42",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-43": {
-      "qrCode": "SNE-26016-M.S. PLATE-43",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-44": {
-      "qrCode": "SNE-26016-M.S. PLATE-44",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-45": {
-      "qrCode": "SNE-26016-M.S. PLATE-45",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-46": {
-      "qrCode": "SNE-26016-M.S. PLATE-46",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-47": {
-      "qrCode": "SNE-26016-M.S. PLATE-47",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-48": {
-      "qrCode": "SNE-26016-M.S. PLATE-48",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-49": {
-      "qrCode": "SNE-26016-M.S. PLATE-49",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-50": {
-      "qrCode": "SNE-26016-M.S. PLATE-50",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-51": {
-      "qrCode": "SNE-26016-M.S. PLATE-51",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-52": {
-      "qrCode": "SNE-26016-M.S. PLATE-52",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-53": {
-      "qrCode": "SNE-26016-M.S. PLATE-53",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-54": {
-      "qrCode": "SNE-26016-M.S. PLATE-54",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-55": {
-      "qrCode": "SNE-26016-M.S. PLATE-55",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-56": {
-      "qrCode": "SNE-26016-M.S. PLATE-56",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-57": {
-      "qrCode": "SNE-26016-M.S. PLATE-57",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-58": {
-      "qrCode": "SNE-26016-M.S. PLATE-58",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-59": {
-      "qrCode": "SNE-26016-M.S. PLATE-59",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-60": {
-      "qrCode": "SNE-26016-M.S. PLATE-60",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-61": {
-      "qrCode": "SNE-26016-M.S. PLATE-61",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-62": {
-      "qrCode": "SNE-26016-M.S. PLATE-62",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-63": {
-      "qrCode": "SNE-26016-M.S. PLATE-63",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-64": {
-      "qrCode": "SNE-26016-M.S. PLATE-64",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-65": {
-      "qrCode": "SNE-26016-M.S. PLATE-65",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-66": {
-      "qrCode": "SNE-26016-M.S. PLATE-66",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-67": {
-      "qrCode": "SNE-26016-M.S. PLATE-67",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-68": {
-      "qrCode": "SNE-26016-M.S. PLATE-68",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-69": {
-      "qrCode": "SNE-26016-M.S. PLATE-69",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-70": {
-      "qrCode": "SNE-26016-M.S. PLATE-70",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-71": {
-      "qrCode": "SNE-26016-M.S. PLATE-71",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-72": {
-      "qrCode": "SNE-26016-M.S. PLATE-72",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-73": {
-      "qrCode": "SNE-26016-M.S. PLATE-73",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-74": {
-      "qrCode": "SNE-26016-M.S. PLATE-74",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-75": {
-      "qrCode": "SNE-26016-M.S. PLATE-75",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-76": {
-      "qrCode": "SNE-26016-M.S. PLATE-76",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-77": {
-      "qrCode": "SNE-26016-M.S. PLATE-77",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-78": {
-      "qrCode": "SNE-26016-M.S. PLATE-78",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-79": {
-      "qrCode": "SNE-26016-M.S. PLATE-79",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-80": {
-      "qrCode": "SNE-26016-M.S. PLATE-80",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-81": {
-      "qrCode": "SNE-26016-M.S. PLATE-81",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-82": {
-      "qrCode": "SNE-26016-M.S. PLATE-82",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-83": {
-      "qrCode": "SNE-26016-M.S. PLATE-83",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-84": {
-      "qrCode": "SNE-26016-M.S. PLATE-84",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-85": {
-      "qrCode": "SNE-26016-M.S. PLATE-85",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-86": {
-      "qrCode": "SNE-26016-M.S. PLATE-86",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-87": {
-      "qrCode": "SNE-26016-M.S. PLATE-87",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-88": {
-      "qrCode": "SNE-26016-M.S. PLATE-88",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-89": {
-      "qrCode": "SNE-26016-M.S. PLATE-89",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-M.S. PLATE-90": {
-      "qrCode": "SNE-26016-M.S. PLATE-90",
-      "challanNo": "SNE-26016",
-      "itemCode": "M.S. PLATE",
-      "desc": "100X80X10THK WITH 2 HOLE",
+      "desc": "100X80X10THK WITH 2 HOLE 90NOS",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -27432,268 +26491,7 @@
       "qrCode": "SNE-26016-HARDWARE-1",
       "challanNo": "SNE-26016",
       "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-2": {
-      "qrCode": "SNE-26016-HARDWARE-2",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-3": {
-      "qrCode": "SNE-26016-HARDWARE-3",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-4": {
-      "qrCode": "SNE-26016-HARDWARE-4",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-5": {
-      "qrCode": "SNE-26016-HARDWARE-5",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-6": {
-      "qrCode": "SNE-26016-HARDWARE-6",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-7": {
-      "qrCode": "SNE-26016-HARDWARE-7",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-8": {
-      "qrCode": "SNE-26016-HARDWARE-8",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-9": {
-      "qrCode": "SNE-26016-HARDWARE-9",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-10": {
-      "qrCode": "SNE-26016-HARDWARE-10",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-11": {
-      "qrCode": "SNE-26016-HARDWARE-11",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-12": {
-      "qrCode": "SNE-26016-HARDWARE-12",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-13": {
-      "qrCode": "SNE-26016-HARDWARE-13",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-14": {
-      "qrCode": "SNE-26016-HARDWARE-14",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-15": {
-      "qrCode": "SNE-26016-HARDWARE-15",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-16": {
-      "qrCode": "SNE-26016-HARDWARE-16",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-17": {
-      "qrCode": "SNE-26016-HARDWARE-17",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-18": {
-      "qrCode": "SNE-26016-HARDWARE-18",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-19": {
-      "qrCode": "SNE-26016-HARDWARE-19",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-20": {
-      "qrCode": "SNE-26016-HARDWARE-20",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-21": {
-      "qrCode": "SNE-26016-HARDWARE-21",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-22": {
-      "qrCode": "SNE-26016-HARDWARE-22",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-23": {
-      "qrCode": "SNE-26016-HARDWARE-23",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-24": {
-      "qrCode": "SNE-26016-HARDWARE-24",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-25": {
-      "qrCode": "SNE-26016-HARDWARE-25",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-26": {
-      "qrCode": "SNE-26016-HARDWARE-26",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-27": {
-      "qrCode": "SNE-26016-HARDWARE-27",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-28": {
-      "qrCode": "SNE-26016-HARDWARE-28",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-29": {
-      "qrCode": "SNE-26016-HARDWARE-29",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-30": {
-      "qrCode": "SNE-26016-HARDWARE-30",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "G.I. NBDW M12X30L",
+      "desc": "G.I. NBDW M12X30L 300NOS",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -27702,16 +26500,7 @@
       "qrCode": "SNE-26016-HARDWARE-R7-1",
       "challanNo": "SNE-26016",
       "itemCode": "HARDWARE",
-      "desc": "FASTNER M16X150L",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26016-HARDWARE-R8-1": {
-      "qrCode": "SNE-26016-HARDWARE-R8-1",
-      "challanNo": "SNE-26016",
-      "itemCode": "HARDWARE",
-      "desc": "NBDW M16X50L",
+      "desc": "NBDW M16X50L 300NOS",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -27850,63 +26639,82 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26016-M.S. BOX PIPE-R2-1": {
+      "qrCode": "SNE-26016-M.S. BOX PIPE-R2-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "M.S. BOX PIPE",
+      "desc": "300X200X4THK  2600L (WITH CLIT PLATE 40 NOS)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-M.S. BOX PIPE-R2-2": {
+      "qrCode": "SNE-26016-M.S. BOX PIPE-R2-2",
+      "challanNo": "SNE-26016",
+      "itemCode": "M.S. BOX PIPE",
+      "desc": "300X200X4THK  2600L (WITH CLIT PLATE 40 NOS)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-M.S. BOX PIPE-R2-3": {
+      "qrCode": "SNE-26016-M.S. BOX PIPE-R2-3",
+      "challanNo": "SNE-26016",
+      "itemCode": "M.S. BOX PIPE",
+      "desc": "300X200X4THK  2600L (WITH CLIT PLATE 40 NOS)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-M.S. BOX PIPE-R2-4": {
+      "qrCode": "SNE-26016-M.S. BOX PIPE-R2-4",
+      "challanNo": "SNE-26016",
+      "itemCode": "M.S. BOX PIPE",
+      "desc": "300X200X4THK  2600L (WITH CLIT PLATE 40 NOS)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-M.S. BOX PIPE-5": {
+      "qrCode": "SNE-26016-M.S. BOX PIPE-5",
+      "challanNo": "SNE-26016",
+      "itemCode": "M.S. BOX PIPE",
+      "desc": "300X200X4THK  3800L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-M.S. BOX PIPE-6": {
+      "qrCode": "SNE-26016-M.S. BOX PIPE-6",
+      "challanNo": "SNE-26016",
+      "itemCode": "M.S. BOX PIPE",
+      "desc": "300X200X4THK  3800L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26016-HARDWARE-R6-1": {
+      "qrCode": "SNE-26016-HARDWARE-R6-1",
+      "challanNo": "SNE-26016",
+      "itemCode": "HARDWARE",
+      "desc": "FASTNER M16X150L 100 NOS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
     {
-      "timestamp": "2026-11-22T11:33:22.136Z",
-      "challanNo": "SNE-26018",
-      "qrCode": "ALL",
-      "action": "CHALLAN DELETED",
-      "actor": "admin",
-      "dispatchPerson": "-",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Win32)",
-      "details": "Deleted SNE-26018"
-    },
-    {
-      "timestamp": "2026-11-22T11:32:42.215Z",
-      "challanNo": "SNE-26018",
-      "qrCode": "ALL",
-      "action": "CHALLAN CREATED",
-      "actor": "PIYUSH",
-      "dispatchPerson": "-",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Win32)",
-      "details": "User \"PIYUSH\" created SNE-26018 (RETURNABLE CHALLAN) with 1 items."
-    },
-    {
-      "timestamp": "2026-11-22T11:09:11.096Z",
-      "challanNo": "SNE-26018",
-      "qrCode": "ALL",
-      "action": "CHALLAN DELETED",
-      "actor": "admin",
-      "dispatchPerson": "-",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Win32)",
-      "details": "Deleted SNE-26018"
-    },
-    {
-      "timestamp": "2026-11-22T11:08:49.716Z",
-      "challanNo": "SNE-26018",
+      "timestamp": "2026-11-22T11:57:21.869Z",
+      "challanNo": "SNE-26016",
       "qrCode": "ALL",
       "action": "CHALLAN EDITED",
       "actor": "admin",
       "dispatchPerson": "-",
       "siteReceiver": "-",
       "deviceInfo": "Desktop (Win32)",
-      "details": "Saved 1 items (RETURNABLE CHALLAN)."
-    },
-    {
-      "timestamp": "2026-11-22T11:08:39.080Z",
-      "challanNo": "SNE-26018",
-      "qrCode": "ALL",
-      "action": "CHALLAN CREATED",
-      "actor": "admin",
-      "dispatchPerson": "-",
-      "siteReceiver": "-",
-      "deviceInfo": "Desktop (Win32)",
-      "details": "Saved 1 items (DELIVERY CHALLAN)."
+      "details": "Saved 18 items."
     },
     {
       "timestamp": "2026-11-22T10:55:22.343Z",
