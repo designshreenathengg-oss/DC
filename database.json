@@ -3799,6 +3799,96 @@
         "SNE-26014-ITM-R2-1"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26015": {
+      "challanNo": "SNE-26015",
+      "date": "2026-11-22",
+      "poNo": "",
+      "poDate": "",
+      "projectName": "BC IKM END SUPPORT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
+      "vehicle": "",
+      "remarkType": "Amount",
+      "showTotal": false,
+      "items": [
+        {
+          "code": "M.S. PLATE",
+          "desc": "250X300X8THK",
+          "qty": 36,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 12000"
+        },
+        {
+          "code": "M.S. PLATE",
+          "desc": "430X420X170X10THK",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 5000"
+        },
+        {
+          "code": "M.S. PLATE",
+          "desc": "CHANNEL 100X75X5THK",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 2000"
+        },
+        {
+          "code": "M.S. PLATE",
+          "desc": "320X120X4THK",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 1000"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26015-M.S. PLATE-1",
+        "SNE-26015-M.S. PLATE-2",
+        "SNE-26015-M.S. PLATE-3",
+        "SNE-26015-M.S. PLATE-4",
+        "SNE-26015-M.S. PLATE-5",
+        "SNE-26015-M.S. PLATE-6",
+        "SNE-26015-M.S. PLATE-7",
+        "SNE-26015-M.S. PLATE-8",
+        "SNE-26015-M.S. PLATE-9",
+        "SNE-26015-M.S. PLATE-10",
+        "SNE-26015-M.S. PLATE-11",
+        "SNE-26015-M.S. PLATE-12",
+        "SNE-26015-M.S. PLATE-13",
+        "SNE-26015-M.S. PLATE-14",
+        "SNE-26015-M.S. PLATE-15",
+        "SNE-26015-M.S. PLATE-16",
+        "SNE-26015-M.S. PLATE-17",
+        "SNE-26015-M.S. PLATE-18",
+        "SNE-26015-M.S. PLATE-19",
+        "SNE-26015-M.S. PLATE-20",
+        "SNE-26015-M.S. PLATE-21",
+        "SNE-26015-M.S. PLATE-22",
+        "SNE-26015-M.S. PLATE-23",
+        "SNE-26015-M.S. PLATE-24",
+        "SNE-26015-M.S. PLATE-25",
+        "SNE-26015-M.S. PLATE-26",
+        "SNE-26015-M.S. PLATE-27",
+        "SNE-26015-M.S. PLATE-28",
+        "SNE-26015-M.S. PLATE-29",
+        "SNE-26015-M.S. PLATE-30",
+        "SNE-26015-M.S. PLATE-31",
+        "SNE-26015-M.S. PLATE-32",
+        "SNE-26015-M.S. PLATE-33",
+        "SNE-26015-M.S. PLATE-34",
+        "SNE-26015-M.S. PLATE-35",
+        "SNE-26015-M.S. PLATE-36",
+        "SNE-26015-M.S. PLATE-R2-1",
+        "SNE-26015-M.S. PLATE-R2-2",
+        "SNE-26015-M.S. PLATE-R3-1",
+        "SNE-26015-M.S. PLATE-R3-2",
+        "SNE-26015-M.S. PLATE-R4-1"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -25799,9 +25889,389 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-1": {
+      "qrCode": "SNE-26015-M.S. PLATE-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-2": {
+      "qrCode": "SNE-26015-M.S. PLATE-2",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-3": {
+      "qrCode": "SNE-26015-M.S. PLATE-3",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-4": {
+      "qrCode": "SNE-26015-M.S. PLATE-4",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-5": {
+      "qrCode": "SNE-26015-M.S. PLATE-5",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-6": {
+      "qrCode": "SNE-26015-M.S. PLATE-6",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-7": {
+      "qrCode": "SNE-26015-M.S. PLATE-7",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-8": {
+      "qrCode": "SNE-26015-M.S. PLATE-8",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-9": {
+      "qrCode": "SNE-26015-M.S. PLATE-9",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-10": {
+      "qrCode": "SNE-26015-M.S. PLATE-10",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-11": {
+      "qrCode": "SNE-26015-M.S. PLATE-11",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-12": {
+      "qrCode": "SNE-26015-M.S. PLATE-12",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-13": {
+      "qrCode": "SNE-26015-M.S. PLATE-13",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-14": {
+      "qrCode": "SNE-26015-M.S. PLATE-14",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-15": {
+      "qrCode": "SNE-26015-M.S. PLATE-15",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-16": {
+      "qrCode": "SNE-26015-M.S. PLATE-16",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-17": {
+      "qrCode": "SNE-26015-M.S. PLATE-17",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-18": {
+      "qrCode": "SNE-26015-M.S. PLATE-18",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-19": {
+      "qrCode": "SNE-26015-M.S. PLATE-19",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-20": {
+      "qrCode": "SNE-26015-M.S. PLATE-20",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-21": {
+      "qrCode": "SNE-26015-M.S. PLATE-21",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-22": {
+      "qrCode": "SNE-26015-M.S. PLATE-22",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-23": {
+      "qrCode": "SNE-26015-M.S. PLATE-23",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-24": {
+      "qrCode": "SNE-26015-M.S. PLATE-24",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-25": {
+      "qrCode": "SNE-26015-M.S. PLATE-25",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-26": {
+      "qrCode": "SNE-26015-M.S. PLATE-26",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-27": {
+      "qrCode": "SNE-26015-M.S. PLATE-27",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-28": {
+      "qrCode": "SNE-26015-M.S. PLATE-28",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-29": {
+      "qrCode": "SNE-26015-M.S. PLATE-29",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-30": {
+      "qrCode": "SNE-26015-M.S. PLATE-30",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-31": {
+      "qrCode": "SNE-26015-M.S. PLATE-31",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-32": {
+      "qrCode": "SNE-26015-M.S. PLATE-32",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-33": {
+      "qrCode": "SNE-26015-M.S. PLATE-33",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-34": {
+      "qrCode": "SNE-26015-M.S. PLATE-34",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-35": {
+      "qrCode": "SNE-26015-M.S. PLATE-35",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-36": {
+      "qrCode": "SNE-26015-M.S. PLATE-36",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "250X300X8THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-R2-1": {
+      "qrCode": "SNE-26015-M.S. PLATE-R2-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "430X420X170X10THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-R2-2": {
+      "qrCode": "SNE-26015-M.S. PLATE-R2-2",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "430X420X170X10THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-R3-1": {
+      "qrCode": "SNE-26015-M.S. PLATE-R3-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "CHANNEL 100X75X5THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-R3-2": {
+      "qrCode": "SNE-26015-M.S. PLATE-R3-2",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "CHANNEL 100X75X5THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26015-M.S. PLATE-R4-1": {
+      "qrCode": "SNE-26015-M.S. PLATE-R4-1",
+      "challanNo": "SNE-26015",
+      "itemCode": "M.S. PLATE",
+      "desc": "320X120X4THK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-22T10:31:02.413Z",
+      "challanNo": "SNE-26015",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Saved 41 items."
+    },
     {
       "timestamp": "2026-11-21T17:37:57.345Z",
       "challanNo": "SNE-26014",
