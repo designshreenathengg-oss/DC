@@ -3966,14 +3966,6 @@
       "items": [
         {
           "code": "M.S.",
-          "desc": "CC BASE PLATE 700X600X12THK",
-          "qty": 9,
-          "unit": "Nos",
-          "remarkType": "Amount",
-          "remark": "₹ 30000"
-        },
-        {
-          "code": "M.S.",
           "desc": "ELEVATOR MOTOR BASE PLATE 440X400X40THK WITH M24 TAPPING",
           "qty": 2,
           "unit": "Nos",
@@ -4024,22 +4016,13 @@
       "qrcodes": [
         "SNE-26017-M.S.-1",
         "SNE-26017-M.S.-2",
-        "SNE-26017-M.S.-3",
-        "SNE-26017-M.S.-4",
-        "SNE-26017-M.S.-5",
-        "SNE-26017-M.S.-6",
-        "SNE-26017-M.S.-7",
-        "SNE-26017-M.S.-8",
-        "SNE-26017-M.S.-9",
         "SNE-26017-M.S.-R2-1",
         "SNE-26017-M.S.-R2-2",
-        "SNE-26017-M.S.-R3-1",
-        "SNE-26017-M.S.-R3-2",
-        "SNE-26017-M.S.-R3-3",
-        "SNE-26017-M.S.-R3-4",
+        "SNE-26017-M.S.-3",
+        "SNE-26017-M.S.-4",
         "SNE-26017-ITM-1",
+        "SNE-26017-ITM-R4-1",
         "SNE-26017-ITM-R5-1",
-        "SNE-26017-ITM-R6-1",
         "SNE-26017-BOX PIPE-1"
       ],
       "status": "QR GENERATED"
@@ -26201,7 +26184,7 @@
       "qrCode": "SNE-26017-M.S.-1",
       "challanNo": "SNE-26017",
       "itemCode": "M.S.",
-      "desc": "CC BASE PLATE 700X600X12THK",
+      "desc": "ELEVATOR MOTOR BASE PLATE 440X400X40THK WITH M24 TAPPING",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -26210,7 +26193,7 @@
       "qrCode": "SNE-26017-M.S.-2",
       "challanNo": "SNE-26017",
       "itemCode": "M.S.",
-      "desc": "CC BASE PLATE 700X600X12THK",
+      "desc": "ELEVATOR MOTOR BASE PLATE 440X400X40THK WITH M24 TAPPING",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -26219,7 +26202,7 @@
       "qrCode": "SNE-26017-M.S.-3",
       "challanNo": "SNE-26017",
       "itemCode": "M.S.",
-      "desc": "CC BASE PLATE 700X600X12THK",
+      "desc": "GUIDE BRACKET (2LH+2RH)",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -26228,52 +26211,7 @@
       "qrCode": "SNE-26017-M.S.-4",
       "challanNo": "SNE-26017",
       "itemCode": "M.S.",
-      "desc": "CC BASE PLATE 700X600X12THK",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26017-M.S.-5": {
-      "qrCode": "SNE-26017-M.S.-5",
-      "challanNo": "SNE-26017",
-      "itemCode": "M.S.",
-      "desc": "CC BASE PLATE 700X600X12THK",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26017-M.S.-6": {
-      "qrCode": "SNE-26017-M.S.-6",
-      "challanNo": "SNE-26017",
-      "itemCode": "M.S.",
-      "desc": "CC BASE PLATE 700X600X12THK",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26017-M.S.-7": {
-      "qrCode": "SNE-26017-M.S.-7",
-      "challanNo": "SNE-26017",
-      "itemCode": "M.S.",
-      "desc": "CC BASE PLATE 700X600X12THK",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26017-M.S.-8": {
-      "qrCode": "SNE-26017-M.S.-8",
-      "challanNo": "SNE-26017",
-      "itemCode": "M.S.",
-      "desc": "CC BASE PLATE 700X600X12THK",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26017-M.S.-9": {
-      "qrCode": "SNE-26017-M.S.-9",
-      "challanNo": "SNE-26017",
-      "itemCode": "M.S.",
-      "desc": "CC BASE PLATE 700X600X12THK",
+      "desc": "GUIDE BRACKET (2LH+2RH)",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -26282,49 +26220,13 @@
       "qrCode": "SNE-26017-M.S.-R2-1",
       "challanNo": "SNE-26017",
       "itemCode": "M.S.",
-      "desc": "ELEVATOR MOTOR BASE PLATE 440X400X40THK WITH M24 TAPPING",
+      "desc": "GUIDE BRACKET (2LH+2RH)",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
     },
     "SNE-26017-M.S.-R2-2": {
       "qrCode": "SNE-26017-M.S.-R2-2",
-      "challanNo": "SNE-26017",
-      "itemCode": "M.S.",
-      "desc": "ELEVATOR MOTOR BASE PLATE 440X400X40THK WITH M24 TAPPING",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26017-M.S.-R3-1": {
-      "qrCode": "SNE-26017-M.S.-R3-1",
-      "challanNo": "SNE-26017",
-      "itemCode": "M.S.",
-      "desc": "GUIDE BRACKET (2LH+2RH)",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26017-M.S.-R3-2": {
-      "qrCode": "SNE-26017-M.S.-R3-2",
-      "challanNo": "SNE-26017",
-      "itemCode": "M.S.",
-      "desc": "GUIDE BRACKET (2LH+2RH)",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26017-M.S.-R3-3": {
-      "qrCode": "SNE-26017-M.S.-R3-3",
-      "challanNo": "SNE-26017",
-      "itemCode": "M.S.",
-      "desc": "GUIDE BRACKET (2LH+2RH)",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26017-M.S.-R3-4": {
-      "qrCode": "SNE-26017-M.S.-R3-4",
       "challanNo": "SNE-26017",
       "itemCode": "M.S.",
       "desc": "GUIDE BRACKET (2LH+2RH)",
@@ -26408,15 +26310,6 @@
       "qrCode": "SNE-26017-ITM-R5-1",
       "challanNo": "SNE-26017",
       "itemCode": "ITM",
-      "desc": "GRATING 990X650 30 NOS",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
-    },
-    "SNE-26017-ITM-R6-1": {
-      "qrCode": "SNE-26017-ITM-R6-1",
-      "challanNo": "SNE-26017",
-      "itemCode": "ITM",
       "desc": "GRATING 990X200 60 NOS",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
@@ -26430,9 +26323,29 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26017-ITM-R4-1": {
+      "qrCode": "SNE-26017-ITM-R4-1",
+      "challanNo": "SNE-26017",
+      "itemCode": "ITM",
+      "desc": "GRATING 990X650 30 NOS",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-22T15:27:20.894Z",
+      "challanNo": "SNE-26017",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "PIYUSH",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "User \"PIYUSH\" updated SNE-26017 (DELIVERY CHALLAN) with 10 items."
+    },
     {
       "timestamp": "2026-11-22T15:24:59.515Z",
       "challanNo": "SNE-26015",
