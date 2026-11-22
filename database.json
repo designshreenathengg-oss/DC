@@ -3948,10 +3948,13 @@
     },
     "SNE-26017": {
       "challanNo": "SNE-26017",
+      "challanType": "DELIVERY CHALLAN",
+      "createdBy": "PIYUSH",
+      "lastUpdatedBy": "PIYUSH",
       "date": "2026-11-22",
       "poNo": "",
       "poDate": "",
-      "projectName": "DUTECK",
+      "projectName": "DUTECK AND 36 JPH",
       "customer": "MAHINDRA AND MAHINDRA",
       "address": "CHAKAN MIDC, PUNE",
       "vehicle": "",
@@ -26427,6 +26430,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-22T12:19:54.151Z",
+      "challanNo": "SNE-26017",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "PIYUSH",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "User \"PIYUSH\" updated SNE-26017 (DELIVERY CHALLAN) with 19 items."
+    },
     {
       "timestamp": "2026-11-22T12:03:15.462Z",
       "challanNo": "SNE-26015",
