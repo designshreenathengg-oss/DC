@@ -4158,33 +4158,6 @@
         "SNE-26017-M.S.-R3-4"
       ],
       "status": "QR GENERATED"
-    },
-    "SNE-26018": {
-      "challanNo": "SNE-26018",
-      "challanType": "RETURNABLE CHALLAN",
-      "date": "2026-11-22",
-      "poNo": "",
-      "poDate": "",
-      "projectName": "",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "address": "CHAKAN MIDC, PUNE",
-      "vehicle": "",
-      "remarkType": "Remark",
-      "showTotal": false,
-      "items": [
-        {
-          "code": "ITM",
-          "desc": "Item Particular",
-          "qty": 1,
-          "unit": "Nos",
-          "remarkType": "Remark",
-          "remark": "-"
-        }
-      ],
-      "qrcodes": [
-        "SNE-26018-ITM-1"
-      ],
-      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -27877,18 +27850,20 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
-    },
-    "SNE-26018-ITM-1": {
-      "qrCode": "SNE-26018-ITM-1",
-      "challanNo": "SNE-26018",
-      "itemCode": "ITM",
-      "desc": "Item Particular",
-      "customer": "MAHINDRA AND MAHINDRA",
-      "location": "CHAKAN MIDC, PUNE",
-      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-22T11:09:11.096Z",
+      "challanNo": "SNE-26018",
+      "qrCode": "ALL",
+      "action": "CHALLAN DELETED",
+      "actor": "admin",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "Deleted SNE-26018"
+    },
     {
       "timestamp": "2026-11-22T11:08:49.716Z",
       "challanNo": "SNE-26018",
