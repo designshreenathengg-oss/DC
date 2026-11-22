@@ -3802,6 +3802,9 @@
     },
     "SNE-26015": {
       "challanNo": "SNE-26015",
+      "challanType": "DELIVERY CHALLAN",
+      "createdBy": "gaurav",
+      "lastUpdatedBy": "gaurav",
       "date": "2026-11-22",
       "poNo": "",
       "poDate": "",
@@ -3814,7 +3817,7 @@
       "items": [
         {
           "code": "M.S. PLATE",
-          "desc": "250X300X8THK 36 NOS",
+          "desc": "250X300X10THK 36 NOS",
           "qty": 1,
           "unit": "SET",
           "remarkType": "Amount",
@@ -26045,7 +26048,7 @@
       "qrCode": "SNE-26015-M.S. PLATE-1",
       "challanNo": "SNE-26015",
       "itemCode": "M.S. PLATE",
-      "desc": "250X300X8THK 36 NOS",
+      "desc": "250X300X10THK 36 NOS",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -26430,6 +26433,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-22T15:24:59.515Z",
+      "challanNo": "SNE-26015",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "gaurav",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "User \"gaurav\" updated SNE-26015 (DELIVERY CHALLAN) with 6 items."
+    },
     {
       "timestamp": "2026-11-22T12:19:54.151Z",
       "challanNo": "SNE-26017",
