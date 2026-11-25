@@ -38436,6 +38436,17 @@
   },
   "audit": [
     {
+      "timestamp": "2026-11-25T05:53:02.323Z",
+      "challanNo": "SNE-26018",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "ROHIT BALEDA",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "User \"ROHIT BALEDA\" updated SNE-26018 (DELIVERY CHALLAN) with 82 items."
+    },
+    {
       "timestamp": "2026-11-25T05:51:54.579Z",
       "challanNo": "SNE-26019",
       "qrCode": "ALL",
