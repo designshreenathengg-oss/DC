@@ -5488,6 +5488,191 @@
         "SNE-26019-15-5"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26020": {
+      "challanNo": "SNE-26020",
+      "challanType": "DELIVERY CHALLAN",
+      "createdBy": "ROHIT BALEDA",
+      "lastUpdatedBy": "ROHIT BALEDA",
+      "date": "2026-11-24",
+      "poNo": "",
+      "poDate": "2026-11-24",
+      "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
+      "vehicle": "MH15HH5968",
+      "remarkType": "Amount",
+      "showTotal": false,
+      "items": [
+        {
+          "code": "1",
+          "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+          "qty": 40,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 20000"
+        },
+        {
+          "code": "2",
+          "desc": "WIRE ROPE 12MM",
+          "qty": 30,
+          "unit": "MTR",
+          "remarkType": "Amount",
+          "remark": "₹ 5000"
+        },
+        {
+          "code": "3",
+          "desc": "U CLAMP 20\"",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 4000"
+        },
+        {
+          "code": "4",
+          "desc": "U CLAMP 16\"",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 3000"
+        },
+        {
+          "code": "5",
+          "desc": "U CLAMP 6\"",
+          "qty": 20,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 10000"
+        },
+        {
+          "code": "6",
+          "desc": "BUTTERFLY VALVE 6\"",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 10000"
+        },
+        {
+          "code": "7",
+          "desc": "WHITE HELMET",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 2000"
+        },
+        {
+          "code": "8",
+          "desc": "LT COVER",
+          "qty": 3,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 6000"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26020-1-1",
+        "SNE-26020-1-2",
+        "SNE-26020-1-3",
+        "SNE-26020-1-4",
+        "SNE-26020-1-5",
+        "SNE-26020-1-6",
+        "SNE-26020-1-7",
+        "SNE-26020-1-8",
+        "SNE-26020-1-9",
+        "SNE-26020-1-10",
+        "SNE-26020-1-11",
+        "SNE-26020-1-12",
+        "SNE-26020-1-13",
+        "SNE-26020-1-14",
+        "SNE-26020-1-15",
+        "SNE-26020-1-16",
+        "SNE-26020-1-17",
+        "SNE-26020-1-18",
+        "SNE-26020-1-19",
+        "SNE-26020-1-20",
+        "SNE-26020-1-21",
+        "SNE-26020-1-22",
+        "SNE-26020-1-23",
+        "SNE-26020-1-24",
+        "SNE-26020-1-25",
+        "SNE-26020-1-26",
+        "SNE-26020-1-27",
+        "SNE-26020-1-28",
+        "SNE-26020-1-29",
+        "SNE-26020-1-30",
+        "SNE-26020-1-31",
+        "SNE-26020-1-32",
+        "SNE-26020-1-33",
+        "SNE-26020-1-34",
+        "SNE-26020-1-35",
+        "SNE-26020-1-36",
+        "SNE-26020-1-37",
+        "SNE-26020-1-38",
+        "SNE-26020-1-39",
+        "SNE-26020-1-40",
+        "SNE-26020-2-1",
+        "SNE-26020-2-2",
+        "SNE-26020-2-3",
+        "SNE-26020-2-4",
+        "SNE-26020-2-5",
+        "SNE-26020-2-6",
+        "SNE-26020-2-7",
+        "SNE-26020-2-8",
+        "SNE-26020-2-9",
+        "SNE-26020-2-10",
+        "SNE-26020-2-11",
+        "SNE-26020-2-12",
+        "SNE-26020-2-13",
+        "SNE-26020-2-14",
+        "SNE-26020-2-15",
+        "SNE-26020-2-16",
+        "SNE-26020-2-17",
+        "SNE-26020-2-18",
+        "SNE-26020-2-19",
+        "SNE-26020-2-20",
+        "SNE-26020-2-21",
+        "SNE-26020-2-22",
+        "SNE-26020-2-23",
+        "SNE-26020-2-24",
+        "SNE-26020-2-25",
+        "SNE-26020-2-26",
+        "SNE-26020-2-27",
+        "SNE-26020-2-28",
+        "SNE-26020-2-29",
+        "SNE-26020-2-30",
+        "SNE-26020-3-1",
+        "SNE-26020-3-2",
+        "SNE-26020-4-1",
+        "SNE-26020-4-2",
+        "SNE-26020-5-1",
+        "SNE-26020-5-2",
+        "SNE-26020-5-3",
+        "SNE-26020-5-4",
+        "SNE-26020-5-5",
+        "SNE-26020-5-6",
+        "SNE-26020-5-7",
+        "SNE-26020-5-8",
+        "SNE-26020-5-9",
+        "SNE-26020-5-10",
+        "SNE-26020-5-11",
+        "SNE-26020-5-12",
+        "SNE-26020-5-13",
+        "SNE-26020-5-14",
+        "SNE-26020-5-15",
+        "SNE-26020-5-16",
+        "SNE-26020-5-17",
+        "SNE-26020-5-18",
+        "SNE-26020-5-19",
+        "SNE-26020-5-20",
+        "SNE-26020-6-1",
+        "SNE-26020-6-2",
+        "SNE-26020-7-1",
+        "SNE-26020-7-2",
+        "SNE-26020-8-1",
+        "SNE-26020-8-2",
+        "SNE-26020-8-3"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -38432,9 +38617,929 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26020-1-1": {
+      "qrCode": "SNE-26020-1-1",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-2": {
+      "qrCode": "SNE-26020-1-2",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-3": {
+      "qrCode": "SNE-26020-1-3",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-4": {
+      "qrCode": "SNE-26020-1-4",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-5": {
+      "qrCode": "SNE-26020-1-5",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-6": {
+      "qrCode": "SNE-26020-1-6",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-7": {
+      "qrCode": "SNE-26020-1-7",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-8": {
+      "qrCode": "SNE-26020-1-8",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-9": {
+      "qrCode": "SNE-26020-1-9",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-10": {
+      "qrCode": "SNE-26020-1-10",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-11": {
+      "qrCode": "SNE-26020-1-11",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-12": {
+      "qrCode": "SNE-26020-1-12",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-13": {
+      "qrCode": "SNE-26020-1-13",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-14": {
+      "qrCode": "SNE-26020-1-14",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-15": {
+      "qrCode": "SNE-26020-1-15",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-16": {
+      "qrCode": "SNE-26020-1-16",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-17": {
+      "qrCode": "SNE-26020-1-17",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-18": {
+      "qrCode": "SNE-26020-1-18",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-19": {
+      "qrCode": "SNE-26020-1-19",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-20": {
+      "qrCode": "SNE-26020-1-20",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-21": {
+      "qrCode": "SNE-26020-1-21",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-22": {
+      "qrCode": "SNE-26020-1-22",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-23": {
+      "qrCode": "SNE-26020-1-23",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-24": {
+      "qrCode": "SNE-26020-1-24",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-25": {
+      "qrCode": "SNE-26020-1-25",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-26": {
+      "qrCode": "SNE-26020-1-26",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-27": {
+      "qrCode": "SNE-26020-1-27",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-28": {
+      "qrCode": "SNE-26020-1-28",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-29": {
+      "qrCode": "SNE-26020-1-29",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-30": {
+      "qrCode": "SNE-26020-1-30",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-31": {
+      "qrCode": "SNE-26020-1-31",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-32": {
+      "qrCode": "SNE-26020-1-32",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-33": {
+      "qrCode": "SNE-26020-1-33",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-34": {
+      "qrCode": "SNE-26020-1-34",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-35": {
+      "qrCode": "SNE-26020-1-35",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-36": {
+      "qrCode": "SNE-26020-1-36",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-37": {
+      "qrCode": "SNE-26020-1-37",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-38": {
+      "qrCode": "SNE-26020-1-38",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-39": {
+      "qrCode": "SNE-26020-1-39",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-1-40": {
+      "qrCode": "SNE-26020-1-40",
+      "challanNo": "SNE-26020",
+      "itemCode": "1",
+      "desc": "WIRE ROPE U CLAMP 10MM,12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-1": {
+      "qrCode": "SNE-26020-2-1",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-2": {
+      "qrCode": "SNE-26020-2-2",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-3": {
+      "qrCode": "SNE-26020-2-3",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-4": {
+      "qrCode": "SNE-26020-2-4",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-5": {
+      "qrCode": "SNE-26020-2-5",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-6": {
+      "qrCode": "SNE-26020-2-6",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-7": {
+      "qrCode": "SNE-26020-2-7",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-8": {
+      "qrCode": "SNE-26020-2-8",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-9": {
+      "qrCode": "SNE-26020-2-9",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-10": {
+      "qrCode": "SNE-26020-2-10",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-11": {
+      "qrCode": "SNE-26020-2-11",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-12": {
+      "qrCode": "SNE-26020-2-12",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-13": {
+      "qrCode": "SNE-26020-2-13",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-14": {
+      "qrCode": "SNE-26020-2-14",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-15": {
+      "qrCode": "SNE-26020-2-15",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-16": {
+      "qrCode": "SNE-26020-2-16",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-17": {
+      "qrCode": "SNE-26020-2-17",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-18": {
+      "qrCode": "SNE-26020-2-18",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-19": {
+      "qrCode": "SNE-26020-2-19",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-20": {
+      "qrCode": "SNE-26020-2-20",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-21": {
+      "qrCode": "SNE-26020-2-21",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-22": {
+      "qrCode": "SNE-26020-2-22",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-23": {
+      "qrCode": "SNE-26020-2-23",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-24": {
+      "qrCode": "SNE-26020-2-24",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-25": {
+      "qrCode": "SNE-26020-2-25",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-26": {
+      "qrCode": "SNE-26020-2-26",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-27": {
+      "qrCode": "SNE-26020-2-27",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-28": {
+      "qrCode": "SNE-26020-2-28",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-29": {
+      "qrCode": "SNE-26020-2-29",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-2-30": {
+      "qrCode": "SNE-26020-2-30",
+      "challanNo": "SNE-26020",
+      "itemCode": "2",
+      "desc": "WIRE ROPE 12MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-3-1": {
+      "qrCode": "SNE-26020-3-1",
+      "challanNo": "SNE-26020",
+      "itemCode": "3",
+      "desc": "U CLAMP 20\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-3-2": {
+      "qrCode": "SNE-26020-3-2",
+      "challanNo": "SNE-26020",
+      "itemCode": "3",
+      "desc": "U CLAMP 20\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-4-1": {
+      "qrCode": "SNE-26020-4-1",
+      "challanNo": "SNE-26020",
+      "itemCode": "4",
+      "desc": "U CLAMP 16\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-4-2": {
+      "qrCode": "SNE-26020-4-2",
+      "challanNo": "SNE-26020",
+      "itemCode": "4",
+      "desc": "U CLAMP 16\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-1": {
+      "qrCode": "SNE-26020-5-1",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-2": {
+      "qrCode": "SNE-26020-5-2",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-3": {
+      "qrCode": "SNE-26020-5-3",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-4": {
+      "qrCode": "SNE-26020-5-4",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-5": {
+      "qrCode": "SNE-26020-5-5",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-6": {
+      "qrCode": "SNE-26020-5-6",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-7": {
+      "qrCode": "SNE-26020-5-7",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-8": {
+      "qrCode": "SNE-26020-5-8",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-9": {
+      "qrCode": "SNE-26020-5-9",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-10": {
+      "qrCode": "SNE-26020-5-10",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-11": {
+      "qrCode": "SNE-26020-5-11",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-12": {
+      "qrCode": "SNE-26020-5-12",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-13": {
+      "qrCode": "SNE-26020-5-13",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-14": {
+      "qrCode": "SNE-26020-5-14",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-15": {
+      "qrCode": "SNE-26020-5-15",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-16": {
+      "qrCode": "SNE-26020-5-16",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-17": {
+      "qrCode": "SNE-26020-5-17",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-18": {
+      "qrCode": "SNE-26020-5-18",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-19": {
+      "qrCode": "SNE-26020-5-19",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-5-20": {
+      "qrCode": "SNE-26020-5-20",
+      "challanNo": "SNE-26020",
+      "itemCode": "5",
+      "desc": "U CLAMP 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-6-1": {
+      "qrCode": "SNE-26020-6-1",
+      "challanNo": "SNE-26020",
+      "itemCode": "6",
+      "desc": "BUTTERFLY VALVE 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-6-2": {
+      "qrCode": "SNE-26020-6-2",
+      "challanNo": "SNE-26020",
+      "itemCode": "6",
+      "desc": "BUTTERFLY VALVE 6\"",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-7-1": {
+      "qrCode": "SNE-26020-7-1",
+      "challanNo": "SNE-26020",
+      "itemCode": "7",
+      "desc": "WHITE HELMET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-7-2": {
+      "qrCode": "SNE-26020-7-2",
+      "challanNo": "SNE-26020",
+      "itemCode": "7",
+      "desc": "WHITE HELMET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-8-1": {
+      "qrCode": "SNE-26020-8-1",
+      "challanNo": "SNE-26020",
+      "itemCode": "8",
+      "desc": "LT COVER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-8-2": {
+      "qrCode": "SNE-26020-8-2",
+      "challanNo": "SNE-26020",
+      "itemCode": "8",
+      "desc": "LT COVER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26020-8-3": {
+      "qrCode": "SNE-26020-8-3",
+      "challanNo": "SNE-26020",
+      "itemCode": "8",
+      "desc": "LT COVER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-25T06:01:30.042Z",
+      "challanNo": "SNE-26020",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "ROHIT BALEDA",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "User \"ROHIT BALEDA\" created SNE-26020 (DELIVERY CHALLAN) with 101 items."
+    },
     {
       "timestamp": "2026-11-25T05:53:02.323Z",
       "challanNo": "SNE-26018",
