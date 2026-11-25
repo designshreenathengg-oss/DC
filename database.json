@@ -5673,6 +5673,396 @@
         "SNE-26020-8-3"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26021": {
+      "challanNo": "SNE-26021",
+      "challanType": "DELIVERY CHALLAN",
+      "createdBy": "ROHIT BALEDA",
+      "date": "2026-11-24",
+      "poNo": "",
+      "poDate": "2026-11-24",
+      "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN",
+      "vehicle": "MH15HH5968",
+      "remarkType": "Amount",
+      "showTotal": false,
+      "items": [
+        {
+          "code": "ITM-01",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-02",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-03",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-04",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-05",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-06",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-07",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-08",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-09",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-010",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-011",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-012",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-013",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-014",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-015",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26021-ITM-01-1",
+        "SNE-26021-ITM-02-1",
+        "SNE-26021-ITM-03-1",
+        "SNE-26021-ITM-04-1",
+        "SNE-26021-ITM-05-1",
+        "SNE-26021-ITM-06-1",
+        "SNE-26021-ITM-07-1",
+        "SNE-26021-ITM-08-1",
+        "SNE-26021-ITM-09-1",
+        "SNE-26021-ITM-010-1",
+        "SNE-26021-ITM-011-1",
+        "SNE-26021-ITM-012-1",
+        "SNE-26021-ITM-013-1",
+        "SNE-26021-ITM-014-1",
+        "SNE-26021-ITM-015-1"
+      ],
+      "status": "QR GENERATED"
+    },
+    "SNE-26022": {
+      "challanNo": "SNE-26022",
+      "challanType": "DELIVERY CHALLAN",
+      "createdBy": "ROHIT BALEDA",
+      "date": "2026-11-24",
+      "poNo": "",
+      "poDate": "2026-11-24",
+      "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN",
+      "vehicle": "MH15HH5968",
+      "remarkType": "Amount",
+      "showTotal": false,
+      "items": [
+        {
+          "code": "ITM-016",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-017",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-018",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-019",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-020",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-021",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-022",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-023",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-024",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-025",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-026",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-027",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-028",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-029",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-030",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26022-ITM-016-1",
+        "SNE-26022-ITM-017-1",
+        "SNE-26022-ITM-018-1",
+        "SNE-26022-ITM-019-1",
+        "SNE-26022-ITM-020-1",
+        "SNE-26022-ITM-021-1",
+        "SNE-26022-ITM-022-1",
+        "SNE-26022-ITM-023-1",
+        "SNE-26022-ITM-024-1",
+        "SNE-26022-ITM-025-1",
+        "SNE-26022-ITM-026-1",
+        "SNE-26022-ITM-027-1",
+        "SNE-26022-ITM-028-1",
+        "SNE-26022-ITM-029-1",
+        "SNE-26022-ITM-030-1"
+      ],
+      "status": "QR GENERATED"
+    },
+    "SNE-26023": {
+      "challanNo": "SNE-26023",
+      "challanType": "DELIVERY CHALLAN",
+      "createdBy": "ROHIT BALEDA",
+      "date": "2026-11-24",
+      "poNo": "",
+      "poDate": "2026-11-24",
+      "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN",
+      "vehicle": "MH15HH5968",
+      "remarkType": "Amount",
+      "showTotal": false,
+      "items": [
+        {
+          "code": "ITM-031",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-032",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-033",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-034",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-035",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-036",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        },
+        {
+          "code": "ITM-037",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26023-ITM-031-1",
+        "SNE-26023-ITM-032-1",
+        "SNE-26023-ITM-033-1",
+        "SNE-26023-ITM-034-1",
+        "SNE-26023-ITM-035-1",
+        "SNE-26023-ITM-036-1",
+        "SNE-26023-ITM-037-1"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -39526,9 +39916,375 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-01-1": {
+      "qrCode": "SNE-26021-ITM-01-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-01",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-02-1": {
+      "qrCode": "SNE-26021-ITM-02-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-02",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-03-1": {
+      "qrCode": "SNE-26021-ITM-03-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-03",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-04-1": {
+      "qrCode": "SNE-26021-ITM-04-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-04",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-05-1": {
+      "qrCode": "SNE-26021-ITM-05-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-05",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-06-1": {
+      "qrCode": "SNE-26021-ITM-06-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-06",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-07-1": {
+      "qrCode": "SNE-26021-ITM-07-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-07",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-08-1": {
+      "qrCode": "SNE-26021-ITM-08-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-08",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-09-1": {
+      "qrCode": "SNE-26021-ITM-09-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-09",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-010-1": {
+      "qrCode": "SNE-26021-ITM-010-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-010",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-011-1": {
+      "qrCode": "SNE-26021-ITM-011-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-011",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-012-1": {
+      "qrCode": "SNE-26021-ITM-012-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-012",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-013-1": {
+      "qrCode": "SNE-26021-ITM-013-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-013",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-014-1": {
+      "qrCode": "SNE-26021-ITM-014-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-014",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26021-ITM-015-1": {
+      "qrCode": "SNE-26021-ITM-015-1",
+      "challanNo": "SNE-26021",
+      "itemCode": "ITM-015",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-016-1": {
+      "qrCode": "SNE-26022-ITM-016-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-016",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-017-1": {
+      "qrCode": "SNE-26022-ITM-017-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-017",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-018-1": {
+      "qrCode": "SNE-26022-ITM-018-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-018",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-019-1": {
+      "qrCode": "SNE-26022-ITM-019-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-019",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-020-1": {
+      "qrCode": "SNE-26022-ITM-020-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-020",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-021-1": {
+      "qrCode": "SNE-26022-ITM-021-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-021",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-022-1": {
+      "qrCode": "SNE-26022-ITM-022-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-022",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-023-1": {
+      "qrCode": "SNE-26022-ITM-023-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-023",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-024-1": {
+      "qrCode": "SNE-26022-ITM-024-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-024",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-025-1": {
+      "qrCode": "SNE-26022-ITM-025-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-025",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-026-1": {
+      "qrCode": "SNE-26022-ITM-026-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-026",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-027-1": {
+      "qrCode": "SNE-26022-ITM-027-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-027",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-028-1": {
+      "qrCode": "SNE-26022-ITM-028-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-028",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-029-1": {
+      "qrCode": "SNE-26022-ITM-029-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-029",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26022-ITM-030-1": {
+      "qrCode": "SNE-26022-ITM-030-1",
+      "challanNo": "SNE-26022",
+      "itemCode": "ITM-030",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26023-ITM-031-1": {
+      "qrCode": "SNE-26023-ITM-031-1",
+      "challanNo": "SNE-26023",
+      "itemCode": "ITM-031",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26023-ITM-032-1": {
+      "qrCode": "SNE-26023-ITM-032-1",
+      "challanNo": "SNE-26023",
+      "itemCode": "ITM-032",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26023-ITM-033-1": {
+      "qrCode": "SNE-26023-ITM-033-1",
+      "challanNo": "SNE-26023",
+      "itemCode": "ITM-033",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26023-ITM-034-1": {
+      "qrCode": "SNE-26023-ITM-034-1",
+      "challanNo": "SNE-26023",
+      "itemCode": "ITM-034",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26023-ITM-035-1": {
+      "qrCode": "SNE-26023-ITM-035-1",
+      "challanNo": "SNE-26023",
+      "itemCode": "ITM-035",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26023-ITM-036-1": {
+      "qrCode": "SNE-26023-ITM-036-1",
+      "challanNo": "SNE-26023",
+      "itemCode": "ITM-036",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26023-ITM-037-1": {
+      "qrCode": "SNE-26023-ITM-037-1",
+      "challanNo": "SNE-26023",
+      "itemCode": "ITM-037",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-25T06:04:10.038Z",
+      "challanNo": "SNE-26023",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED VIA BULK EXCEL",
+      "actor": "ROHIT BALEDA",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "By ROHIT BALEDA: Auto-generated chunk 3 (DELIVERY CHALLAN) with 7 items."
+    },
+    {
+      "timestamp": "2026-11-25T06:04:10.038Z",
+      "challanNo": "SNE-26022",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED VIA BULK EXCEL",
+      "actor": "ROHIT BALEDA",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "By ROHIT BALEDA: Auto-generated chunk 2 (DELIVERY CHALLAN) with 15 items."
+    },
+    {
+      "timestamp": "2026-11-25T06:04:10.037Z",
+      "challanNo": "SNE-26021",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED VIA BULK EXCEL",
+      "actor": "ROHIT BALEDA",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "By ROHIT BALEDA: Auto-generated chunk 1 (DELIVERY CHALLAN) with 15 items."
+    },
     {
       "timestamp": "2026-11-25T06:01:30.042Z",
       "challanNo": "SNE-26020",
