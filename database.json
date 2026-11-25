@@ -4026,6 +4026,228 @@
         "SNE-26017-BOX PIPE-1"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26018": {
+      "challanNo": "SNE-26018",
+      "challanType": "DELIVERY CHALLAN",
+      "createdBy": "ROHIT BALEDA",
+      "lastUpdatedBy": "ROHIT BALEDA",
+      "date": "2026-11-24",
+      "poNo": "",
+      "poDate": "2026-11-24",
+      "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN",
+      "vehicle": "MH15HH5968",
+      "remarkType": "Amount",
+      "showTotal": false,
+      "items": [
+        {
+          "code": "1",
+          "desc": "50X50 ANGLE -2500L",
+          "qty": 13,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 10000"
+        },
+        {
+          "code": "2",
+          "desc": "535X196X3MM G.I PANEL, CE2 ( CC EXIT / INT G.I PANEL)",
+          "qty": 8,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 4000"
+        },
+        {
+          "code": "3",
+          "desc": "535X150X80 , CE3",
+          "qty": 12,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 6500"
+        },
+        {
+          "code": "4",
+          "desc": "975X196X80, PE4",
+          "qty": 8,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 4000"
+        },
+        {
+          "code": "5",
+          "desc": "975X150X80, PE5",
+          "qty": 12,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 6500"
+        },
+        {
+          "code": "6",
+          "desc": "1585X175X80, PB2",
+          "qty": 8,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 4000"
+        },
+        {
+          "code": "7",
+          "desc": "1585X180X80,PB3",
+          "qty": 4,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 2000"
+        },
+        {
+          "code": "8",
+          "desc": "CC BASE PLATE",
+          "qty": 9,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 9000"
+        },
+        {
+          "code": "9",
+          "desc": "PGS ASU",
+          "qty": 1,
+          "unit": "SET",
+          "remarkType": "Amount",
+          "remark": "₹ 5000"
+        },
+        {
+          "code": "10",
+          "desc": "EC FAN",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 5000"
+        },
+        {
+          "code": "11",
+          "desc": "PLATFORM COLUM 100X 100X4000",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 10000"
+        },
+        {
+          "code": "12",
+          "desc": "PLATFORM 3060X2500",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 10000"
+        },
+        {
+          "code": "13",
+          "desc": "SS TRAY WITH STAND",
+          "qty": 1,
+          "unit": "SET",
+          "remarkType": "Amount",
+          "remark": "₹ 20000"
+        },
+        {
+          "code": "14",
+          "desc": "PCS DUCTING - C CHANEL",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 2000"
+        },
+        {
+          "code": "15",
+          "desc": "Item Particular",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "-"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26018-1-1",
+        "SNE-26018-1-2",
+        "SNE-26018-1-3",
+        "SNE-26018-1-4",
+        "SNE-26018-1-5",
+        "SNE-26018-1-6",
+        "SNE-26018-1-7",
+        "SNE-26018-1-8",
+        "SNE-26018-1-9",
+        "SNE-26018-1-10",
+        "SNE-26018-1-11",
+        "SNE-26018-1-12",
+        "SNE-26018-1-13",
+        "SNE-26018-2-1",
+        "SNE-26018-2-2",
+        "SNE-26018-2-3",
+        "SNE-26018-2-4",
+        "SNE-26018-2-5",
+        "SNE-26018-2-6",
+        "SNE-26018-2-7",
+        "SNE-26018-2-8",
+        "SNE-26018-3-1",
+        "SNE-26018-3-2",
+        "SNE-26018-3-3",
+        "SNE-26018-3-4",
+        "SNE-26018-3-5",
+        "SNE-26018-3-6",
+        "SNE-26018-3-7",
+        "SNE-26018-3-8",
+        "SNE-26018-3-9",
+        "SNE-26018-3-10",
+        "SNE-26018-3-11",
+        "SNE-26018-3-12",
+        "SNE-26018-4-1",
+        "SNE-26018-4-2",
+        "SNE-26018-4-3",
+        "SNE-26018-4-4",
+        "SNE-26018-4-5",
+        "SNE-26018-4-6",
+        "SNE-26018-4-7",
+        "SNE-26018-4-8",
+        "SNE-26018-5-1",
+        "SNE-26018-5-2",
+        "SNE-26018-5-3",
+        "SNE-26018-5-4",
+        "SNE-26018-5-5",
+        "SNE-26018-5-6",
+        "SNE-26018-5-7",
+        "SNE-26018-5-8",
+        "SNE-26018-5-9",
+        "SNE-26018-5-10",
+        "SNE-26018-5-11",
+        "SNE-26018-5-12",
+        "SNE-26018-6-1",
+        "SNE-26018-6-2",
+        "SNE-26018-6-3",
+        "SNE-26018-6-4",
+        "SNE-26018-6-5",
+        "SNE-26018-6-6",
+        "SNE-26018-6-7",
+        "SNE-26018-6-8",
+        "SNE-26018-7-1",
+        "SNE-26018-7-2",
+        "SNE-26018-7-3",
+        "SNE-26018-7-4",
+        "SNE-26018-8-1",
+        "SNE-26018-8-2",
+        "SNE-26018-8-3",
+        "SNE-26018-8-4",
+        "SNE-26018-8-5",
+        "SNE-26018-8-6",
+        "SNE-26018-8-7",
+        "SNE-26018-8-8",
+        "SNE-26018-8-9",
+        "SNE-26018-9-1",
+        "SNE-26018-10-1",
+        "SNE-26018-11-1",
+        "SNE-26018-11-2",
+        "SNE-26018-12-1",
+        "SNE-26018-13-1",
+        "SNE-26018-14-1",
+        "SNE-26018-15-1"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -26332,9 +26554,758 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26018-1-1": {
+      "qrCode": "SNE-26018-1-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "1",
+      "desc": "50X50 ANGLE -2500L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-1-2": {
+      "qrCode": "SNE-26018-1-2",
+      "challanNo": "SNE-26018",
+      "itemCode": "1",
+      "desc": "50X50 ANGLE -2500L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-1-3": {
+      "qrCode": "SNE-26018-1-3",
+      "challanNo": "SNE-26018",
+      "itemCode": "1",
+      "desc": "50X50 ANGLE -2500L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-1-4": {
+      "qrCode": "SNE-26018-1-4",
+      "challanNo": "SNE-26018",
+      "itemCode": "1",
+      "desc": "50X50 ANGLE -2500L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-1-5": {
+      "qrCode": "SNE-26018-1-5",
+      "challanNo": "SNE-26018",
+      "itemCode": "1",
+      "desc": "50X50 ANGLE -2500L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-1-6": {
+      "qrCode": "SNE-26018-1-6",
+      "challanNo": "SNE-26018",
+      "itemCode": "1",
+      "desc": "50X50 ANGLE -2500L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-1-7": {
+      "qrCode": "SNE-26018-1-7",
+      "challanNo": "SNE-26018",
+      "itemCode": "1",
+      "desc": "50X50 ANGLE -2500L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-1-8": {
+      "qrCode": "SNE-26018-1-8",
+      "challanNo": "SNE-26018",
+      "itemCode": "1",
+      "desc": "50X50 ANGLE -2500L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-1-9": {
+      "qrCode": "SNE-26018-1-9",
+      "challanNo": "SNE-26018",
+      "itemCode": "1",
+      "desc": "50X50 ANGLE -2500L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-1-10": {
+      "qrCode": "SNE-26018-1-10",
+      "challanNo": "SNE-26018",
+      "itemCode": "1",
+      "desc": "50X50 ANGLE -2500L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-1-11": {
+      "qrCode": "SNE-26018-1-11",
+      "challanNo": "SNE-26018",
+      "itemCode": "1",
+      "desc": "50X50 ANGLE -2500L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-1-12": {
+      "qrCode": "SNE-26018-1-12",
+      "challanNo": "SNE-26018",
+      "itemCode": "1",
+      "desc": "50X50 ANGLE -2500L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-1-13": {
+      "qrCode": "SNE-26018-1-13",
+      "challanNo": "SNE-26018",
+      "itemCode": "1",
+      "desc": "50X50 ANGLE -2500L",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-2-1": {
+      "qrCode": "SNE-26018-2-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "2",
+      "desc": "535X196X3MM G.I PANEL, CE2 ( CC EXIT / INT G.I PANEL)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-2-2": {
+      "qrCode": "SNE-26018-2-2",
+      "challanNo": "SNE-26018",
+      "itemCode": "2",
+      "desc": "535X196X3MM G.I PANEL, CE2 ( CC EXIT / INT G.I PANEL)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-2-3": {
+      "qrCode": "SNE-26018-2-3",
+      "challanNo": "SNE-26018",
+      "itemCode": "2",
+      "desc": "535X196X3MM G.I PANEL, CE2 ( CC EXIT / INT G.I PANEL)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-2-4": {
+      "qrCode": "SNE-26018-2-4",
+      "challanNo": "SNE-26018",
+      "itemCode": "2",
+      "desc": "535X196X3MM G.I PANEL, CE2 ( CC EXIT / INT G.I PANEL)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-2-5": {
+      "qrCode": "SNE-26018-2-5",
+      "challanNo": "SNE-26018",
+      "itemCode": "2",
+      "desc": "535X196X3MM G.I PANEL, CE2 ( CC EXIT / INT G.I PANEL)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-2-6": {
+      "qrCode": "SNE-26018-2-6",
+      "challanNo": "SNE-26018",
+      "itemCode": "2",
+      "desc": "535X196X3MM G.I PANEL, CE2 ( CC EXIT / INT G.I PANEL)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-2-7": {
+      "qrCode": "SNE-26018-2-7",
+      "challanNo": "SNE-26018",
+      "itemCode": "2",
+      "desc": "535X196X3MM G.I PANEL, CE2 ( CC EXIT / INT G.I PANEL)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-2-8": {
+      "qrCode": "SNE-26018-2-8",
+      "challanNo": "SNE-26018",
+      "itemCode": "2",
+      "desc": "535X196X3MM G.I PANEL, CE2 ( CC EXIT / INT G.I PANEL)",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-3-1": {
+      "qrCode": "SNE-26018-3-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "3",
+      "desc": "535X150X80 , CE3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-3-2": {
+      "qrCode": "SNE-26018-3-2",
+      "challanNo": "SNE-26018",
+      "itemCode": "3",
+      "desc": "535X150X80 , CE3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-3-3": {
+      "qrCode": "SNE-26018-3-3",
+      "challanNo": "SNE-26018",
+      "itemCode": "3",
+      "desc": "535X150X80 , CE3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-3-4": {
+      "qrCode": "SNE-26018-3-4",
+      "challanNo": "SNE-26018",
+      "itemCode": "3",
+      "desc": "535X150X80 , CE3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-3-5": {
+      "qrCode": "SNE-26018-3-5",
+      "challanNo": "SNE-26018",
+      "itemCode": "3",
+      "desc": "535X150X80 , CE3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-3-6": {
+      "qrCode": "SNE-26018-3-6",
+      "challanNo": "SNE-26018",
+      "itemCode": "3",
+      "desc": "535X150X80 , CE3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-3-7": {
+      "qrCode": "SNE-26018-3-7",
+      "challanNo": "SNE-26018",
+      "itemCode": "3",
+      "desc": "535X150X80 , CE3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-3-8": {
+      "qrCode": "SNE-26018-3-8",
+      "challanNo": "SNE-26018",
+      "itemCode": "3",
+      "desc": "535X150X80 , CE3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-3-9": {
+      "qrCode": "SNE-26018-3-9",
+      "challanNo": "SNE-26018",
+      "itemCode": "3",
+      "desc": "535X150X80 , CE3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-3-10": {
+      "qrCode": "SNE-26018-3-10",
+      "challanNo": "SNE-26018",
+      "itemCode": "3",
+      "desc": "535X150X80 , CE3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-3-11": {
+      "qrCode": "SNE-26018-3-11",
+      "challanNo": "SNE-26018",
+      "itemCode": "3",
+      "desc": "535X150X80 , CE3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-3-12": {
+      "qrCode": "SNE-26018-3-12",
+      "challanNo": "SNE-26018",
+      "itemCode": "3",
+      "desc": "535X150X80 , CE3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-4-1": {
+      "qrCode": "SNE-26018-4-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "4",
+      "desc": "975X196X80, PE4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-4-2": {
+      "qrCode": "SNE-26018-4-2",
+      "challanNo": "SNE-26018",
+      "itemCode": "4",
+      "desc": "975X196X80, PE4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-4-3": {
+      "qrCode": "SNE-26018-4-3",
+      "challanNo": "SNE-26018",
+      "itemCode": "4",
+      "desc": "975X196X80, PE4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-4-4": {
+      "qrCode": "SNE-26018-4-4",
+      "challanNo": "SNE-26018",
+      "itemCode": "4",
+      "desc": "975X196X80, PE4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-4-5": {
+      "qrCode": "SNE-26018-4-5",
+      "challanNo": "SNE-26018",
+      "itemCode": "4",
+      "desc": "975X196X80, PE4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-4-6": {
+      "qrCode": "SNE-26018-4-6",
+      "challanNo": "SNE-26018",
+      "itemCode": "4",
+      "desc": "975X196X80, PE4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-4-7": {
+      "qrCode": "SNE-26018-4-7",
+      "challanNo": "SNE-26018",
+      "itemCode": "4",
+      "desc": "975X196X80, PE4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-4-8": {
+      "qrCode": "SNE-26018-4-8",
+      "challanNo": "SNE-26018",
+      "itemCode": "4",
+      "desc": "975X196X80, PE4",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-5-1": {
+      "qrCode": "SNE-26018-5-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "5",
+      "desc": "975X150X80, PE5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-5-2": {
+      "qrCode": "SNE-26018-5-2",
+      "challanNo": "SNE-26018",
+      "itemCode": "5",
+      "desc": "975X150X80, PE5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-5-3": {
+      "qrCode": "SNE-26018-5-3",
+      "challanNo": "SNE-26018",
+      "itemCode": "5",
+      "desc": "975X150X80, PE5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-5-4": {
+      "qrCode": "SNE-26018-5-4",
+      "challanNo": "SNE-26018",
+      "itemCode": "5",
+      "desc": "975X150X80, PE5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-5-5": {
+      "qrCode": "SNE-26018-5-5",
+      "challanNo": "SNE-26018",
+      "itemCode": "5",
+      "desc": "975X150X80, PE5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-5-6": {
+      "qrCode": "SNE-26018-5-6",
+      "challanNo": "SNE-26018",
+      "itemCode": "5",
+      "desc": "975X150X80, PE5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-5-7": {
+      "qrCode": "SNE-26018-5-7",
+      "challanNo": "SNE-26018",
+      "itemCode": "5",
+      "desc": "975X150X80, PE5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-5-8": {
+      "qrCode": "SNE-26018-5-8",
+      "challanNo": "SNE-26018",
+      "itemCode": "5",
+      "desc": "975X150X80, PE5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-5-9": {
+      "qrCode": "SNE-26018-5-9",
+      "challanNo": "SNE-26018",
+      "itemCode": "5",
+      "desc": "975X150X80, PE5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-5-10": {
+      "qrCode": "SNE-26018-5-10",
+      "challanNo": "SNE-26018",
+      "itemCode": "5",
+      "desc": "975X150X80, PE5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-5-11": {
+      "qrCode": "SNE-26018-5-11",
+      "challanNo": "SNE-26018",
+      "itemCode": "5",
+      "desc": "975X150X80, PE5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-5-12": {
+      "qrCode": "SNE-26018-5-12",
+      "challanNo": "SNE-26018",
+      "itemCode": "5",
+      "desc": "975X150X80, PE5",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-6-1": {
+      "qrCode": "SNE-26018-6-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "6",
+      "desc": "1585X175X80, PB2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-6-2": {
+      "qrCode": "SNE-26018-6-2",
+      "challanNo": "SNE-26018",
+      "itemCode": "6",
+      "desc": "1585X175X80, PB2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-6-3": {
+      "qrCode": "SNE-26018-6-3",
+      "challanNo": "SNE-26018",
+      "itemCode": "6",
+      "desc": "1585X175X80, PB2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-6-4": {
+      "qrCode": "SNE-26018-6-4",
+      "challanNo": "SNE-26018",
+      "itemCode": "6",
+      "desc": "1585X175X80, PB2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-6-5": {
+      "qrCode": "SNE-26018-6-5",
+      "challanNo": "SNE-26018",
+      "itemCode": "6",
+      "desc": "1585X175X80, PB2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-6-6": {
+      "qrCode": "SNE-26018-6-6",
+      "challanNo": "SNE-26018",
+      "itemCode": "6",
+      "desc": "1585X175X80, PB2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-6-7": {
+      "qrCode": "SNE-26018-6-7",
+      "challanNo": "SNE-26018",
+      "itemCode": "6",
+      "desc": "1585X175X80, PB2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-6-8": {
+      "qrCode": "SNE-26018-6-8",
+      "challanNo": "SNE-26018",
+      "itemCode": "6",
+      "desc": "1585X175X80, PB2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-7-1": {
+      "qrCode": "SNE-26018-7-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "7",
+      "desc": "1585X180X80,PB3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-7-2": {
+      "qrCode": "SNE-26018-7-2",
+      "challanNo": "SNE-26018",
+      "itemCode": "7",
+      "desc": "1585X180X80,PB3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-7-3": {
+      "qrCode": "SNE-26018-7-3",
+      "challanNo": "SNE-26018",
+      "itemCode": "7",
+      "desc": "1585X180X80,PB3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-7-4": {
+      "qrCode": "SNE-26018-7-4",
+      "challanNo": "SNE-26018",
+      "itemCode": "7",
+      "desc": "1585X180X80,PB3",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-8-1": {
+      "qrCode": "SNE-26018-8-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "8",
+      "desc": "CC BASE PLATE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-8-2": {
+      "qrCode": "SNE-26018-8-2",
+      "challanNo": "SNE-26018",
+      "itemCode": "8",
+      "desc": "CC BASE PLATE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-8-3": {
+      "qrCode": "SNE-26018-8-3",
+      "challanNo": "SNE-26018",
+      "itemCode": "8",
+      "desc": "CC BASE PLATE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-8-4": {
+      "qrCode": "SNE-26018-8-4",
+      "challanNo": "SNE-26018",
+      "itemCode": "8",
+      "desc": "CC BASE PLATE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-8-5": {
+      "qrCode": "SNE-26018-8-5",
+      "challanNo": "SNE-26018",
+      "itemCode": "8",
+      "desc": "CC BASE PLATE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-8-6": {
+      "qrCode": "SNE-26018-8-6",
+      "challanNo": "SNE-26018",
+      "itemCode": "8",
+      "desc": "CC BASE PLATE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-8-7": {
+      "qrCode": "SNE-26018-8-7",
+      "challanNo": "SNE-26018",
+      "itemCode": "8",
+      "desc": "CC BASE PLATE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-8-8": {
+      "qrCode": "SNE-26018-8-8",
+      "challanNo": "SNE-26018",
+      "itemCode": "8",
+      "desc": "CC BASE PLATE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-8-9": {
+      "qrCode": "SNE-26018-8-9",
+      "challanNo": "SNE-26018",
+      "itemCode": "8",
+      "desc": "CC BASE PLATE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-9-1": {
+      "qrCode": "SNE-26018-9-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "9",
+      "desc": "PGS ASU",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-10-1": {
+      "qrCode": "SNE-26018-10-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "10",
+      "desc": "EC FAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-11-1": {
+      "qrCode": "SNE-26018-11-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "11",
+      "desc": "PLATFORM COLUM 100X 100X4000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-11-2": {
+      "qrCode": "SNE-26018-11-2",
+      "challanNo": "SNE-26018",
+      "itemCode": "11",
+      "desc": "PLATFORM COLUM 100X 100X4000",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-12-1": {
+      "qrCode": "SNE-26018-12-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "12",
+      "desc": "PLATFORM 3060X2500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-13-1": {
+      "qrCode": "SNE-26018-13-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "13",
+      "desc": "SS TRAY WITH STAND",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-14-1": {
+      "qrCode": "SNE-26018-14-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "14",
+      "desc": "PCS DUCTING - C CHANEL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
+    },
+    "SNE-26018-15-1": {
+      "qrCode": "SNE-26018-15-1",
+      "challanNo": "SNE-26018",
+      "itemCode": "15",
+      "desc": "Item Particular",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-25T05:40:21.029Z",
+      "challanNo": "SNE-26018",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "ROHIT BALEDA",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "User \"ROHIT BALEDA\" created SNE-26018 (DELIVERY CHALLAN) with 82 items."
+    },
     {
       "timestamp": "2026-11-22T15:27:20.894Z",
       "challanNo": "SNE-26017",
@@ -29101,7 +30072,8 @@
     "MAHINDRA AND MAHINDRA": {
       "addresses": [
         "CHAKAN MIDC, PUNE",
-        "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR"
+        "PLOT NO.F1,F7 HINGANA ROAD, NAGPUR",
+        "CHAKAN"
       ]
     }
   }
