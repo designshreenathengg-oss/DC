@@ -6413,6 +6413,78 @@
         "SNE-26026-ITM-8"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26027": {
+      "challanNo": "SNE-26027",
+      "challanType": "DELIVERY CHALLAN",
+      "createdBy": "AVINASH PAGARE",
+      "lastUpdatedBy": "AVINASH PAGARE",
+      "date": "2026-11-26",
+      "poNo": "",
+      "poDate": "",
+      "projectName": "",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
+      "vehicle": "MH15GV7188",
+      "remarkType": "Amount",
+      "showTotal": false,
+      "items": [
+        {
+          "code": "ITM",
+          "desc": "PIN ROTATION UNIT",
+          "qty": 6,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 17,00,000/-"
+        },
+        {
+          "code": "ITM",
+          "desc": "BATTERY DRILL MACHINE SNE-6 (89578) WITH 1 BATTERY",
+          "qty": 1,
+          "unit": "Set",
+          "remarkType": "Amount",
+          "remark": "₹ 22,000/-"
+        },
+        {
+          "code": "ITM",
+          "desc": "BATTERY DRILL MACHINE SNE-1 (89577) WITH 2 BATTERY",
+          "qty": 1,
+          "unit": "Set",
+          "remarkType": "Amount",
+          "remark": "₹ 25,000/-"
+        },
+        {
+          "code": "ITM",
+          "desc": "MS PLATE 1200X1200",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 9,000/-"
+        },
+        {
+          "code": "ITM",
+          "desc": "SEALANTT BOTTLE",
+          "qty": 2,
+          "unit": "BOX",
+          "remarkType": "Amount",
+          "remark": "₹ 5000/-"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26027-ITM-1",
+        "SNE-26027-ITM-2",
+        "SNE-26027-ITM-3",
+        "SNE-26027-ITM-4",
+        "SNE-26027-ITM-5",
+        "SNE-26027-ITM-6",
+        "SNE-26027-ITM-R2-1",
+        "SNE-26027-ITM-R3-1",
+        "SNE-26027-ITM-R4-1",
+        "SNE-26027-ITM-R4-2",
+        "SNE-26027-ITM-R5-1",
+        "SNE-26027-ITM-R5-2"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -41571,9 +41643,128 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26027-ITM-1": {
+      "qrCode": "SNE-26027-ITM-1",
+      "challanNo": "SNE-26027",
+      "itemCode": "ITM",
+      "desc": "PIN ROTATION UNIT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26027-ITM-2": {
+      "qrCode": "SNE-26027-ITM-2",
+      "challanNo": "SNE-26027",
+      "itemCode": "ITM",
+      "desc": "PIN ROTATION UNIT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26027-ITM-3": {
+      "qrCode": "SNE-26027-ITM-3",
+      "challanNo": "SNE-26027",
+      "itemCode": "ITM",
+      "desc": "PIN ROTATION UNIT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26027-ITM-4": {
+      "qrCode": "SNE-26027-ITM-4",
+      "challanNo": "SNE-26027",
+      "itemCode": "ITM",
+      "desc": "PIN ROTATION UNIT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26027-ITM-5": {
+      "qrCode": "SNE-26027-ITM-5",
+      "challanNo": "SNE-26027",
+      "itemCode": "ITM",
+      "desc": "PIN ROTATION UNIT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26027-ITM-6": {
+      "qrCode": "SNE-26027-ITM-6",
+      "challanNo": "SNE-26027",
+      "itemCode": "ITM",
+      "desc": "PIN ROTATION UNIT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26027-ITM-R2-1": {
+      "qrCode": "SNE-26027-ITM-R2-1",
+      "challanNo": "SNE-26027",
+      "itemCode": "ITM",
+      "desc": "BATTERY DRILL MACHINE SNE-6 (89578) WITH 1 BATTERY",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26027-ITM-R3-1": {
+      "qrCode": "SNE-26027-ITM-R3-1",
+      "challanNo": "SNE-26027",
+      "itemCode": "ITM",
+      "desc": "BATTERY DRILL MACHINE SNE-1 (89577) WITH 2 BATTERY",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26027-ITM-R4-1": {
+      "qrCode": "SNE-26027-ITM-R4-1",
+      "challanNo": "SNE-26027",
+      "itemCode": "ITM",
+      "desc": "MS PLATE 1200X1200",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26027-ITM-R4-2": {
+      "qrCode": "SNE-26027-ITM-R4-2",
+      "challanNo": "SNE-26027",
+      "itemCode": "ITM",
+      "desc": "MS PLATE 1200X1200",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26027-ITM-R5-1": {
+      "qrCode": "SNE-26027-ITM-R5-1",
+      "challanNo": "SNE-26027",
+      "itemCode": "ITM",
+      "desc": "SEALANTT BOTTLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26027-ITM-R5-2": {
+      "qrCode": "SNE-26027-ITM-R5-2",
+      "challanNo": "SNE-26027",
+      "itemCode": "ITM",
+      "desc": "SEALANTT BOTTLE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-26T14:39:16.295Z",
+      "challanNo": "SNE-26027",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "AVINASH PAGARE",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "User \"AVINASH PAGARE\" created SNE-26027 (DELIVERY CHALLAN) with 12 items."
+    },
     {
       "timestamp": "2026-11-26T14:28:45.321Z",
       "challanNo": "SNE-26026",
