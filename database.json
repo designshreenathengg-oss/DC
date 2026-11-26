@@ -6335,6 +6335,84 @@
         "SNE-26025-ITM-01-R3-5"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26026": {
+      "challanNo": "SNE-26026",
+      "challanType": "DELIVERY CHALLAN",
+      "createdBy": "AVINASH PAGARE",
+      "lastUpdatedBy": "AVINASH PAGARE",
+      "date": "2026-11-26",
+      "poNo": "",
+      "poDate": "",
+      "projectName": "36 JPH PHASE 2",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
+      "vehicle": "MH12YQ9077",
+      "remarkType": "Amount",
+      "showTotal": false,
+      "items": [
+        {
+          "code": "ITM",
+          "desc": "MS BOX PIPE - 780X450X5000 MM",
+          "qty": 5,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 14,00,000/-"
+        },
+        {
+          "code": "ITM",
+          "desc": "MS PLATE 1100X750X30 MM",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 2,00,000/-"
+        },
+        {
+          "code": "ITM",
+          "desc": "EYE BOLT 24MM",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 550/-"
+        },
+        {
+          "code": "ITM",
+          "desc": "CONTROL DESK - 300X300X155",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Amount",
+          "remark": "₹ 50,000/-"
+        },
+        {
+          "code": "ITM",
+          "desc": "WELDING ROD 7018",
+          "qty": 8,
+          "unit": "Pkt",
+          "remarkType": "Amount",
+          "remark": "₹ 1500/-"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26026-ITM-1",
+        "SNE-26026-ITM-2",
+        "SNE-26026-ITM-3",
+        "SNE-26026-ITM-4",
+        "SNE-26026-ITM-5",
+        "SNE-26026-ITM-R2-1",
+        "SNE-26026-ITM-R2-2",
+        "SNE-26026-ITM-R3-1",
+        "SNE-26026-ITM-R3-2",
+        "SNE-26026-ITM-R4-1",
+        "SNE-26026-ITM-R5-1",
+        "SNE-26026-ITM-R5-2",
+        "SNE-26026-ITM-R5-3",
+        "SNE-26026-ITM-R5-4",
+        "SNE-26026-ITM-R5-5",
+        "SNE-26026-ITM-6",
+        "SNE-26026-ITM-7",
+        "SNE-26026-ITM-8"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -41331,9 +41409,182 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN",
       "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-1": {
+      "qrCode": "SNE-26026-ITM-1",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "MS BOX PIPE - 780X450X5000 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-2": {
+      "qrCode": "SNE-26026-ITM-2",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "MS BOX PIPE - 780X450X5000 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-3": {
+      "qrCode": "SNE-26026-ITM-3",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "MS BOX PIPE - 780X450X5000 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-4": {
+      "qrCode": "SNE-26026-ITM-4",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "MS BOX PIPE - 780X450X5000 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-5": {
+      "qrCode": "SNE-26026-ITM-5",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "MS BOX PIPE - 780X450X5000 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-R2-1": {
+      "qrCode": "SNE-26026-ITM-R2-1",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "MS PLATE 1100X750X30 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-R2-2": {
+      "qrCode": "SNE-26026-ITM-R2-2",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "MS PLATE 1100X750X30 MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-R3-1": {
+      "qrCode": "SNE-26026-ITM-R3-1",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "EYE BOLT 24MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-R3-2": {
+      "qrCode": "SNE-26026-ITM-R3-2",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "EYE BOLT 24MM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-R4-1": {
+      "qrCode": "SNE-26026-ITM-R4-1",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "CONTROL DESK - 300X300X155",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-R5-1": {
+      "qrCode": "SNE-26026-ITM-R5-1",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "WELDING ROD 7018",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-R5-2": {
+      "qrCode": "SNE-26026-ITM-R5-2",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "WELDING ROD 7018",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-R5-3": {
+      "qrCode": "SNE-26026-ITM-R5-3",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "WELDING ROD 7018",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-R5-4": {
+      "qrCode": "SNE-26026-ITM-R5-4",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "WELDING ROD 7018",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-R5-5": {
+      "qrCode": "SNE-26026-ITM-R5-5",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "WELDING ROD 7018",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-6": {
+      "qrCode": "SNE-26026-ITM-6",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "WELDING ROD 7018",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-7": {
+      "qrCode": "SNE-26026-ITM-7",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "WELDING ROD 7018",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26026-ITM-8": {
+      "qrCode": "SNE-26026-ITM-8",
+      "challanNo": "SNE-26026",
+      "itemCode": "ITM",
+      "desc": "WELDING ROD 7018",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-26T14:28:45.321Z",
+      "challanNo": "SNE-26026",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "AVINASH PAGARE",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "User \"AVINASH PAGARE\" created SNE-26026 (DELIVERY CHALLAN) with 18 items."
+    },
     {
       "timestamp": "2026-11-25T06:28:47.656Z",
       "challanNo": "SNE-26025",
