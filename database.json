@@ -6485,6 +6485,130 @@
         "SNE-26027-ITM-R5-2"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26028": {
+      "challanNo": "SNE-26028",
+      "challanType": "DELIVERY CHALLAN",
+      "createdBy": "GAURAV GAIKHE",
+      "lastUpdatedBy": "GAURAV GAIKHE",
+      "date": "2026-11-27",
+      "poNo": "",
+      "poDate": "2026-11-27",
+      "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
+      "vehicle": "",
+      "remarkType": "Remark",
+      "showTotal": false,
+      "items": [
+        {
+          "code": "1",
+          "desc": "PUMP WITH MOTOR ( INNOMOTICS, DE- 90441) 1LE75032BB035JB4-Z , 50HZ,37KW,1479 RPM",
+          "qty": 2,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "2",
+          "desc": "STRUTURE MATERIAL",
+          "qty": 2,
+          "unit": "SET",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "3",
+          "desc": "PRIMING TANK",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "4",
+          "desc": "PIN ROTATION UNIT",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "5",
+          "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "6",
+          "desc": "HEADER",
+          "qty": 3,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "7",
+          "desc": "TANK COVER SS 2898X1500",
+          "qty": 14,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "8",
+          "desc": "TANK COVER SS 2060X1500",
+          "qty": 7,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "9",
+          "desc": "STRUTURE",
+          "qty": 1,
+          "unit": "Nos",
+          "remarkType": "Remark",
+          "remark": "-"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26028-1-1",
+        "SNE-26028-1-2",
+        "SNE-26028-2-1",
+        "SNE-26028-2-2",
+        "SNE-26028-3-1",
+        "SNE-26028-4-1",
+        "SNE-26028-5-1",
+        "SNE-26028-6-1",
+        "SNE-26028-6-2",
+        "SNE-26028-6-3",
+        "SNE-26028-7-1",
+        "SNE-26028-7-2",
+        "SNE-26028-7-3",
+        "SNE-26028-7-4",
+        "SNE-26028-7-5",
+        "SNE-26028-7-6",
+        "SNE-26028-7-7",
+        "SNE-26028-7-8",
+        "SNE-26028-7-9",
+        "SNE-26028-7-10",
+        "SNE-26028-7-11",
+        "SNE-26028-7-12",
+        "SNE-26028-7-13",
+        "SNE-26028-7-14",
+        "SNE-26028-8-1",
+        "SNE-26028-8-2",
+        "SNE-26028-8-3",
+        "SNE-26028-8-4",
+        "SNE-26028-8-5",
+        "SNE-26028-8-6",
+        "SNE-26028-8-7",
+        "SNE-26028-9-1"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -41751,9 +41875,308 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26028-1-1": {
+      "qrCode": "SNE-26028-1-1",
+      "challanNo": "SNE-26028",
+      "itemCode": "1",
+      "desc": "PUMP WITH MOTOR ( INNOMOTICS, DE- 90441) 1LE75032BB035JB4-Z , 50HZ,37KW,1479 RPM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-1-2": {
+      "qrCode": "SNE-26028-1-2",
+      "challanNo": "SNE-26028",
+      "itemCode": "1",
+      "desc": "PUMP WITH MOTOR ( INNOMOTICS, DE- 90441) 1LE75032BB035JB4-Z , 50HZ,37KW,1479 RPM",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-2-1": {
+      "qrCode": "SNE-26028-2-1",
+      "challanNo": "SNE-26028",
+      "itemCode": "2",
+      "desc": "STRUTURE MATERIAL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-2-2": {
+      "qrCode": "SNE-26028-2-2",
+      "challanNo": "SNE-26028",
+      "itemCode": "2",
+      "desc": "STRUTURE MATERIAL",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-3-1": {
+      "qrCode": "SNE-26028-3-1",
+      "challanNo": "SNE-26028",
+      "itemCode": "3",
+      "desc": "PRIMING TANK",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-4-1": {
+      "qrCode": "SNE-26028-4-1",
+      "challanNo": "SNE-26028",
+      "itemCode": "4",
+      "desc": "PIN ROTATION UNIT",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-1": {
+      "qrCode": "SNE-26028-5-1",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-6-1": {
+      "qrCode": "SNE-26028-6-1",
+      "challanNo": "SNE-26028",
+      "itemCode": "6",
+      "desc": "HEADER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-6-2": {
+      "qrCode": "SNE-26028-6-2",
+      "challanNo": "SNE-26028",
+      "itemCode": "6",
+      "desc": "HEADER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-6-3": {
+      "qrCode": "SNE-26028-6-3",
+      "challanNo": "SNE-26028",
+      "itemCode": "6",
+      "desc": "HEADER",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-1": {
+      "qrCode": "SNE-26028-7-1",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-2": {
+      "qrCode": "SNE-26028-7-2",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-3": {
+      "qrCode": "SNE-26028-7-3",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-4": {
+      "qrCode": "SNE-26028-7-4",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-5": {
+      "qrCode": "SNE-26028-7-5",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-6": {
+      "qrCode": "SNE-26028-7-6",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-7": {
+      "qrCode": "SNE-26028-7-7",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-8": {
+      "qrCode": "SNE-26028-7-8",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-9": {
+      "qrCode": "SNE-26028-7-9",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-10": {
+      "qrCode": "SNE-26028-7-10",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-11": {
+      "qrCode": "SNE-26028-7-11",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-12": {
+      "qrCode": "SNE-26028-7-12",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-13": {
+      "qrCode": "SNE-26028-7-13",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-7-14": {
+      "qrCode": "SNE-26028-7-14",
+      "challanNo": "SNE-26028",
+      "itemCode": "7",
+      "desc": "TANK COVER SS 2898X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-8-1": {
+      "qrCode": "SNE-26028-8-1",
+      "challanNo": "SNE-26028",
+      "itemCode": "8",
+      "desc": "TANK COVER SS 2060X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-8-2": {
+      "qrCode": "SNE-26028-8-2",
+      "challanNo": "SNE-26028",
+      "itemCode": "8",
+      "desc": "TANK COVER SS 2060X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-8-3": {
+      "qrCode": "SNE-26028-8-3",
+      "challanNo": "SNE-26028",
+      "itemCode": "8",
+      "desc": "TANK COVER SS 2060X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-8-4": {
+      "qrCode": "SNE-26028-8-4",
+      "challanNo": "SNE-26028",
+      "itemCode": "8",
+      "desc": "TANK COVER SS 2060X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-8-5": {
+      "qrCode": "SNE-26028-8-5",
+      "challanNo": "SNE-26028",
+      "itemCode": "8",
+      "desc": "TANK COVER SS 2060X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-8-6": {
+      "qrCode": "SNE-26028-8-6",
+      "challanNo": "SNE-26028",
+      "itemCode": "8",
+      "desc": "TANK COVER SS 2060X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-8-7": {
+      "qrCode": "SNE-26028-8-7",
+      "challanNo": "SNE-26028",
+      "itemCode": "8",
+      "desc": "TANK COVER SS 2060X1500",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-9-1": {
+      "qrCode": "SNE-26028-9-1",
+      "challanNo": "SNE-26028",
+      "itemCode": "9",
+      "desc": "STRUTURE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-27T12:00:00.618Z",
+      "challanNo": "SNE-26028",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "GAURAV GAIKHE",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "User \"GAURAV GAIKHE\" created SNE-26028 (DELIVERY CHALLAN) with 32 items."
+    },
     {
       "timestamp": "2026-11-26T14:39:16.295Z",
       "challanNo": "SNE-26027",
