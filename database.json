@@ -6497,7 +6497,7 @@
       "projectName": "CHAKAN",
       "customer": "MAHINDRA AND MAHINDRA",
       "address": "CHAKAN MIDC, PUNE",
-      "vehicle": "",
+      "vehicle": "MH15HH5968",
       "remarkType": "Remark",
       "showTotal": false,
       "items": [
@@ -6511,7 +6511,7 @@
         },
         {
           "code": "2",
-          "desc": "STRUTURE MATERIAL",
+          "desc": "SHATTER MATERIAL",
           "qty": 2,
           "unit": "SET",
           "remarkType": "Remark",
@@ -6536,7 +6536,7 @@
         {
           "code": "5",
           "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
-          "qty": 1,
+          "qty": 20,
           "unit": "Nos",
           "remarkType": "Remark",
           "remark": "-"
@@ -6567,8 +6567,16 @@
         },
         {
           "code": "9",
-          "desc": "STRUTURE",
+          "desc": "Galvanization STRUTURE",
           "qty": 1,
+          "unit": "SET",
+          "remarkType": "Remark",
+          "remark": "-"
+        },
+        {
+          "code": "10",
+          "desc": "ELEVATOR BRACKET",
+          "qty": 20,
           "unit": "Nos",
           "remarkType": "Remark",
           "remark": "-"
@@ -6582,6 +6590,25 @@
         "SNE-26028-3-1",
         "SNE-26028-4-1",
         "SNE-26028-5-1",
+        "SNE-26028-5-2",
+        "SNE-26028-5-3",
+        "SNE-26028-5-4",
+        "SNE-26028-5-5",
+        "SNE-26028-5-6",
+        "SNE-26028-5-7",
+        "SNE-26028-5-8",
+        "SNE-26028-5-9",
+        "SNE-26028-5-10",
+        "SNE-26028-5-11",
+        "SNE-26028-5-12",
+        "SNE-26028-5-13",
+        "SNE-26028-5-14",
+        "SNE-26028-5-15",
+        "SNE-26028-5-16",
+        "SNE-26028-5-17",
+        "SNE-26028-5-18",
+        "SNE-26028-5-19",
+        "SNE-26028-5-20",
         "SNE-26028-6-1",
         "SNE-26028-6-2",
         "SNE-26028-6-3",
@@ -6606,7 +6633,27 @@
         "SNE-26028-8-5",
         "SNE-26028-8-6",
         "SNE-26028-8-7",
-        "SNE-26028-9-1"
+        "SNE-26028-9-1",
+        "SNE-26028-10-1",
+        "SNE-26028-10-2",
+        "SNE-26028-10-3",
+        "SNE-26028-10-4",
+        "SNE-26028-10-5",
+        "SNE-26028-10-6",
+        "SNE-26028-10-7",
+        "SNE-26028-10-8",
+        "SNE-26028-10-9",
+        "SNE-26028-10-10",
+        "SNE-26028-10-11",
+        "SNE-26028-10-12",
+        "SNE-26028-10-13",
+        "SNE-26028-10-14",
+        "SNE-26028-10-15",
+        "SNE-26028-10-16",
+        "SNE-26028-10-17",
+        "SNE-26028-10-18",
+        "SNE-26028-10-19",
+        "SNE-26028-10-20"
       ],
       "status": "QR GENERATED"
     }
@@ -41898,7 +41945,7 @@
       "qrCode": "SNE-26028-2-1",
       "challanNo": "SNE-26028",
       "itemCode": "2",
-      "desc": "STRUTURE MATERIAL",
+      "desc": "SHATTER MATERIAL",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -41907,7 +41954,7 @@
       "qrCode": "SNE-26028-2-2",
       "challanNo": "SNE-26028",
       "itemCode": "2",
-      "desc": "STRUTURE MATERIAL",
+      "desc": "SHATTER MATERIAL",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
@@ -42159,13 +42206,375 @@
       "qrCode": "SNE-26028-9-1",
       "challanNo": "SNE-26028",
       "itemCode": "9",
-      "desc": "STRUTURE",
+      "desc": "Galvanization STRUTURE",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-2": {
+      "qrCode": "SNE-26028-5-2",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-3": {
+      "qrCode": "SNE-26028-5-3",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-4": {
+      "qrCode": "SNE-26028-5-4",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-5": {
+      "qrCode": "SNE-26028-5-5",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-6": {
+      "qrCode": "SNE-26028-5-6",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-7": {
+      "qrCode": "SNE-26028-5-7",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-8": {
+      "qrCode": "SNE-26028-5-8",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-9": {
+      "qrCode": "SNE-26028-5-9",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-10": {
+      "qrCode": "SNE-26028-5-10",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-11": {
+      "qrCode": "SNE-26028-5-11",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-12": {
+      "qrCode": "SNE-26028-5-12",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-13": {
+      "qrCode": "SNE-26028-5-13",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-14": {
+      "qrCode": "SNE-26028-5-14",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-15": {
+      "qrCode": "SNE-26028-5-15",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-16": {
+      "qrCode": "SNE-26028-5-16",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-17": {
+      "qrCode": "SNE-26028-5-17",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-18": {
+      "qrCode": "SNE-26028-5-18",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-19": {
+      "qrCode": "SNE-26028-5-19",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-5-20": {
+      "qrCode": "SNE-26028-5-20",
+      "challanNo": "SNE-26028",
+      "itemCode": "5",
+      "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-1": {
+      "qrCode": "SNE-26028-10-1",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-2": {
+      "qrCode": "SNE-26028-10-2",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-3": {
+      "qrCode": "SNE-26028-10-3",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-4": {
+      "qrCode": "SNE-26028-10-4",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-5": {
+      "qrCode": "SNE-26028-10-5",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-6": {
+      "qrCode": "SNE-26028-10-6",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-7": {
+      "qrCode": "SNE-26028-10-7",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-8": {
+      "qrCode": "SNE-26028-10-8",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-9": {
+      "qrCode": "SNE-26028-10-9",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-10": {
+      "qrCode": "SNE-26028-10-10",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-11": {
+      "qrCode": "SNE-26028-10-11",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-12": {
+      "qrCode": "SNE-26028-10-12",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-13": {
+      "qrCode": "SNE-26028-10-13",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-14": {
+      "qrCode": "SNE-26028-10-14",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-15": {
+      "qrCode": "SNE-26028-10-15",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-16": {
+      "qrCode": "SNE-26028-10-16",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-17": {
+      "qrCode": "SNE-26028-10-17",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-18": {
+      "qrCode": "SNE-26028-10-18",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-19": {
+      "qrCode": "SNE-26028-10-19",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26028-10-20": {
+      "qrCode": "SNE-26028-10-20",
+      "challanNo": "SNE-26028",
+      "itemCode": "10",
+      "desc": "ELEVATOR BRACKET",
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-27T15:58:18.175Z",
+      "challanNo": "SNE-26028",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "GAURAV GAIKHE",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "User \"GAURAV GAIKHE\" updated SNE-26028 (DELIVERY CHALLAN) with 71 items."
+    },
     {
       "timestamp": "2026-11-27T12:00:00.618Z",
       "challanNo": "SNE-26028",
