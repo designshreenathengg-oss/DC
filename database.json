@@ -6498,7 +6498,7 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "address": "CHAKAN MIDC, PUNE",
       "vehicle": "MH15HH5968",
-      "remarkType": "Remark",
+      "remarkType": "Amount",
       "showTotal": false,
       "items": [
         {
@@ -6506,80 +6506,80 @@
           "desc": "PUMP WITH MOTOR ( INNOMOTICS, DE- 90441) 1LE75032BB035JB4-Z , 50HZ,37KW,1479 RPM",
           "qty": 2,
           "unit": "Nos",
-          "remarkType": "Remark",
-          "remark": "-"
+          "remarkType": "Amount",
+          "remark": "₹ 50000"
         },
         {
           "code": "2",
           "desc": "SHATTER MATERIAL",
           "qty": 2,
           "unit": "SET",
-          "remarkType": "Remark",
-          "remark": "-"
+          "remarkType": "Amount",
+          "remark": "₹ 25000"
         },
         {
           "code": "3",
           "desc": "PRIMING TANK",
           "qty": 1,
           "unit": "Nos",
-          "remarkType": "Remark",
-          "remark": "-"
+          "remarkType": "Amount",
+          "remark": "₹ 20000"
         },
         {
           "code": "4",
           "desc": "PIN ROTATION UNIT",
           "qty": 1,
           "unit": "Nos",
-          "remarkType": "Remark",
-          "remark": "-"
+          "remarkType": "Amount",
+          "remark": "₹ 15000"
         },
         {
           "code": "5",
           "desc": "SHOWER ENCLOSURE S.S BOX PIPE 60X40",
           "qty": 20,
           "unit": "Nos",
-          "remarkType": "Remark",
-          "remark": "-"
+          "remarkType": "Amount",
+          "remark": "₹ 20000"
         },
         {
           "code": "6",
           "desc": "HEADER",
           "qty": 3,
           "unit": "Nos",
-          "remarkType": "Remark",
-          "remark": "-"
+          "remarkType": "Amount",
+          "remark": "₹ 15000"
         },
         {
           "code": "7",
           "desc": "TANK COVER SS 2898X1500",
           "qty": 14,
           "unit": "Nos",
-          "remarkType": "Remark",
-          "remark": "-"
+          "remarkType": "Amount",
+          "remark": "₹ 25000"
         },
         {
           "code": "8",
           "desc": "TANK COVER SS 2060X1500",
           "qty": 7,
           "unit": "Nos",
-          "remarkType": "Remark",
-          "remark": "-"
+          "remarkType": "Amount",
+          "remark": "₹ 12000"
         },
         {
           "code": "9",
           "desc": "Galvanization STRUTURE",
           "qty": 1,
           "unit": "SET",
-          "remarkType": "Remark",
-          "remark": "-"
+          "remarkType": "Amount",
+          "remark": "₹ 15000"
         },
         {
           "code": "10",
           "desc": "ELEVATOR BRACKET",
           "qty": 20,
           "unit": "Nos",
-          "remarkType": "Remark",
-          "remark": "-"
+          "remarkType": "Amount",
+          "remark": "₹ 10000"
         }
       ],
       "qrcodes": [
@@ -42564,6 +42564,17 @@
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-27T16:01:48.519Z",
+      "challanNo": "SNE-26028",
+      "qrCode": "ALL",
+      "action": "CHALLAN EDITED",
+      "actor": "GAURAV GAIKHE",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "User \"GAURAV GAIKHE\" updated SNE-26028 (DELIVERY CHALLAN) with 71 items."
+    },
     {
       "timestamp": "2026-11-27T15:58:18.175Z",
       "challanNo": "SNE-26028",
