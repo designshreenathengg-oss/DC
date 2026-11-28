@@ -6656,6 +6656,36 @@
         "SNE-26028-10-20"
       ],
       "status": "QR GENERATED"
+    },
+    "SNE-26029": {
+      "challanNo": "SNE-26029",
+      "challanType": "DELIVERY CHALLAN",
+      "createdBy": "gaurav",
+      "lastUpdatedBy": "gaurav",
+      "date": "2026-11-28",
+      "poNo": "",
+      "poDate": "2026-11-27",
+      "projectName": "CHAKAN",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "address": "CHAKAN MIDC, PUNE",
+      "vehicle": "MH12YQ8321",
+      "remarkType": "Amount",
+      "showTotal": false,
+      "items": [
+        {
+          "code": "1",
+          "desc": "GOOSENECK ROLLER BED",
+          "qty": 2,
+          "unit": "SET",
+          "remarkType": "Amount",
+          "remark": "₹ 200000"
+        }
+      ],
+      "qrcodes": [
+        "SNE-26029-1-1",
+        "SNE-26029-1-2"
+      ],
+      "status": "QR GENERATED"
     }
   },
   "qrcodes": {
@@ -42561,9 +42591,38 @@
       "customer": "MAHINDRA AND MAHINDRA",
       "location": "CHAKAN MIDC, PUNE",
       "status": "QR GENERATED"
+    },
+    "SNE-26029-1-1": {
+      "qrCode": "SNE-26029-1-1",
+      "challanNo": "SNE-26029",
+      "itemCode": "1",
+      "desc": "GOOSENECK ROLLER BED",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
+    },
+    "SNE-26029-1-2": {
+      "qrCode": "SNE-26029-1-2",
+      "challanNo": "SNE-26029",
+      "itemCode": "1",
+      "desc": "GOOSENECK ROLLER BED",
+      "customer": "MAHINDRA AND MAHINDRA",
+      "location": "CHAKAN MIDC, PUNE",
+      "status": "QR GENERATED"
     }
   },
   "audit": [
+    {
+      "timestamp": "2026-11-28T01:37:43.956Z",
+      "challanNo": "SNE-26029",
+      "qrCode": "ALL",
+      "action": "CHALLAN CREATED",
+      "actor": "gaurav",
+      "dispatchPerson": "-",
+      "siteReceiver": "-",
+      "deviceInfo": "Desktop (Win32)",
+      "details": "User \"gaurav\" created SNE-26029 (DELIVERY CHALLAN) with 2 items."
+    },
     {
       "timestamp": "2026-11-27T16:01:48.519Z",
       "challanNo": "SNE-26028",
